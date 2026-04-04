@@ -29,6 +29,36 @@
       "spanish": "Tu avance está más cerca piensas.",
       "category": "Hope",
       "generated_at": "2026-04-04T14:58:34.470810"
+    },
+    {
+      "english": "Stop waiting, small steps win.",
+      "spanish": "Deja de esperar, los pasos pequeños ganan.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T16:01:15.492202"
+    },
+    {
+      "english": "Never quit, progress is messy.",
+      "spanish": "Nunca te rindas, el progreso es desordenado.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T16:01:15.492271"
+    },
+    {
+      "english": "This is why, tiny wins multiply.",
+      "spanish": "Por eso, las pequeñas victorias se multiplican.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T16:01:15.492275"
+    },
+    {
+      "english": "The secret, show up anyway.",
+      "spanish": "El secreto, preséntate de todas maneras.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T16:01:15.492277"
+    },
+    {
+      "english": "What nobody tells you, persistence pays.",
+      "spanish": "Lo que nadie dice, la persistencia paga.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T16:01:15.492279"
     }
   ],
   "used_english": [
@@ -36,7 +66,12 @@
     "stop believing this lie about hope.",
     "the dawn always comes after darkness.",
     "what keeps me going when quitting.",
-    "your breakthrough is closer than think."
+    "your breakthrough is closer than think.",
+    "stop waiting, small steps win.",
+    "never quit, progress is messy.",
+    "this is why, tiny wins multiply.",
+    "the secret, show up anyway.",
+    "what nobody tells you, persistence pays."
   ],
-  "last_updated": "2026-04-04T14:58:34.470812"
+  "last_updated": "2026-04-04T16:01:15.492281"
 }
