@@ -119,6 +119,36 @@
       "spanish": "Lo que nadie te dice, los nervios ayudan",
       "category": "Confidence",
       "generated_at": "2026-04-04T19:58:04.689886"
+    },
+    {
+      "english": "Stop doubting, say one sentence",
+      "spanish": "Deja de dudar, di una frase",
+      "category": "Motivation",
+      "generated_at": "2026-04-04T22:01:06.144256"
+    },
+    {
+      "english": "Never fear, your accent shows growth",
+      "spanish": "Nunca temas, tu acento crece",
+      "category": "Motivation",
+      "generated_at": "2026-04-04T22:01:06.144265"
+    },
+    {
+      "english": "This is why, practice beats perfection",
+      "spanish": "Por eso, la práctica vence a la perfección",
+      "category": "Motivation",
+      "generated_at": "2026-04-04T22:01:06.144267"
+    },
+    {
+      "english": "The secret, five minutes daily matters",
+      "spanish": "El secreto, cinco minutos diarios cuentan",
+      "category": "Motivation",
+      "generated_at": "2026-04-04T22:01:06.144269"
+    },
+    {
+      "english": "What nobody tells you, pause then repeat",
+      "spanish": "Lo que nadie te dice, pausa, repite",
+      "category": "Motivation",
+      "generated_at": "2026-04-04T22:01:06.144271"
     }
   ],
   "used_english": [
@@ -141,7 +171,12 @@
     "never, apologize for practicing",
     "this is why, mistakes teach fluency",
     "the secret, say it wrong, confidently",
-    "what nobody tells you, nerves help"
+    "what nobody tells you, nerves help",
+    "stop doubting, say one sentence",
+    "never fear, your accent shows growth",
+    "this is why, practice beats perfection",
+    "the secret, five minutes daily matters",
+    "what nobody tells you, pause then repeat"
   ],
-  "last_updated": "2026-04-04T19:58:04.689888"
+  "last_updated": "2026-04-04T22:01:06.144272"
 }
