@@ -1,0 +1,42 @@
+{
+  "phrases": [
+    {
+      "english": "When everything fails, remember this.",
+      "spanish": "Cuando todo falla, recuerda esto.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T14:58:34.470795"
+    },
+    {
+      "english": "Stop believing this lie about hope.",
+      "spanish": "Deja de creer esta mentira sobre esperanza.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T14:58:34.470805"
+    },
+    {
+      "english": "The dawn always comes after darkness.",
+      "spanish": "El amanecer siempre llega después oscuridad.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T14:58:34.470807"
+    },
+    {
+      "english": "What keeps me going when quitting.",
+      "spanish": "Lo que me mantiene siguiendo cuando rindo.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T14:58:34.470809"
+    },
+    {
+      "english": "Your breakthrough is closer than think.",
+      "spanish": "Tu avance está más cerca piensas.",
+      "category": "Hope",
+      "generated_at": "2026-04-04T14:58:34.470810"
+    }
+  ],
+  "used_english": [
+    "when everything fails, remember this.",
+    "stop believing this lie about hope.",
+    "the dawn always comes after darkness.",
+    "what keeps me going when quitting.",
+    "your breakthrough is closer than think."
+  ],
+  "last_updated": "2026-04-04T14:58:34.470812"
+}
