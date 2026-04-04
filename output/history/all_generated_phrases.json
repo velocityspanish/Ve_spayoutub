@@ -59,6 +59,36 @@
       "spanish": "Lo que nadie dice, la persistencia paga.",
       "category": "Perseverance",
       "generated_at": "2026-04-04T16:01:15.492279"
+    },
+    {
+      "english": "Stop comparing, celebrate your pace",
+      "spanish": "Deja de compararte, celebra tu ritmo",
+      "category": "Positive Life",
+      "generated_at": "2026-04-04T18:02:31.033014"
+    },
+    {
+      "english": "Never settle, chase small wins",
+      "spanish": "Nunca te conformes, busca pequeñas victorias",
+      "category": "Positive Life",
+      "generated_at": "2026-04-04T18:02:31.033022"
+    },
+    {
+      "english": "This is why, joy is simple",
+      "spanish": "Por eso, la alegría es simple",
+      "category": "Positive Life",
+      "generated_at": "2026-04-04T18:02:31.033024"
+    },
+    {
+      "english": "The secret, rest fuels resilience",
+      "spanish": "El secreto, descansar alimenta la resiliencia",
+      "category": "Positive Life",
+      "generated_at": "2026-04-04T18:02:31.033025"
+    },
+    {
+      "english": "What nobody tells you, start imperfect",
+      "spanish": "Lo que nadie te dice, empieza imperfecto",
+      "category": "Positive Life",
+      "generated_at": "2026-04-04T18:02:31.033027"
     }
   ],
   "used_english": [
@@ -71,7 +101,12 @@
     "never quit, progress is messy.",
     "this is why, tiny wins multiply.",
     "the secret, show up anyway.",
-    "what nobody tells you, persistence pays."
+    "what nobody tells you, persistence pays.",
+    "stop comparing, celebrate your pace",
+    "never settle, chase small wins",
+    "this is why, joy is simple",
+    "the secret, rest fuels resilience",
+    "what nobody tells you, start imperfect"
   ],
-  "last_updated": "2026-04-04T16:01:15.492281"
+  "last_updated": "2026-04-04T18:02:31.033028"
 }
