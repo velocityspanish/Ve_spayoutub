@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (generated content)
+output/audio/
+output/video/
+output/images/
+output/*.mp4
+output/*.mp3
+output/*.jpg
+output/*.png
+output/*.srt
+output/*.json
+logs/
+background.png
+
+# Environment files with secrets
+.env
+
+# Artifact files (stored in GitHub Actions)
+output/history/
