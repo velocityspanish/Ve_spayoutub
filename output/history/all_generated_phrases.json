@@ -89,6 +89,36 @@
       "spanish": "Lo que nadie te dice, empieza imperfecto",
       "category": "Positive Life",
       "generated_at": "2026-04-04T18:02:31.033027"
+    },
+    {
+      "english": "Stop, speak before you're perfect",
+      "spanish": "Para, habla antes de ser perfecto",
+      "category": "Confidence",
+      "generated_at": "2026-04-04T19:58:04.689872"
+    },
+    {
+      "english": "Never, apologize for practicing",
+      "spanish": "Nunca, te disculpes por practicar",
+      "category": "Confidence",
+      "generated_at": "2026-04-04T19:58:04.689881"
+    },
+    {
+      "english": "This is why, mistakes teach fluency",
+      "spanish": "Por eso, los errores enseñan fluidez",
+      "category": "Confidence",
+      "generated_at": "2026-04-04T19:58:04.689883"
+    },
+    {
+      "english": "The secret, say it wrong, confidently",
+      "spanish": "El secreto, dilo mal, con confianza",
+      "category": "Confidence",
+      "generated_at": "2026-04-04T19:58:04.689885"
+    },
+    {
+      "english": "What nobody tells you, nerves help",
+      "spanish": "Lo que nadie te dice, los nervios ayudan",
+      "category": "Confidence",
+      "generated_at": "2026-04-04T19:58:04.689886"
     }
   ],
   "used_english": [
@@ -106,7 +136,12 @@
     "never settle, chase small wins",
     "this is why, joy is simple",
     "the secret, rest fuels resilience",
-    "what nobody tells you, start imperfect"
+    "what nobody tells you, start imperfect",
+    "stop, speak before you're perfect",
+    "never, apologize for practicing",
+    "this is why, mistakes teach fluency",
+    "the secret, say it wrong, confidently",
+    "what nobody tells you, nerves help"
   ],
-  "last_updated": "2026-04-04T18:02:31.033028"
+  "last_updated": "2026-04-04T19:58:04.689888"
 }
