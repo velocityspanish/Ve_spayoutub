@@ -209,6 +209,36 @@
       "spanish": "Nunca, seas tímido al hablar",
       "category": "Motivation",
       "generated_at": "2026-04-05T16:03:47.003325"
+    },
+    {
+      "english": "Stop, say the wrong thing, laugh",
+      "spanish": "Para, di algo mal, ríe",
+      "category": "Creativity",
+      "generated_at": "2026-04-05T18:05:47.619731"
+    },
+    {
+      "english": "Never, translate every word, please",
+      "spanish": "Nunca, traduzcas cada palabra, por favor",
+      "category": "Creativity",
+      "generated_at": "2026-04-05T18:05:47.619740"
+    },
+    {
+      "english": "This is why, one word changes conversations",
+      "spanish": "Por eso, una palabra cambia conversaciones",
+      "category": "Creativity",
+      "generated_at": "2026-04-05T18:05:47.619742"
+    },
+    {
+      "english": "The secret, steal native phrases, repeat",
+      "spanish": "El secreto, copia frases nativas, repite",
+      "category": "Creativity",
+      "generated_at": "2026-04-05T18:05:47.619744"
+    },
+    {
+      "english": "What nobody tells you, listen, imitate",
+      "spanish": "Lo que nadie te dice, escucha, imita",
+      "category": "Creativity",
+      "generated_at": "2026-04-05T18:05:47.619746"
     }
   ],
   "used_english": [
@@ -246,7 +276,12 @@
     "stop, say it out loud",
     "stop, master one phrase today",
     "stop, send a voice message",
-    "never, be shy speaking"
+    "never, be shy speaking",
+    "stop, say the wrong thing, laugh",
+    "never, translate every word, please",
+    "this is why, one word changes conversations",
+    "the secret, steal native phrases, repeat",
+    "what nobody tells you, listen, imitate"
   ],
-  "last_updated": "2026-04-05T16:03:47.003327"
+  "last_updated": "2026-04-05T18:05:47.619747"
 }
