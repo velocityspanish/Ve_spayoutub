@@ -179,6 +179,36 @@
       "spanish": "Lo que nadie te dice, di tonterías primero",
       "category": "Joy",
       "generated_at": "2026-04-05T14:58:36.405102"
+    },
+    {
+      "english": "Stop, say one word today",
+      "spanish": "Para, di una palabra hoy",
+      "category": "Motivation",
+      "generated_at": "2026-04-05T16:03:47.003305"
+    },
+    {
+      "english": "Stop, say it out loud",
+      "spanish": "Para, dilo en voz alta",
+      "category": "Motivation",
+      "generated_at": "2026-04-05T16:03:47.003319"
+    },
+    {
+      "english": "Stop, master one phrase today",
+      "spanish": "Para, domina una frase hoy",
+      "category": "Motivation",
+      "generated_at": "2026-04-05T16:03:47.003321"
+    },
+    {
+      "english": "Stop, send a voice message",
+      "spanish": "Para, manda un mensaje de voz",
+      "category": "Motivation",
+      "generated_at": "2026-04-05T16:03:47.003323"
+    },
+    {
+      "english": "Never, be shy speaking",
+      "spanish": "Nunca, seas tímido al hablar",
+      "category": "Motivation",
+      "generated_at": "2026-04-05T16:03:47.003325"
     }
   ],
   "used_english": [
@@ -211,7 +241,12 @@
     "never, hide your spanish voice",
     "this is why, verbs start dancing",
     "the secret, tiny phrases beat textbooks",
-    "what nobody tells you, say nonsense first"
+    "what nobody tells you, say nonsense first",
+    "stop, say one word today",
+    "stop, say it out loud",
+    "stop, master one phrase today",
+    "stop, send a voice message",
+    "never, be shy speaking"
   ],
-  "last_updated": "2026-04-05T14:58:36.405104"
+  "last_updated": "2026-04-05T16:03:47.003327"
 }
