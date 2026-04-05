@@ -149,6 +149,36 @@
       "spanish": "Lo que nadie te dice, pausa, repite",
       "category": "Motivation",
       "generated_at": "2026-04-04T22:01:06.144271"
+    },
+    {
+      "english": "Stop, speak, surprise yourself today",
+      "spanish": "Para, habla, sorpréndete hoy",
+      "category": "Joy",
+      "generated_at": "2026-04-05T14:58:36.405087"
+    },
+    {
+      "english": "Never, hide your Spanish voice",
+      "spanish": "Nunca, ocultes tu voz en español",
+      "category": "Joy",
+      "generated_at": "2026-04-05T14:58:36.405097"
+    },
+    {
+      "english": "This is why, verbs start dancing",
+      "spanish": "Por eso, los verbos empiezan a bailar",
+      "category": "Joy",
+      "generated_at": "2026-04-05T14:58:36.405099"
+    },
+    {
+      "english": "The secret, tiny phrases beat textbooks",
+      "spanish": "El secreto, las frases pequeñas vencen a los libros",
+      "category": "Joy",
+      "generated_at": "2026-04-05T14:58:36.405100"
+    },
+    {
+      "english": "What nobody tells you, say nonsense first",
+      "spanish": "Lo que nadie te dice, di tonterías primero",
+      "category": "Joy",
+      "generated_at": "2026-04-05T14:58:36.405102"
     }
   ],
   "used_english": [
@@ -176,7 +206,12 @@
     "never fear, your accent shows growth",
     "this is why, practice beats perfection",
     "the secret, five minutes daily matters",
-    "what nobody tells you, pause then repeat"
+    "what nobody tells you, pause then repeat",
+    "stop, speak, surprise yourself today",
+    "never, hide your spanish voice",
+    "this is why, verbs start dancing",
+    "the secret, tiny phrases beat textbooks",
+    "what nobody tells you, say nonsense first"
   ],
-  "last_updated": "2026-04-04T22:01:06.144272"
+  "last_updated": "2026-04-05T14:58:36.405104"
 }
