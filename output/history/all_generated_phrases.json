@@ -269,6 +269,36 @@
       "spanish": "Lo que nadie dice, perdonar te libera",
       "category": "Forgiveness",
       "generated_at": "2026-04-05T20:00:25.566571"
+    },
+    {
+      "english": "Stop, cancel that inner trial",
+      "spanish": "Para, cancela ese juicio interno",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T22:00:53.630201"
+    },
+    {
+      "english": "Never, carry yesterday's grudge again",
+      "spanish": "Nunca, cargues el rencor de ayer",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T22:00:53.630211"
+    },
+    {
+      "english": "This is why, forgiving wins silently",
+      "spanish": "Por eso, perdonar gana en silencio",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T22:00:53.630213"
+    },
+    {
+      "english": "The secret, say sorry to yourself",
+      "spanish": "El secreto, discúlpate contigo mismo",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T22:00:53.630215"
+    },
+    {
+      "english": "What nobody tells you, small forgiveness changes",
+      "spanish": "Lo que nadie dice, perdonar cambia todo",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T22:00:53.630217"
     }
   ],
   "used_english": [
@@ -316,7 +346,12 @@
     "never, skip forgiving yourself",
     "this is why, forgiving heals faster",
     "the secret, let go without judgment",
-    "what nobody tells you, forgiving frees you"
+    "what nobody tells you, forgiving frees you",
+    "stop, cancel that inner trial",
+    "never, carry yesterday's grudge again",
+    "this is why, forgiving wins silently",
+    "the secret, say sorry to yourself",
+    "what nobody tells you, small forgiveness changes"
   ],
-  "last_updated": "2026-04-05T20:00:25.566573"
+  "last_updated": "2026-04-05T22:00:53.630219"
 }
