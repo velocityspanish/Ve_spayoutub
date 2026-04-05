@@ -239,6 +239,36 @@
       "spanish": "Lo que nadie te dice, escucha, imita",
       "category": "Creativity",
       "generated_at": "2026-04-05T18:05:47.619746"
+    },
+    {
+      "english": "Stop, forgive to free yourself",
+      "spanish": "Detente, perdona para liberarte",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T20:00:25.566553"
+    },
+    {
+      "english": "Never, skip forgiving yourself",
+      "spanish": "Nunca, dejes de perdonarte",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T20:00:25.566564"
+    },
+    {
+      "english": "This is why, forgiving heals faster",
+      "spanish": "Por esto, perdonar sana más rápido",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T20:00:25.566567"
+    },
+    {
+      "english": "The secret, let go without judgment",
+      "spanish": "El secreto, suelta sin juzgar",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T20:00:25.566569"
+    },
+    {
+      "english": "What nobody tells you, forgiving frees you",
+      "spanish": "Lo que nadie dice, perdonar te libera",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-05T20:00:25.566571"
     }
   ],
   "used_english": [
@@ -281,7 +311,12 @@
     "never, translate every word, please",
     "this is why, one word changes conversations",
     "the secret, steal native phrases, repeat",
-    "what nobody tells you, listen, imitate"
+    "what nobody tells you, listen, imitate",
+    "stop, forgive to free yourself",
+    "never, skip forgiving yourself",
+    "this is why, forgiving heals faster",
+    "the secret, let go without judgment",
+    "what nobody tells you, forgiving frees you"
   ],
-  "last_updated": "2026-04-05T18:05:47.619747"
+  "last_updated": "2026-04-05T20:00:25.566573"
 }
