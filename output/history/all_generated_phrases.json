@@ -359,6 +359,36 @@
       "spanish": "Para, cambia miedo por una palabra",
       "category": "Inspiration",
       "generated_at": "2026-04-06T17:34:37.510927"
+    },
+    {
+      "english": "Stop, scrolling, breathe five seconds",
+      "spanish": "Deja de desplazarte, respira cinco segundos",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-06T19:58:01.090930"
+    },
+    {
+      "english": "Never judge, feel the moment",
+      "spanish": "Nunca juzgues, siente el momento",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-06T19:58:01.090940"
+    },
+    {
+      "english": "The secret, listen to your heartbeat",
+      "spanish": "El secreto, escucha tu corazón",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-06T19:58:01.090943"
+    },
+    {
+      "english": "What nobody tells you, rest is progress",
+      "spanish": "Lo que nadie te dice, descansar es progreso",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-06T19:58:01.090945"
+    },
+    {
+      "english": "Stop multitasking, taste this moment",
+      "spanish": "Deja las multitareas, saborea este instante",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-06T19:58:01.090947"
     }
   ],
   "used_english": [
@@ -421,7 +451,12 @@
     "never, fear your imperfect voice",
     "this is why, small talks matter",
     "the secret, laugh at your mistakes",
-    "stop, trade fear for one word"
+    "stop, trade fear for one word",
+    "stop, scrolling, breathe five seconds",
+    "never judge, feel the moment",
+    "the secret, listen to your heartbeat",
+    "what nobody tells you, rest is progress",
+    "stop multitasking, taste this moment"
   ],
-  "last_updated": "2026-04-06T17:34:37.510928"
+  "last_updated": "2026-04-06T19:58:01.090949"
 }
