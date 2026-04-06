@@ -329,6 +329,36 @@
       "spanish": "Lo que nadie te dice, una frase conecta",
       "category": "Balance",
       "generated_at": "2026-04-06T15:35:58.952979"
+    },
+    {
+      "english": "Stop, say one brave sentence",
+      "spanish": "Para, di una frase valiente",
+      "category": "Inspiration",
+      "generated_at": "2026-04-06T17:34:37.510910"
+    },
+    {
+      "english": "Never, fear your imperfect voice",
+      "spanish": "Nunca, temas tu voz imperfecta",
+      "category": "Inspiration",
+      "generated_at": "2026-04-06T17:34:37.510921"
+    },
+    {
+      "english": "This is why, small talks matter",
+      "spanish": "Por eso, las pequeñas charlas importan",
+      "category": "Inspiration",
+      "generated_at": "2026-04-06T17:34:37.510923"
+    },
+    {
+      "english": "The secret, laugh at your mistakes",
+      "spanish": "El secreto, ríete de tus errores",
+      "category": "Inspiration",
+      "generated_at": "2026-04-06T17:34:37.510925"
+    },
+    {
+      "english": "Stop, trade fear for one word",
+      "spanish": "Para, cambia miedo por una palabra",
+      "category": "Inspiration",
+      "generated_at": "2026-04-06T17:34:37.510927"
     }
   ],
   "used_english": [
@@ -386,7 +416,12 @@
     "never wait for perfect pronunciation",
     "this is why natives smile at you",
     "the secret, mimic rhythm, sound native",
-    "what nobody tells you, one phrase connects"
+    "what nobody tells you, one phrase connects",
+    "stop, say one brave sentence",
+    "never, fear your imperfect voice",
+    "this is why, small talks matter",
+    "the secret, laugh at your mistakes",
+    "stop, trade fear for one word"
   ],
-  "last_updated": "2026-04-06T15:35:58.952980"
+  "last_updated": "2026-04-06T17:34:37.510928"
 }
