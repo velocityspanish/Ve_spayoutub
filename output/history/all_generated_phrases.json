@@ -299,6 +299,36 @@
       "spanish": "Lo que nadie dice, perdonar cambia todo",
       "category": "Forgiveness",
       "generated_at": "2026-04-05T22:00:53.630217"
+    },
+    {
+      "english": "Stop whispering, speak Spanish loudly",
+      "spanish": "Deja de susurrar, habla español fuerte",
+      "category": "Balance",
+      "generated_at": "2026-04-06T15:35:58.952961"
+    },
+    {
+      "english": "Never wait for perfect pronunciation",
+      "spanish": "Nunca esperes la pronunciación perfecta",
+      "category": "Balance",
+      "generated_at": "2026-04-06T15:35:58.952972"
+    },
+    {
+      "english": "This is why natives smile at you",
+      "spanish": "Por eso los nativos te sonríen",
+      "category": "Balance",
+      "generated_at": "2026-04-06T15:35:58.952975"
+    },
+    {
+      "english": "The secret, mimic rhythm, sound native",
+      "spanish": "El secreto, imita el ritmo, suena nativo",
+      "category": "Balance",
+      "generated_at": "2026-04-06T15:35:58.952977"
+    },
+    {
+      "english": "What nobody tells you, one phrase connects",
+      "spanish": "Lo que nadie te dice, una frase conecta",
+      "category": "Balance",
+      "generated_at": "2026-04-06T15:35:58.952979"
     }
   ],
   "used_english": [
@@ -351,7 +381,12 @@
     "never, carry yesterday's grudge again",
     "this is why, forgiving wins silently",
     "the secret, say sorry to yourself",
-    "what nobody tells you, small forgiveness changes"
+    "what nobody tells you, small forgiveness changes",
+    "stop whispering, speak spanish loudly",
+    "never wait for perfect pronunciation",
+    "this is why natives smile at you",
+    "the secret, mimic rhythm, sound native",
+    "what nobody tells you, one phrase connects"
   ],
-  "last_updated": "2026-04-05T22:00:53.630219"
+  "last_updated": "2026-04-06T15:35:58.952980"
 }
