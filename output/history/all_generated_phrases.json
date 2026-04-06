@@ -419,6 +419,36 @@
       "spanish": "No saltes. Esto cambia todo.",
       "category": "Hope",
       "generated_at": "2026-04-06T21:03:07.978599"
+    },
+    {
+      "english": "Stop, speak like you belong",
+      "spanish": "Para, habla como si pertenecieras",
+      "category": "Confidence",
+      "generated_at": "2026-04-06T22:05:59.801860"
+    },
+    {
+      "english": "Never mute your Spanish spark",
+      "spanish": "Nunca apagues tu chispa en español",
+      "category": "Confidence",
+      "generated_at": "2026-04-06T22:05:59.801869"
+    },
+    {
+      "english": "This is why, mistakes impress natives",
+      "spanish": "Por eso, los errores impresionan a nativos",
+      "category": "Confidence",
+      "generated_at": "2026-04-06T22:05:59.801871"
+    },
+    {
+      "english": "The secret, say less, mean more",
+      "spanish": "El secreto, di menos, comunica más",
+      "category": "Confidence",
+      "generated_at": "2026-04-06T22:05:59.801873"
+    },
+    {
+      "english": "Stop fearing weird accents, own them",
+      "spanish": "Deja de temer acentos raros, hazlos tuyos",
+      "category": "Confidence",
+      "generated_at": "2026-04-06T22:05:59.801875"
     }
   ],
   "used_english": [
@@ -491,7 +521,12 @@
     "stop scrolling. this is your sign.",
     "you needed hear this today.",
     "this is your wake-up call.",
-    "don't skip. this changes everything."
+    "don't skip. this changes everything.",
+    "stop, speak like you belong",
+    "never mute your spanish spark",
+    "this is why, mistakes impress natives",
+    "the secret, say less, mean more",
+    "stop fearing weird accents, own them"
   ],
-  "last_updated": "2026-04-06T21:03:07.978601"
+  "last_updated": "2026-04-06T22:05:59.801877"
 }
