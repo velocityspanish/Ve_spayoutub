@@ -389,6 +389,36 @@
       "spanish": "Deja las multitareas, saborea este instante",
       "category": "Mindfulness",
       "generated_at": "2026-04-06T19:58:01.090947"
+    },
+    {
+      "english": "Never lose faith. This too shall pass.",
+      "spanish": "Nunca pierdas fe. Esto también pasará.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T21:03:07.978583"
+    },
+    {
+      "english": "Stop scrolling. This is your sign.",
+      "spanish": "Deja desplazarte. Esta tu señal.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T21:03:07.978592"
+    },
+    {
+      "english": "You needed hear this today.",
+      "spanish": "Necesitabas escuchar esto hoy.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T21:03:07.978595"
+    },
+    {
+      "english": "This is your wake-up call.",
+      "spanish": "Esta es tu llamada atención.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T21:03:07.978597"
+    },
+    {
+      "english": "Don't skip. This changes everything.",
+      "spanish": "No saltes. Esto cambia todo.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T21:03:07.978599"
     }
   ],
   "used_english": [
@@ -456,7 +486,12 @@
     "never judge, feel the moment",
     "the secret, listen to your heartbeat",
     "what nobody tells you, rest is progress",
-    "stop multitasking, taste this moment"
+    "stop multitasking, taste this moment",
+    "never lose faith. this too shall pass.",
+    "stop scrolling. this is your sign.",
+    "you needed hear this today.",
+    "this is your wake-up call.",
+    "don't skip. this changes everything."
   ],
-  "last_updated": "2026-04-06T19:58:01.090949"
+  "last_updated": "2026-04-06T21:03:07.978601"
 }
