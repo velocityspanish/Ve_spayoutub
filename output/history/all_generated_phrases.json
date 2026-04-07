@@ -569,6 +569,36 @@
       "spanish": "Elige progreso sobre perfección siempre.",
       "category": "Positive Life",
       "generated_at": "2026-04-07T20:02:20.978500"
+    },
+    {
+      "english": "Stop chasing peace, feel it",
+      "spanish": "Deja de buscar la paz, siéntela",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-07T21:37:07.413356"
+    },
+    {
+      "english": "Never rush your inner calm",
+      "spanish": "Nunca apresures tu calma interior",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-07T21:37:07.413367"
+    },
+    {
+      "english": "This is why silence heals",
+      "spanish": "Por eso, el silencio sana",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-07T21:37:07.413370"
+    },
+    {
+      "english": "The secret, breathe before reacting",
+      "spanish": "El secreto, respira antes de reaccionar",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-07T21:37:07.413372"
+    },
+    {
+      "english": "Stop apologizing for quiet moments",
+      "spanish": "Deja de disculparte por momentos de calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-07T21:37:07.413374"
     }
   ],
   "used_english": [
@@ -666,7 +696,12 @@
     "the mindset that attracts good things.",
     "stop consuming. start creating.",
     "your vibe attracts your tribe.",
-    "choose progress over perfection always."
+    "choose progress over perfection always.",
+    "stop chasing peace, feel it",
+    "never rush your inner calm",
+    "this is why silence heals",
+    "the secret, breathe before reacting",
+    "stop apologizing for quiet moments"
   ],
-  "last_updated": "2026-04-07T20:02:20.978502"
+  "last_updated": "2026-04-07T21:37:07.413376"
 }
