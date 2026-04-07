@@ -479,6 +479,36 @@
       "spanish": "Sigue yendo. Tu momento está llegando.",
       "category": "Perseverance",
       "generated_at": "2026-04-07T14:49:38.254580"
+    },
+    {
+      "english": "Stop waiting. Start now.",
+      "spanish": "Deja de esperar. Comienza ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-04-07T16:14:32.815909"
+    },
+    {
+      "english": "This is why you're stuck.",
+      "spanish": "Por esto estás atascado.",
+      "category": "Motivation",
+      "generated_at": "2026-04-07T16:14:32.815919"
+    },
+    {
+      "english": "The secret? Consistency wins.",
+      "spanish": "¿El secreto? La constancia gana.",
+      "category": "Motivation",
+      "generated_at": "2026-04-07T16:14:32.815921"
+    },
+    {
+      "english": "What nobody tells you about success.",
+      "spanish": "Lo que nadie te dice del éxito.",
+      "category": "Motivation",
+      "generated_at": "2026-04-07T16:14:32.815924"
+    },
+    {
+      "english": "Your future self is watching.",
+      "spanish": "Tu yo futuro te mira.",
+      "category": "Motivation",
+      "generated_at": "2026-04-07T16:14:32.815926"
     }
   ],
   "used_english": [
@@ -561,7 +591,12 @@
     "the pain you feel is growth.",
     "why most people give up soon.",
     "this separates winners from losers.",
-    "keep going. your moment is coming."
+    "keep going. your moment is coming.",
+    "stop waiting. start now.",
+    "this is why you're stuck.",
+    "the secret? consistency wins.",
+    "what nobody tells you about success.",
+    "your future self is watching."
   ],
-  "last_updated": "2026-04-07T14:49:38.254582"
+  "last_updated": "2026-04-07T16:14:32.815928"
 }
