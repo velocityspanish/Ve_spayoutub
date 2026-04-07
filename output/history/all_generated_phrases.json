@@ -509,6 +509,36 @@
       "spanish": "Tu yo futuro te mira.",
       "category": "Motivation",
       "generated_at": "2026-04-07T16:14:32.815926"
+    },
+    {
+      "english": "This message found you for reason.",
+      "spanish": "Este mensaje te encontró por razón.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-07T18:01:48.274249"
+    },
+    {
+      "english": "Stop doubting. You were chosen.",
+      "spanish": "Deja de dudar. Fuiste elegido.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-07T18:01:48.274260"
+    },
+    {
+      "english": "The world needs your unique gift.",
+      "spanish": "El mundo necesita tu regalo único.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-07T18:01:48.274263"
+    },
+    {
+      "english": "What I learned from lowest point.",
+      "spanish": "Lo que aprendí desde punto más bajo.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-07T18:01:48.274265"
+    },
+    {
+      "english": "Your comeback will be legendary.",
+      "spanish": "Tu regreso será legendario.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-07T18:01:48.274267"
     }
   ],
   "used_english": [
@@ -596,7 +626,12 @@
     "this is why you're stuck.",
     "the secret? consistency wins.",
     "what nobody tells you about success.",
-    "your future self is watching."
+    "your future self is watching.",
+    "this message found you for reason.",
+    "stop doubting. you were chosen.",
+    "the world needs your unique gift.",
+    "what i learned from lowest point.",
+    "your comeback will be legendary."
   ],
-  "last_updated": "2026-04-07T16:14:32.815928"
+  "last_updated": "2026-04-07T18:01:48.274269"
 }
