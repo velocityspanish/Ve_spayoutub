@@ -449,6 +449,36 @@
       "spanish": "Deja de temer acentos raros, hazlos tuyos",
       "category": "Confidence",
       "generated_at": "2026-04-06T22:05:59.801875"
+    },
+    {
+      "english": "When you want to quit, read.",
+      "spanish": "Cuando quieras rendirte, lee.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-07T14:49:38.254562"
+    },
+    {
+      "english": "The pain you feel is growth.",
+      "spanish": "El dolor que sientes es crecimiento.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-07T14:49:38.254572"
+    },
+    {
+      "english": "Why most people give up soon.",
+      "spanish": "Por qué la mayoría se rinde pronto.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-07T14:49:38.254575"
+    },
+    {
+      "english": "This separates winners from losers.",
+      "spanish": "Esto separa ganadores de perdedores.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-07T14:49:38.254578"
+    },
+    {
+      "english": "Keep going. Your moment is coming.",
+      "spanish": "Sigue yendo. Tu momento está llegando.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-07T14:49:38.254580"
     }
   ],
   "used_english": [
@@ -526,7 +556,12 @@
     "never mute your spanish spark",
     "this is why, mistakes impress natives",
     "the secret, say less, mean more",
-    "stop fearing weird accents, own them"
+    "stop fearing weird accents, own them",
+    "when you want to quit, read.",
+    "the pain you feel is growth.",
+    "why most people give up soon.",
+    "this separates winners from losers.",
+    "keep going. your moment is coming."
   ],
-  "last_updated": "2026-04-06T22:05:59.801877"
+  "last_updated": "2026-04-07T14:49:38.254582"
 }
