@@ -659,6 +659,36 @@
       "spanish": "El coraje no es falta miedo. Es esto.",
       "category": "Courage",
       "generated_at": "2026-04-08T18:09:57.088694"
+    },
+    {
+      "english": "Stop overthinking. Start doing.",
+      "spanish": "Deja de pensar. Empieza a hacer.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T20:03:45.313175"
+    },
+    {
+      "english": "The lesson life keeps teaching.",
+      "spanish": "La lección que la vida enseña.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T20:03:45.313187"
+    },
+    {
+      "english": "What I wish I knew at 20.",
+      "spanish": "Lo que desearía saber a los 20.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T20:03:45.313190"
+    },
+    {
+      "english": "This truth will set you free.",
+      "spanish": "Esta verdad te liberará.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T20:03:45.313193"
+    },
+    {
+      "english": "The price of staying the same.",
+      "spanish": "El precio de permanecer igual.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T20:03:45.313195"
     }
   ],
   "used_english": [
@@ -771,7 +801,12 @@
     "this is what bravery really looks.",
     "stop hiding. the world needs seeing.",
     "the risk you're avoiding is worth.",
-    "courage isn't fearlessness. it's this."
+    "courage isn't fearlessness. it's this.",
+    "stop overthinking. start doing.",
+    "the lesson life keeps teaching.",
+    "what i wish i knew at 20.",
+    "this truth will set you free.",
+    "the price of staying the same."
   ],
-  "last_updated": "2026-04-08T18:09:57.088696"
+  "last_updated": "2026-04-08T20:03:45.313196"
 }
