@@ -689,6 +689,12 @@
       "spanish": "El precio de permanecer igual.",
       "category": "Wisdom",
       "generated_at": "2026-04-08T20:03:45.313195"
+    },
+    {
+      "english": "Good things happen to those who hustle.",
+      "spanish": "Cosas buenas pasan a quienes trabajan duro.",
+      "category": "Positive Life",
+      "generated_at": "2026-04-08T21:36:55.833477"
     }
   ],
   "used_english": [
@@ -806,7 +812,8 @@
     "the lesson life keeps teaching.",
     "what i wish i knew at 20.",
     "this truth will set you free.",
-    "the price of staying the same."
+    "the price of staying the same.",
+    "good things happen to those who hustle."
   ],
-  "last_updated": "2026-04-08T20:03:45.313196"
+  "last_updated": "2026-04-08T21:36:55.833488"
 }
