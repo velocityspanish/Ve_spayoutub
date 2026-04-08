@@ -599,6 +599,36 @@
       "spanish": "Deja de disculparte por momentos de calma",
       "category": "Inner Peace",
       "generated_at": "2026-04-07T21:37:07.413374"
+    },
+    {
+      "english": "Stop burning out. Find rhythm.",
+      "spanish": "Deja quemarte. Encuentra ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-04-08T14:50:18.715123"
+    },
+    {
+      "english": "This work-life balance really looks.",
+      "spanish": "Así equilibrio trabajo-vida realmente.",
+      "category": "Balance",
+      "generated_at": "2026-04-08T14:50:18.715134"
+    },
+    {
+      "english": "Secret having all without losing yourself.",
+      "spanish": "Secreto tenerlo todo sin perderte.",
+      "category": "Balance",
+      "generated_at": "2026-04-08T14:50:18.715136"
+    },
+    {
+      "english": "Can't pour from empty cup. Fill.",
+      "spanish": "No servir desde taza vacía. Llena.",
+      "category": "Balance",
+      "generated_at": "2026-04-08T14:50:18.715138"
+    },
+    {
+      "english": "Rest productive. Stop feeling guilty.",
+      "spanish": "Descansar productivo. Deja sentirte culpable.",
+      "category": "Balance",
+      "generated_at": "2026-04-08T14:50:18.715141"
     }
   ],
   "used_english": [
@@ -701,7 +731,12 @@
     "never rush your inner calm",
     "this is why silence heals",
     "the secret, breathe before reacting",
-    "stop apologizing for quiet moments"
+    "stop apologizing for quiet moments",
+    "stop burning out. find rhythm.",
+    "this work-life balance really looks.",
+    "secret having all without losing yourself.",
+    "can't pour from empty cup. fill.",
+    "rest productive. stop feeling guilty."
   ],
-  "last_updated": "2026-04-07T21:37:07.413376"
+  "last_updated": "2026-04-08T14:50:18.715142"
 }
