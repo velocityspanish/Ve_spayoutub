@@ -629,6 +629,36 @@
       "spanish": "Descansar productivo. Deja sentirte culpable.",
       "category": "Balance",
       "generated_at": "2026-04-08T14:50:18.715141"
+    },
+    {
+      "english": "Feel the fear. Do it anyway.",
+      "spanish": "Siente el miedo. Hazlo todos modos.",
+      "category": "Courage",
+      "generated_at": "2026-04-08T18:09:57.088675"
+    },
+    {
+      "english": "This is what bravery really looks.",
+      "spanish": "Así es como se ve valentía.",
+      "category": "Courage",
+      "generated_at": "2026-04-08T18:09:57.088686"
+    },
+    {
+      "english": "Stop hiding. The world needs seeing.",
+      "spanish": "Deja de esconderte. Mundo necesita verte.",
+      "category": "Courage",
+      "generated_at": "2026-04-08T18:09:57.088689"
+    },
+    {
+      "english": "The risk you're avoiding is worth.",
+      "spanish": "El riesgo que evitas vale pena.",
+      "category": "Courage",
+      "generated_at": "2026-04-08T18:09:57.088691"
+    },
+    {
+      "english": "Courage isn't fearlessness. It's this.",
+      "spanish": "El coraje no es falta miedo. Es esto.",
+      "category": "Courage",
+      "generated_at": "2026-04-08T18:09:57.088694"
     }
   ],
   "used_english": [
@@ -736,7 +766,12 @@
     "this work-life balance really looks.",
     "secret having all without losing yourself.",
     "can't pour from empty cup. fill.",
-    "rest productive. stop feeling guilty."
+    "rest productive. stop feeling guilty.",
+    "feel the fear. do it anyway.",
+    "this is what bravery really looks.",
+    "stop hiding. the world needs seeing.",
+    "the risk you're avoiding is worth.",
+    "courage isn't fearlessness. it's this."
   ],
-  "last_updated": "2026-04-08T14:50:18.715142"
+  "last_updated": "2026-04-08T18:09:57.088696"
 }
