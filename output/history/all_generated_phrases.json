@@ -785,6 +785,36 @@
       "spanish": "Nunca estudies solo, habla diario",
       "category": "Strength",
       "generated_at": "2026-04-09T17:58:53.317027"
+    },
+    {
+      "english": "Stop overthinking verbs, just use them",
+      "spanish": "Deja de pensar verbos, úsalos",
+      "category": "Joy",
+      "generated_at": "2026-04-09T20:04:02.716359"
+    },
+    {
+      "english": "Never memorise lists, memorize endings",
+      "spanish": "Nunca memorices listas, memoriza finales",
+      "category": "Joy",
+      "generated_at": "2026-04-09T20:04:02.716370"
+    },
+    {
+      "english": "The secret is one tiny routine",
+      "spanish": "El secreto, una rutina pequeñita",
+      "category": "Joy",
+      "generated_at": "2026-04-09T20:04:02.716373"
+    },
+    {
+      "english": "What nobody tells you, slow down",
+      "spanish": "Lo que nadie dice, habla despacio",
+      "category": "Joy",
+      "generated_at": "2026-04-09T20:04:02.716376"
+    },
+    {
+      "english": "Stop translating, feel the sentence",
+      "spanish": "No traduzcas, siente la frase",
+      "category": "Joy",
+      "generated_at": "2026-04-09T20:04:02.716379"
     }
   ],
   "used_english": [
@@ -918,7 +948,12 @@
     "never fear awkward pauses, breathe",
     "the secret, speak before you think",
     "stop searching, say what you mean",
-    "never study alone, talk daily"
+    "never study alone, talk daily",
+    "stop overthinking verbs, just use them",
+    "never memorise lists, memorize endings",
+    "the secret is one tiny routine",
+    "what nobody tells you, slow down",
+    "stop translating, feel the sentence"
   ],
-  "last_updated": "2026-04-09T17:58:53.317031"
+  "last_updated": "2026-04-09T20:04:02.716380"
 }
