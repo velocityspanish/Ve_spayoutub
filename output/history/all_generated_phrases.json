@@ -725,6 +725,36 @@
       "spanish": "Deja de construir, usa frases reales",
       "category": "Hope",
       "generated_at": "2026-04-09T14:55:51.163742"
+    },
+    {
+      "english": "Stop quitting after one awkward sentence",
+      "spanish": "Deja de rendirte, con una frase rara",
+      "category": "Perseverance",
+      "generated_at": "2026-04-09T16:19:57.167480"
+    },
+    {
+      "english": "Never miss today's micro-lesson, please",
+      "spanish": "No faltes, mini-lección de hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-04-09T16:19:57.167491"
+    },
+    {
+      "english": "This is why progress feels weird",
+      "spanish": "Por eso, el progreso se siente raro",
+      "category": "Perseverance",
+      "generated_at": "2026-04-09T16:19:57.167493"
+    },
+    {
+      "english": "The secret is tonight's 10-minute streak",
+      "spanish": "El secreto, diez minutos esta noche",
+      "category": "Perseverance",
+      "generated_at": "2026-04-09T16:19:57.167496"
+    },
+    {
+      "english": "Stop waiting for confidence, speak now",
+      "spanish": "No esperes, habla ahora mismo",
+      "category": "Perseverance",
+      "generated_at": "2026-04-09T16:19:57.167498"
     }
   ],
   "used_english": [
@@ -848,7 +878,12 @@
     "never fear simple spanish",
     "this is why you freeze",
     "the secret? ask, then answer",
-    "stop building, use real sentences"
+    "stop building, use real sentences",
+    "stop quitting after one awkward sentence",
+    "never miss today's micro-lesson, please",
+    "this is why progress feels weird",
+    "the secret is tonight's 10-minute streak",
+    "stop waiting for confidence, speak now"
   ],
-  "last_updated": "2026-04-09T14:55:51.163743"
+  "last_updated": "2026-04-09T16:19:57.167500"
 }
