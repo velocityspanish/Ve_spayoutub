@@ -815,6 +815,36 @@
       "spanish": "No traduzcas, siente la frase",
       "category": "Joy",
       "generated_at": "2026-04-09T20:04:02.716379"
+    },
+    {
+      "english": "Never say sorry, say gracias",
+      "spanish": "Nunca digas lo siento, di gracias",
+      "category": "Kindness",
+      "generated_at": "2026-04-09T21:37:50.483548"
+    },
+    {
+      "english": "Stop interrupting, just say 'perdón'",
+      "spanish": "Deja de interrumpir, di 'perdón'",
+      "category": "Kindness",
+      "generated_at": "2026-04-09T21:37:50.483558"
+    },
+    {
+      "english": "This is why kindness sounds native",
+      "spanish": "Por eso la amabilidad suena nativa",
+      "category": "Kindness",
+      "generated_at": "2026-04-09T21:37:50.483561"
+    },
+    {
+      "english": "The secret, ask '¿cómo estás?'",
+      "spanish": "El secreto, pregunta '¿cómo estás?'",
+      "category": "Kindness",
+      "generated_at": "2026-04-09T21:37:50.483564"
+    },
+    {
+      "english": "Stop judging, say 'lo entiendo'",
+      "spanish": "No juzgues, di 'lo entiendo'",
+      "category": "Kindness",
+      "generated_at": "2026-04-09T21:37:50.483567"
     }
   ],
   "used_english": [
@@ -953,7 +983,12 @@
     "never memorise lists, memorize endings",
     "the secret is one tiny routine",
     "what nobody tells you, slow down",
-    "stop translating, feel the sentence"
+    "stop translating, feel the sentence",
+    "never say sorry, say gracias",
+    "stop interrupting, just say 'perdón'",
+    "this is why kindness sounds native",
+    "the secret, ask '¿cómo estás?'",
+    "stop judging, say 'lo entiendo'"
   ],
-  "last_updated": "2026-04-09T20:04:02.716380"
+  "last_updated": "2026-04-09T21:37:50.483572"
 }
