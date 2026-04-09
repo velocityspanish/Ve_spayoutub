@@ -695,6 +695,36 @@
       "spanish": "Cosas buenas pasan a quienes trabajan duro.",
       "category": "Positive Life",
       "generated_at": "2026-04-08T21:36:55.833477"
+    },
+    {
+      "english": "Stop memorizing, start speaking",
+      "spanish": "Deja de memorizar, empieza a hablar",
+      "category": "Hope",
+      "generated_at": "2026-04-09T14:55:51.163726"
+    },
+    {
+      "english": "Never fear simple Spanish",
+      "spanish": "Nunca temas el español sencillo",
+      "category": "Hope",
+      "generated_at": "2026-04-09T14:55:51.163734"
+    },
+    {
+      "english": "This is why you freeze",
+      "spanish": "Esto es por qué te quedas",
+      "category": "Hope",
+      "generated_at": "2026-04-09T14:55:51.163737"
+    },
+    {
+      "english": "The secret? Ask, then answer",
+      "spanish": "El secreto? Pregunta, luego responde",
+      "category": "Hope",
+      "generated_at": "2026-04-09T14:55:51.163739"
+    },
+    {
+      "english": "Stop building, use real sentences",
+      "spanish": "Deja de construir, usa frases reales",
+      "category": "Hope",
+      "generated_at": "2026-04-09T14:55:51.163742"
     }
   ],
   "used_english": [
@@ -813,7 +843,12 @@
     "what i wish i knew at 20.",
     "this truth will set you free.",
     "the price of staying the same.",
-    "good things happen to those who hustle."
+    "good things happen to those who hustle.",
+    "stop memorizing, start speaking",
+    "never fear simple spanish",
+    "this is why you freeze",
+    "the secret? ask, then answer",
+    "stop building, use real sentences"
   ],
-  "last_updated": "2026-04-08T21:36:55.833488"
+  "last_updated": "2026-04-09T14:55:51.163743"
 }
