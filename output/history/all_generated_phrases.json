@@ -755,6 +755,36 @@
       "spanish": "No esperes, habla ahora mismo",
       "category": "Perseverance",
       "generated_at": "2026-04-09T16:19:57.167498"
+    },
+    {
+      "english": "Stop skipping practice, use today",
+      "spanish": "Deja de saltarte práctica, usa hoy",
+      "category": "Strength",
+      "generated_at": "2026-04-09T17:58:53.317004"
+    },
+    {
+      "english": "Never fear awkward pauses, breathe",
+      "spanish": "Nunca temas pausas raras, respira",
+      "category": "Strength",
+      "generated_at": "2026-04-09T17:58:53.317018"
+    },
+    {
+      "english": "The secret, speak before you think",
+      "spanish": "El secreto, habla antes de pensar",
+      "category": "Strength",
+      "generated_at": "2026-04-09T17:58:53.317021"
+    },
+    {
+      "english": "Stop searching, say what you mean",
+      "spanish": "Deja de buscar, di lo que quieres",
+      "category": "Strength",
+      "generated_at": "2026-04-09T17:58:53.317024"
+    },
+    {
+      "english": "Never study alone, talk daily",
+      "spanish": "Nunca estudies solo, habla diario",
+      "category": "Strength",
+      "generated_at": "2026-04-09T17:58:53.317027"
     }
   ],
   "used_english": [
@@ -883,7 +913,12 @@
     "never miss today's micro-lesson, please",
     "this is why progress feels weird",
     "the secret is tonight's 10-minute streak",
-    "stop waiting for confidence, speak now"
+    "stop waiting for confidence, speak now",
+    "stop skipping practice, use today",
+    "never fear awkward pauses, breathe",
+    "the secret, speak before you think",
+    "stop searching, say what you mean",
+    "never study alone, talk daily"
   ],
-  "last_updated": "2026-04-09T16:19:57.167500"
+  "last_updated": "2026-04-09T17:58:53.317031"
 }
