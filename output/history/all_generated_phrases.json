@@ -845,6 +845,36 @@
       "spanish": "No juzgues, di 'lo entiendo'",
       "category": "Kindness",
       "generated_at": "2026-04-09T21:37:50.483567"
+    },
+    {
+      "english": "Stop perfecting, start connecting words",
+      "spanish": "Deja perfeccionar, empieza a conectar palabras",
+      "category": "Balance",
+      "generated_at": "2026-04-10T14:18:37.276313"
+    },
+    {
+      "english": "Never memorize, learn with real moments",
+      "spanish": "Nunca memorices, aprende con momentos reales",
+      "category": "Balance",
+      "generated_at": "2026-04-10T14:18:37.276325"
+    },
+    {
+      "english": "The secret is speaking, then smiling",
+      "spanish": "El secreto es hablar, y sonreír",
+      "category": "Balance",
+      "generated_at": "2026-04-10T14:18:37.276329"
+    },
+    {
+      "english": "What nobody tells you, use fewer words",
+      "spanish": "Lo que nadie dice, usa menos palabras",
+      "category": "Balance",
+      "generated_at": "2026-04-10T14:18:37.276331"
+    },
+    {
+      "english": "Stop pausing, breathe and continue",
+      "spanish": "No te pares, respira y sigue",
+      "category": "Balance",
+      "generated_at": "2026-04-10T14:18:37.276334"
     }
   ],
   "used_english": [
@@ -988,7 +1018,12 @@
     "stop interrupting, just say 'perdón'",
     "this is why kindness sounds native",
     "the secret, ask '¿cómo estás?'",
-    "stop judging, say 'lo entiendo'"
+    "stop judging, say 'lo entiendo'",
+    "stop perfecting, start connecting words",
+    "never memorize, learn with real moments",
+    "the secret is speaking, then smiling",
+    "what nobody tells you, use fewer words",
+    "stop pausing, breathe and continue"
   ],
-  "last_updated": "2026-04-09T21:37:50.483572"
+  "last_updated": "2026-04-10T14:18:37.276336"
 }
