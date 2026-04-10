@@ -875,6 +875,36 @@
       "spanish": "No te pares, respira y sigue",
       "category": "Balance",
       "generated_at": "2026-04-10T14:18:37.276334"
+    },
+    {
+      "english": "Stop translating, start thinking in Spanish",
+      "spanish": "Deja de traducir, piensa en español",
+      "category": "Purpose",
+      "generated_at": "2026-04-10T15:55:53.682840"
+    },
+    {
+      "english": "Never learn alone, speak with strangers",
+      "spanish": "Nunca aprendas solo, habla con extraños",
+      "category": "Purpose",
+      "generated_at": "2026-04-10T15:55:53.682852"
+    },
+    {
+      "english": "The secret, ask one simple question",
+      "spanish": "El secreto, pregunta algo simple",
+      "category": "Purpose",
+      "generated_at": "2026-04-10T15:55:53.682855"
+    },
+    {
+      "english": "Never fear the imperfect 'por' ",
+      "spanish": "Nunca temas el imperfecto 'por'",
+      "category": "Purpose",
+      "generated_at": "2026-04-10T15:55:53.682859"
+    },
+    {
+      "english": "Stop saying 'muy' for everything",
+      "spanish": "Deja de decir 'muy' para todo",
+      "category": "Purpose",
+      "generated_at": "2026-04-10T15:55:53.682862"
     }
   ],
   "used_english": [
@@ -1023,7 +1053,12 @@
     "never memorize, learn with real moments",
     "the secret is speaking, then smiling",
     "what nobody tells you, use fewer words",
-    "stop pausing, breathe and continue"
+    "stop pausing, breathe and continue",
+    "stop translating, start thinking in spanish",
+    "never learn alone, speak with strangers",
+    "the secret, ask one simple question",
+    "never fear the imperfect 'por'",
+    "stop saying 'muy' for everything"
   ],
-  "last_updated": "2026-04-10T14:18:37.276336"
+  "last_updated": "2026-04-10T15:55:53.682864"
 }
