@@ -935,6 +935,36 @@
       "spanish": "No critiques, di un cumplido",
       "category": "Kindness",
       "generated_at": "2026-04-10T18:42:46.215589"
+    },
+    {
+      "english": "Never overthink, answer with confidence",
+      "spanish": "Nunca lo pienses, responde con confianza",
+      "category": "Patience",
+      "generated_at": "2026-04-10T19:48:15.063245"
+    },
+    {
+      "english": "The secret, master one tiny phrase",
+      "spanish": "El secreto, domina una frase pequeñita",
+      "category": "Patience",
+      "generated_at": "2026-04-10T19:48:15.063256"
+    },
+    {
+      "english": "Stop rushing, let your brain catch up",
+      "spanish": "No corras, deja que alcance tu mente",
+      "category": "Patience",
+      "generated_at": "2026-04-10T19:48:15.063259"
+    },
+    {
+      "english": "Never quit after one awkward try",
+      "spanish": "Nunca te rindas, tras un intento raro",
+      "category": "Patience",
+      "generated_at": "2026-04-10T19:48:15.063262"
+    },
+    {
+      "english": "This is why natives speak faster",
+      "spanish": "Esto es por qué los nativos hablan más rápido",
+      "category": "Patience",
+      "generated_at": "2026-04-10T19:48:15.063265"
     }
   ],
   "used_english": [
@@ -1093,7 +1123,12 @@
     "never rush, soften your tone",
     "the secret, kindness starts with 'sorry'",
     "this is why smiles feel safer",
-    "stop criticizing, say one compliment"
+    "stop criticizing, say one compliment",
+    "never overthink, answer with confidence",
+    "the secret, master one tiny phrase",
+    "stop rushing, let your brain catch up",
+    "never quit after one awkward try",
+    "this is why natives speak faster"
   ],
-  "last_updated": "2026-04-10T18:42:46.215591"
+  "last_updated": "2026-04-10T19:48:15.063267"
 }
