@@ -905,6 +905,36 @@
       "spanish": "Deja de decir 'muy' para todo",
       "category": "Purpose",
       "generated_at": "2026-04-10T15:55:53.682862"
+    },
+    {
+      "english": "Stop being polite, say it",
+      "spanish": "Deja la cortesía, dilo",
+      "category": "Kindness",
+      "generated_at": "2026-04-10T18:42:46.215567"
+    },
+    {
+      "english": "Never rush, soften your tone",
+      "spanish": "Nunca corras, suaviza tu tono",
+      "category": "Kindness",
+      "generated_at": "2026-04-10T18:42:46.215580"
+    },
+    {
+      "english": "The secret, kindness starts with 'sorry'",
+      "spanish": "El secreto, la bondad dice 'perdón'",
+      "category": "Kindness",
+      "generated_at": "2026-04-10T18:42:46.215583"
+    },
+    {
+      "english": "This is why smiles feel safer",
+      "spanish": "Por eso, las sonrisas dan calma",
+      "category": "Kindness",
+      "generated_at": "2026-04-10T18:42:46.215586"
+    },
+    {
+      "english": "Stop criticizing, say one compliment",
+      "spanish": "No critiques, di un cumplido",
+      "category": "Kindness",
+      "generated_at": "2026-04-10T18:42:46.215589"
     }
   ],
   "used_english": [
@@ -1058,7 +1088,12 @@
     "never learn alone, speak with strangers",
     "the secret, ask one simple question",
     "never fear the imperfect 'por'",
-    "stop saying 'muy' for everything"
+    "stop saying 'muy' for everything",
+    "stop being polite, say it",
+    "never rush, soften your tone",
+    "the secret, kindness starts with 'sorry'",
+    "this is why smiles feel safer",
+    "stop criticizing, say one compliment"
   ],
-  "last_updated": "2026-04-10T15:55:53.682864"
+  "last_updated": "2026-04-10T18:42:46.215591"
 }
