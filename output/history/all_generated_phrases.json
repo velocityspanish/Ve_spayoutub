@@ -965,6 +965,36 @@
       "spanish": "Esto es por qué los nativos hablan más rápido",
       "category": "Patience",
       "generated_at": "2026-04-10T19:48:15.063265"
+    },
+    {
+      "english": "Never say “I’ll learn later”",
+      "spanish": "Nunca digas, “aprendo más tarde”",
+      "category": "Creativity",
+      "generated_at": "2026-04-10T21:27:17.103340"
+    },
+    {
+      "english": "Stop perfecting, start sounding Spanish",
+      "spanish": "Deja de perfeccionar, empieza a sonar español",
+      "category": "Creativity",
+      "generated_at": "2026-04-10T21:27:17.103351"
+    },
+    {
+      "english": "The secret, use short answers first",
+      "spanish": "El secreto, usa respuestas cortas primero",
+      "category": "Creativity",
+      "generated_at": "2026-04-10T21:27:17.103354"
+    },
+    {
+      "english": "What nobody tells you, practice verbs",
+      "spanish": "Lo que nadie te dice, practica verbos",
+      "category": "Creativity",
+      "generated_at": "2026-04-10T21:27:17.103357"
+    },
+    {
+      "english": "Stop studying, start narrating your day",
+      "spanish": "Deja de estudiar, narra tu día",
+      "category": "Creativity",
+      "generated_at": "2026-04-10T21:27:17.103360"
     }
   ],
   "used_english": [
@@ -1128,7 +1158,12 @@
     "the secret, master one tiny phrase",
     "stop rushing, let your brain catch up",
     "never quit after one awkward try",
-    "this is why natives speak faster"
+    "this is why natives speak faster",
+    "never say “i’ll learn later”",
+    "stop perfecting, start sounding spanish",
+    "the secret, use short answers first",
+    "what nobody tells you, practice verbs",
+    "stop studying, start narrating your day"
   ],
-  "last_updated": "2026-04-10T19:48:15.063267"
+  "last_updated": "2026-04-10T21:27:17.103361"
 }
