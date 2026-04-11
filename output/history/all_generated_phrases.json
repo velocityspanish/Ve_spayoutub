@@ -1115,6 +1115,36 @@
       "spanish": "Deja de aplaudir respuestas perfectas",
       "category": "Joy",
       "generated_at": "2026-04-11T19:38:46.468345"
+    },
+    {
+      "english": "Never fear pauses, keep talking",
+      "spanish": "Nunca temas pausas, sigue hablando",
+      "category": "Balance",
+      "generated_at": "2026-04-11T21:22:58.828418"
+    },
+    {
+      "english": "Stop over-explaining, just say it",
+      "spanish": "Deja de explicar, solo dilo",
+      "category": "Balance",
+      "generated_at": "2026-04-11T21:22:58.828433"
+    },
+    {
+      "english": "The secret is listening first",
+      "spanish": "El secreto es escuchar primero",
+      "category": "Balance",
+      "generated_at": "2026-04-11T21:22:58.828437"
+    },
+    {
+      "english": "Stop waiting, answer with one word",
+      "spanish": "No esperes, responde con una palabra",
+      "category": "Balance",
+      "generated_at": "2026-04-11T21:22:58.828440"
+    },
+    {
+      "english": "Never start sentences, use ready phrases",
+      "spanish": "Nunca empieces, usa frases listas",
+      "category": "Balance",
+      "generated_at": "2026-04-11T21:22:58.828443"
     }
   ],
   "used_english": [
@@ -1303,7 +1333,12 @@
     "never fear mistakes, say it anyway",
     "this is why duolingo fails",
     "the secret is asking 'why'",
-    "stop clapping for perfect answers"
+    "stop clapping for perfect answers",
+    "never fear pauses, keep talking",
+    "stop over-explaining, just say it",
+    "the secret is listening first",
+    "stop waiting, answer with one word",
+    "never start sentences, use ready phrases"
   ],
-  "last_updated": "2026-04-11T19:38:46.468346"
+  "last_updated": "2026-04-11T21:22:58.828445"
 }
