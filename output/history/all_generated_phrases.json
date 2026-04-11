@@ -1025,6 +1025,36 @@
       "spanish": "Nunca digas 'eh' en español",
       "category": "Growth",
       "generated_at": "2026-04-11T13:57:50.596352"
+    },
+    {
+      "english": "Stop scrolling, start saying thanks",
+      "spanish": "Deja de scrollear, di gracias",
+      "category": "Gratitude",
+      "generated_at": "2026-04-11T15:35:58.958729"
+    },
+    {
+      "english": "Never forget one daily gratitude word",
+      "spanish": "Nunca olvides una palabra diaria",
+      "category": "Gratitude",
+      "generated_at": "2026-04-11T15:35:58.958741"
+    },
+    {
+      "english": "This is why gratitude speeds Spanish",
+      "spanish": "Por eso, la gratitud acelera español",
+      "category": "Gratitude",
+      "generated_at": "2026-04-11T15:35:58.958745"
+    },
+    {
+      "english": "The secret, say gracias, out loud",
+      "spanish": "El secreto, di gracias, en voz alta",
+      "category": "Gratitude",
+      "generated_at": "2026-04-11T15:35:58.958749"
+    },
+    {
+      "english": "What nobody tells you, mean it",
+      "spanish": "Lo que nadie dice, dilo con alma",
+      "category": "Gratitude",
+      "generated_at": "2026-04-11T15:35:58.958755"
     }
   ],
   "used_english": [
@@ -1198,7 +1228,12 @@
     "never freeze on small talk",
     "the secret, ask '¿qué necesitas?'",
     "stop waiting for perfect grammar",
-    "never say 'uh' in spanish"
+    "never say 'uh' in spanish",
+    "stop scrolling, start saying thanks",
+    "never forget one daily gratitude word",
+    "this is why gratitude speeds spanish",
+    "the secret, say gracias, out loud",
+    "what nobody tells you, mean it"
   ],
-  "last_updated": "2026-04-11T13:57:50.596358"
+  "last_updated": "2026-04-11T15:35:58.958757"
 }
