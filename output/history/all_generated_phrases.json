@@ -1085,6 +1085,36 @@
       "spanish": "Nunca estudies en silencio, susurra",
       "category": "Wisdom",
       "generated_at": "2026-04-11T17:31:52.126116"
+    },
+    {
+      "english": "Stop learning alone, find a pal",
+      "spanish": "Deja de aprender solo, busca un amigo",
+      "category": "Joy",
+      "generated_at": "2026-04-11T19:38:46.468325"
+    },
+    {
+      "english": "Never fear mistakes, say it anyway",
+      "spanish": "Nunca temas errores, dilo igual",
+      "category": "Joy",
+      "generated_at": "2026-04-11T19:38:46.468336"
+    },
+    {
+      "english": "This is why duolingo fails",
+      "spanish": "Esto es por qué Duolingo falla",
+      "category": "Joy",
+      "generated_at": "2026-04-11T19:38:46.468339"
+    },
+    {
+      "english": "The secret is asking 'why'",
+      "spanish": "El secreto es preguntar 'por qué'",
+      "category": "Joy",
+      "generated_at": "2026-04-11T19:38:46.468342"
+    },
+    {
+      "english": "Stop clapping for perfect answers",
+      "spanish": "Deja de aplaudir respuestas perfectas",
+      "category": "Joy",
+      "generated_at": "2026-04-11T19:38:46.468345"
     }
   ],
   "used_english": [
@@ -1268,7 +1298,12 @@
     "never say “maybe”, just choose",
     "the secret? speak in chunks",
     "stop overthinking, use simple verbs",
-    "never study silently, whisper answers"
+    "never study silently, whisper answers",
+    "stop learning alone, find a pal",
+    "never fear mistakes, say it anyway",
+    "this is why duolingo fails",
+    "the secret is asking 'why'",
+    "stop clapping for perfect answers"
   ],
-  "last_updated": "2026-04-11T17:31:52.126118"
+  "last_updated": "2026-04-11T19:38:46.468346"
 }
