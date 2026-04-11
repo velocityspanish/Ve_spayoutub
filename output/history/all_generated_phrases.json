@@ -995,6 +995,36 @@
       "spanish": "Deja de estudiar, narra tu día",
       "category": "Creativity",
       "generated_at": "2026-04-10T21:27:17.103360"
+    },
+    {
+      "english": "Stop memorizing, start sounding real",
+      "spanish": "Deja de memorizar, suena real",
+      "category": "Growth",
+      "generated_at": "2026-04-11T13:57:50.596330"
+    },
+    {
+      "english": "Never freeze on small talk",
+      "spanish": "Nunca te congeles en small talk",
+      "category": "Growth",
+      "generated_at": "2026-04-11T13:57:50.596342"
+    },
+    {
+      "english": "The secret, ask '¿qué necesitas?'",
+      "spanish": "El secreto, pregunta '¿qué necesitas?'",
+      "category": "Growth",
+      "generated_at": "2026-04-11T13:57:50.596346"
+    },
+    {
+      "english": "Stop waiting for perfect grammar",
+      "spanish": "Deja de esperar gramática perfecta",
+      "category": "Growth",
+      "generated_at": "2026-04-11T13:57:50.596349"
+    },
+    {
+      "english": "Never say 'uh' in Spanish",
+      "spanish": "Nunca digas 'eh' en español",
+      "category": "Growth",
+      "generated_at": "2026-04-11T13:57:50.596352"
     }
   ],
   "used_english": [
@@ -1163,7 +1193,12 @@
     "stop perfecting, start sounding spanish",
     "the secret, use short answers first",
     "what nobody tells you, practice verbs",
-    "stop studying, start narrating your day"
+    "stop studying, start narrating your day",
+    "stop memorizing, start sounding real",
+    "never freeze on small talk",
+    "the secret, ask '¿qué necesitas?'",
+    "stop waiting for perfect grammar",
+    "never say 'uh' in spanish"
   ],
-  "last_updated": "2026-04-10T21:27:17.103361"
+  "last_updated": "2026-04-11T13:57:50.596358"
 }
