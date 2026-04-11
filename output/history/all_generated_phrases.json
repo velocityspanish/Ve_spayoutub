@@ -1055,6 +1055,36 @@
       "spanish": "Lo que nadie dice, dilo con alma",
       "category": "Gratitude",
       "generated_at": "2026-04-11T15:35:58.958755"
+    },
+    {
+      "english": "Stop chasing perfection, say it",
+      "spanish": "Deja la perfección, dilo ya",
+      "category": "Wisdom",
+      "generated_at": "2026-04-11T17:31:52.126096"
+    },
+    {
+      "english": "Never say “maybe”, just choose",
+      "spanish": "Nunca digas “tal vez”, decide",
+      "category": "Wisdom",
+      "generated_at": "2026-04-11T17:31:52.126107"
+    },
+    {
+      "english": "The secret? Speak in chunks",
+      "spanish": "El secreto, habla en bloques",
+      "category": "Wisdom",
+      "generated_at": "2026-04-11T17:31:52.126110"
+    },
+    {
+      "english": "Stop overthinking, use simple verbs",
+      "spanish": "Deja el miedo, usa verbos simples",
+      "category": "Wisdom",
+      "generated_at": "2026-04-11T17:31:52.126113"
+    },
+    {
+      "english": "Never study silently, whisper answers",
+      "spanish": "Nunca estudies en silencio, susurra",
+      "category": "Wisdom",
+      "generated_at": "2026-04-11T17:31:52.126116"
     }
   ],
   "used_english": [
@@ -1233,7 +1263,12 @@
     "never forget one daily gratitude word",
     "this is why gratitude speeds spanish",
     "the secret, say gracias, out loud",
-    "what nobody tells you, mean it"
+    "what nobody tells you, mean it",
+    "stop chasing perfection, say it",
+    "never say “maybe”, just choose",
+    "the secret? speak in chunks",
+    "stop overthinking, use simple verbs",
+    "never study silently, whisper answers"
   ],
-  "last_updated": "2026-04-11T15:35:58.958757"
+  "last_updated": "2026-04-11T17:31:52.126118"
 }
