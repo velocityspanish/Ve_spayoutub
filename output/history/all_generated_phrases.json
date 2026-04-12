@@ -1235,6 +1235,36 @@
       "spanish": "No entres en pánico, repite",
       "category": "Patience",
       "generated_at": "2026-04-12T17:35:46.352194"
+    },
+    {
+      "english": "Stop learning nouns, learn actions",
+      "spanish": "Deja sustantivos, aprende acciones",
+      "category": "Growth",
+      "generated_at": "2026-04-12T19:42:30.440099"
+    },
+    {
+      "english": "Never skip 'por' in surprises",
+      "spanish": "Nunca saltes el 'por' en sorpresas",
+      "category": "Growth",
+      "generated_at": "2026-04-12T19:42:30.440111"
+    },
+    {
+      "english": "What nobody tells you, ask less",
+      "spanish": "Lo que nadie dice, pregunta menos",
+      "category": "Growth",
+      "generated_at": "2026-04-12T19:42:30.440115"
+    },
+    {
+      "english": "Stop explaining, just answer quickly",
+      "spanish": "Deja explicaciones, responde rápido",
+      "category": "Growth",
+      "generated_at": "2026-04-12T19:42:30.440118"
+    },
+    {
+      "english": "Never chase perfection, chase clarity",
+      "spanish": "Nunca persigas perfección, persigue claridad",
+      "category": "Growth",
+      "generated_at": "2026-04-12T19:42:30.440121"
     }
   ],
   "used_english": [
@@ -1443,7 +1473,12 @@
     "never fight mistakes, keep going",
     "the secret? small steps, daily",
     "this is why patience works",
-    "never panic, repeat the phrase"
+    "never panic, repeat the phrase",
+    "stop learning nouns, learn actions",
+    "never skip 'por' in surprises",
+    "what nobody tells you, ask less",
+    "stop explaining, just answer quickly",
+    "never chase perfection, chase clarity"
   ],
-  "last_updated": "2026-04-12T17:35:46.352201"
+  "last_updated": "2026-04-12T19:42:30.440123"
 }
