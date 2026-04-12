@@ -1265,6 +1265,36 @@
       "spanish": "Nunca persigas perfección, persigue claridad",
       "category": "Growth",
       "generated_at": "2026-04-12T19:42:30.440121"
+    },
+    {
+      "english": "Stop hiding, say it now",
+      "spanish": "Deja de esconderte, dilo ya",
+      "category": "Strength",
+      "generated_at": "2026-04-12T21:23:53.193786"
+    },
+    {
+      "english": "Stop studying, start sounding brave",
+      "spanish": "Deja de estudiar, suena valiente",
+      "category": "Strength",
+      "generated_at": "2026-04-12T21:23:53.193798"
+    },
+    {
+      "english": "Never fear 'no entiendo', repeat",
+      "spanish": "Nunca temas 'no entiendo', repite",
+      "category": "Strength",
+      "generated_at": "2026-04-12T21:23:53.193801"
+    },
+    {
+      "english": "The secret? Say it slower, anyway",
+      "spanish": "El secreto: dilo más despacio, igual",
+      "category": "Strength",
+      "generated_at": "2026-04-12T21:23:53.193804"
+    },
+    {
+      "english": "Stop redoing, start real conversations",
+      "spanish": "Deja de rehacer, habla con gente",
+      "category": "Strength",
+      "generated_at": "2026-04-12T21:23:53.193808"
     }
   ],
   "used_english": [
@@ -1478,7 +1508,12 @@
     "never skip 'por' in surprises",
     "what nobody tells you, ask less",
     "stop explaining, just answer quickly",
-    "never chase perfection, chase clarity"
+    "never chase perfection, chase clarity",
+    "stop hiding, say it now",
+    "stop studying, start sounding brave",
+    "never fear 'no entiendo', repeat",
+    "the secret? say it slower, anyway",
+    "stop redoing, start real conversations"
   ],
-  "last_updated": "2026-04-12T19:42:30.440123"
+  "last_updated": "2026-04-12T21:23:53.193809"
 }
