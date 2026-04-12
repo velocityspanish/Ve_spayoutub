@@ -1145,6 +1145,36 @@
       "spanish": "Nunca empieces, usa frases listas",
       "category": "Balance",
       "generated_at": "2026-04-11T21:22:58.828443"
+    },
+    {
+      "english": "Never practice, just perform today",
+      "spanish": "Nunca practiques, actúa hoy",
+      "category": "Motivation",
+      "generated_at": "2026-04-12T14:01:11.098168"
+    },
+    {
+      "english": "The secret is micro-talk, daily",
+      "spanish": "El secreto es microcharlas diarias",
+      "category": "Motivation",
+      "generated_at": "2026-04-12T14:01:11.098178"
+    },
+    {
+      "english": "Never wait, say it imperfectly",
+      "spanish": "Nunca esperes, dilo imperfecto",
+      "category": "Motivation",
+      "generated_at": "2026-04-12T14:01:11.098182"
+    },
+    {
+      "english": "This fixes your Spanish fast",
+      "spanish": "Esto arregla tu español rápido",
+      "category": "Motivation",
+      "generated_at": "2026-04-12T14:01:11.098185"
+    },
+    {
+      "english": "Never fear sounding weird, continue",
+      "spanish": "No temas sonar raro, sigue",
+      "category": "Motivation",
+      "generated_at": "2026-04-12T14:01:11.098188"
     }
   ],
   "used_english": [
@@ -1338,7 +1368,12 @@
     "stop over-explaining, just say it",
     "the secret is listening first",
     "stop waiting, answer with one word",
-    "never start sentences, use ready phrases"
+    "never start sentences, use ready phrases",
+    "never practice, just perform today",
+    "the secret is micro-talk, daily",
+    "never wait, say it imperfectly",
+    "this fixes your spanish fast",
+    "never fear sounding weird, continue"
   ],
-  "last_updated": "2026-04-11T21:22:58.828445"
+  "last_updated": "2026-04-12T14:01:11.098190"
 }
