@@ -1205,6 +1205,36 @@
       "spanish": "No te juzgues, tu acento habla",
       "category": "Mindfulness",
       "generated_at": "2026-04-12T15:37:34.939940"
+    },
+    {
+      "english": "Never rush, let it land",
+      "spanish": "Nunca corras, deja que caiga",
+      "category": "Patience",
+      "generated_at": "2026-04-12T17:35:46.352169"
+    },
+    {
+      "english": "Never fight mistakes, keep going",
+      "spanish": "No pelees con errores, sigue",
+      "category": "Patience",
+      "generated_at": "2026-04-12T17:35:46.352184"
+    },
+    {
+      "english": "The secret? Small steps, daily",
+      "spanish": "El secreto, pasos pequeños, diario",
+      "category": "Patience",
+      "generated_at": "2026-04-12T17:35:46.352187"
+    },
+    {
+      "english": "This is why patience works",
+      "spanish": "Por eso la paciencia funciona",
+      "category": "Patience",
+      "generated_at": "2026-04-12T17:35:46.352191"
+    },
+    {
+      "english": "Never panic, repeat the phrase",
+      "spanish": "No entres en pánico, repite",
+      "category": "Patience",
+      "generated_at": "2026-04-12T17:35:46.352194"
     }
   ],
   "used_english": [
@@ -1408,7 +1438,12 @@
     "never blank, use “quiero” first",
     "what nobody tells you, speak anyway",
     "the secret is breathing between sentences",
-    "stop judging your accent mid-sentence"
+    "stop judging your accent mid-sentence",
+    "never rush, let it land",
+    "never fight mistakes, keep going",
+    "the secret? small steps, daily",
+    "this is why patience works",
+    "never panic, repeat the phrase"
   ],
-  "last_updated": "2026-04-12T15:37:34.939942"
+  "last_updated": "2026-04-12T17:35:46.352201"
 }
