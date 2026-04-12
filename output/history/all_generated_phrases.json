@@ -1175,6 +1175,36 @@
       "spanish": "No temas sonar raro, sigue",
       "category": "Motivation",
       "generated_at": "2026-04-12T14:01:11.098188"
+    },
+    {
+      "english": "Stop chasing fluency, chase one feeling",
+      "spanish": "Deja la fluidez, busca una emoción",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-12T15:37:34.939920"
+    },
+    {
+      "english": "Never blank, use “quiero” first",
+      "spanish": "Nunca te quedes, usa “quiero” primero",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-12T15:37:34.939930"
+    },
+    {
+      "english": "What nobody tells you, speak anyway",
+      "spanish": "Lo que nadie dice, habla igual",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-12T15:37:34.939934"
+    },
+    {
+      "english": "The secret is breathing between sentences",
+      "spanish": "El secreto, respira entre frases",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-12T15:37:34.939937"
+    },
+    {
+      "english": "Stop judging your accent mid-sentence",
+      "spanish": "No te juzgues, tu acento habla",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-12T15:37:34.939940"
     }
   ],
   "used_english": [
@@ -1373,7 +1403,12 @@
     "the secret is micro-talk, daily",
     "never wait, say it imperfectly",
     "this fixes your spanish fast",
-    "never fear sounding weird, continue"
+    "never fear sounding weird, continue",
+    "stop chasing fluency, chase one feeling",
+    "never blank, use “quiero” first",
+    "what nobody tells you, speak anyway",
+    "the secret is breathing between sentences",
+    "stop judging your accent mid-sentence"
   ],
-  "last_updated": "2026-04-12T14:01:11.098190"
+  "last_updated": "2026-04-12T15:37:34.939942"
 }
