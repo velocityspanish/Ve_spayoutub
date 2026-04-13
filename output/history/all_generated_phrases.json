@@ -1295,6 +1295,36 @@
       "spanish": "Deja de rehacer, habla con gente",
       "category": "Strength",
       "generated_at": "2026-04-12T21:23:53.193808"
+    },
+    {
+      "english": "Never fight fear, use 'vale'",
+      "spanish": "No pelees con el miedo, usa 'vale'",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-13T14:52:43.474659"
+    },
+    {
+      "english": "The secret is naming your feeling",
+      "spanish": "El secreto es nombrar tu emoción",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-13T14:52:43.474672"
+    },
+    {
+      "english": "Never wait, whisper the answer",
+      "spanish": "No esperes, susurra la respuesta",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-13T14:52:43.474676"
+    },
+    {
+      "english": "Stop rushing, smooth your rhythm",
+      "spanish": "Deja de correr, suaviza el ritmo",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-13T14:52:43.474679"
+    },
+    {
+      "english": "This one pause builds confidence",
+      "spanish": "Esta pausa crea confianza",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-13T14:52:43.474683"
     }
   ],
   "used_english": [
@@ -1513,7 +1543,12 @@
     "stop studying, start sounding brave",
     "never fear 'no entiendo', repeat",
     "the secret? say it slower, anyway",
-    "stop redoing, start real conversations"
+    "stop redoing, start real conversations",
+    "never fight fear, use 'vale'",
+    "the secret is naming your feeling",
+    "never wait, whisper the answer",
+    "stop rushing, smooth your rhythm",
+    "this one pause builds confidence"
   ],
-  "last_updated": "2026-04-12T21:23:53.193809"
+  "last_updated": "2026-04-13T14:52:43.474685"
 }
