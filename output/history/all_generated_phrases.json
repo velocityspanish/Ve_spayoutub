@@ -1385,6 +1385,36 @@
       "spanish": "No digas “luego”, dilo ahora",
       "category": "Purpose",
       "generated_at": "2026-04-13T18:01:40.748732"
+    },
+    {
+      "english": "Stop asking, start sounding",
+      "spanish": "Deja de preguntar, empieza a sonar",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-13T20:09:49.857105"
+    },
+    {
+      "english": "Never wait for confidence, speak",
+      "spanish": "Nunca esperes confianza, habla",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-13T20:09:49.857117"
+    },
+    {
+      "english": "The secret? One verb, nonstop",
+      "spanish": "El secreto, un verbo, sin parar",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-13T20:09:49.857122"
+    },
+    {
+      "english": "Stop hunting words, use gestures",
+      "spanish": "Deja de buscar palabras, gestos",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-13T20:09:49.857125"
+    },
+    {
+      "english": "Never sound “robotic”, add feelings",
+      "spanish": "Nunca suenes robótico, pon emoción",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-13T20:09:49.857129"
     }
   ],
   "used_english": [
@@ -1618,7 +1648,12 @@
     "never wait, answer in spanish",
     "this is why your mouth locks",
     "stop perfecting, start telling stories",
-    "never say 'later', say it now"
+    "never say 'later', say it now",
+    "stop asking, start sounding",
+    "never wait for confidence, speak",
+    "the secret? one verb, nonstop",
+    "stop hunting words, use gestures",
+    "never sound “robotic”, add feelings"
   ],
-  "last_updated": "2026-04-13T18:01:40.748734"
+  "last_updated": "2026-04-13T20:09:49.857131"
 }
