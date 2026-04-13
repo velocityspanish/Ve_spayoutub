@@ -1415,6 +1415,36 @@
       "spanish": "Nunca suenes robótico, pon emoción",
       "category": "Self Improvement",
       "generated_at": "2026-04-13T20:09:49.857129"
+    },
+    {
+      "english": "Stop saying “good” , say “bueno”",
+      "spanish": "Deja de decir “bueno” , di “vale”",
+      "category": "Balance",
+      "generated_at": "2026-04-13T21:38:32.551809"
+    },
+    {
+      "english": "Never say “I am” , use “soy”",
+      "spanish": "Nunca digas “yo soy” , di “soy”",
+      "category": "Balance",
+      "generated_at": "2026-04-13T21:38:32.551820"
+    },
+    {
+      "english": "This is why you freeze, fix it",
+      "spanish": "Esto es por qué te paralizas, respira",
+      "category": "Balance",
+      "generated_at": "2026-04-13T21:38:32.551824"
+    },
+    {
+      "english": "The secret, say it like homework",
+      "spanish": "El secreto, díselo como tarea",
+      "category": "Balance",
+      "generated_at": "2026-04-13T21:38:32.551828"
+    },
+    {
+      "english": "Stop overthinking, just pick one",
+      "spanish": "Para de sobrepensar, solo elige uno",
+      "category": "Balance",
+      "generated_at": "2026-04-13T21:38:32.551831"
     }
   ],
   "used_english": [
@@ -1653,7 +1683,12 @@
     "never wait for confidence, speak",
     "the secret? one verb, nonstop",
     "stop hunting words, use gestures",
-    "never sound “robotic”, add feelings"
+    "never sound “robotic”, add feelings",
+    "stop saying “good” , say “bueno”",
+    "never say “i am” , use “soy”",
+    "this is why you freeze, fix it",
+    "the secret, say it like homework",
+    "stop overthinking, just pick one"
   ],
-  "last_updated": "2026-04-13T20:09:49.857131"
+  "last_updated": "2026-04-13T21:38:32.551833"
 }
