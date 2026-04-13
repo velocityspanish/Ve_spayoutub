@@ -1325,6 +1325,36 @@
       "spanish": "Esta pausa crea confianza",
       "category": "Mindfulness",
       "generated_at": "2026-04-13T14:52:43.474683"
+    },
+    {
+      "english": "Never thank 'sorry', say 'gracias'",
+      "spanish": "Nunca gracias después de 'perdón'",
+      "category": "Gratitude",
+      "generated_at": "2026-04-13T16:15:01.136359"
+    },
+    {
+      "english": "Stop overexplaining gratitude, just say thanks",
+      "spanish": "Deja de explicar, solo di gracias",
+      "category": "Gratitude",
+      "generated_at": "2026-04-13T16:15:01.136372"
+    },
+    {
+      "english": "This is why 'gracias' opens doors",
+      "spanish": "Por eso, 'gracias' abre puertas",
+      "category": "Gratitude",
+      "generated_at": "2026-04-13T16:15:01.136377"
+    },
+    {
+      "english": "What nobody tells you, be specific",
+      "spanish": "Nadie te dice esto, sé específico",
+      "category": "Gratitude",
+      "generated_at": "2026-04-13T16:15:01.136380"
+    },
+    {
+      "english": "The secret? Thank people, daily",
+      "spanish": "El secreto, agradece cada día",
+      "category": "Gratitude",
+      "generated_at": "2026-04-13T16:15:01.136384"
     }
   ],
   "used_english": [
@@ -1548,7 +1578,12 @@
     "the secret is naming your feeling",
     "never wait, whisper the answer",
     "stop rushing, smooth your rhythm",
-    "this one pause builds confidence"
+    "this one pause builds confidence",
+    "never thank 'sorry', say 'gracias'",
+    "stop overexplaining gratitude, just say thanks",
+    "this is why 'gracias' opens doors",
+    "what nobody tells you, be specific",
+    "the secret? thank people, daily"
   ],
-  "last_updated": "2026-04-13T14:52:43.474685"
+  "last_updated": "2026-04-13T16:15:01.136386"
 }
