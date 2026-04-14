@@ -1445,6 +1445,36 @@
       "spanish": "Para de sobrepensar, solo elige uno",
       "category": "Balance",
       "generated_at": "2026-04-13T21:38:32.551831"
+    },
+    {
+      "english": "Stop translating in your head, speak",
+      "spanish": "Deja de traducir en tu mente, habla",
+      "category": "Purpose",
+      "generated_at": "2026-04-14T14:52:43.962925"
+    },
+    {
+      "english": "The secret? Ask for 'repeat' today",
+      "spanish": "El secreto, pide 'repite' hoy",
+      "category": "Purpose",
+      "generated_at": "2026-04-14T14:52:43.962936"
+    },
+    {
+      "english": "Never wait for 'perfect' sentences",
+      "spanish": "Nunca esperes frases perfectas",
+      "category": "Purpose",
+      "generated_at": "2026-04-14T14:52:43.962940"
+    },
+    {
+      "english": "Stop studying alone, talk out loud",
+      "spanish": "Deja de estudiar solo, habla en voz alta",
+      "category": "Purpose",
+      "generated_at": "2026-04-14T14:52:43.962944"
+    },
+    {
+      "english": "Never fear silence, fill it",
+      "spanish": "Nunca temas el silencio, llénalo",
+      "category": "Purpose",
+      "generated_at": "2026-04-14T14:52:43.962947"
     }
   ],
   "used_english": [
@@ -1688,7 +1718,12 @@
     "never say “i am” , use “soy”",
     "this is why you freeze, fix it",
     "the secret, say it like homework",
-    "stop overthinking, just pick one"
+    "stop overthinking, just pick one",
+    "stop translating in your head, speak",
+    "the secret? ask for 'repeat' today",
+    "never wait for 'perfect' sentences",
+    "stop studying alone, talk out loud",
+    "never fear silence, fill it"
   ],
-  "last_updated": "2026-04-13T21:38:32.551833"
+  "last_updated": "2026-04-14T14:52:43.962949"
 }
