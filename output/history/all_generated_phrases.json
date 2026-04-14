@@ -1535,6 +1535,36 @@
       "spanish": "Por eso, la valentía vence la gramática",
       "category": "Courage",
       "generated_at": "2026-04-14T18:05:31.111255"
+    },
+    {
+      "english": "Stop memorizing, start stealing phrases",
+      "spanish": "Deja de memorizar, roba frases",
+      "category": "Strength",
+      "generated_at": "2026-04-14T20:08:13.623854"
+    },
+    {
+      "english": "Never think in English first",
+      "spanish": "Nunca pienses en inglés primero",
+      "category": "Strength",
+      "generated_at": "2026-04-14T20:08:13.623866"
+    },
+    {
+      "english": "The secret is one question loop",
+      "spanish": "El secreto, un bucle de preguntas",
+      "category": "Strength",
+      "generated_at": "2026-04-14T20:08:13.623870"
+    },
+    {
+      "english": "Stop switching languages mid-sentence",
+      "spanish": "Deja de cambiar de idioma",
+      "category": "Strength",
+      "generated_at": "2026-04-14T20:08:13.623874"
+    },
+    {
+      "english": "The secret? Answer with a reason",
+      "spanish": "El secreto, responde con una razón",
+      "category": "Strength",
+      "generated_at": "2026-04-14T20:08:13.623877"
     }
   ],
   "used_english": [
@@ -1793,7 +1823,12 @@
     "the secret, speak even when unsure",
     "stop apologizing, just keep talking",
     "never fear looking awkward, continue",
-    "this is why courage beats grammar"
+    "this is why courage beats grammar",
+    "stop memorizing, start stealing phrases",
+    "never think in english first",
+    "the secret is one question loop",
+    "stop switching languages mid-sentence",
+    "the secret? answer with a reason"
   ],
-  "last_updated": "2026-04-14T18:05:31.111257"
+  "last_updated": "2026-04-14T20:08:13.623879"
 }
