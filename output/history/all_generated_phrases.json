@@ -1475,6 +1475,36 @@
       "spanish": "Nunca temas el silencio, llénalo",
       "category": "Purpose",
       "generated_at": "2026-04-14T14:52:43.962947"
+    },
+    {
+      "english": "This is why 'ser' feels scary",
+      "spanish": "Esto es por qué 'ser' asusta",
+      "category": "Balance",
+      "generated_at": "2026-04-14T16:09:06.950004"
+    },
+    {
+      "english": "The secret, use one simple 'here'",
+      "spanish": "El secreto, usa un simple 'aquí'",
+      "category": "Balance",
+      "generated_at": "2026-04-14T16:09:06.950016"
+    },
+    {
+      "english": "Never apologize, just rephrase fast",
+      "spanish": "Nunca pidas perdón, reformula rápido",
+      "category": "Balance",
+      "generated_at": "2026-04-14T16:09:06.950020"
+    },
+    {
+      "english": "Stop overthinking, speak from today",
+      "spanish": "Deja de sobrepensar, habla de hoy",
+      "category": "Balance",
+      "generated_at": "2026-04-14T16:09:06.950024"
+    },
+    {
+      "english": "Never fear 'no', it opens doors",
+      "spanish": "No temas decir 'no', abre puertas",
+      "category": "Balance",
+      "generated_at": "2026-04-14T16:09:06.950028"
     }
   ],
   "used_english": [
@@ -1723,7 +1753,12 @@
     "the secret? ask for 'repeat' today",
     "never wait for 'perfect' sentences",
     "stop studying alone, talk out loud",
-    "never fear silence, fill it"
+    "never fear silence, fill it",
+    "this is why 'ser' feels scary",
+    "the secret, use one simple 'here'",
+    "never apologize, just rephrase fast",
+    "stop overthinking, speak from today",
+    "never fear 'no', it opens doors"
   ],
-  "last_updated": "2026-04-14T14:52:43.962949"
+  "last_updated": "2026-04-14T16:09:06.950029"
 }
