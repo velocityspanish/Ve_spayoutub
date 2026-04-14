@@ -1505,6 +1505,36 @@
       "spanish": "No temas decir 'no', abre puertas",
       "category": "Balance",
       "generated_at": "2026-04-14T16:09:06.950028"
+    },
+    {
+      "english": "Stop hiding, say your real needs",
+      "spanish": "Deja de esconderte, di tus necesidades",
+      "category": "Courage",
+      "generated_at": "2026-04-14T18:05:31.111233"
+    },
+    {
+      "english": "The secret, speak even when unsure",
+      "spanish": "El secreto, habla aunque no estés seguro",
+      "category": "Courage",
+      "generated_at": "2026-04-14T18:05:31.111244"
+    },
+    {
+      "english": "Stop apologizing, just keep talking",
+      "spanish": "Deja de disculparte, sigue hablando",
+      "category": "Courage",
+      "generated_at": "2026-04-14T18:05:31.111248"
+    },
+    {
+      "english": "Never fear looking awkward, continue",
+      "spanish": "No tengas miedo, sigue aunque sea raro",
+      "category": "Courage",
+      "generated_at": "2026-04-14T18:05:31.111252"
+    },
+    {
+      "english": "This is why courage beats grammar",
+      "spanish": "Por eso, la valentía vence la gramática",
+      "category": "Courage",
+      "generated_at": "2026-04-14T18:05:31.111255"
     }
   ],
   "used_english": [
@@ -1758,7 +1788,12 @@
     "the secret, use one simple 'here'",
     "never apologize, just rephrase fast",
     "stop overthinking, speak from today",
-    "never fear 'no', it opens doors"
+    "never fear 'no', it opens doors",
+    "stop hiding, say your real needs",
+    "the secret, speak even when unsure",
+    "stop apologizing, just keep talking",
+    "never fear looking awkward, continue",
+    "this is why courage beats grammar"
   ],
-  "last_updated": "2026-04-14T16:09:06.950029"
+  "last_updated": "2026-04-14T18:05:31.111257"
 }
