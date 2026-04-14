@@ -1565,6 +1565,36 @@
       "spanish": "El secreto, responde con una razón",
       "category": "Strength",
       "generated_at": "2026-04-14T20:08:13.623877"
+    },
+    {
+      "english": "Stop chasing calm, start breathing now",
+      "spanish": "Deja de buscar calma, respira ya",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-14T21:41:27.206133"
+    },
+    {
+      "english": "Never argue with your thoughts, choose",
+      "spanish": "Nunca discutas tus pensamientos, elige",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-14T21:41:27.206144"
+    },
+    {
+      "english": "This is why your chest tightens",
+      "spanish": "Esto es por qué aprieta el pecho",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-14T21:41:27.206149"
+    },
+    {
+      "english": "The secret? Name it, breathe out",
+      "spanish": "El secreto, nómbralo, suelta el aire",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-14T21:41:27.206153"
+    },
+    {
+      "english": "Stop scrolling, do one grounding",
+      "spanish": "Deja el celular, haz un anclaje",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-14T21:41:27.206156"
     }
   ],
   "used_english": [
@@ -1828,7 +1858,12 @@
     "never think in english first",
     "the secret is one question loop",
     "stop switching languages mid-sentence",
-    "the secret? answer with a reason"
+    "the secret? answer with a reason",
+    "stop chasing calm, start breathing now",
+    "never argue with your thoughts, choose",
+    "this is why your chest tightens",
+    "the secret? name it, breathe out",
+    "stop scrolling, do one grounding"
   ],
-  "last_updated": "2026-04-14T20:08:13.623879"
+  "last_updated": "2026-04-14T21:41:27.206158"
 }
