@@ -1685,6 +1685,36 @@
       "spanish": "No traduzcas, adivina el sentido",
       "category": "Patience",
       "generated_at": "2026-04-15T18:05:31.833607"
+    },
+    {
+      "english": "Stop overthinking, trust your vibe",
+      "spanish": "Deja de pensarlo, confía tu vibra",
+      "category": "Love",
+      "generated_at": "2026-04-15T20:06:30.412518"
+    },
+    {
+      "english": "Never skip practice, do it messy",
+      "spanish": "Nunca saltes practicar, hazlo torpe",
+      "category": "Love",
+      "generated_at": "2026-04-15T20:06:30.412530"
+    },
+    {
+      "english": "The secret is using 'I want'",
+      "spanish": "El secreto es usar “quiero”",
+      "category": "Love",
+      "generated_at": "2026-04-15T20:06:30.412535"
+    },
+    {
+      "english": "Stop hunting perfection, say feelings",
+      "spanish": "Deja la perfección, di sentimientos",
+      "category": "Love",
+      "generated_at": "2026-04-15T20:06:30.412538"
+    },
+    {
+      "english": "Never wait, answer with one word",
+      "spanish": "No esperes, responde con una palabra",
+      "category": "Love",
+      "generated_at": "2026-04-15T20:06:30.412542"
     }
   ],
   "used_english": [
@@ -1968,7 +1998,12 @@
     "never give up after one error",
     "the secret is speaking slowly, then faster",
     "stop replaying mistakes, move on",
-    "never translate, just guess the meaning"
+    "never translate, just guess the meaning",
+    "stop overthinking, trust your vibe",
+    "never skip practice, do it messy",
+    "the secret is using 'i want'",
+    "stop hunting perfection, say feelings",
+    "never wait, answer with one word"
   ],
-  "last_updated": "2026-04-15T18:05:31.833609"
+  "last_updated": "2026-04-15T20:06:30.412544"
 }
