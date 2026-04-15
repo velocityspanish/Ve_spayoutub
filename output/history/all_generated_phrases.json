@@ -1625,6 +1625,36 @@
       "spanish": "No traduzcas, elige uno",
       "category": "Hope",
       "generated_at": "2026-04-15T14:47:49.735934"
+    },
+    {
+      "english": "Never say nothing, just start",
+      "spanish": "Nunca digas nada, empieza",
+      "category": "Strength",
+      "generated_at": "2026-04-15T16:07:06.453979"
+    },
+    {
+      "english": "Stop blaming yourself, use this",
+      "spanish": "Deja de culparte, usa esto",
+      "category": "Strength",
+      "generated_at": "2026-04-15T16:07:06.453992"
+    },
+    {
+      "english": "Never freeze, narrate your actions",
+      "spanish": "No te congeles, narra acciones",
+      "category": "Strength",
+      "generated_at": "2026-04-15T16:07:06.453996"
+    },
+    {
+      "english": "Stop overthinking, choose one feeling",
+      "spanish": "Deja de pensar tanto, elige una emoción",
+      "category": "Strength",
+      "generated_at": "2026-04-15T16:07:06.454000"
+    },
+    {
+      "english": "This one word unlocks conversations",
+      "spanish": "Una palabra abre conversaciones",
+      "category": "Strength",
+      "generated_at": "2026-04-15T16:07:06.454004"
     }
   ],
   "used_english": [
@@ -1898,7 +1928,12 @@
     "never say less, speak bigger",
     "the secret is saying it messy",
     "stop waiting, start using today",
-    "never translate, just choose one"
+    "never translate, just choose one",
+    "never say nothing, just start",
+    "stop blaming yourself, use this",
+    "never freeze, narrate your actions",
+    "stop overthinking, choose one feeling",
+    "this one word unlocks conversations"
   ],
-  "last_updated": "2026-04-15T14:47:49.735936"
+  "last_updated": "2026-04-15T16:07:06.454006"
 }
