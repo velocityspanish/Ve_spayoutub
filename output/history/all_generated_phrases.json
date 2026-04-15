@@ -1595,6 +1595,36 @@
       "spanish": "Deja el celular, haz un anclaje",
       "category": "Inner Peace",
       "generated_at": "2026-04-14T21:41:27.206156"
+    },
+    {
+      "english": "Stop asking, start thanking first",
+      "spanish": "No preguntes, agradece primero",
+      "category": "Hope",
+      "generated_at": "2026-04-15T14:47:49.735912"
+    },
+    {
+      "english": "Never say less, speak bigger",
+      "spanish": "Nunca digas menos, habla grande",
+      "category": "Hope",
+      "generated_at": "2026-04-15T14:47:49.735921"
+    },
+    {
+      "english": "The secret is saying it messy",
+      "spanish": "El secreto, dilo con caos",
+      "category": "Hope",
+      "generated_at": "2026-04-15T14:47:49.735926"
+    },
+    {
+      "english": "Stop waiting, start using today",
+      "spanish": "Deja de esperar, úsalo hoy",
+      "category": "Hope",
+      "generated_at": "2026-04-15T14:47:49.735930"
+    },
+    {
+      "english": "Never translate, just choose one",
+      "spanish": "No traduzcas, elige uno",
+      "category": "Hope",
+      "generated_at": "2026-04-15T14:47:49.735934"
     }
   ],
   "used_english": [
@@ -1863,7 +1893,12 @@
     "never argue with your thoughts, choose",
     "this is why your chest tightens",
     "the secret? name it, breathe out",
-    "stop scrolling, do one grounding"
+    "stop scrolling, do one grounding",
+    "stop asking, start thanking first",
+    "never say less, speak bigger",
+    "the secret is saying it messy",
+    "stop waiting, start using today",
+    "never translate, just choose one"
   ],
-  "last_updated": "2026-04-14T21:41:27.206158"
+  "last_updated": "2026-04-15T14:47:49.735936"
 }
