@@ -1655,6 +1655,36 @@
       "spanish": "Una palabra abre conversaciones",
       "category": "Strength",
       "generated_at": "2026-04-15T16:07:06.454004"
+    },
+    {
+      "english": "Stop rushing, listen for clues",
+      "spanish": "Deja de correr, escucha pistas",
+      "category": "Patience",
+      "generated_at": "2026-04-15T18:05:31.833583"
+    },
+    {
+      "english": "Never give up after one error",
+      "spanish": "Nunca te rindas con un error",
+      "category": "Patience",
+      "generated_at": "2026-04-15T18:05:31.833595"
+    },
+    {
+      "english": "The secret is speaking slowly, then faster",
+      "spanish": "El secreto, habla lento, luego rápido",
+      "category": "Patience",
+      "generated_at": "2026-04-15T18:05:31.833599"
+    },
+    {
+      "english": "Stop replaying mistakes, move on",
+      "spanish": "No repitas errores, sigue",
+      "category": "Patience",
+      "generated_at": "2026-04-15T18:05:31.833603"
+    },
+    {
+      "english": "Never translate, just guess the meaning",
+      "spanish": "No traduzcas, adivina el sentido",
+      "category": "Patience",
+      "generated_at": "2026-04-15T18:05:31.833607"
     }
   ],
   "used_english": [
@@ -1933,7 +1963,12 @@
     "stop blaming yourself, use this",
     "never freeze, narrate your actions",
     "stop overthinking, choose one feeling",
-    "this one word unlocks conversations"
+    "this one word unlocks conversations",
+    "stop rushing, listen for clues",
+    "never give up after one error",
+    "the secret is speaking slowly, then faster",
+    "stop replaying mistakes, move on",
+    "never translate, just guess the meaning"
   ],
-  "last_updated": "2026-04-15T16:07:06.454006"
+  "last_updated": "2026-04-15T18:05:31.833609"
 }
