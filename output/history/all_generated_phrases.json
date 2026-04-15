@@ -1715,6 +1715,36 @@
       "spanish": "No esperes, responde con una palabra",
       "category": "Love",
       "generated_at": "2026-04-15T20:06:30.412542"
+    },
+    {
+      "english": "Stop translating, just notice patterns",
+      "spanish": "Deja de traducir, solo nota patrones",
+      "category": "Balance",
+      "generated_at": "2026-04-15T21:41:25.520316"
+    },
+    {
+      "english": "Never answer with one-word guesses",
+      "spanish": "Nunca respondas con una sola suposición",
+      "category": "Balance",
+      "generated_at": "2026-04-15T21:41:25.520326"
+    },
+    {
+      "english": "The secret is using small connectors",
+      "spanish": "El secreto es usar conectores pequeños",
+      "category": "Balance",
+      "generated_at": "2026-04-15T21:41:25.520330"
+    },
+    {
+      "english": "Stop perfecting, start telling what you did",
+      "spanish": "Deja de perfeccionar, cuenta lo que hiciste",
+      "category": "Balance",
+      "generated_at": "2026-04-15T21:41:25.520334"
+    },
+    {
+      "english": "Never fear Spanish questions, use 'por qué'",
+      "spanish": "No temas preguntas en español, usa 'por qué'",
+      "category": "Balance",
+      "generated_at": "2026-04-15T21:41:25.520338"
     }
   ],
   "used_english": [
@@ -2003,7 +2033,12 @@
     "never skip practice, do it messy",
     "the secret is using 'i want'",
     "stop hunting perfection, say feelings",
-    "never wait, answer with one word"
+    "never wait, answer with one word",
+    "stop translating, just notice patterns",
+    "never answer with one-word guesses",
+    "the secret is using small connectors",
+    "stop perfecting, start telling what you did",
+    "never fear spanish questions, use 'por qué'"
   ],
-  "last_updated": "2026-04-15T20:06:30.412544"
+  "last_updated": "2026-04-15T21:41:25.520340"
 }
