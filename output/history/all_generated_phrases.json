@@ -1775,6 +1775,36 @@
       "spanish": "Este hábito fija los verbos",
       "category": "Growth",
       "generated_at": "2026-04-16T14:58:28.811287"
+    },
+    {
+      "english": "Stop sounding safe, say it spicy",
+      "spanish": "Deja sonar seguro, díselo con picante",
+      "category": "Strength",
+      "generated_at": "2026-04-16T16:24:09.391258"
+    },
+    {
+      "english": "Never freeze, just add 'ya'",
+      "spanish": "Nunca te paralices, agrega 'ya'",
+      "category": "Strength",
+      "generated_at": "2026-04-16T16:24:09.391271"
+    },
+    {
+      "english": "Stop practicing silence, speak first",
+      "spanish": "Deja de practicar silencio, habla primero",
+      "category": "Strength",
+      "generated_at": "2026-04-16T16:24:09.391275"
+    },
+    {
+      "english": "Never memorize, use what fits",
+      "spanish": "Nunca memorices, usa lo que encaja",
+      "category": "Strength",
+      "generated_at": "2026-04-16T16:24:09.391279"
+    },
+    {
+      "english": "This one habit makes you fluent",
+      "spanish": "Este hábito te hace fluido",
+      "category": "Strength",
+      "generated_at": "2026-04-16T16:24:09.391284"
     }
   ],
   "used_english": [
@@ -2073,7 +2103,12 @@
     "never memorize, collect useful chunks",
     "never study alone, speak back",
     "stop pausing, speak through commas",
-    "this one habit makes verbs stick"
+    "this one habit makes verbs stick",
+    "stop sounding safe, say it spicy",
+    "never freeze, just add 'ya'",
+    "stop practicing silence, speak first",
+    "never memorize, use what fits",
+    "this one habit makes you fluent"
   ],
-  "last_updated": "2026-04-16T14:58:28.811289"
+  "last_updated": "2026-04-16T16:24:09.391285"
 }
