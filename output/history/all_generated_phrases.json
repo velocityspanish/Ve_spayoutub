@@ -1805,6 +1805,36 @@
       "spanish": "Este hábito te hace fluido",
       "category": "Strength",
       "generated_at": "2026-04-16T16:24:09.391284"
+    },
+    {
+      "english": "Stop avoiding eye contact, di hola",
+      "spanish": "Deja de evitar miradas, di hola",
+      "category": "Love",
+      "generated_at": "2026-04-16T18:09:29.091808"
+    },
+    {
+      "english": "Never say “later”, send a voice note",
+      "spanish": "Nunca digas “luego”, manda nota de voz",
+      "category": "Love",
+      "generated_at": "2026-04-16T18:09:29.091821"
+    },
+    {
+      "english": "The secret is speaking in chunks",
+      "spanish": "El secreto, habla en pedazos",
+      "category": "Love",
+      "generated_at": "2026-04-16T18:09:29.091825"
+    },
+    {
+      "english": "Stop translating, look for patterns",
+      "spanish": "Deja de traducir, busca patrones",
+      "category": "Love",
+      "generated_at": "2026-04-16T18:09:29.091830"
+    },
+    {
+      "english": "This one question melts stress, ¿y tú?",
+      "spanish": "Esta pregunta derrite estrés, ¿y tú?",
+      "category": "Love",
+      "generated_at": "2026-04-16T18:09:29.091834"
     }
   ],
   "used_english": [
@@ -2108,7 +2138,12 @@
     "never freeze, just add 'ya'",
     "stop practicing silence, speak first",
     "never memorize, use what fits",
-    "this one habit makes you fluent"
+    "this one habit makes you fluent",
+    "stop avoiding eye contact, di hola",
+    "never say “later”, send a voice note",
+    "the secret is speaking in chunks",
+    "stop translating, look for patterns",
+    "this one question melts stress, ¿y tú?"
   ],
-  "last_updated": "2026-04-16T16:24:09.391285"
+  "last_updated": "2026-04-16T18:09:29.091836"
 }
