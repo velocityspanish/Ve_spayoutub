@@ -1835,6 +1835,36 @@
       "spanish": "Esta pregunta derrite estrés, ¿y tú?",
       "category": "Love",
       "generated_at": "2026-04-16T18:09:29.091834"
+    },
+    {
+      "english": "Stop fearing accents, speak anyway",
+      "spanish": "Deja de temer acentos, habla igual",
+      "category": "Wisdom",
+      "generated_at": "2026-04-16T20:02:12.981035"
+    },
+    {
+      "english": "Never chase fluency, chase moments",
+      "spanish": "Nunca persigas fluidez, persigue momentos",
+      "category": "Wisdom",
+      "generated_at": "2026-04-16T20:02:12.981046"
+    },
+    {
+      "english": "Stop overthinking, copy one rhythm",
+      "spanish": "Deja de sobrepensar, copia un ritmo",
+      "category": "Wisdom",
+      "generated_at": "2026-04-16T20:02:12.981051"
+    },
+    {
+      "english": "Your brain learns when you repeat",
+      "spanish": "Tu cerebro aprende cuando repites",
+      "category": "Wisdom",
+      "generated_at": "2026-04-16T20:02:12.981055"
+    },
+    {
+      "english": "This is why native feels fast",
+      "spanish": "Por eso lo nativo suena rápido",
+      "category": "Wisdom",
+      "generated_at": "2026-04-16T20:02:12.981059"
     }
   ],
   "used_english": [
@@ -2143,7 +2173,12 @@
     "never say “later”, send a voice note",
     "the secret is speaking in chunks",
     "stop translating, look for patterns",
-    "this one question melts stress, ¿y tú?"
+    "this one question melts stress, ¿y tú?",
+    "stop fearing accents, speak anyway",
+    "never chase fluency, chase moments",
+    "stop overthinking, copy one rhythm",
+    "your brain learns when you repeat",
+    "this is why native feels fast"
   ],
-  "last_updated": "2026-04-16T18:09:29.091836"
+  "last_updated": "2026-04-16T20:02:12.981065"
 }
