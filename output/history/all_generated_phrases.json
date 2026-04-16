@@ -1865,6 +1865,36 @@
       "spanish": "Por eso lo nativo suena rápido",
       "category": "Wisdom",
       "generated_at": "2026-04-16T20:02:12.981059"
+    },
+    {
+      "english": "Stop chasing calm, choose kind",
+      "spanish": "Deja de buscar calma, elige bondad",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-16T21:34:32.796145"
+    },
+    {
+      "english": "Never meditate, just breathe 'ah'",
+      "spanish": "Nunca medites, solo respira 'ah'",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-16T21:34:32.796159"
+    },
+    {
+      "english": "This is why your mind drifts",
+      "spanish": "Esto es por qué tu mente se va",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-16T21:34:32.796163"
+    },
+    {
+      "english": "The secret? Talk to yourself gently",
+      "spanish": "El secreto, háblate con ternura",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-16T21:34:32.796183"
+    },
+    {
+      "english": "Stop proving, just be understood",
+      "spanish": "Deja de demostrar, sé entendido",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-16T21:34:32.796188"
     }
   ],
   "used_english": [
@@ -2178,7 +2208,12 @@
     "never chase fluency, chase moments",
     "stop overthinking, copy one rhythm",
     "your brain learns when you repeat",
-    "this is why native feels fast"
+    "this is why native feels fast",
+    "stop chasing calm, choose kind",
+    "never meditate, just breathe 'ah'",
+    "this is why your mind drifts",
+    "the secret? talk to yourself gently",
+    "stop proving, just be understood"
   ],
-  "last_updated": "2026-04-16T20:02:12.981065"
+  "last_updated": "2026-04-16T21:34:32.796190"
 }
