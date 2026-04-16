@@ -1745,6 +1745,36 @@
       "spanish": "No temas preguntas en español, usa 'por qué'",
       "category": "Balance",
       "generated_at": "2026-04-15T21:41:25.520338"
+    },
+    {
+      "english": "Stop rehearsing, start improvising today",
+      "spanish": "Deja de ensayar, improvisa hoy",
+      "category": "Growth",
+      "generated_at": "2026-04-16T14:58:28.811262"
+    },
+    {
+      "english": "Never memorize, collect useful chunks",
+      "spanish": "Nunca memorices, colecciona fragmentos útiles",
+      "category": "Growth",
+      "generated_at": "2026-04-16T14:58:28.811274"
+    },
+    {
+      "english": "Never study alone, speak back",
+      "spanish": "No estudies solo, responde en voz alta",
+      "category": "Growth",
+      "generated_at": "2026-04-16T14:58:28.811279"
+    },
+    {
+      "english": "Stop pausing, speak through commas",
+      "spanish": "Deja las pausas, habla con comas",
+      "category": "Growth",
+      "generated_at": "2026-04-16T14:58:28.811283"
+    },
+    {
+      "english": "This one habit makes verbs stick",
+      "spanish": "Este hábito fija los verbos",
+      "category": "Growth",
+      "generated_at": "2026-04-16T14:58:28.811287"
     }
   ],
   "used_english": [
@@ -2038,7 +2068,12 @@
     "never answer with one-word guesses",
     "the secret is using small connectors",
     "stop perfecting, start telling what you did",
-    "never fear spanish questions, use 'por qué'"
+    "never fear spanish questions, use 'por qué'",
+    "stop rehearsing, start improvising today",
+    "never memorize, collect useful chunks",
+    "never study alone, speak back",
+    "stop pausing, speak through commas",
+    "this one habit makes verbs stick"
   ],
-  "last_updated": "2026-04-15T21:41:25.520340"
+  "last_updated": "2026-04-16T14:58:28.811289"
 }
