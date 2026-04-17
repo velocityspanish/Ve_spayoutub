@@ -1895,6 +1895,36 @@
       "spanish": "Deja de demostrar, sé entendido",
       "category": "Inner Peace",
       "generated_at": "2026-04-16T21:34:32.796188"
+    },
+    {
+      "english": "Stop practicing, start recording yourself",
+      "spanish": "Deja de practicar, grábate ahora",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-17T14:22:28.201154"
+    },
+    {
+      "english": "Never worry, just keep talking",
+      "spanish": "Nunca te preocupes, sigue hablando",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-17T14:22:28.201165"
+    },
+    {
+      "english": "Never pause, speak through the awkward",
+      "spanish": "Nunca te pares, habla en lo raro",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-17T14:22:28.201170"
+    },
+    {
+      "english": "Stop guessing, ask for meaning",
+      "spanish": "Deja de adivinar, pide significado",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-17T14:22:28.201174"
+    },
+    {
+      "english": "This changes your accent overnight",
+      "spanish": "Esto cambia tu acento ya",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-17T14:22:28.201179"
     }
   ],
   "used_english": [
@@ -2213,7 +2243,12 @@
     "never meditate, just breathe 'ah'",
     "this is why your mind drifts",
     "the secret? talk to yourself gently",
-    "stop proving, just be understood"
+    "stop proving, just be understood",
+    "stop practicing, start recording yourself",
+    "never worry, just keep talking",
+    "never pause, speak through the awkward",
+    "stop guessing, ask for meaning",
+    "this changes your accent overnight"
   ],
-  "last_updated": "2026-04-16T21:34:32.796190"
+  "last_updated": "2026-04-17T14:22:28.201180"
 }
