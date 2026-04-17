@@ -1985,6 +1985,36 @@
       "spanish": "Nunca digas “tal vez”, di “yo elijo”",
       "category": "Inspiration",
       "generated_at": "2026-04-17T17:50:15.889244"
+    },
+    {
+      "english": "Never skip thanks, say it daily",
+      "spanish": "Nunca omitas gracias, dilo diario",
+      "category": "Gratitude",
+      "generated_at": "2026-04-17T20:00:39.025549"
+    },
+    {
+      "english": "Stop thanking silently, voice it",
+      "spanish": "Deja de agradecer en silencio, dilo",
+      "category": "Gratitude",
+      "generated_at": "2026-04-17T20:00:39.025562"
+    },
+    {
+      "english": "Never rush “thanks”, pause and feel",
+      "spanish": "Nunca tengas prisa por “gracias”, siente",
+      "category": "Gratitude",
+      "generated_at": "2026-04-17T20:00:39.025568"
+    },
+    {
+      "english": "Stop memorizing phrases, live gratitude",
+      "spanish": "Deja de memorizar frases, vive gratitud",
+      "category": "Gratitude",
+      "generated_at": "2026-04-17T20:00:39.025572"
+    },
+    {
+      "english": "Your Spanish grows when you thank",
+      "spanish": "Tu español crece cuando agradeces",
+      "category": "Gratitude",
+      "generated_at": "2026-04-17T20:00:39.025577"
     }
   ],
   "used_english": [
@@ -2318,7 +2348,12 @@
     "never study silently, respond out loud",
     "stop practicing—start using today",
     "this one question fixes your story",
-    "never say “maybe”, say “i choose”"
+    "never say “maybe”, say “i choose”",
+    "never skip thanks, say it daily",
+    "stop thanking silently, voice it",
+    "never rush “thanks”, pause and feel",
+    "stop memorizing phrases, live gratitude",
+    "your spanish grows when you thank"
   ],
-  "last_updated": "2026-04-17T17:50:15.889245"
+  "last_updated": "2026-04-17T20:00:39.025579"
 }
