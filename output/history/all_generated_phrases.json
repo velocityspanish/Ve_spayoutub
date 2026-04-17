@@ -1925,6 +1925,36 @@
       "spanish": "Esto cambia tu acento ya",
       "category": "Self Improvement",
       "generated_at": "2026-04-17T14:22:28.201179"
+    },
+    {
+      "english": "Never hide, say what you need",
+      "spanish": "Nunca te escondas, di lo que necesitas",
+      "category": "Courage",
+      "generated_at": "2026-04-17T16:02:49.007183"
+    },
+    {
+      "english": "Stop apologizing, ask your question",
+      "spanish": "Deja de pedir perdón, pregunta ya",
+      "category": "Courage",
+      "generated_at": "2026-04-17T16:02:49.007196"
+    },
+    {
+      "english": "Stop switching, commit to one sentence",
+      "spanish": "Deja de cambiar, quédate con una frase",
+      "category": "Courage",
+      "generated_at": "2026-04-17T16:02:49.007200"
+    },
+    {
+      "english": "Never fear mistakes, use them fast",
+      "spanish": "No temas errores, úsalos ya",
+      "category": "Courage",
+      "generated_at": "2026-04-17T16:02:49.007205"
+    },
+    {
+      "english": "This is why your verbs collapse",
+      "spanish": "Esto es por qué se te rompen verbos",
+      "category": "Courage",
+      "generated_at": "2026-04-17T16:02:49.007209"
     }
   ],
   "used_english": [
@@ -2248,7 +2278,12 @@
     "never worry, just keep talking",
     "never pause, speak through the awkward",
     "stop guessing, ask for meaning",
-    "this changes your accent overnight"
+    "this changes your accent overnight",
+    "never hide, say what you need",
+    "stop apologizing, ask your question",
+    "stop switching, commit to one sentence",
+    "never fear mistakes, use them fast",
+    "this is why your verbs collapse"
   ],
-  "last_updated": "2026-04-17T14:22:28.201180"
+  "last_updated": "2026-04-17T16:02:49.007211"
 }
