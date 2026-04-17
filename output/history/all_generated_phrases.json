@@ -2015,6 +2015,36 @@
       "spanish": "Tu español crece cuando agradeces",
       "category": "Gratitude",
       "generated_at": "2026-04-17T20:00:39.025577"
+    },
+    {
+      "english": "Never wait, start with one verb",
+      "spanish": "Nunca esperes, empieza con un verbo",
+      "category": "Courage",
+      "generated_at": "2026-04-17T21:32:37.014364"
+    },
+    {
+      "english": "This is why confidence sounds wrong",
+      "spanish": "Por eso, la confianza suena rara",
+      "category": "Courage",
+      "generated_at": "2026-04-17T21:32:37.014382"
+    },
+    {
+      "english": "The secret, ask for simple help",
+      "spanish": "El secreto, pide ayuda simple",
+      "category": "Courage",
+      "generated_at": "2026-04-17T21:32:37.014387"
+    },
+    {
+      "english": "Stop choking, breathe, then answer",
+      "spanish": "Deja de atragantarte, respira, responde",
+      "category": "Courage",
+      "generated_at": "2026-04-17T21:32:37.014392"
+    },
+    {
+      "english": "Never aim perfect, aim clear",
+      "spanish": "Nunca busques perfecto, busca claro",
+      "category": "Courage",
+      "generated_at": "2026-04-17T21:32:37.014396"
     }
   ],
   "used_english": [
@@ -2353,7 +2383,12 @@
     "stop thanking silently, voice it",
     "never rush “thanks”, pause and feel",
     "stop memorizing phrases, live gratitude",
-    "your spanish grows when you thank"
+    "your spanish grows when you thank",
+    "never wait, start with one verb",
+    "this is why confidence sounds wrong",
+    "the secret, ask for simple help",
+    "stop choking, breathe, then answer",
+    "never aim perfect, aim clear"
   ],
-  "last_updated": "2026-04-17T20:00:39.025579"
+  "last_updated": "2026-04-17T21:32:37.014398"
 }
