@@ -1955,6 +1955,36 @@
       "spanish": "Esto es por qué se te rompen verbos",
       "category": "Courage",
       "generated_at": "2026-04-17T16:02:49.007209"
+    },
+    {
+      "english": "Stop whispering, say it loudly",
+      "spanish": "Deja de susurrar, dilo fuerte",
+      "category": "Inspiration",
+      "generated_at": "2026-04-17T17:50:15.889219"
+    },
+    {
+      "english": "Never study silently, respond out loud",
+      "spanish": "Nunca estudies en silencio, responde en voz alta",
+      "category": "Inspiration",
+      "generated_at": "2026-04-17T17:50:15.889229"
+    },
+    {
+      "english": "Stop practicing—start using today",
+      "spanish": "Deja de practicar, empieza hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-04-17T17:50:15.889234"
+    },
+    {
+      "english": "This one question fixes your story",
+      "spanish": "Esta pregunta arregla tu historia",
+      "category": "Inspiration",
+      "generated_at": "2026-04-17T17:50:15.889239"
+    },
+    {
+      "english": "Never say “maybe”, say “I choose”",
+      "spanish": "Nunca digas “tal vez”, di “yo elijo”",
+      "category": "Inspiration",
+      "generated_at": "2026-04-17T17:50:15.889244"
     }
   ],
   "used_english": [
@@ -2283,7 +2313,12 @@
     "stop apologizing, ask your question",
     "stop switching, commit to one sentence",
     "never fear mistakes, use them fast",
-    "this is why your verbs collapse"
+    "this is why your verbs collapse",
+    "stop whispering, say it loudly",
+    "never study silently, respond out loud",
+    "stop practicing—start using today",
+    "this one question fixes your story",
+    "never say “maybe”, say “i choose”"
   ],
-  "last_updated": "2026-04-17T16:02:49.007211"
+  "last_updated": "2026-04-17T17:50:15.889245"
 }
