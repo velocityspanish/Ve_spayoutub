@@ -2165,6 +2165,36 @@
       "spanish": "Nunca digas 'porque' con miedo",
       "category": "Growth",
       "generated_at": "2026-04-18T19:43:49.985033"
+    },
+    {
+      "english": "Never ask, just try “me gusta”",
+      "spanish": "Nunca preguntes, prueba “me gusta”",
+      "category": "Positive Life",
+      "generated_at": "2026-04-18T21:23:49.684699"
+    },
+    {
+      "english": "Stop hiding, say “yo también”",
+      "spanish": "Para de ocultarte, di “yo también”",
+      "category": "Positive Life",
+      "generated_at": "2026-04-18T21:23:49.684711"
+    },
+    {
+      "english": "The secret, practice questions only",
+      "spanish": "El secreto, practica solo preguntas",
+      "category": "Positive Life",
+      "generated_at": "2026-04-18T21:23:49.684717"
+    },
+    {
+      "english": "Stop switching, say it in present",
+      "spanish": "No cambies, di en presente",
+      "category": "Positive Life",
+      "generated_at": "2026-04-18T21:23:49.684721"
+    },
+    {
+      "english": "Never fear tiny wins, celebrate",
+      "spanish": "Nunca temas las victorias pequeñas",
+      "category": "Positive Life",
+      "generated_at": "2026-04-18T21:23:49.684726"
     }
   ],
   "used_english": [
@@ -2528,7 +2558,12 @@
     "stop fearing 'ser' vs 'estar'",
     "the secret is saying one need",
     "stop waiting, use 'todavía'",
-    "never say 'because', say 'porque'"
+    "never say 'because', say 'porque'",
+    "never ask, just try “me gusta”",
+    "stop hiding, say “yo también”",
+    "the secret, practice questions only",
+    "stop switching, say it in present",
+    "never fear tiny wins, celebrate"
   ],
-  "last_updated": "2026-04-18T19:43:49.985035"
+  "last_updated": "2026-04-18T21:23:49.684728"
 }
