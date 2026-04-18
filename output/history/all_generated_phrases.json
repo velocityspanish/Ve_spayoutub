@@ -2045,6 +2045,36 @@
       "spanish": "Nunca busques perfecto, busca claro",
       "category": "Courage",
       "generated_at": "2026-04-17T21:32:37.014396"
+    },
+    {
+      "english": "Stop waiting for motivation, practice now",
+      "spanish": "Deja esperar motivación, practica ahora",
+      "category": "Perseverance",
+      "generated_at": "2026-04-18T14:02:51.993334"
+    },
+    {
+      "english": "This is why fluency feels heavy",
+      "spanish": "Por eso, la fluidez pesa",
+      "category": "Perseverance",
+      "generated_at": "2026-04-18T14:02:51.993348"
+    },
+    {
+      "english": "Stop perfecting, just show up today",
+      "spanish": "Deja perfeccionar, solo aparece hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-04-18T14:02:51.993353"
+    },
+    {
+      "english": "Never fear slow, keep going",
+      "spanish": "Nunca temas ir lento, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-04-18T14:02:51.993357"
+    },
+    {
+      "english": "This sentence beats fear, every day",
+      "spanish": "Esta frase vence el miedo",
+      "category": "Perseverance",
+      "generated_at": "2026-04-18T14:02:51.993361"
     }
   ],
   "used_english": [
@@ -2388,7 +2418,12 @@
     "this is why confidence sounds wrong",
     "the secret, ask for simple help",
     "stop choking, breathe, then answer",
-    "never aim perfect, aim clear"
+    "never aim perfect, aim clear",
+    "stop waiting for motivation, practice now",
+    "this is why fluency feels heavy",
+    "stop perfecting, just show up today",
+    "never fear slow, keep going",
+    "this sentence beats fear, every day"
   ],
-  "last_updated": "2026-04-17T21:32:37.014398"
+  "last_updated": "2026-04-18T14:02:51.993363"
 }
