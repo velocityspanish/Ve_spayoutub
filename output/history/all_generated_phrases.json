@@ -2075,6 +2075,36 @@
       "spanish": "Esta frase vence el miedo",
       "category": "Perseverance",
       "generated_at": "2026-04-18T14:02:51.993361"
+    },
+    {
+      "english": "Stop freezing, use 'está' first",
+      "spanish": "Deja de congelarte, usa 'está' primero",
+      "category": "Strength",
+      "generated_at": "2026-04-18T15:38:43.352216"
+    },
+    {
+      "english": "Never wait, say what you see",
+      "spanish": "Nunca esperes, di lo que ves",
+      "category": "Strength",
+      "generated_at": "2026-04-18T15:38:43.352229"
+    },
+    {
+      "english": "The secret, add one emotion word",
+      "spanish": "El secreto, agrega una emoción",
+      "category": "Strength",
+      "generated_at": "2026-04-18T15:38:43.352234"
+    },
+    {
+      "english": "Stop hunting rules, just tell a story",
+      "spanish": "Deja de buscar reglas, cuenta una historia",
+      "category": "Strength",
+      "generated_at": "2026-04-18T15:38:43.352238"
+    },
+    {
+      "english": "Never perfect, just finish the sentence",
+      "spanish": "No perfecciones, termina la oración",
+      "category": "Strength",
+      "generated_at": "2026-04-18T15:38:43.352242"
     }
   ],
   "used_english": [
@@ -2423,7 +2453,12 @@
     "this is why fluency feels heavy",
     "stop perfecting, just show up today",
     "never fear slow, keep going",
-    "this sentence beats fear, every day"
+    "this sentence beats fear, every day",
+    "stop freezing, use 'está' first",
+    "never wait, say what you see",
+    "the secret, add one emotion word",
+    "stop hunting rules, just tell a story",
+    "never perfect, just finish the sentence"
   ],
-  "last_updated": "2026-04-18T14:02:51.993363"
+  "last_updated": "2026-04-18T15:38:43.352244"
 }
