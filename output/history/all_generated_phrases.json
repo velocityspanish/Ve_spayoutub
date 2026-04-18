@@ -2135,6 +2135,36 @@
       "spanish": "No temas el silencio, sonríe primero",
       "category": "Happiness",
       "generated_at": "2026-04-18T17:37:00.252343"
+    },
+    {
+      "english": "Never lose the tiny 'de'",
+      "spanish": "Nunca pierdas la 'de' pequeñita",
+      "category": "Growth",
+      "generated_at": "2026-04-18T19:43:49.985005"
+    },
+    {
+      "english": "Stop fearing 'ser' vs 'estar'",
+      "spanish": "Deja de temer 'ser' y 'estar'",
+      "category": "Growth",
+      "generated_at": "2026-04-18T19:43:49.985018"
+    },
+    {
+      "english": "The secret is saying one need",
+      "spanish": "El secreto es decir una necesidad",
+      "category": "Growth",
+      "generated_at": "2026-04-18T19:43:49.985023"
+    },
+    {
+      "english": "Stop waiting, use 'todavía'",
+      "spanish": "No esperes, usa 'todavía'",
+      "category": "Growth",
+      "generated_at": "2026-04-18T19:43:49.985028"
+    },
+    {
+      "english": "Never say 'because', say 'porque'",
+      "spanish": "Nunca digas 'porque' con miedo",
+      "category": "Growth",
+      "generated_at": "2026-04-18T19:43:49.985033"
     }
   ],
   "used_english": [
@@ -2493,7 +2523,12 @@
     "this is why smiles unlock spanish",
     "the secret? talk like you mean it",
     "stop chasing perfect, use simple now",
-    "never fear silence, smile back"
+    "never fear silence, smile back",
+    "never lose the tiny 'de'",
+    "stop fearing 'ser' vs 'estar'",
+    "the secret is saying one need",
+    "stop waiting, use 'todavía'",
+    "never say 'because', say 'porque'"
   ],
-  "last_updated": "2026-04-18T17:37:00.252345"
+  "last_updated": "2026-04-18T19:43:49.985035"
 }
