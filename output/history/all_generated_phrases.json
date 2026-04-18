@@ -2105,6 +2105,36 @@
       "spanish": "No perfecciones, termina la oración",
       "category": "Strength",
       "generated_at": "2026-04-18T15:38:43.352242"
+    },
+    {
+      "english": "Stop doubting, say it anyway, hoy",
+      "spanish": "Deja de dudar, dilo igual, hoy",
+      "category": "Happiness",
+      "generated_at": "2026-04-18T17:37:00.252313"
+    },
+    {
+      "english": "This is why smiles unlock Spanish",
+      "spanish": "Por eso, las sonrisas abren español",
+      "category": "Happiness",
+      "generated_at": "2026-04-18T17:37:00.252328"
+    },
+    {
+      "english": "The secret? Talk like you mean it",
+      "spanish": "El secreto, habla como lo sientes",
+      "category": "Happiness",
+      "generated_at": "2026-04-18T17:37:00.252334"
+    },
+    {
+      "english": "Stop chasing perfect, use simple now",
+      "spanish": "No persigas lo perfecto, usa simple ahora",
+      "category": "Happiness",
+      "generated_at": "2026-04-18T17:37:00.252338"
+    },
+    {
+      "english": "Never fear silence, smile back",
+      "spanish": "No temas el silencio, sonríe primero",
+      "category": "Happiness",
+      "generated_at": "2026-04-18T17:37:00.252343"
     }
   ],
   "used_english": [
@@ -2458,7 +2488,12 @@
     "never wait, say what you see",
     "the secret, add one emotion word",
     "stop hunting rules, just tell a story",
-    "never perfect, just finish the sentence"
+    "never perfect, just finish the sentence",
+    "stop doubting, say it anyway, hoy",
+    "this is why smiles unlock spanish",
+    "the secret? talk like you mean it",
+    "stop chasing perfect, use simple now",
+    "never fear silence, smile back"
   ],
-  "last_updated": "2026-04-18T15:38:43.352244"
+  "last_updated": "2026-04-18T17:37:00.252345"
 }
