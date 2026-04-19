@@ -2285,6 +2285,36 @@
       "spanish": "Deja de buscar, describe hoy",
       "category": "Courage",
       "generated_at": "2026-04-19T17:36:26.794879"
+    },
+    {
+      "english": "Stop memorizing, just shadow natives",
+      "spanish": "Deja de memorizar, imita nativos",
+      "category": "Joy",
+      "generated_at": "2026-04-19T19:44:01.440619"
+    },
+    {
+      "english": "Never study, talk for three minutes",
+      "spanish": "Nunca estudies, habla tres minutos",
+      "category": "Joy",
+      "generated_at": "2026-04-19T19:44:01.440632"
+    },
+    {
+      "english": "This is why “me” sticks first",
+      "spanish": "Esto es por qué “me” pega primero",
+      "category": "Joy",
+      "generated_at": "2026-04-19T19:44:01.440638"
+    },
+    {
+      "english": "Never overthink, just use “quiero”",
+      "spanish": "Nunca pienses de más, usa “quiero”",
+      "category": "Joy",
+      "generated_at": "2026-04-19T19:44:01.440643"
+    },
+    {
+      "english": "Stop asking, start answering out loud",
+      "spanish": "Deja de preguntar, responde en voz alta",
+      "category": "Joy",
+      "generated_at": "2026-04-19T19:44:01.440648"
     }
   ],
   "used_english": [
@@ -2668,7 +2698,12 @@
     "never speak without one connection",
     "what nobody tells you, just breathe",
     "the secret? say it with emotion",
-    "stop searching, start describing today"
+    "stop searching, start describing today",
+    "stop memorizing, just shadow natives",
+    "never study, talk for three minutes",
+    "this is why “me” sticks first",
+    "never overthink, just use “quiero”",
+    "stop asking, start answering out loud"
   ],
-  "last_updated": "2026-04-19T17:36:26.794881"
+  "last_updated": "2026-04-19T19:44:01.440650"
 }
