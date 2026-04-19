@@ -2195,6 +2195,36 @@
       "spanish": "Nunca temas las victorias pequeñas",
       "category": "Positive Life",
       "generated_at": "2026-04-18T21:23:49.684726"
+    },
+    {
+      "english": "Stop overthinking, say it like this",
+      "spanish": "Deja de pensar, dilo así",
+      "category": "Balance",
+      "generated_at": "2026-04-19T14:01:25.286157"
+    },
+    {
+      "english": "Never study long, speak right now",
+      "spanish": "Nunca estudies mucho, habla ya",
+      "category": "Balance",
+      "generated_at": "2026-04-19T14:01:25.286173"
+    },
+    {
+      "english": "This is why you stall, missing one preposition",
+      "spanish": "Por eso te trabas, falta una preposición",
+      "category": "Balance",
+      "generated_at": "2026-04-19T14:01:25.286180"
+    },
+    {
+      "english": "The secret is pairing, subject plus action",
+      "spanish": "El secreto es unir, sujeto y acción",
+      "category": "Balance",
+      "generated_at": "2026-04-19T14:01:25.286187"
+    },
+    {
+      "english": "Never say 'I think', go straight to feel",
+      "spanish": "No digas 'creo', ve directo al sentir",
+      "category": "Balance",
+      "generated_at": "2026-04-19T14:01:25.286194"
     }
   ],
   "used_english": [
@@ -2563,7 +2593,12 @@
     "stop hiding, say “yo también”",
     "the secret, practice questions only",
     "stop switching, say it in present",
-    "never fear tiny wins, celebrate"
+    "never fear tiny wins, celebrate",
+    "stop overthinking, say it like this",
+    "never study long, speak right now",
+    "this is why you stall, missing one preposition",
+    "the secret is pairing, subject plus action",
+    "never say 'i think', go straight to feel"
   ],
-  "last_updated": "2026-04-18T21:23:49.684728"
+  "last_updated": "2026-04-19T14:01:25.286197"
 }
