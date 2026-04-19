@@ -2255,6 +2255,36 @@
       "spanish": "No temas la charla, empieza",
       "category": "Confidence",
       "generated_at": "2026-04-19T15:39:14.679570"
+    },
+    {
+      "english": "Stop waiting for “perfect” words",
+      "spanish": "Deja de esperar palabras perfectas",
+      "category": "Courage",
+      "generated_at": "2026-04-19T17:36:26.794853"
+    },
+    {
+      "english": "Never speak without one connection",
+      "spanish": "Nunca hables sin un conector",
+      "category": "Courage",
+      "generated_at": "2026-04-19T17:36:26.794865"
+    },
+    {
+      "english": "What nobody tells you, just breathe",
+      "spanish": "Lo que nadie te dice, respira",
+      "category": "Courage",
+      "generated_at": "2026-04-19T17:36:26.794870"
+    },
+    {
+      "english": "The secret? Say it with emotion",
+      "spanish": "El secreto, dilo con emoción",
+      "category": "Courage",
+      "generated_at": "2026-04-19T17:36:26.794875"
+    },
+    {
+      "english": "Stop searching, start describing today",
+      "spanish": "Deja de buscar, describe hoy",
+      "category": "Courage",
+      "generated_at": "2026-04-19T17:36:26.794879"
     }
   ],
   "used_english": [
@@ -2633,7 +2663,12 @@
     "stop sounding rehearsed, speak naturally",
     "the secret? use one real detail",
     "stop editing, let it flow",
-    "never fear small talk, start"
+    "never fear small talk, start",
+    "stop waiting for “perfect” words",
+    "never speak without one connection",
+    "what nobody tells you, just breathe",
+    "the secret? say it with emotion",
+    "stop searching, start describing today"
   ],
-  "last_updated": "2026-04-19T15:39:14.679572"
+  "last_updated": "2026-04-19T17:36:26.794881"
 }
