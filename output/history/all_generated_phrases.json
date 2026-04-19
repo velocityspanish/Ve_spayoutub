@@ -2315,6 +2315,36 @@
       "spanish": "Deja de preguntar, responde en voz alta",
       "category": "Joy",
       "generated_at": "2026-04-19T19:44:01.440648"
+    },
+    {
+      "english": "Stop chasing perfect, add one verb",
+      "spanish": "Deja la perfección, agrega un verbo",
+      "category": "Patience",
+      "generated_at": "2026-04-19T21:25:06.427237"
+    },
+    {
+      "english": "Never wait, speak your next thought",
+      "spanish": "Nunca esperes, di tu próximo pensamiento",
+      "category": "Patience",
+      "generated_at": "2026-04-19T21:25:06.427252"
+    },
+    {
+      "english": "The secret, ask instead of translate",
+      "spanish": "El secreto, pregunta en vez de traducir",
+      "category": "Patience",
+      "generated_at": "2026-04-19T21:25:06.427257"
+    },
+    {
+      "english": "Never fear questions, use simple 'sí'",
+      "spanish": "No temas preguntas, usa un 'sí' simple",
+      "category": "Patience",
+      "generated_at": "2026-04-19T21:25:06.427262"
+    },
+    {
+      "english": "Stop avoiding practice, do it messy",
+      "spanish": "Deja de evitar práctica, hazlo mal",
+      "category": "Patience",
+      "generated_at": "2026-04-19T21:25:06.427267"
     }
   ],
   "used_english": [
@@ -2703,7 +2733,12 @@
     "never study, talk for three minutes",
     "this is why “me” sticks first",
     "never overthink, just use “quiero”",
-    "stop asking, start answering out loud"
+    "stop asking, start answering out loud",
+    "stop chasing perfect, add one verb",
+    "never wait, speak your next thought",
+    "the secret, ask instead of translate",
+    "never fear questions, use simple 'sí'",
+    "stop avoiding practice, do it messy"
   ],
-  "last_updated": "2026-04-19T19:44:01.440650"
+  "last_updated": "2026-04-19T21:25:06.427269"
 }
