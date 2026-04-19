@@ -2225,6 +2225,36 @@
       "spanish": "No digas 'creo', ve directo al sentir",
       "category": "Balance",
       "generated_at": "2026-04-19T14:01:25.286194"
+    },
+    {
+      "english": "Never apologize, start speaking",
+      "spanish": "Nunca pidas disculpas, empieza a hablar",
+      "category": "Confidence",
+      "generated_at": "2026-04-19T15:39:14.679543"
+    },
+    {
+      "english": "Stop sounding rehearsed, speak naturally",
+      "spanish": "Deja de sonar ensayado, habla natural",
+      "category": "Confidence",
+      "generated_at": "2026-04-19T15:39:14.679556"
+    },
+    {
+      "english": "The secret? Use one real detail",
+      "spanish": "El secreto, usa un detalle real",
+      "category": "Confidence",
+      "generated_at": "2026-04-19T15:39:14.679561"
+    },
+    {
+      "english": "Stop editing, let it flow",
+      "spanish": "Deja de editar, deja fluir",
+      "category": "Confidence",
+      "generated_at": "2026-04-19T15:39:14.679565"
+    },
+    {
+      "english": "Never fear small talk, start",
+      "spanish": "No temas la charla, empieza",
+      "category": "Confidence",
+      "generated_at": "2026-04-19T15:39:14.679570"
     }
   ],
   "used_english": [
@@ -2598,7 +2628,12 @@
     "never study long, speak right now",
     "this is why you stall, missing one preposition",
     "the secret is pairing, subject plus action",
-    "never say 'i think', go straight to feel"
+    "never say 'i think', go straight to feel",
+    "never apologize, start speaking",
+    "stop sounding rehearsed, speak naturally",
+    "the secret? use one real detail",
+    "stop editing, let it flow",
+    "never fear small talk, start"
   ],
-  "last_updated": "2026-04-19T14:01:25.286197"
+  "last_updated": "2026-04-19T15:39:14.679572"
 }
