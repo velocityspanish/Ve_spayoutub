@@ -2465,6 +2465,36 @@
       "spanish": "Deja los errores, cuenta intentos",
       "category": "Patience",
       "generated_at": "2026-04-20T20:02:03.014949"
+    },
+    {
+      "english": "Stop blaming your accent, use pause",
+      "spanish": "Deja de culpar tu acento, pausa",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-20T21:37:33.773465"
+    },
+    {
+      "english": "Never skip the 'y', save sentences",
+      "spanish": "Nunca saltes el 'y', salva frases",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-20T21:37:33.773480"
+    },
+    {
+      "english": "The secret, ask 'who' before 'what'",
+      "spanish": "El secreto, pregunta 'quién' primero",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-20T21:37:33.773486"
+    },
+    {
+      "english": "Never start with 'I think', switch",
+      "spanish": "Nunca empieces con 'yo creo', cambia",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-20T21:37:33.773491"
+    },
+    {
+      "english": "Stop saying 'sorry', say 'thank you'",
+      "spanish": "Deja de decir 'perdón', di 'gracias'",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-20T21:37:33.773496"
     }
   ],
   "used_english": [
@@ -2878,7 +2908,12 @@
     "never fear saying 'today' wrong",
     "the secret? speak first, fix later",
     "never quit when it feels awkward",
-    "stop counting errors, count tries"
+    "stop counting errors, count tries",
+    "stop blaming your accent, use pause",
+    "never skip the 'y', save sentences",
+    "the secret, ask 'who' before 'what'",
+    "never start with 'i think', switch",
+    "stop saying 'sorry', say 'thank you'"
   ],
-  "last_updated": "2026-04-20T20:02:03.014951"
+  "last_updated": "2026-04-20T21:37:33.773498"
 }
