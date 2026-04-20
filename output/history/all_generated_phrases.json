@@ -2375,6 +2375,36 @@
       "spanish": "Deja de sobreeditar, habla con corazón",
       "category": "Positive Life",
       "generated_at": "2026-04-20T14:54:25.120284"
+    },
+    {
+      "english": "Stop starting with English inside",
+      "spanish": "Deja de empezar con inglés dentro",
+      "category": "Creativity",
+      "generated_at": "2026-04-20T16:11:28.577138"
+    },
+    {
+      "english": "Never overthink, grab one verb",
+      "spanish": "Nunca sobrepienses, toma un verbo",
+      "category": "Creativity",
+      "generated_at": "2026-04-20T16:11:28.577151"
+    },
+    {
+      "english": "The secret? Answer in one breath",
+      "spanish": "El secreto, responde en una bocanada",
+      "category": "Creativity",
+      "generated_at": "2026-04-20T16:11:28.577157"
+    },
+    {
+      "english": "Stop pausing, use 'porque' boldly",
+      "spanish": "No te detengas, usa 'porque' valiente",
+      "category": "Creativity",
+      "generated_at": "2026-04-20T16:11:28.577162"
+    },
+    {
+      "english": "Never say perfect, say what matters",
+      "spanish": "No digas perfecto, di lo que importa",
+      "category": "Creativity",
+      "generated_at": "2026-04-20T16:11:28.577167"
     }
   ],
   "used_english": [
@@ -2773,7 +2803,12 @@
     "never say “someday”, say “hoy”",
     "the secret is asking, not guessing",
     "never hide, use “yo puedo”",
-    "stop overediting, speak with heart"
+    "stop overediting, speak with heart",
+    "stop starting with english inside",
+    "never overthink, grab one verb",
+    "the secret? answer in one breath",
+    "stop pausing, use 'porque' boldly",
+    "never say perfect, say what matters"
   ],
-  "last_updated": "2026-04-20T14:54:25.120287"
+  "last_updated": "2026-04-20T16:11:28.577169"
 }
