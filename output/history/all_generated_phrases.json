@@ -2405,6 +2405,36 @@
       "spanish": "No digas perfecto, di lo que importa",
       "category": "Creativity",
       "generated_at": "2026-04-20T16:11:28.577167"
+    },
+    {
+      "english": "Stop ghosting, say “¿Qué tal?”",
+      "spanish": "Deja de desaparecer, di “¿Qué tal?”",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T17:58:18.530824"
+    },
+    {
+      "english": "Never lose “amigo”, use it!",
+      "spanish": "Nunca pierdas “amigo”, ¡úsalo!",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T17:58:18.530837"
+    },
+    {
+      "english": "This is why friendships stick faster",
+      "spanish": "Esto es por qué la amistad pega",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T17:58:18.530842"
+    },
+    {
+      "english": "Never go silent, react with “qué bien”",
+      "spanish": "No te quedes callado, “qué bien”",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T17:58:18.530848"
+    },
+    {
+      "english": "This phrase makes people trust you",
+      "spanish": "Esta frase hace que confíen",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T17:58:18.530853"
     }
   ],
   "used_english": [
@@ -2808,7 +2838,12 @@
     "never overthink, grab one verb",
     "the secret? answer in one breath",
     "stop pausing, use 'porque' boldly",
-    "never say perfect, say what matters"
+    "never say perfect, say what matters",
+    "stop ghosting, say “¿qué tal?”",
+    "never lose “amigo”, use it!",
+    "this is why friendships stick faster",
+    "never go silent, react with “qué bien”",
+    "this phrase makes people trust you"
   ],
-  "last_updated": "2026-04-20T16:11:28.577169"
+  "last_updated": "2026-04-20T17:58:18.530855"
 }
