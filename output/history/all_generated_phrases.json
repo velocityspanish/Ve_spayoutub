@@ -2435,6 +2435,36 @@
       "spanish": "Esta frase hace que confíen",
       "category": "Friendship",
       "generated_at": "2026-04-20T17:58:18.530853"
+    },
+    {
+      "english": "Stop rushing, breathe, then say",
+      "spanish": "Para la prisa, respira, y di",
+      "category": "Patience",
+      "generated_at": "2026-04-20T20:02:03.014920"
+    },
+    {
+      "english": "Never fear saying 'today' wrong",
+      "spanish": "Nunca temas decir 'hoy' mal",
+      "category": "Patience",
+      "generated_at": "2026-04-20T20:02:03.014933"
+    },
+    {
+      "english": "The secret? Speak first, fix later",
+      "spanish": "El secreto, habla primero, corrige después",
+      "category": "Patience",
+      "generated_at": "2026-04-20T20:02:03.014939"
+    },
+    {
+      "english": "Never quit when it feels awkward",
+      "spanish": "Nunca te rindas, si es incómodo",
+      "category": "Patience",
+      "generated_at": "2026-04-20T20:02:03.014944"
+    },
+    {
+      "english": "Stop counting errors, count tries",
+      "spanish": "Deja los errores, cuenta intentos",
+      "category": "Patience",
+      "generated_at": "2026-04-20T20:02:03.014949"
     }
   ],
   "used_english": [
@@ -2843,7 +2873,12 @@
     "never lose “amigo”, use it!",
     "this is why friendships stick faster",
     "never go silent, react with “qué bien”",
-    "this phrase makes people trust you"
+    "this phrase makes people trust you",
+    "stop rushing, breathe, then say",
+    "never fear saying 'today' wrong",
+    "the secret? speak first, fix later",
+    "never quit when it feels awkward",
+    "stop counting errors, count tries"
   ],
-  "last_updated": "2026-04-20T17:58:18.530855"
+  "last_updated": "2026-04-20T20:02:03.014951"
 }
