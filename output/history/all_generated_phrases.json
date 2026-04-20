@@ -2345,6 +2345,36 @@
       "spanish": "Deja de evitar práctica, hazlo mal",
       "category": "Patience",
       "generated_at": "2026-04-19T21:25:06.427267"
+    },
+    {
+      "english": "Stop shrinking, say your truth",
+      "spanish": "Deja de encogerte, di tu verdad",
+      "category": "Positive Life",
+      "generated_at": "2026-04-20T14:54:25.120257"
+    },
+    {
+      "english": "Never say “someday”, say “hoy”",
+      "spanish": "Nunca digas “algún día”, di “hoy”",
+      "category": "Positive Life",
+      "generated_at": "2026-04-20T14:54:25.120269"
+    },
+    {
+      "english": "The secret is asking, not guessing",
+      "spanish": "El secreto es preguntar, no adivinar",
+      "category": "Positive Life",
+      "generated_at": "2026-04-20T14:54:25.120274"
+    },
+    {
+      "english": "Never hide, use “yo puedo”",
+      "spanish": "Nunca te escondas, usa “yo puedo”",
+      "category": "Positive Life",
+      "generated_at": "2026-04-20T14:54:25.120279"
+    },
+    {
+      "english": "Stop overediting, speak with heart",
+      "spanish": "Deja de sobreeditar, habla con corazón",
+      "category": "Positive Life",
+      "generated_at": "2026-04-20T14:54:25.120284"
     }
   ],
   "used_english": [
@@ -2738,7 +2768,12 @@
     "never wait, speak your next thought",
     "the secret, ask instead of translate",
     "never fear questions, use simple 'sí'",
-    "stop avoiding practice, do it messy"
+    "stop avoiding practice, do it messy",
+    "stop shrinking, say your truth",
+    "never say “someday”, say “hoy”",
+    "the secret is asking, not guessing",
+    "never hide, use “yo puedo”",
+    "stop overediting, speak with heart"
   ],
-  "last_updated": "2026-04-19T21:25:06.427269"
+  "last_updated": "2026-04-20T14:54:25.120287"
 }
