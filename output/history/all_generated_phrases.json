@@ -2615,6 +2615,36 @@
       "spanish": "Nunca temas “estoy”, empieza ya",
       "category": "Wisdom",
       "generated_at": "2026-04-21T20:06:12.633913"
+    },
+    {
+      "english": "Stop saying “wait,” start speaking",
+      "spanish": "Deja de decir “espera”, habla",
+      "category": "Joy",
+      "generated_at": "2026-04-21T21:36:27.904810"
+    },
+    {
+      "english": "Never blend words, say them crisp",
+      "spanish": "Nunca mezcles palabras, dilo claro",
+      "category": "Joy",
+      "generated_at": "2026-04-21T21:36:27.904824"
+    },
+    {
+      "english": "Never explain, just say the word",
+      "spanish": "No expliques, solo di la palabra",
+      "category": "Joy",
+      "generated_at": "2026-04-21T21:36:27.904829"
+    },
+    {
+      "english": "This one habit makes Spanish easier",
+      "spanish": "Este hábito hace el español fácil",
+      "category": "Joy",
+      "generated_at": "2026-04-21T21:36:27.904835"
+    },
+    {
+      "english": "Stop pausing, say “next” out loud",
+      "spanish": "Deja pausas, di “siguiente”",
+      "category": "Joy",
+      "generated_at": "2026-04-21T21:36:27.904840"
     }
   ],
   "used_english": [
@@ -3053,7 +3083,12 @@
     "never apologize, just say “gracias”",
     "the secret is speaking, not reviewing",
     "stop overthinking, answer with “vale”",
-    "never fear “estoy”, start now"
+    "never fear “estoy”, start now",
+    "stop saying “wait,” start speaking",
+    "never blend words, say them crisp",
+    "never explain, just say the word",
+    "this one habit makes spanish easier",
+    "stop pausing, say “next” out loud"
   ],
-  "last_updated": "2026-04-21T20:06:12.633915"
+  "last_updated": "2026-04-21T21:36:27.904842"
 }
