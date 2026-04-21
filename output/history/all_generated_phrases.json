@@ -2525,6 +2525,36 @@
       "spanish": "Deja de congelarte, di 'entiendo'",
       "category": "Positive Life",
       "generated_at": "2026-04-21T14:49:08.972676"
+    },
+    {
+      "english": "Stop translating mid-sentence, think Spanish",
+      "spanish": "Deja de traducir, piensa en español",
+      "category": "Joy",
+      "generated_at": "2026-04-21T16:11:46.682349"
+    },
+    {
+      "english": "Never freeze, use '¿Cómo?' first",
+      "spanish": "Nunca te congeles, usa '¿Cómo?' primero",
+      "category": "Joy",
+      "generated_at": "2026-04-21T16:11:46.682366"
+    },
+    {
+      "english": "The secret, answer with one verb",
+      "spanish": "El secreto, responde con un verbo",
+      "category": "Joy",
+      "generated_at": "2026-04-21T16:11:46.682372"
+    },
+    {
+      "english": "Stop clapping, start speaking now",
+      "spanish": "Deja de aplaudir, habla ya",
+      "category": "Joy",
+      "generated_at": "2026-04-21T16:11:46.682378"
+    },
+    {
+      "english": "This phrase opens conversations instantly",
+      "spanish": "Esta frase abre charlas al instante",
+      "category": "Joy",
+      "generated_at": "2026-04-21T16:11:46.682382"
     }
   ],
   "used_english": [
@@ -2948,7 +2978,12 @@
     "never fear imperfect words, use them",
     "this is why natives respond fast",
     "never wait for grammar, start talking",
-    "stop freezing, say 'i understand'"
+    "stop freezing, say 'i understand'",
+    "stop translating mid-sentence, think spanish",
+    "never freeze, use '¿cómo?' first",
+    "the secret, answer with one verb",
+    "stop clapping, start speaking now",
+    "this phrase opens conversations instantly"
   ],
-  "last_updated": "2026-04-21T14:49:08.972678"
+  "last_updated": "2026-04-21T16:11:46.682384"
 }
