@@ -2585,6 +2585,36 @@
       "spanish": "Nunca estudies solo, practica con preguntas",
       "category": "Positive Life",
       "generated_at": "2026-04-21T17:59:40.527793"
+    },
+    {
+      "english": "Stop saying “maybe”, say “seguro”",
+      "spanish": "Deja de decir “tal vez”, di “seguro”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-21T20:06:12.633886"
+    },
+    {
+      "english": "Never apologize, just say “gracias”",
+      "spanish": "Nunca pidas disculpas, solo di “gracias”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-21T20:06:12.633897"
+    },
+    {
+      "english": "The secret is speaking, not reviewing",
+      "spanish": "El secreto es hablar, no repasar",
+      "category": "Wisdom",
+      "generated_at": "2026-04-21T20:06:12.633903"
+    },
+    {
+      "english": "Stop overthinking, answer with “vale”",
+      "spanish": "Deja de pensar tanto, di “vale”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-21T20:06:12.633908"
+    },
+    {
+      "english": "Never fear “estoy”, start now",
+      "spanish": "Nunca temas “estoy”, empieza ya",
+      "category": "Wisdom",
+      "generated_at": "2026-04-21T20:06:12.633913"
     }
   ],
   "used_english": [
@@ -3018,7 +3048,12 @@
     "stop hiding, say 'me importa'",
     "this is why natives sound calm",
     "the secret? use 'voy a' today",
-    "never study alone, practice with questions"
+    "never study alone, practice with questions",
+    "stop saying “maybe”, say “seguro”",
+    "never apologize, just say “gracias”",
+    "the secret is speaking, not reviewing",
+    "stop overthinking, answer with “vale”",
+    "never fear “estoy”, start now"
   ],
-  "last_updated": "2026-04-21T17:59:40.527795"
+  "last_updated": "2026-04-21T20:06:12.633915"
 }
