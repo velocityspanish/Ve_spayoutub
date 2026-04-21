@@ -2495,6 +2495,36 @@
       "spanish": "Deja de decir 'perdón', di 'gracias'",
       "category": "Forgiveness",
       "generated_at": "2026-04-20T21:37:33.773496"
+    },
+    {
+      "english": "Stop asking, start naming feelings",
+      "spanish": "Deja de preguntar, nombra sentimientos",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T14:49:08.972643"
+    },
+    {
+      "english": "Never fear imperfect words, use them",
+      "spanish": "Nunca temas palabras imperfectas, úsalas",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T14:49:08.972660"
+    },
+    {
+      "english": "This is why natives respond fast",
+      "spanish": "Esto es por qué responden rápido",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T14:49:08.972666"
+    },
+    {
+      "english": "Never wait for grammar, start talking",
+      "spanish": "No esperes gramática, empieza a hablar",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T14:49:08.972671"
+    },
+    {
+      "english": "Stop freezing, say 'I understand'",
+      "spanish": "Deja de congelarte, di 'entiendo'",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T14:49:08.972676"
     }
   ],
   "used_english": [
@@ -2913,7 +2943,12 @@
     "never skip the 'y', save sentences",
     "the secret, ask 'who' before 'what'",
     "never start with 'i think', switch",
-    "stop saying 'sorry', say 'thank you'"
+    "stop saying 'sorry', say 'thank you'",
+    "stop asking, start naming feelings",
+    "never fear imperfect words, use them",
+    "this is why natives respond fast",
+    "never wait for grammar, start talking",
+    "stop freezing, say 'i understand'"
   ],
-  "last_updated": "2026-04-20T21:37:33.773498"
+  "last_updated": "2026-04-21T14:49:08.972678"
 }
