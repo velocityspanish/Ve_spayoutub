@@ -2555,6 +2555,36 @@
       "spanish": "Esta frase abre charlas al instante",
       "category": "Joy",
       "generated_at": "2026-04-21T16:11:46.682382"
+    },
+    {
+      "english": "Never wait, whisper 'por favor'",
+      "spanish": "Nunca esperes, susurra 'por favor'",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T17:59:40.527755"
+    },
+    {
+      "english": "Stop hiding, say 'me importa'",
+      "spanish": "Deja de esconderte, di 'me importa'",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T17:59:40.527767"
+    },
+    {
+      "english": "This is why natives sound calm",
+      "spanish": "Esto es por qué suenan calmados",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T17:59:40.527773"
+    },
+    {
+      "english": "The secret? Use 'voy a' today",
+      "spanish": "El secreto, usa 'voy a' hoy",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T17:59:40.527778"
+    },
+    {
+      "english": "Never study alone, practice with questions",
+      "spanish": "Nunca estudies solo, practica con preguntas",
+      "category": "Positive Life",
+      "generated_at": "2026-04-21T17:59:40.527793"
     }
   ],
   "used_english": [
@@ -2983,7 +3013,12 @@
     "never freeze, use '¿cómo?' first",
     "the secret, answer with one verb",
     "stop clapping, start speaking now",
-    "this phrase opens conversations instantly"
+    "this phrase opens conversations instantly",
+    "never wait, whisper 'por favor'",
+    "stop hiding, say 'me importa'",
+    "this is why natives sound calm",
+    "the secret? use 'voy a' today",
+    "never study alone, practice with questions"
   ],
-  "last_updated": "2026-04-21T16:11:46.682384"
+  "last_updated": "2026-04-21T17:59:40.527795"
 }
