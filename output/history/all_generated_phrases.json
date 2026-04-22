@@ -2765,6 +2765,36 @@
       "spanish": "Nunca esperes—empieza con una frase",
       "category": "Success",
       "generated_at": "2026-04-22T20:08:40.280354"
+    },
+    {
+      "english": "Stop waiting, say it now,",
+      "spanish": "Deja de esperar, dilo ya,",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T21:41:52.973455"
+    },
+    {
+      "english": "Never say “how are you?”",
+      "spanish": "Nunca digas “¿cómo estás?”",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T21:41:52.973467"
+    },
+    {
+      "english": "This is why compliments work fast,",
+      "spanish": "Esto es por qué los halagos rinden rápido,",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T21:41:52.973474"
+    },
+    {
+      "english": "The secret? Share one true feeling,",
+      "spanish": "El secreto, comparte un sentimiento real,",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T21:41:52.973479"
+    },
+    {
+      "english": "Never fear “I’m hungry”, use it,",
+      "spanish": "No temas “Tengo hambre”, úsalo,",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T21:41:52.973485"
     }
   ],
   "used_english": [
@@ -3228,7 +3258,12 @@
     "never memorize lists, learn phrases",
     "the secret... speak before you know",
     "stop repeating yourself, say it again",
-    "never wait—start with one sentence"
+    "never wait—start with one sentence",
+    "stop waiting, say it now,",
+    "never say “how are you?”",
+    "this is why compliments work fast,",
+    "the secret? share one true feeling,",
+    "never fear “i’m hungry”, use it,"
   ],
-  "last_updated": "2026-04-22T20:08:40.280356"
+  "last_updated": "2026-04-22T21:41:52.973487"
 }
