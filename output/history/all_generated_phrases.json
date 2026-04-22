@@ -2735,6 +2735,36 @@
       "spanish": "Esto lo cambia todo, di “de verdad”",
       "category": "Gratitude",
       "generated_at": "2026-04-22T18:01:41.691885"
+    },
+    {
+      "english": "Stop overthinking, use short answers",
+      "spanish": "Deja de pensar tanto, responde corto",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:08:40.280304"
+    },
+    {
+      "english": "Never memorize lists, learn phrases",
+      "spanish": "No memorices listas, aprende frases",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:08:40.280318"
+    },
+    {
+      "english": "The secret... speak before you know",
+      "spanish": "El secreto... habla antes de saber",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:08:40.280341"
+    },
+    {
+      "english": "Stop repeating yourself, say it again",
+      "spanish": "No repitas, di lo mismo otra vez",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:08:40.280348"
+    },
+    {
+      "english": "Never wait—start with one sentence",
+      "spanish": "Nunca esperes—empieza con una frase",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:08:40.280354"
     }
   ],
   "used_english": [
@@ -3193,7 +3223,12 @@
     "stop rushing thanks, say “te lo debo”",
     "never underestimate “¡qué bien!”, use it",
     "stop polite? no—say “por favor” first",
-    "this changes everything, thank with “de verdad”"
+    "this changes everything, thank with “de verdad”",
+    "stop overthinking, use short answers",
+    "never memorize lists, learn phrases",
+    "the secret... speak before you know",
+    "stop repeating yourself, say it again",
+    "never wait—start with one sentence"
   ],
-  "last_updated": "2026-04-22T18:01:41.691886"
+  "last_updated": "2026-04-22T20:08:40.280356"
 }
