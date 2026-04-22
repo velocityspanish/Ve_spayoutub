@@ -2705,6 +2705,36 @@
       "spanish": "No temas errores, te dan velocidad",
       "category": "Kindness",
       "generated_at": "2026-04-22T16:10:45.196757"
+    },
+    {
+      "english": "Never skip feelings, say “me alegra”",
+      "spanish": "Nunca saltes sentimientos, di “me alegra”",
+      "category": "Gratitude",
+      "generated_at": "2026-04-22T18:01:41.691852"
+    },
+    {
+      "english": "Stop rushing thanks, say “te lo debo”",
+      "spanish": "Deja la prisa, di “te lo debo”",
+      "category": "Gratitude",
+      "generated_at": "2026-04-22T18:01:41.691867"
+    },
+    {
+      "english": "Never underestimate “¡Qué bien!”, use it",
+      "spanish": "Nunca subestimes “¡Qué bien!”, úsalo",
+      "category": "Gratitude",
+      "generated_at": "2026-04-22T18:01:41.691873"
+    },
+    {
+      "english": "Stop polite? no—say “por favor” first",
+      "spanish": "¿Cortés? no—di “por favor” primero",
+      "category": "Gratitude",
+      "generated_at": "2026-04-22T18:01:41.691879"
+    },
+    {
+      "english": "This changes everything, thank with “de verdad”",
+      "spanish": "Esto lo cambia todo, di “de verdad”",
+      "category": "Gratitude",
+      "generated_at": "2026-04-22T18:01:41.691885"
     }
   ],
   "used_english": [
@@ -3158,7 +3188,12 @@
     "this is why 'por' feels natural",
     "the secret, add one warm 'gracias'",
     "stop ghosting spanish, say hi",
-    "never fear mistakes, they build speed"
+    "never fear mistakes, they build speed",
+    "never skip feelings, say “me alegra”",
+    "stop rushing thanks, say “te lo debo”",
+    "never underestimate “¡qué bien!”, use it",
+    "stop polite? no—say “por favor” first",
+    "this changes everything, thank with “de verdad”"
   ],
-  "last_updated": "2026-04-22T16:10:45.196759"
+  "last_updated": "2026-04-22T18:01:41.691886"
 }
