@@ -2645,6 +2645,36 @@
       "spanish": "Deja pausas, di “siguiente”",
       "category": "Joy",
       "generated_at": "2026-04-21T21:36:27.904840"
+    },
+    {
+      "english": "Stop saying “love you” silently",
+      "spanish": "Deja de decir “te quiero” en silencio",
+      "category": "Love",
+      "generated_at": "2026-04-22T14:48:09.526986"
+    },
+    {
+      "english": "Never say it late, di hoy",
+      "spanish": "Nunca lo digas tarde, di hoy",
+      "category": "Love",
+      "generated_at": "2026-04-22T14:48:09.527000"
+    },
+    {
+      "english": "This is why “te extraño” hits",
+      "spanish": "Por eso “te extraño” pega",
+      "category": "Love",
+      "generated_at": "2026-04-22T14:48:09.527006"
+    },
+    {
+      "english": "The secret? Add “mucho” right there",
+      "spanish": "El secreto, agrega “mucho” aquí",
+      "category": "Love",
+      "generated_at": "2026-04-22T14:48:09.527012"
+    },
+    {
+      "english": "Stop overthinking, use “me gustas”",
+      "spanish": "No pienses tanto, usa “me gustas”",
+      "category": "Love",
+      "generated_at": "2026-04-22T14:48:09.527017"
     }
   ],
   "used_english": [
@@ -3088,7 +3118,12 @@
     "never blend words, say them crisp",
     "never explain, just say the word",
     "this one habit makes spanish easier",
-    "stop pausing, say “next” out loud"
+    "stop pausing, say “next” out loud",
+    "stop saying “love you” silently",
+    "never say it late, di hoy",
+    "this is why “te extraño” hits",
+    "the secret? add “mucho” right there",
+    "stop overthinking, use “me gustas”"
   ],
-  "last_updated": "2026-04-21T21:36:27.904842"
+  "last_updated": "2026-04-22T14:48:09.527019"
 }
