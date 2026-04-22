@@ -2675,6 +2675,36 @@
       "spanish": "No pienses tanto, usa “me gustas”",
       "category": "Love",
       "generated_at": "2026-04-22T14:48:09.527017"
+    },
+    {
+      "english": "Never be rude, say 'perdón'",
+      "spanish": "Nunca seas brusco, di 'perdón'",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T16:10:45.196726"
+    },
+    {
+      "english": "This is why 'por' feels natural",
+      "spanish": "Por eso 'por' se siente natural",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T16:10:45.196740"
+    },
+    {
+      "english": "The secret, add one warm 'gracias'",
+      "spanish": "El secreto, agrega un 'gracias' cálido",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T16:10:45.196746"
+    },
+    {
+      "english": "Stop ghosting Spanish, say hi",
+      "spanish": "No me ignores, di hola",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T16:10:45.196752"
+    },
+    {
+      "english": "Never fear mistakes, they build speed",
+      "spanish": "No temas errores, te dan velocidad",
+      "category": "Kindness",
+      "generated_at": "2026-04-22T16:10:45.196757"
     }
   ],
   "used_english": [
@@ -3123,7 +3153,12 @@
     "never say it late, di hoy",
     "this is why “te extraño” hits",
     "the secret? add “mucho” right there",
-    "stop overthinking, use “me gustas”"
+    "stop overthinking, use “me gustas”",
+    "never be rude, say 'perdón'",
+    "this is why 'por' feels natural",
+    "the secret, add one warm 'gracias'",
+    "stop ghosting spanish, say hi",
+    "never fear mistakes, they build speed"
   ],
-  "last_updated": "2026-04-22T14:48:09.527019"
+  "last_updated": "2026-04-22T16:10:45.196759"
 }
