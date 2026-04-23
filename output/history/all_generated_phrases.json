@@ -2855,6 +2855,36 @@
       "spanish": "Deja de explicar, señala y di.",
       "category": "Joy",
       "generated_at": "2026-04-23T16:29:55.144157"
+    },
+    {
+      "english": "Never say “I’m trying”, say “I do”",
+      "spanish": "Nunca digas “estoy intentando”, di “yo hago”",
+      "category": "Success",
+      "generated_at": "2026-04-23T18:06:35.936979"
+    },
+    {
+      "english": "Stop using “English” mid-sentence, just switch",
+      "spanish": "Deja el “inglés” a mitad, solo cambia",
+      "category": "Success",
+      "generated_at": "2026-04-23T18:06:35.936992"
+    },
+    {
+      "english": "Never rehearse, answer while you think",
+      "spanish": "Nunca ensayes, responde mientras piensas",
+      "category": "Success",
+      "generated_at": "2026-04-23T18:06:35.936998"
+    },
+    {
+      "english": "Stop chasing answers, ask for help",
+      "spanish": "Deja de buscar respuestas, pide ayuda",
+      "category": "Success",
+      "generated_at": "2026-04-23T18:06:35.937004"
+    },
+    {
+      "english": "This is why “ya” sounds natural",
+      "spanish": "Esto es por qué “ya” suena natural",
+      "category": "Success",
+      "generated_at": "2026-04-23T18:06:35.937010"
     }
   ],
   "used_english": [
@@ -3333,7 +3363,12 @@
     "stop chasing perfect, use one 'voy'",
     "never freeze, say 'no entiendo'",
     "this phrase earns instant respect, 'vale?'",
-    "stop overexplaining, point and say"
+    "stop overexplaining, point and say",
+    "never say “i’m trying”, say “i do”",
+    "stop using “english” mid-sentence, just switch",
+    "never rehearse, answer while you think",
+    "stop chasing answers, ask for help",
+    "this is why “ya” sounds natural"
   ],
-  "last_updated": "2026-04-23T16:29:55.144162"
+  "last_updated": "2026-04-23T18:06:35.937012"
 }
