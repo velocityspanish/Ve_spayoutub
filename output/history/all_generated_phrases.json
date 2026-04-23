@@ -2825,6 +2825,36 @@
       "spanish": "Nunca digas “amor” en voz baja",
       "category": "Love",
       "generated_at": "2026-04-23T15:14:54.370277"
+    },
+    {
+      "english": "Never start with 'maybe', use 'seguro!'",
+      "spanish": "Nunca empieces con “tal vez”, usa “seguro”.",
+      "category": "Joy",
+      "generated_at": "2026-04-23T16:29:55.144125"
+    },
+    {
+      "english": "Stop chasing perfect, use one 'voy'",
+      "spanish": "No persigas lo perfecto, usa “voy”.",
+      "category": "Joy",
+      "generated_at": "2026-04-23T16:29:55.144140"
+    },
+    {
+      "english": "Never freeze, say 'no entiendo'",
+      "spanish": "Nunca te quedes, di “no entiendo”.",
+      "category": "Joy",
+      "generated_at": "2026-04-23T16:29:55.144146"
+    },
+    {
+      "english": "This phrase earns instant respect, 'vale?'",
+      "spanish": "Esta frase gana respeto, “¿vale?”.",
+      "category": "Joy",
+      "generated_at": "2026-04-23T16:29:55.144151"
+    },
+    {
+      "english": "Stop overexplaining, point and say",
+      "spanish": "Deja de explicar, señala y di.",
+      "category": "Joy",
+      "generated_at": "2026-04-23T16:29:55.144157"
     }
   ],
   "used_english": [
@@ -3298,7 +3328,12 @@
     "never confess “i’m bored” like this",
     "the secret? don’t hide your feelings",
     "stop overthinking, say “me encanta”",
-    "never say “love” quietly, say it"
+    "never say “love” quietly, say it",
+    "never start with 'maybe', use 'seguro!'",
+    "stop chasing perfect, use one 'voy'",
+    "never freeze, say 'no entiendo'",
+    "this phrase earns instant respect, 'vale?'",
+    "stop overexplaining, point and say"
   ],
-  "last_updated": "2026-04-23T15:14:54.370279"
+  "last_updated": "2026-04-23T16:29:55.144162"
 }
