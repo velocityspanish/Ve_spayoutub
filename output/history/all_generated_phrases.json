@@ -2795,6 +2795,36 @@
       "spanish": "No temas “Tengo hambre”, úsalo,",
       "category": "Kindness",
       "generated_at": "2026-04-22T21:41:52.973485"
+    },
+    {
+      "english": "Stop saying “hello”, say this",
+      "spanish": "No digas “hola”, di esto",
+      "category": "Love",
+      "generated_at": "2026-04-23T15:14:54.370239"
+    },
+    {
+      "english": "Never confess “I’m bored” like this",
+      "spanish": "Nunca digas “estoy aburrido” así",
+      "category": "Love",
+      "generated_at": "2026-04-23T15:14:54.370259"
+    },
+    {
+      "english": "The secret? Don’t hide your feelings",
+      "spanish": "El secreto, no escondas tus sentimientos",
+      "category": "Love",
+      "generated_at": "2026-04-23T15:14:54.370265"
+    },
+    {
+      "english": "Stop overthinking, say “me encanta”",
+      "spanish": "Deja de pensar, di “me encanta”",
+      "category": "Love",
+      "generated_at": "2026-04-23T15:14:54.370271"
+    },
+    {
+      "english": "Never say “love” quietly, say it",
+      "spanish": "Nunca digas “amor” en voz baja",
+      "category": "Love",
+      "generated_at": "2026-04-23T15:14:54.370277"
     }
   ],
   "used_english": [
@@ -3263,7 +3293,12 @@
     "never say “how are you?”",
     "this is why compliments work fast,",
     "the secret? share one true feeling,",
-    "never fear “i’m hungry”, use it,"
+    "never fear “i’m hungry”, use it,",
+    "stop saying “hello”, say this",
+    "never confess “i’m bored” like this",
+    "the secret? don’t hide your feelings",
+    "stop overthinking, say “me encanta”",
+    "never say “love” quietly, say it"
   ],
-  "last_updated": "2026-04-22T21:41:52.973487"
+  "last_updated": "2026-04-23T15:14:54.370279"
 }
