@@ -2915,6 +2915,36 @@
       "spanish": "Deja de pensar, di “mejor” ahora",
       "category": "Creativity",
       "generated_at": "2026-04-23T20:09:04.926528"
+    },
+    {
+      "english": "Never study alone, learn with voices",
+      "spanish": "Nunca estudies solo, aprende con voces",
+      "category": "Growth",
+      "generated_at": "2026-04-23T21:36:49.638773"
+    },
+    {
+      "english": "Stop “perfect”, use “prueba” today",
+      "spanish": "Deja “perfecto”, usa “prueba” hoy",
+      "category": "Growth",
+      "generated_at": "2026-04-23T21:36:49.638788"
+    },
+    {
+      "english": "Never pause, ride the sentence",
+      "spanish": "Nunca pares, sigue la frase",
+      "category": "Growth",
+      "generated_at": "2026-04-23T21:36:49.638795"
+    },
+    {
+      "english": "This one word buys confidence, “ya”",
+      "spanish": "Una palabra da confianza, “ya”",
+      "category": "Growth",
+      "generated_at": "2026-04-23T21:36:49.638801"
+    },
+    {
+      "english": "Stop translating, shadow the native",
+      "spanish": "Deja de traducir, imita al nativo",
+      "category": "Growth",
+      "generated_at": "2026-04-23T21:36:49.638810"
     }
   ],
   "used_english": [
@@ -3403,7 +3433,12 @@
     "never say “thanks”, say “gracias de verdad”",
     "this is why you sound natural, fast",
     "the secret? use “oye”, when it matters",
-    "stop overthinking, say “mejor” right now"
+    "stop overthinking, say “mejor” right now",
+    "never study alone, learn with voices",
+    "stop “perfect”, use “prueba” today",
+    "never pause, ride the sentence",
+    "this one word buys confidence, “ya”",
+    "stop translating, shadow the native"
   ],
-  "last_updated": "2026-04-23T20:09:04.926530"
+  "last_updated": "2026-04-23T21:36:49.638812"
 }
