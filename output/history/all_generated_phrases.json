@@ -2885,6 +2885,36 @@
       "spanish": "Esto es por qué “ya” suena natural",
       "category": "Success",
       "generated_at": "2026-04-23T18:06:35.937010"
+    },
+    {
+      "english": "Stop “like” translating, just say “tal”",
+      "spanish": "Deja de traducir “like”, di “tal”",
+      "category": "Creativity",
+      "generated_at": "2026-04-23T20:09:04.926494"
+    },
+    {
+      "english": "Never say “thanks”, say “gracias de verdad”",
+      "spanish": "Nunca digas “gracias”, di “gracias de verdad”",
+      "category": "Creativity",
+      "generated_at": "2026-04-23T20:09:04.926510"
+    },
+    {
+      "english": "This is why you sound natural, fast",
+      "spanish": "Esto es por qué suenas natural, rápido",
+      "category": "Creativity",
+      "generated_at": "2026-04-23T20:09:04.926516"
+    },
+    {
+      "english": "The secret? Use “oye”, when it matters",
+      "spanish": "El secreto, usa “oye”, cuando importa",
+      "category": "Creativity",
+      "generated_at": "2026-04-23T20:09:04.926522"
+    },
+    {
+      "english": "Stop overthinking, say “mejor” right now",
+      "spanish": "Deja de pensar, di “mejor” ahora",
+      "category": "Creativity",
+      "generated_at": "2026-04-23T20:09:04.926528"
     }
   ],
   "used_english": [
@@ -3368,7 +3398,12 @@
     "stop using “english” mid-sentence, just switch",
     "never rehearse, answer while you think",
     "stop chasing answers, ask for help",
-    "this is why “ya” sounds natural"
+    "this is why “ya” sounds natural",
+    "stop “like” translating, just say “tal”",
+    "never say “thanks”, say “gracias de verdad”",
+    "this is why you sound natural, fast",
+    "the secret? use “oye”, when it matters",
+    "stop overthinking, say “mejor” right now"
   ],
-  "last_updated": "2026-04-23T18:06:35.937012"
+  "last_updated": "2026-04-23T20:09:04.926530"
 }
