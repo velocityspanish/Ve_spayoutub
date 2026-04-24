@@ -2945,6 +2945,36 @@
       "spanish": "Deja de traducir, imita al nativo",
       "category": "Growth",
       "generated_at": "2026-04-23T21:36:49.638810"
+    },
+    {
+      "english": "Stop hiding, start with “tengo”.",
+      "spanish": "Deja de esconderte, empieza con “tengo”.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:42.934581"
+    },
+    {
+      "english": "Never fear “está bien”, say it.",
+      "spanish": "Nunca temas “está bien”, dilo.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:42.934599"
+    },
+    {
+      "english": "The secret is questions, not lectures.",
+      "spanish": "El secreto son preguntas, no lecciones.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:42.934605"
+    },
+    {
+      "english": "Stop waiting, use “ahora” right now.",
+      "spanish": "Deja de esperar, usa “ahora” ahora.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:42.934612"
+    },
+    {
+      "english": "Stop translating, read it in Spanish.",
+      "spanish": "Deja de traducir, léelo en español.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:42.934618"
     }
   ],
   "used_english": [
@@ -3438,7 +3468,12 @@
     "stop “perfect”, use “prueba” today",
     "never pause, ride the sentence",
     "this one word buys confidence, “ya”",
-    "stop translating, shadow the native"
+    "stop translating, shadow the native",
+    "stop hiding, start with “tengo”.",
+    "never fear “está bien”, say it.",
+    "the secret is questions, not lectures.",
+    "stop waiting, use “ahora” right now.",
+    "stop translating, read it in spanish."
   ],
-  "last_updated": "2026-04-23T21:36:49.638812"
+  "last_updated": "2026-04-24T14:46:42.934620"
 }
