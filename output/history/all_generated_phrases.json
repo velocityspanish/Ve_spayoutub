@@ -3065,6 +3065,36 @@
       "spanish": "Una pregunta abre confianza real",
       "category": "Positive Life",
       "generated_at": "2026-04-24T19:55:09.752060"
+    },
+    {
+      "english": "Never forget, gratitude speeds fluency",
+      "spanish": "Nunca olvides, la gratitud da fluidez",
+      "category": "Gratitude",
+      "generated_at": "2026-04-24T21:38:31.450419"
+    },
+    {
+      "english": "This is why natives thank fast,",
+      "spanish": "Esto es por qué, dan gracias rápido",
+      "category": "Gratitude",
+      "generated_at": "2026-04-24T21:38:31.450434"
+    },
+    {
+      "english": "Stop scrolling, practice one thankful sentence",
+      "spanish": "Deja de scrollear, di una frase agradecida",
+      "category": "Gratitude",
+      "generated_at": "2026-04-24T21:38:31.450440"
+    },
+    {
+      "english": "The secret? Thank even for small things",
+      "spanish": "El secreto, agradece cosas pequeñas",
+      "category": "Gratitude",
+      "generated_at": "2026-04-24T21:38:31.450446"
+    },
+    {
+      "english": "Stop waiting, say “te lo agradezco”",
+      "spanish": "No esperes, di “te lo agradezco”",
+      "category": "Gratitude",
+      "generated_at": "2026-04-24T21:38:31.450452"
     }
   ],
   "used_english": [
@@ -3578,7 +3608,12 @@
     "this is why your listening feels stuck",
     "the secret, answer before you translate",
     "stop overexplaining, use one brave phrase",
-    "this one question unlocks real confidence"
+    "this one question unlocks real confidence",
+    "never forget, gratitude speeds fluency",
+    "this is why natives thank fast,",
+    "stop scrolling, practice one thankful sentence",
+    "the secret? thank even for small things",
+    "stop waiting, say “te lo agradezco”"
   ],
-  "last_updated": "2026-04-24T19:55:09.752062"
+  "last_updated": "2026-04-24T21:38:31.450457"
 }
