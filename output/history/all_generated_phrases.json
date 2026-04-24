@@ -2975,6 +2975,36 @@
       "spanish": "Deja de traducir, léelo en español.",
       "category": "Courage",
       "generated_at": "2026-04-24T14:46:42.934618"
+    },
+    {
+      "english": "Stop memorizing, start feeling Spanish",
+      "spanish": "Deja memorizar, empieza a sentir español",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-24T16:06:39.086124"
+    },
+    {
+      "english": "Never ask 'what', ask 'why' first",
+      "spanish": "Nunca digas 'qué', di 'por qué' primero",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-24T16:06:39.086138"
+    },
+    {
+      "english": "Stop studying, practice in real life",
+      "spanish": "Deja estudiar, practica vida real",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-24T16:06:39.086143"
+    },
+    {
+      "english": "This one question upgrades your Spanish",
+      "spanish": "Esta pregunta sube tu español",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-24T16:06:39.086148"
+    },
+    {
+      "english": "Never say 'okay', say 'me encanta'",
+      "spanish": "No digas 'vale', di 'me encanta'",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-24T16:06:39.086153"
     }
   ],
   "used_english": [
@@ -3473,7 +3503,12 @@
     "never fear “está bien”, say it.",
     "the secret is questions, not lectures.",
     "stop waiting, use “ahora” right now.",
-    "stop translating, read it in spanish."
+    "stop translating, read it in spanish.",
+    "stop memorizing, start feeling spanish",
+    "never ask 'what', ask 'why' first",
+    "stop studying, practice in real life",
+    "this one question upgrades your spanish",
+    "never say 'okay', say 'me encanta'"
   ],
-  "last_updated": "2026-04-24T14:46:42.934620"
+  "last_updated": "2026-04-24T16:06:39.086154"
 }
