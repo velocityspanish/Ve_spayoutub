@@ -3005,6 +3005,36 @@
       "spanish": "No digas 'vale', di 'me encanta'",
       "category": "Self Improvement",
       "generated_at": "2026-04-24T16:06:39.086153"
+    },
+    {
+      "english": "Stop waiting, say “quiero” first",
+      "spanish": "Deja de esperar, di “quiero” primero",
+      "category": "Hope",
+      "generated_at": "2026-04-24T17:51:07.293769"
+    },
+    {
+      "english": "Never freeze, say “estoy listo”",
+      "spanish": "Nunca te quedes, di “estoy listo”",
+      "category": "Hope",
+      "generated_at": "2026-04-24T17:51:07.293785"
+    },
+    {
+      "english": "The secret? Ask with “¿y tú?”",
+      "spanish": "El secreto, pregunta con “¿y tú?”",
+      "category": "Hope",
+      "generated_at": "2026-04-24T17:51:07.293791"
+    },
+    {
+      "english": "This one word makes questions easy",
+      "spanish": "Una palabra, hace preguntas fáciles",
+      "category": "Hope",
+      "generated_at": "2026-04-24T17:51:07.293798"
+    },
+    {
+      "english": "Stop guessing, confirm with “¿sí?”",
+      "spanish": "Deja de adivinar, confirma con “¿sí?”",
+      "category": "Hope",
+      "generated_at": "2026-04-24T17:51:07.293804"
     }
   ],
   "used_english": [
@@ -3508,7 +3538,12 @@
     "never ask 'what', ask 'why' first",
     "stop studying, practice in real life",
     "this one question upgrades your spanish",
-    "never say 'okay', say 'me encanta'"
+    "never say 'okay', say 'me encanta'",
+    "stop waiting, say “quiero” first",
+    "never freeze, say “estoy listo”",
+    "the secret? ask with “¿y tú?”",
+    "this one word makes questions easy",
+    "stop guessing, confirm with “¿sí?”"
   ],
-  "last_updated": "2026-04-24T16:06:39.086154"
+  "last_updated": "2026-04-24T17:51:07.293806"
 }
