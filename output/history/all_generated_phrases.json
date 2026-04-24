@@ -3035,6 +3035,36 @@
       "spanish": "Deja de adivinar, confirma con “¿sí?”",
       "category": "Hope",
       "generated_at": "2026-04-24T17:51:07.293804"
+    },
+    {
+      "english": "Stop cramming, start dreaming in Spanish",
+      "spanish": "Deja memorizar, sueña en español",
+      "category": "Positive Life",
+      "generated_at": "2026-04-24T19:55:09.752017"
+    },
+    {
+      "english": "This is why your listening feels stuck",
+      "spanish": "Esto es por qué tu escucha se atora",
+      "category": "Positive Life",
+      "generated_at": "2026-04-24T19:55:09.752042"
+    },
+    {
+      "english": "The secret, answer before you translate",
+      "spanish": "El secreto, responde antes de traducir",
+      "category": "Positive Life",
+      "generated_at": "2026-04-24T19:55:09.752049"
+    },
+    {
+      "english": "Stop overexplaining, use one brave phrase",
+      "spanish": "Deja explicarlo, usa una frase valiente",
+      "category": "Positive Life",
+      "generated_at": "2026-04-24T19:55:09.752054"
+    },
+    {
+      "english": "This one question unlocks real confidence",
+      "spanish": "Una pregunta abre confianza real",
+      "category": "Positive Life",
+      "generated_at": "2026-04-24T19:55:09.752060"
     }
   ],
   "used_english": [
@@ -3543,7 +3573,12 @@
     "never freeze, say “estoy listo”",
     "the secret? ask with “¿y tú?”",
     "this one word makes questions easy",
-    "stop guessing, confirm with “¿sí?”"
+    "stop guessing, confirm with “¿sí?”",
+    "stop cramming, start dreaming in spanish",
+    "this is why your listening feels stuck",
+    "the secret, answer before you translate",
+    "stop overexplaining, use one brave phrase",
+    "this one question unlocks real confidence"
   ],
-  "last_updated": "2026-04-24T17:51:07.293806"
+  "last_updated": "2026-04-24T19:55:09.752062"
 }
