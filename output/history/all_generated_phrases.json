@@ -3215,6 +3215,36 @@
       "spanish": "No esperes confianza, empieza pequeño",
       "category": "Inspiration",
       "generated_at": "2026-04-25T19:47:33.229503"
+    },
+    {
+      "english": "Never say “I think”, say “I’m sure”",
+      "spanish": "Nunca digas “pienso”, di “seguro”",
+      "category": "Success",
+      "generated_at": "2026-04-25T21:26:42.918357"
+    },
+    {
+      "english": "The secret? Answer with one detail",
+      "spanish": "El secreto, contesta con un detalle",
+      "category": "Success",
+      "generated_at": "2026-04-25T21:26:42.918372"
+    },
+    {
+      "english": "Stop freezing, say “ya voy” now",
+      "spanish": "No te quedes, di “ya voy”",
+      "category": "Success",
+      "generated_at": "2026-04-25T21:26:42.918379"
+    },
+    {
+      "english": "Never overdo verbs, use “quiero”",
+      "spanish": "No exageres, usa “quiero”",
+      "category": "Success",
+      "generated_at": "2026-04-25T21:26:42.918385"
+    },
+    {
+      "english": "This one word makes requests polite",
+      "spanish": "Una palabra vuelve tus pedidos educados",
+      "category": "Success",
+      "generated_at": "2026-04-25T21:26:42.918392"
     }
   ],
   "used_english": [
@@ -3753,7 +3783,12 @@
     "never say “too hard”, say “todavía”",
     "what nobody tells you, sleep helps",
     "the secret? answer with your body",
-    "stop waiting for confidence, start small"
+    "stop waiting for confidence, start small",
+    "never say “i think”, say “i’m sure”",
+    "the secret? answer with one detail",
+    "stop freezing, say “ya voy” now",
+    "never overdo verbs, use “quiero”",
+    "this one word makes requests polite"
   ],
-  "last_updated": "2026-04-25T19:47:33.229505"
+  "last_updated": "2026-04-25T21:26:42.918394"
 }
