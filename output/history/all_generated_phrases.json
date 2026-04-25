@@ -3185,6 +3185,36 @@
       "spanish": "No empieces de cero, sigue",
       "category": "Patience",
       "generated_at": "2026-04-25T17:38:02.965193"
+    },
+    {
+      "english": "Stop translating, think in pictures",
+      "spanish": "Deja de traducir, piensa en imágenes",
+      "category": "Inspiration",
+      "generated_at": "2026-04-25T19:47:33.229470"
+    },
+    {
+      "english": "Never say “too hard”, say “todavía”",
+      "spanish": "Nunca digas “demasiado”, di “todavía”",
+      "category": "Inspiration",
+      "generated_at": "2026-04-25T19:47:33.229485"
+    },
+    {
+      "english": "What nobody tells you, sleep helps",
+      "spanish": "Lo que nadie te dice, dormir ayuda",
+      "category": "Inspiration",
+      "generated_at": "2026-04-25T19:47:33.229492"
+    },
+    {
+      "english": "The secret? Answer with your body",
+      "spanish": "El secreto, responde con tu cuerpo",
+      "category": "Inspiration",
+      "generated_at": "2026-04-25T19:47:33.229498"
+    },
+    {
+      "english": "Stop waiting for confidence, start small",
+      "spanish": "No esperes confianza, empieza pequeño",
+      "category": "Inspiration",
+      "generated_at": "2026-04-25T19:47:33.229503"
     }
   ],
   "used_english": [
@@ -3718,7 +3748,12 @@
     "stop panicking, say one simple thing",
     "never skip the quiet reps",
     "the secret is today, not tomorrow",
-    "stop starting over, keep going"
+    "stop starting over, keep going",
+    "stop translating, think in pictures",
+    "never say “too hard”, say “todavía”",
+    "what nobody tells you, sleep helps",
+    "the secret? answer with your body",
+    "stop waiting for confidence, start small"
   ],
-  "last_updated": "2026-04-25T17:38:02.965195"
+  "last_updated": "2026-04-25T19:47:33.229505"
 }
