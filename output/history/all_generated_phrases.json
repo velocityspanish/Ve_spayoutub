@@ -3095,6 +3095,36 @@
       "spanish": "No esperes, di “te lo agradezco”",
       "category": "Gratitude",
       "generated_at": "2026-04-24T21:38:31.450452"
+    },
+    {
+      "english": "Stop saying 'good', say 'perfecto'",
+      "spanish": "Deja de decir “bien”, di “perfecto”",
+      "category": "Balance",
+      "generated_at": "2026-04-25T14:04:39.403479"
+    },
+    {
+      "english": "Never say 'sorry', say '¡claro!'",
+      "spanish": "No digas “perdón”, di “¡claro!”",
+      "category": "Balance",
+      "generated_at": "2026-04-25T14:04:39.403494"
+    },
+    {
+      "english": "Never explain, just say 'lo siento'",
+      "spanish": "No expliques, solo di “lo siento”",
+      "category": "Balance",
+      "generated_at": "2026-04-25T14:04:39.403501"
+    },
+    {
+      "english": "Stop searching words, use 'esto'",
+      "spanish": "Deja de buscar palabras, usa “esto”",
+      "category": "Balance",
+      "generated_at": "2026-04-25T14:04:39.403507"
+    },
+    {
+      "english": "This one pause sells confidence, 'mmm'",
+      "spanish": "Esta pausa vende confianza, “mmm”",
+      "category": "Balance",
+      "generated_at": "2026-04-25T14:04:39.403513"
     }
   ],
   "used_english": [
@@ -3613,7 +3643,12 @@
     "this is why natives thank fast,",
     "stop scrolling, practice one thankful sentence",
     "the secret? thank even for small things",
-    "stop waiting, say “te lo agradezco”"
+    "stop waiting, say “te lo agradezco”",
+    "stop saying 'good', say 'perfecto'",
+    "never say 'sorry', say '¡claro!'",
+    "never explain, just say 'lo siento'",
+    "stop searching words, use 'esto'",
+    "this one pause sells confidence, 'mmm'"
   ],
-  "last_updated": "2026-04-24T21:38:31.450457"
+  "last_updated": "2026-04-25T14:04:39.403516"
 }
