@@ -3155,6 +3155,36 @@
       "spanish": "Esta palabra corta pausas raras",
       "category": "Wisdom",
       "generated_at": "2026-04-25T15:40:46.853602"
+    },
+    {
+      "english": "The secret? Slow practice, real speed",
+      "spanish": "El secreto, práctica lenta, velocidad real",
+      "category": "Patience",
+      "generated_at": "2026-04-25T17:38:02.965161"
+    },
+    {
+      "english": "Stop panicking, say one simple thing",
+      "spanish": "No entres en pánico, di algo simple",
+      "category": "Patience",
+      "generated_at": "2026-04-25T17:38:02.965174"
+    },
+    {
+      "english": "Never skip the quiet reps",
+      "spanish": "No saltes las repeticiones tranquilas",
+      "category": "Patience",
+      "generated_at": "2026-04-25T17:38:02.965181"
+    },
+    {
+      "english": "The secret is today, not tomorrow",
+      "spanish": "El secreto es hoy, no mañana",
+      "category": "Patience",
+      "generated_at": "2026-04-25T17:38:02.965187"
+    },
+    {
+      "english": "Stop starting over, keep going",
+      "spanish": "No empieces de cero, sigue",
+      "category": "Patience",
+      "generated_at": "2026-04-25T17:38:02.965193"
     }
   ],
   "used_english": [
@@ -3683,7 +3713,12 @@
     "never say “i don’t know”",
     "the secret is timing, not words",
     "stop overthinking, start with “oye”",
-    "this one word stops awkward pauses"
+    "this one word stops awkward pauses",
+    "the secret? slow practice, real speed",
+    "stop panicking, say one simple thing",
+    "never skip the quiet reps",
+    "the secret is today, not tomorrow",
+    "stop starting over, keep going"
   ],
-  "last_updated": "2026-04-25T15:40:46.853604"
+  "last_updated": "2026-04-25T17:38:02.965195"
 }
