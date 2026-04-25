@@ -3125,6 +3125,36 @@
       "spanish": "Esta pausa vende confianza, “mmm”",
       "category": "Balance",
       "generated_at": "2026-04-25T14:04:39.403513"
+    },
+    {
+      "english": "Stop begging, say “¿Puedes?”",
+      "spanish": "Deja de rogar, di “¿Puedes?”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-25T15:40:46.853565"
+    },
+    {
+      "english": "Never say “I don’t know”",
+      "spanish": "Nunca digas “no sé”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-25T15:40:46.853583"
+    },
+    {
+      "english": "The secret is timing, not words",
+      "spanish": "El secreto es el tiempo, no palabras",
+      "category": "Wisdom",
+      "generated_at": "2026-04-25T15:40:46.853589"
+    },
+    {
+      "english": "Stop overthinking, start with “oye”",
+      "spanish": "Deja de pensar tanto, empieza con “oye”",
+      "category": "Wisdom",
+      "generated_at": "2026-04-25T15:40:46.853596"
+    },
+    {
+      "english": "This one word stops awkward pauses",
+      "spanish": "Esta palabra corta pausas raras",
+      "category": "Wisdom",
+      "generated_at": "2026-04-25T15:40:46.853602"
     }
   ],
   "used_english": [
@@ -3648,7 +3678,12 @@
     "never say 'sorry', say '¡claro!'",
     "never explain, just say 'lo siento'",
     "stop searching words, use 'esto'",
-    "this one pause sells confidence, 'mmm'"
+    "this one pause sells confidence, 'mmm'",
+    "stop begging, say “¿puedes?”",
+    "never say “i don’t know”",
+    "the secret is timing, not words",
+    "stop overthinking, start with “oye”",
+    "this one word stops awkward pauses"
   ],
-  "last_updated": "2026-04-25T14:04:39.403516"
+  "last_updated": "2026-04-25T15:40:46.853604"
 }
