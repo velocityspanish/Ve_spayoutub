@@ -3245,6 +3245,36 @@
       "spanish": "Una palabra vuelve tus pedidos educados",
       "category": "Success",
       "generated_at": "2026-04-25T21:26:42.918392"
+    },
+    {
+      "english": "Stop scrolling, say this kindness",
+      "spanish": "Deja de scrollear, di esto",
+      "category": "Kindness",
+      "generated_at": "2026-04-26T14:05:56.011810"
+    },
+    {
+      "english": "Never rush, try 'te invito'",
+      "spanish": "Nunca corras, prueba 'te invito'",
+      "category": "Kindness",
+      "generated_at": "2026-04-26T14:05:56.011827"
+    },
+    {
+      "english": "The secret... say 'me ayudas, gracias'",
+      "spanish": "El secreto... di 'me ayudas, gracias'",
+      "category": "Kindness",
+      "generated_at": "2026-04-26T14:05:56.011834"
+    },
+    {
+      "english": "Stop judging, say 'no pasa nada'",
+      "spanish": "No juzgues, di 'no pasa nada'",
+      "category": "Kindness",
+      "generated_at": "2026-04-26T14:05:56.011841"
+    },
+    {
+      "english": "Never disappear, say 'aquí estoy'",
+      "spanish": "No desaparezcas, di 'aquí estoy'",
+      "category": "Kindness",
+      "generated_at": "2026-04-26T14:05:56.011848"
     }
   ],
   "used_english": [
@@ -3788,7 +3818,12 @@
     "the secret? answer with one detail",
     "stop freezing, say “ya voy” now",
     "never overdo verbs, use “quiero”",
-    "this one word makes requests polite"
+    "this one word makes requests polite",
+    "stop scrolling, say this kindness",
+    "never rush, try 'te invito'",
+    "the secret... say 'me ayudas, gracias'",
+    "stop judging, say 'no pasa nada'",
+    "never disappear, say 'aquí estoy'"
   ],
-  "last_updated": "2026-04-25T21:26:42.918394"
+  "last_updated": "2026-04-26T14:05:56.011850"
 }
