@@ -3275,6 +3275,36 @@
       "spanish": "No desaparezcas, di 'aquí estoy'",
       "category": "Kindness",
       "generated_at": "2026-04-26T14:05:56.011848"
+    },
+    {
+      "english": "Stop quitting, say \"puedo\"",
+      "spanish": "Deja de rendirte, digo \"puedo\"",
+      "category": "Perseverance",
+      "generated_at": "2026-04-26T15:43:25.958793"
+    },
+    {
+      "english": "Never stop, keep saying \"voy\"",
+      "spanish": "No pares, sigue diciendo \"voy\"",
+      "category": "Perseverance",
+      "generated_at": "2026-04-26T15:43:25.958814"
+    },
+    {
+      "english": "The secret, practice in one loop",
+      "spanish": "El secreto, practicas en un ciclo",
+      "category": "Perseverance",
+      "generated_at": "2026-04-26T15:43:25.958822"
+    },
+    {
+      "english": "Never be perfect, just continue",
+      "spanish": "No seas perfecto, solo continúa",
+      "category": "Perseverance",
+      "generated_at": "2026-04-26T15:43:25.958829"
+    },
+    {
+      "english": "Stop waiting, start with \"estoy\"",
+      "spanish": "No esperes, empieza con \"estoy\"",
+      "category": "Perseverance",
+      "generated_at": "2026-04-26T15:43:25.958835"
     }
   ],
   "used_english": [
@@ -3823,7 +3853,12 @@
     "never rush, try 'te invito'",
     "the secret... say 'me ayudas, gracias'",
     "stop judging, say 'no pasa nada'",
-    "never disappear, say 'aquí estoy'"
+    "never disappear, say 'aquí estoy'",
+    "stop quitting, say \"puedo\"",
+    "never stop, keep saying \"voy\"",
+    "the secret, practice in one loop",
+    "never be perfect, just continue",
+    "stop waiting, start with \"estoy\""
   ],
-  "last_updated": "2026-04-26T14:05:56.011850"
+  "last_updated": "2026-04-26T15:43:25.958837"
 }
