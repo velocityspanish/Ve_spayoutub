@@ -3305,6 +3305,36 @@
       "spanish": "No esperes, empieza con \"estoy\"",
       "category": "Perseverance",
       "generated_at": "2026-04-26T15:43:25.958835"
+    },
+    {
+      "english": "Never bottle it, say “me da igual”",
+      "spanish": "No lo guardes, di “me da igual”",
+      "category": "Patience",
+      "generated_at": "2026-04-26T17:39:17.208768"
+    },
+    {
+      "english": "The secret... ask slowly, then repeat",
+      "spanish": "El secreto... pregunta despacio, repite",
+      "category": "Patience",
+      "generated_at": "2026-04-26T17:39:17.208784"
+    },
+    {
+      "english": "Never say “maybe”, say “claro que sí”",
+      "spanish": "Nunca digas “quizás”, di “claro que sí”",
+      "category": "Patience",
+      "generated_at": "2026-04-26T17:39:17.208791"
+    },
+    {
+      "english": "Stop perfect, start messy, keep going",
+      "spanish": "Deja lo perfecto, empieza imperfecto, sigue",
+      "category": "Patience",
+      "generated_at": "2026-04-26T17:39:17.208797"
+    },
+    {
+      "english": "This phrase buys patience instantly",
+      "spanish": "Esta frase compra paciencia",
+      "category": "Patience",
+      "generated_at": "2026-04-26T17:39:17.208803"
     }
   ],
   "used_english": [
@@ -3858,7 +3888,12 @@
     "never stop, keep saying \"voy\"",
     "the secret, practice in one loop",
     "never be perfect, just continue",
-    "stop waiting, start with \"estoy\""
+    "stop waiting, start with \"estoy\"",
+    "never bottle it, say “me da igual”",
+    "the secret... ask slowly, then repeat",
+    "never say “maybe”, say “claro que sí”",
+    "stop perfect, start messy, keep going",
+    "this phrase buys patience instantly"
   ],
-  "last_updated": "2026-04-26T15:43:25.958837"
+  "last_updated": "2026-04-26T17:39:17.208806"
 }
