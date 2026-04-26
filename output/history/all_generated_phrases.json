@@ -3335,6 +3335,36 @@
       "spanish": "Esta frase compra paciencia",
       "category": "Patience",
       "generated_at": "2026-04-26T17:39:17.208803"
+    },
+    {
+      "english": "Stop saying “I guess”, use “probablemente”",
+      "spanish": "Deja de decir “supongo”, usa “probablemente”",
+      "category": "Creativity",
+      "generated_at": "2026-04-26T19:50:29.766223"
+    },
+    {
+      "english": "Never say “I’m fine”, say “estoy bien”",
+      "spanish": "Nunca digas “estoy bien”, di “estoy bien”",
+      "category": "Creativity",
+      "generated_at": "2026-04-26T19:50:29.766241"
+    },
+    {
+      "english": "What nobody tells you, “se puede” works",
+      "spanish": "Lo que nadie te dice, “se puede”",
+      "category": "Creativity",
+      "generated_at": "2026-04-26T19:50:29.766248"
+    },
+    {
+      "english": "The secret? Add one “allí”, feel native",
+      "spanish": "El secreto, agrega “allí”, suena nativo",
+      "category": "Creativity",
+      "generated_at": "2026-04-26T19:50:29.766254"
+    },
+    {
+      "english": "Stop “but”… start “sin embargo”, impress",
+      "spanish": "No digas “pero”, empieza “sin embargo”",
+      "category": "Creativity",
+      "generated_at": "2026-04-26T19:50:29.766260"
     }
   ],
   "used_english": [
@@ -3893,7 +3923,12 @@
     "the secret... ask slowly, then repeat",
     "never say “maybe”, say “claro que sí”",
     "stop perfect, start messy, keep going",
-    "this phrase buys patience instantly"
+    "this phrase buys patience instantly",
+    "stop saying “i guess”, use “probablemente”",
+    "never say “i’m fine”, say “estoy bien”",
+    "what nobody tells you, “se puede” works",
+    "the secret? add one “allí”, feel native",
+    "stop “but”… start “sin embargo”, impress"
   ],
-  "last_updated": "2026-04-26T17:39:17.208806"
+  "last_updated": "2026-04-26T19:50:29.766262"
 }
