@@ -3425,6 +3425,36 @@
       "spanish": "Deja de traducir canciones, cántalas",
       "category": "Strength",
       "generated_at": "2026-04-27T15:09:53.943899"
+    },
+    {
+      "english": "Never say “slow”, say “despacio”",
+      "spanish": "Nunca digas “lento”, di “despacio”",
+      "category": "Success",
+      "generated_at": "2026-04-27T16:27:57.378373"
+    },
+    {
+      "english": "Stop blanking, start with “claro”",
+      "spanish": "Deja de trabarte, empieza con “claro”",
+      "category": "Success",
+      "generated_at": "2026-04-27T16:27:57.378389"
+    },
+    {
+      "english": "The secret? Use “voy a”",
+      "spanish": "El secreto, usa “voy a”",
+      "category": "Success",
+      "generated_at": "2026-04-27T16:27:57.378396"
+    },
+    {
+      "english": "Never overthink, just say “vale, sí”",
+      "spanish": "No pienses tanto, di “vale, sí”",
+      "category": "Success",
+      "generated_at": "2026-04-27T16:27:57.378403"
+    },
+    {
+      "english": "This phrase fixes your “please”",
+      "spanish": "Esta frase arregla tu “por favor”",
+      "category": "Success",
+      "generated_at": "2026-04-27T16:27:57.378409"
     }
   ],
   "used_english": [
@@ -3998,7 +4028,12 @@
     "never rush “pero”, breathe first",
     "this is why “estoy” always wins",
     "the secret? ask “dónde” confidently",
-    "stop translating songs, sing them"
+    "stop translating songs, sing them",
+    "never say “slow”, say “despacio”",
+    "stop blanking, start with “claro”",
+    "the secret? use “voy a”",
+    "never overthink, just say “vale, sí”",
+    "this phrase fixes your “please”"
   ],
-  "last_updated": "2026-04-27T15:09:53.943901"
+  "last_updated": "2026-04-27T16:27:57.378411"
 }
