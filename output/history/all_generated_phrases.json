@@ -3485,6 +3485,36 @@
       "spanish": "Esta respiración te da confianza",
       "category": "Confidence",
       "generated_at": "2026-04-27T18:04:54.437397"
+    },
+    {
+      "english": "Never panic, say “¿qué pasa?”",
+      "spanish": "Nunca entres en pánico, di “¿qué pasa?”",
+      "category": "Inspiration",
+      "generated_at": "2026-04-27T20:11:39.222545"
+    },
+    {
+      "english": "Stop apologizing, just say “no pasa”.",
+      "spanish": "Deja de disculparte, solo di “no pasa”.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-27T20:11:39.222562"
+    },
+    {
+      "english": "This is why you get stuck, “muy”.",
+      "spanish": "Esto es por qué te atoras, “muy”.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-27T20:11:39.222570"
+    },
+    {
+      "english": "What nobody tells you, “alright”= “vale”.",
+      "spanish": "Lo que nadie te dice, “alright” es “vale”.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-27T20:11:39.222576"
+    },
+    {
+      "english": "The secret? Use “ahí” for spots.",
+      "spanish": "El secreto, usa “ahí” para lugares.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-27T20:11:39.222583"
     }
   ],
   "used_english": [
@@ -4068,7 +4098,12 @@
     "never wait, reply with “sí, claro”",
     "the secret... start with “es verdad”",
     "never freeze, say “está bien”",
-    "this one breath makes you confident"
+    "this one breath makes you confident",
+    "never panic, say “¿qué pasa?”",
+    "stop apologizing, just say “no pasa”.",
+    "this is why you get stuck, “muy”.",
+    "what nobody tells you, “alright”= “vale”.",
+    "the secret? use “ahí” for spots."
   ],
-  "last_updated": "2026-04-27T18:04:54.437399"
+  "last_updated": "2026-04-27T20:11:39.222585"
 }
