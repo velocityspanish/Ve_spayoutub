@@ -3395,6 +3395,36 @@
       "spanish": "Esta pregunta duplica tu fluidez.",
       "category": "Inspiration",
       "generated_at": "2026-04-26T21:28:51.424001"
+    },
+    {
+      "english": "Stop saying “I want”, say “quiero”",
+      "spanish": "Deja de decir “I want”, di “quiero”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T15:09:53.943859"
+    },
+    {
+      "english": "Never rush “pero”, breathe first",
+      "spanish": "Nunca corras “pero”, respira primero",
+      "category": "Strength",
+      "generated_at": "2026-04-27T15:09:53.943877"
+    },
+    {
+      "english": "This is why “estoy” always wins",
+      "spanish": "Por eso “estoy” siempre gana",
+      "category": "Strength",
+      "generated_at": "2026-04-27T15:09:53.943884"
+    },
+    {
+      "english": "The secret? Ask “dónde” confidently",
+      "spanish": "El secreto… pregunta “dónde” con confianza",
+      "category": "Strength",
+      "generated_at": "2026-04-27T15:09:53.943892"
+    },
+    {
+      "english": "Stop translating songs, sing them",
+      "spanish": "Deja de traducir canciones, cántalas",
+      "category": "Strength",
+      "generated_at": "2026-04-27T15:09:53.943899"
     }
   ],
   "used_english": [
@@ -3963,7 +3993,12 @@
     "never wait for “perfect” spanish,",
     "stop overthinking, say “tranquilo”,",
     "never apologize mid-conversation, just continue,",
-    "this question doubles your fluency fast,"
+    "this question doubles your fluency fast,",
+    "stop saying “i want”, say “quiero”",
+    "never rush “pero”, breathe first",
+    "this is why “estoy” always wins",
+    "the secret? ask “dónde” confidently",
+    "stop translating songs, sing them"
   ],
-  "last_updated": "2026-04-26T21:28:51.424003"
+  "last_updated": "2026-04-27T15:09:53.943901"
 }
