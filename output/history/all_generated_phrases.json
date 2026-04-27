@@ -3455,6 +3455,36 @@
       "spanish": "Esta frase arregla tu “por favor”",
       "category": "Success",
       "generated_at": "2026-04-27T16:27:57.378409"
+    },
+    {
+      "english": "Stop overexplaining, just say “claro”",
+      "spanish": "Deja de explicar, solo di “claro”",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T18:04:54.437358"
+    },
+    {
+      "english": "Never wait, reply with “sí, claro”",
+      "spanish": "Nunca esperes, responde “sí, claro”",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T18:04:54.437375"
+    },
+    {
+      "english": "The secret... start with “es verdad”",
+      "spanish": "El secreto... empieza con “es verdad”",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T18:04:54.437383"
+    },
+    {
+      "english": "Never freeze, say “está bien”",
+      "spanish": "Nunca te quedes, di “está bien”",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T18:04:54.437390"
+    },
+    {
+      "english": "This one breath makes you confident",
+      "spanish": "Esta respiración te da confianza",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T18:04:54.437397"
     }
   ],
   "used_english": [
@@ -4033,7 +4063,12 @@
     "stop blanking, start with “claro”",
     "the secret? use “voy a”",
     "never overthink, just say “vale, sí”",
-    "this phrase fixes your “please”"
+    "this phrase fixes your “please”",
+    "stop overexplaining, just say “claro”",
+    "never wait, reply with “sí, claro”",
+    "the secret... start with “es verdad”",
+    "never freeze, say “está bien”",
+    "this one breath makes you confident"
   ],
-  "last_updated": "2026-04-27T16:27:57.378411"
+  "last_updated": "2026-04-27T18:04:54.437399"
 }
