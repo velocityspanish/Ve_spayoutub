@@ -3515,6 +3515,36 @@
       "spanish": "El secreto, usa “ahí” para lugares.",
       "category": "Inspiration",
       "generated_at": "2026-04-27T20:11:39.222583"
+    },
+    {
+      "english": "Never say “I’m tired”, say “tengo sueño”",
+      "spanish": "Nunca digas “estoy cansado”, di “tengo sueño”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T21:44:54.905104"
+    },
+    {
+      "english": "Stop saying “maybe”, choose “sí”",
+      "spanish": "Deja de decir “tal vez”, elige “sí”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T21:44:54.905119"
+    },
+    {
+      "english": "What nobody tells you, add “oye”",
+      "spanish": "Lo que nadie te dice, agrega “oye”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T21:44:54.905127"
+    },
+    {
+      "english": "Stop guessing, answer with “así”",
+      "spanish": "No adivines, responde con “así”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T21:44:54.905154"
+    },
+    {
+      "english": "Never freeze, start with “claro”",
+      "spanish": "Nunca te quedes, empieza con “claro”",
+      "category": "Strength",
+      "generated_at": "2026-04-27T21:44:54.905161"
     }
   ],
   "used_english": [
@@ -4103,7 +4133,12 @@
     "stop apologizing, just say “no pasa”.",
     "this is why you get stuck, “muy”.",
     "what nobody tells you, “alright”= “vale”.",
-    "the secret? use “ahí” for spots."
+    "the secret? use “ahí” for spots.",
+    "never say “i’m tired”, say “tengo sueño”",
+    "stop saying “maybe”, choose “sí”",
+    "what nobody tells you, add “oye”",
+    "stop guessing, answer with “así”",
+    "never freeze, start with “claro”"
   ],
-  "last_updated": "2026-04-27T20:11:39.222585"
+  "last_updated": "2026-04-27T21:44:54.905163"
 }
