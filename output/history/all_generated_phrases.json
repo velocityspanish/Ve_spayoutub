@@ -3635,6 +3635,36 @@
       "spanish": "Nunca esperes perfecto, envía esto",
       "category": "Hope",
       "generated_at": "2026-04-28T18:18:16.231125"
+    },
+    {
+      "english": "Never wait, breathe, then speak",
+      "spanish": "Nunca esperes, respira, y habla",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-28T20:21:13.451746"
+    },
+    {
+      "english": "The secret, pause before every reply",
+      "spanish": "El secreto, pausa antes de responder",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-28T20:21:13.451762"
+    },
+    {
+      "english": "Stop rushing, say it slowly",
+      "spanish": "No corras, dímelo despacio",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-28T20:21:13.451769"
+    },
+    {
+      "english": "This is why your Spanish stalls",
+      "spanish": "Por eso tu español se traba",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-28T20:21:13.451776"
+    },
+    {
+      "english": "This changes everything, speak in chunks",
+      "spanish": "Cambia todo, habla en trozos",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-28T20:21:13.451783"
     }
   ],
   "used_english": [
@@ -4243,7 +4273,12 @@
     "stop forgetting, say “con gusto”",
     "stop switching to english mid-sentence",
     "the secret? short answers, always",
-    "never wait for perfect, send this"
+    "never wait for perfect, send this",
+    "never wait, breathe, then speak",
+    "the secret, pause before every reply",
+    "stop rushing, say it slowly",
+    "this is why your spanish stalls",
+    "this changes everything, speak in chunks"
   ],
-  "last_updated": "2026-04-28T18:18:16.231126"
+  "last_updated": "2026-04-28T20:21:13.451785"
 }
