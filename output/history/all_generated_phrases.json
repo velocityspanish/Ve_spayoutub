@@ -3575,6 +3575,36 @@
       "spanish": "El secreto, una pregunta, y pausa",
       "category": "Courage",
       "generated_at": "2026-04-28T15:36:32.022886"
+    },
+    {
+      "english": "Stop overthinking, say one yes",
+      "spanish": "Deja de pensarlo, di un sí",
+      "category": "Balance",
+      "generated_at": "2026-04-28T16:56:12.371561"
+    },
+    {
+      "english": "Stop chatting, start asking back",
+      "spanish": "Deja el monólogo, pregunta de vuelta",
+      "category": "Balance",
+      "generated_at": "2026-04-28T16:56:12.371576"
+    },
+    {
+      "english": "This phrase saves your conversation",
+      "spanish": "Esta frase salva tu charla",
+      "category": "Balance",
+      "generated_at": "2026-04-28T16:56:12.371583"
+    },
+    {
+      "english": "Never apologize, just keep moving",
+      "spanish": "No te disculpes, sigue adelante",
+      "category": "Balance",
+      "generated_at": "2026-04-28T16:56:12.371590"
+    },
+    {
+      "english": "The secret? Say “I mean…” first",
+      "spanish": "El secreto: o sea… primero",
+      "category": "Balance",
+      "generated_at": "2026-04-28T16:56:12.371598"
     }
   ],
   "used_english": [
@@ -4173,7 +4203,12 @@
     "stop panicking, start with “¿entiendes?”",
     "the secret is rhythm, not speed",
     "stop overthinking, just say “pues sí”",
-    "the secret? one question, then pause"
+    "the secret? one question, then pause",
+    "stop overthinking, say one yes",
+    "stop chatting, start asking back",
+    "this phrase saves your conversation",
+    "never apologize, just keep moving",
+    "the secret? say “i mean…” first"
   ],
-  "last_updated": "2026-04-28T15:36:32.022888"
+  "last_updated": "2026-04-28T16:56:12.371599"
 }
