@@ -3545,6 +3545,36 @@
       "spanish": "Nunca te quedes, empieza con “claro”",
       "category": "Strength",
       "generated_at": "2026-04-27T21:44:54.905161"
+    },
+    {
+      "english": "Never say “maybe”, say “claro”",
+      "spanish": "Nunca digas “tal vez”, di “claro”",
+      "category": "Courage",
+      "generated_at": "2026-04-28T15:36:32.022848"
+    },
+    {
+      "english": "Stop panicking, start with “¿entiendes?”",
+      "spanish": "Para el pánico, empieza con “¿entiendes?”",
+      "category": "Courage",
+      "generated_at": "2026-04-28T15:36:32.022864"
+    },
+    {
+      "english": "The secret is rhythm, not speed",
+      "spanish": "El secreto es ritmo, no rapidez",
+      "category": "Courage",
+      "generated_at": "2026-04-28T15:36:32.022873"
+    },
+    {
+      "english": "Stop overthinking, just say “pues sí”",
+      "spanish": "Deja de pensar, solo di “pues sí”",
+      "category": "Courage",
+      "generated_at": "2026-04-28T15:36:32.022880"
+    },
+    {
+      "english": "The secret? One question, then pause",
+      "spanish": "El secreto, una pregunta, y pausa",
+      "category": "Courage",
+      "generated_at": "2026-04-28T15:36:32.022886"
     }
   ],
   "used_english": [
@@ -4138,7 +4168,12 @@
     "stop saying “maybe”, choose “sí”",
     "what nobody tells you, add “oye”",
     "stop guessing, answer with “así”",
-    "never freeze, start with “claro”"
+    "never freeze, start with “claro”",
+    "never say “maybe”, say “claro”",
+    "stop panicking, start with “¿entiendes?”",
+    "the secret is rhythm, not speed",
+    "stop overthinking, just say “pues sí”",
+    "the secret? one question, then pause"
   ],
-  "last_updated": "2026-04-27T21:44:54.905163"
+  "last_updated": "2026-04-28T15:36:32.022888"
 }
