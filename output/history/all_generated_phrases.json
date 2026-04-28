@@ -3665,6 +3665,36 @@
       "spanish": "Cambia todo, habla en trozos",
       "category": "Inner Peace",
       "generated_at": "2026-04-28T20:21:13.451783"
+    },
+    {
+      "english": "Stop saying “thanks later”, say it now",
+      "spanish": "No digas “gracias después”, dilo ahora",
+      "category": "Love",
+      "generated_at": "2026-04-28T21:49:47.080159"
+    },
+    {
+      "english": "Never explain, just say “por favor”",
+      "spanish": "No expliques, solo di “por favor”",
+      "category": "Love",
+      "generated_at": "2026-04-28T21:49:47.080175"
+    },
+    {
+      "english": "Stop rambling, say one clear thing",
+      "spanish": "Deja de hablar mucho, di una cosa",
+      "category": "Love",
+      "generated_at": "2026-04-28T21:49:47.080183"
+    },
+    {
+      "english": "Never rush love, say it softly",
+      "spanish": "No corras el amor, dilo suave",
+      "category": "Love",
+      "generated_at": "2026-04-28T21:49:47.080191"
+    },
+    {
+      "english": "Stop overthinking “te”, just use it",
+      "spanish": "No pienses tanto “te”, úsalo",
+      "category": "Love",
+      "generated_at": "2026-04-28T21:49:47.080198"
     }
   ],
   "used_english": [
@@ -4278,7 +4308,12 @@
     "the secret, pause before every reply",
     "stop rushing, say it slowly",
     "this is why your spanish stalls",
-    "this changes everything, speak in chunks"
+    "this changes everything, speak in chunks",
+    "stop saying “thanks later”, say it now",
+    "never explain, just say “por favor”",
+    "stop rambling, say one clear thing",
+    "never rush love, say it softly",
+    "stop overthinking “te”, just use it"
   ],
-  "last_updated": "2026-04-28T20:21:13.451785"
+  "last_updated": "2026-04-28T21:49:47.080200"
 }
