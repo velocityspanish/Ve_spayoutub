@@ -3605,6 +3605,36 @@
       "spanish": "El secreto: o sea… primero",
       "category": "Balance",
       "generated_at": "2026-04-28T16:56:12.371598"
+    },
+    {
+      "english": "Never explain, just say “de acuerdo”",
+      "spanish": "Nunca expliques, solo di “de acuerdo”",
+      "category": "Hope",
+      "generated_at": "2026-04-28T18:18:16.231084"
+    },
+    {
+      "english": "Stop forgetting, say “con gusto”",
+      "spanish": "Deja de olvidar, di “con gusto”",
+      "category": "Hope",
+      "generated_at": "2026-04-28T18:18:16.231103"
+    },
+    {
+      "english": "Stop switching to English mid-sentence",
+      "spanish": "Deja de cambiar al inglés, a mitad",
+      "category": "Hope",
+      "generated_at": "2026-04-28T18:18:16.231111"
+    },
+    {
+      "english": "The secret? Short answers, always",
+      "spanish": "El secreto, respuestas cortas siempre",
+      "category": "Hope",
+      "generated_at": "2026-04-28T18:18:16.231118"
+    },
+    {
+      "english": "Never wait for perfect, send this",
+      "spanish": "Nunca esperes perfecto, envía esto",
+      "category": "Hope",
+      "generated_at": "2026-04-28T18:18:16.231125"
     }
   ],
   "used_english": [
@@ -4208,7 +4238,12 @@
     "stop chatting, start asking back",
     "this phrase saves your conversation",
     "never apologize, just keep moving",
-    "the secret? say “i mean…” first"
+    "the secret? say “i mean…” first",
+    "never explain, just say “de acuerdo”",
+    "stop forgetting, say “con gusto”",
+    "stop switching to english mid-sentence",
+    "the secret? short answers, always",
+    "never wait for perfect, send this"
   ],
-  "last_updated": "2026-04-28T16:56:12.371599"
+  "last_updated": "2026-04-28T18:18:16.231126"
 }
