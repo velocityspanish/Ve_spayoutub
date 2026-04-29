@@ -3815,6 +3815,36 @@
       "spanish": "No evites verbos, usa 'tengo'",
       "category": "Wisdom",
       "generated_at": "2026-04-29T20:14:07.465427"
+    },
+    {
+      "english": "Real friends do this without asking.",
+      "spanish": "Los amigos reales hacen esto sin pedir.",
+      "category": "Friendship",
+      "generated_at": "2026-04-29T21:50:51.927763"
+    },
+    {
+      "english": "Stop calling these people friends.",
+      "spanish": "Deja de llamar amigos a estas personas.",
+      "category": "Friendship",
+      "generated_at": "2026-04-29T21:50:51.927780"
+    },
+    {
+      "english": "The test of true friendship.",
+      "spanish": "La prueba de la verdadera amistad.",
+      "category": "Friendship",
+      "generated_at": "2026-04-29T21:50:51.927808"
+    },
+    {
+      "english": "What I learned about loyalty.",
+      "spanish": "Lo que aprendí sobre la lealtad.",
+      "category": "Friendship",
+      "generated_at": "2026-04-29T21:50:51.927816"
+    },
+    {
+      "english": "Keep these people close forever.",
+      "spanish": "Mantén a estas personas cerca siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-04-29T21:50:51.927824"
     }
   ],
   "used_english": [
@@ -4453,7 +4483,12 @@
     "stop thinking, ask one question",
     "never translate, feel the rhythm",
     "the secret? use simple answers",
-    "stop avoiding verbs, use 'tengo'"
+    "stop avoiding verbs, use 'tengo'",
+    "real friends do this without asking.",
+    "stop calling these people friends.",
+    "the test of true friendship.",
+    "what i learned about loyalty.",
+    "keep these people close forever."
   ],
-  "last_updated": "2026-04-29T20:14:07.465429"
+  "last_updated": "2026-04-29T21:50:51.927825"
 }
