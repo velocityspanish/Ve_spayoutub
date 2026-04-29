@@ -3785,6 +3785,36 @@
       "spanish": "No apures la gratitud, pausa primero",
       "category": "Gratitude",
       "generated_at": "2026-04-29T18:11:55.976042"
+    },
+    {
+      "english": "Never memorize, speak it now",
+      "spanish": "Nunca memorices, dilo ya",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T20:14:07.465392"
+    },
+    {
+      "english": "Stop thinking, ask one question",
+      "spanish": "Deja de pensar, pregunta una cosa",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T20:14:07.465406"
+    },
+    {
+      "english": "Never translate, feel the rhythm",
+      "spanish": "No traduzcas, siente el ritmo",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T20:14:07.465413"
+    },
+    {
+      "english": "The secret? Use simple answers",
+      "spanish": "El truco, respuestas simples",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T20:14:07.465420"
+    },
+    {
+      "english": "Stop avoiding verbs, use 'tengo'",
+      "spanish": "No evites verbos, usa 'tengo'",
+      "category": "Wisdom",
+      "generated_at": "2026-04-29T20:14:07.465427"
     }
   ],
   "used_english": [
@@ -4418,7 +4448,12 @@
     "this is why spanish feels easy",
     "stop missing chances, thank them now",
     "never say “sorry” again, say “thanks”",
-    "never rush gratitude, pause first"
+    "never rush gratitude, pause first",
+    "never memorize, speak it now",
+    "stop thinking, ask one question",
+    "never translate, feel the rhythm",
+    "the secret? use simple answers",
+    "stop avoiding verbs, use 'tengo'"
   ],
-  "last_updated": "2026-04-29T18:11:55.976044"
+  "last_updated": "2026-04-29T20:14:07.465429"
 }
