@@ -3725,6 +3725,36 @@
       "spanish": "No sobrepienses, di 'me gustas'",
       "category": "Love",
       "generated_at": "2026-04-29T15:18:03.580018"
+    },
+    {
+      "english": "Stop learning silently, start speaking",
+      "spanish": "Deja de aprender en silencio, habla",
+      "category": "Motivation",
+      "generated_at": "2026-04-29T16:28:59.037811"
+    },
+    {
+      "english": "Never study longer, practice smarter",
+      "spanish": "Nunca estudies más, practica mejor",
+      "category": "Motivation",
+      "generated_at": "2026-04-29T16:28:59.037827"
+    },
+    {
+      "english": "Say this, and confidence appears",
+      "spanish": "Di esto, y aparece la confianza",
+      "category": "Motivation",
+      "generated_at": "2026-04-29T16:28:59.037834"
+    },
+    {
+      "english": "Never wait, just repeat the chunk",
+      "spanish": "No esperes, repite el pedazo",
+      "category": "Motivation",
+      "generated_at": "2026-04-29T16:28:59.037841"
+    },
+    {
+      "english": "This one habit unlocks fast Spanish",
+      "spanish": "Este hábito desbloquea español rápido",
+      "category": "Motivation",
+      "generated_at": "2026-04-29T16:28:59.037848"
     }
   ],
   "used_english": [
@@ -4348,7 +4378,12 @@
     "never flirt fast, use 'lento'",
     "this is why 'te quiero' hits",
     "the secret... say it softly, please",
-    "stop overthinking, say 'me gustas'"
+    "stop overthinking, say 'me gustas'",
+    "stop learning silently, start speaking",
+    "never study longer, practice smarter",
+    "say this, and confidence appears",
+    "never wait, just repeat the chunk",
+    "this one habit unlocks fast spanish"
   ],
-  "last_updated": "2026-04-29T15:18:03.580020"
+  "last_updated": "2026-04-29T16:28:59.037850"
 }
