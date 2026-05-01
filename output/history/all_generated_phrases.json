@@ -3935,6 +3935,36 @@
       "spanish": "Tu primera frase, simple",
       "category": "Creativity",
       "generated_at": "2026-05-01T17:59:56.672748"
+    },
+    {
+      "english": "Stop “thank you,” say “gracias”",
+      "spanish": "Stop “thank you”, di “gracias”",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T20:07:44.709913"
+    },
+    {
+      "english": "Never say “thanks,” say “muchas gracias”",
+      "spanish": "Nunca digas “gracias”, di “muchas gracias”",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T20:07:44.709933"
+    },
+    {
+      "english": "The secret, say it with feeling",
+      "spanish": "El secreto, dilo con emoción",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T20:07:44.709942"
+    },
+    {
+      "english": "Stop rushing gratitude, pause after “gracias”",
+      "spanish": "No corras la gratitud, pausa tras “gracias”",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T20:07:44.709949"
+    },
+    {
+      "english": "Never forget, “con gusto” sounds native",
+      "spanish": "Nunca olvides, “con gusto” suena nativo",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T20:07:44.709957"
     }
   ],
   "used_english": [
@@ -4593,7 +4623,12 @@
     "never freeze when you forget a word",
     "the secret... stress the important word",
     "urgent fix: add “now” to your speech",
-    "your first sentence must be simple"
+    "your first sentence must be simple",
+    "stop “thank you,” say “gracias”",
+    "never say “thanks,” say “muchas gracias”",
+    "the secret, say it with feeling",
+    "stop rushing gratitude, pause after “gracias”",
+    "never forget, “con gusto” sounds native"
   ],
-  "last_updated": "2026-05-01T17:59:56.672749"
+  "last_updated": "2026-05-01T20:07:44.709959"
 }
