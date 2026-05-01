@@ -3845,6 +3845,36 @@
       "spanish": "Mantén a estas personas cerca siempre.",
       "category": "Friendship",
       "generated_at": "2026-04-29T21:50:51.927824"
+    },
+    {
+      "english": "Stop saying “maybe”, use “hoy”",
+      "spanish": "Deja “quizá”, usa “hoy”",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-01T14:18:53.609979"
+    },
+    {
+      "english": "Never panic, start with “estás”",
+      "spanish": "Nunca entres en pánico, empieza con “estás”",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-01T14:18:53.609998"
+    },
+    {
+      "english": "The secret is simple, say “quiero”",
+      "spanish": "El secreto es simple, di “quiero”",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-01T14:18:53.610006"
+    },
+    {
+      "english": "Stop overthinking, just say “¿y tú?”",
+      "spanish": "Deja de pensar, solo di “¿y tú?”",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-01T14:18:53.610013"
+    },
+    {
+      "english": "Never freeze, grab “lo siento”",
+      "spanish": "No te congeles, usa “lo siento”",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-01T14:18:53.610020"
     }
   ],
   "used_english": [
@@ -4488,7 +4518,12 @@
     "stop calling these people friends.",
     "the test of true friendship.",
     "what i learned about loyalty.",
-    "keep these people close forever."
+    "keep these people close forever.",
+    "stop saying “maybe”, use “hoy”",
+    "never panic, start with “estás”",
+    "the secret is simple, say “quiero”",
+    "stop overthinking, just say “¿y tú?”",
+    "never freeze, grab “lo siento”"
   ],
-  "last_updated": "2026-04-29T21:50:51.927825"
+  "last_updated": "2026-05-01T14:18:53.610022"
 }
