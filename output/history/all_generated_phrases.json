@@ -3875,6 +3875,36 @@
       "spanish": "No te congeles, usa “lo siento”",
       "category": "Self Improvement",
       "generated_at": "2026-05-01T14:18:53.610020"
+    },
+    {
+      "english": "Stop studying grammar first, speak",
+      "spanish": "Deja la gramática primero, habla",
+      "category": "Growth",
+      "generated_at": "2026-05-01T15:59:22.511768"
+    },
+    {
+      "english": "Stop switching apps, practice shadowing",
+      "spanish": "Deja las apps, practica shadowing",
+      "category": "Growth",
+      "generated_at": "2026-05-01T15:59:22.511784"
+    },
+    {
+      "english": "Never say 'I think', say 'creo'",
+      "spanish": "No digas 'creo', di 'creo'",
+      "category": "Growth",
+      "generated_at": "2026-05-01T15:59:22.511792"
+    },
+    {
+      "english": "Stop translating, answer instantly",
+      "spanish": "No traduzcas, responde al instante",
+      "category": "Growth",
+      "generated_at": "2026-05-01T15:59:22.511799"
+    },
+    {
+      "english": "Never explain, just react with 'uf'",
+      "spanish": "No expliques, reacciona con 'uf'",
+      "category": "Growth",
+      "generated_at": "2026-05-01T15:59:22.511807"
     }
   ],
   "used_english": [
@@ -4523,7 +4553,12 @@
     "never panic, start with “estás”",
     "the secret is simple, say “quiero”",
     "stop overthinking, just say “¿y tú?”",
-    "never freeze, grab “lo siento”"
+    "never freeze, grab “lo siento”",
+    "stop studying grammar first, speak",
+    "stop switching apps, practice shadowing",
+    "never say 'i think', say 'creo'",
+    "stop translating, answer instantly",
+    "never explain, just react with 'uf'"
   ],
-  "last_updated": "2026-05-01T14:18:53.610022"
+  "last_updated": "2026-05-01T15:59:22.511808"
 }
