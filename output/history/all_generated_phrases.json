@@ -3905,6 +3905,36 @@
       "spanish": "No expliques, reacciona con 'uf'",
       "category": "Growth",
       "generated_at": "2026-05-01T15:59:22.511807"
+    },
+    {
+      "english": "Stop rehearsing, start answering now",
+      "spanish": "Deja de ensayar, responde ya",
+      "category": "Creativity",
+      "generated_at": "2026-05-01T17:59:56.672716"
+    },
+    {
+      "english": "Never freeze when you forget a word",
+      "spanish": "Nunca te congeles, busca otra",
+      "category": "Creativity",
+      "generated_at": "2026-05-01T17:59:56.672729"
+    },
+    {
+      "english": "The secret... stress the important word",
+      "spanish": "El secreto... marca la palabra clave",
+      "category": "Creativity",
+      "generated_at": "2026-05-01T17:59:56.672735"
+    },
+    {
+      "english": "Urgent fix: add “now” to your speech",
+      "spanish": "Arreglo urgente: di “ahora”",
+      "category": "Creativity",
+      "generated_at": "2026-05-01T17:59:56.672741"
+    },
+    {
+      "english": "Your first sentence must be simple",
+      "spanish": "Tu primera frase, simple",
+      "category": "Creativity",
+      "generated_at": "2026-05-01T17:59:56.672748"
     }
   ],
   "used_english": [
@@ -4558,7 +4588,12 @@
     "stop switching apps, practice shadowing",
     "never say 'i think', say 'creo'",
     "stop translating, answer instantly",
-    "never explain, just react with 'uf'"
+    "never explain, just react with 'uf'",
+    "stop rehearsing, start answering now",
+    "never freeze when you forget a word",
+    "the secret... stress the important word",
+    "urgent fix: add “now” to your speech",
+    "your first sentence must be simple"
   ],
-  "last_updated": "2026-05-01T15:59:22.511808"
+  "last_updated": "2026-05-01T17:59:56.672749"
 }
