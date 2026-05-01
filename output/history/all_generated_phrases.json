@@ -3965,6 +3965,36 @@
       "spanish": "Nunca olvides, “con gusto” suena nativo",
       "category": "Gratitude",
       "generated_at": "2026-05-01T20:07:44.709957"
+    },
+    {
+      "english": "Stop guessing “ser”, use “estar” here",
+      "spanish": "Deja de adivinar “ser”, usa “estar” aquí",
+      "category": "Joy",
+      "generated_at": "2026-05-01T21:42:18.608116"
+    },
+    {
+      "english": "The secret phrase, “Me interesa”",
+      "spanish": "La frase secreta: “Me interesa”",
+      "category": "Joy",
+      "generated_at": "2026-05-01T21:42:18.608131"
+    },
+    {
+      "english": "What nobody tells you, answer fast",
+      "spanish": "Lo que nadie te dice, responde rápido",
+      "category": "Joy",
+      "generated_at": "2026-05-01T21:42:18.608139"
+    },
+    {
+      "english": "Stop freezing, start with “¿Cómo?”",
+      "spanish": "Deja de congelarte, empieza con “¿Cómo?”",
+      "category": "Joy",
+      "generated_at": "2026-05-01T21:42:18.608147"
+    },
+    {
+      "english": "Never overdo, just say “Sin problema”",
+      "spanish": "Nunca lo exageres, solo di “Sin problema”",
+      "category": "Joy",
+      "generated_at": "2026-05-01T21:42:18.608154"
     }
   ],
   "used_english": [
@@ -4628,7 +4658,12 @@
     "never say “thanks,” say “muchas gracias”",
     "the secret, say it with feeling",
     "stop rushing gratitude, pause after “gracias”",
-    "never forget, “con gusto” sounds native"
+    "never forget, “con gusto” sounds native",
+    "stop guessing “ser”, use “estar” here",
+    "the secret phrase, “me interesa”",
+    "what nobody tells you, answer fast",
+    "stop freezing, start with “¿cómo?”",
+    "never overdo, just say “sin problema”"
   ],
-  "last_updated": "2026-05-01T20:07:44.709959"
+  "last_updated": "2026-05-01T21:42:18.608156"
 }
