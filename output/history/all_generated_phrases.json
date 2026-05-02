@@ -4085,6 +4085,36 @@
       "spanish": "Esta palabra te pone lindo",
       "category": "Love",
       "generated_at": "2026-05-02T17:43:33.612924"
+    },
+    {
+      "english": "Stop overexplaining, say it simply",
+      "spanish": "No expliques de más, dilo simple",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:56:37.843702"
+    },
+    {
+      "english": "The secret, speak like you text",
+      "spanish": "El secreto, habla como texto",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:56:37.843718"
+    },
+    {
+      "english": "Stop memorizing, start reacting now",
+      "spanish": "Deja de memorizar, reacciona ya",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:56:37.843726"
+    },
+    {
+      "english": "Stop guessing verbs, use “está”",
+      "spanish": "No adivines verbos, usa “está”",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:56:37.843734"
+    },
+    {
+      "english": "The secret? Ask back, every time",
+      "spanish": "El secreto, responde y pregunta",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:56:37.843742"
     }
   ],
   "used_english": [
@@ -4768,7 +4798,12 @@
     "never confess too fast, whisper",
     "the secret phrase, you’ll use tonight",
     "never say 'why', say '¿qué tal?'",
-    "this tiny word makes you flirty"
+    "this tiny word makes you flirty",
+    "stop overexplaining, say it simply",
+    "the secret, speak like you text",
+    "stop memorizing, start reacting now",
+    "stop guessing verbs, use “está”",
+    "the secret? ask back, every time"
   ],
-  "last_updated": "2026-05-02T17:43:33.612925"
+  "last_updated": "2026-05-02T19:56:37.843744"
 }
