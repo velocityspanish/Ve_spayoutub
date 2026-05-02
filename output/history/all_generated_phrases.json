@@ -4115,6 +4115,36 @@
       "spanish": "El secreto, responde y pregunta",
       "category": "Purpose",
       "generated_at": "2026-05-02T19:56:37.843742"
+    },
+    {
+      "english": "Stop saying \"I don’t know\", say \"No sé\"",
+      "spanish": "Deja de decir \"no sé\", di \"No sé\"",
+      "category": "Growth",
+      "generated_at": "2026-05-02T21:30:02.541022"
+    },
+    {
+      "english": "Never say nothing, reply with \"Claro\"",
+      "spanish": "Nunca respondas en blanco, di \"Claro\"",
+      "category": "Growth",
+      "generated_at": "2026-05-02T21:30:02.541037"
+    },
+    {
+      "english": "The secret... ask one opinion",
+      "spanish": "El secreto... pregunta una opinión",
+      "category": "Growth",
+      "generated_at": "2026-05-02T21:30:02.541045"
+    },
+    {
+      "english": "Stop hiding, say \"Lo entiendo\"",
+      "spanish": "Deja de esconderte, di \"Lo entiendo\"",
+      "category": "Growth",
+      "generated_at": "2026-05-02T21:30:02.541053"
+    },
+    {
+      "english": "This one word buys you thinking time",
+      "spanish": "Una palabra te da tiempo",
+      "category": "Growth",
+      "generated_at": "2026-05-02T21:30:02.541060"
     }
   ],
   "used_english": [
@@ -4803,7 +4833,12 @@
     "the secret, speak like you text",
     "stop memorizing, start reacting now",
     "stop guessing verbs, use “está”",
-    "the secret? ask back, every time"
+    "the secret? ask back, every time",
+    "stop saying \"i don’t know\", say \"no sé\"",
+    "never say nothing, reply with \"claro\"",
+    "the secret... ask one opinion",
+    "stop hiding, say \"lo entiendo\"",
+    "this one word buys you thinking time"
   ],
-  "last_updated": "2026-05-02T19:56:37.843744"
+  "last_updated": "2026-05-02T21:30:02.541062"
 }
