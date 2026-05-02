@@ -4025,6 +4025,36 @@
       "spanish": "No pierdas palabras, usa “lo siento”",
       "category": "Motivation",
       "generated_at": "2026-05-02T14:11:43.610535"
+    },
+    {
+      "english": "Never chase perfection, send one line",
+      "spanish": "No persigas perfección, manda una frase",
+      "category": "Balance",
+      "generated_at": "2026-05-02T15:48:28.047098"
+    },
+    {
+      "english": "Urgent: use “tengo” before everything",
+      "spanish": "Urgente, usa “tengo” antes de todo",
+      "category": "Balance",
+      "generated_at": "2026-05-02T15:48:28.047113"
+    },
+    {
+      "english": "This tiny pause boosts fluency",
+      "spanish": "Esa pausa corta sube fluidez",
+      "category": "Balance",
+      "generated_at": "2026-05-02T15:48:28.047122"
+    },
+    {
+      "english": "Never freeze—finish the thought anyway",
+      "spanish": "No te quedes, termina la idea",
+      "category": "Balance",
+      "generated_at": "2026-05-02T15:48:28.047129"
+    },
+    {
+      "english": "Stop hiding—say it, then smile",
+      "spanish": "Deja de esconder, dilo y sonríe",
+      "category": "Balance",
+      "generated_at": "2026-05-02T15:48:28.047137"
     }
   ],
   "used_english": [
@@ -4698,7 +4728,12 @@
     "never say “i’ll try”, say “lo haré”",
     "stop googling, ask “¿y tú?”",
     "the secret? say “necesito ayuda”",
-    "stop losing words, use “lo siento”"
+    "stop losing words, use “lo siento”",
+    "never chase perfection, send one line",
+    "urgent: use “tengo” before everything",
+    "this tiny pause boosts fluency",
+    "never freeze—finish the thought anyway",
+    "stop hiding—say it, then smile"
   ],
-  "last_updated": "2026-05-02T14:11:43.610537"
+  "last_updated": "2026-05-02T15:48:28.047139"
 }
