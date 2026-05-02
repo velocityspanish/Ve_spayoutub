@@ -4055,6 +4055,36 @@
       "spanish": "Deja de esconder, dilo y sonríe",
       "category": "Balance",
       "generated_at": "2026-05-02T15:48:28.047137"
+    },
+    {
+      "english": "Stop texting, say this instead",
+      "spanish": "Deja mensajes, di esto",
+      "category": "Love",
+      "generated_at": "2026-05-02T17:43:33.612883"
+    },
+    {
+      "english": "Never confess too fast, whisper",
+      "spanish": "Nunca digas rápido, susurra",
+      "category": "Love",
+      "generated_at": "2026-05-02T17:43:33.612899"
+    },
+    {
+      "english": "The secret phrase, you’ll use tonight",
+      "spanish": "La frase secreta, la usas hoy",
+      "category": "Love",
+      "generated_at": "2026-05-02T17:43:33.612908"
+    },
+    {
+      "english": "Never say 'why', say '¿qué tal?'",
+      "spanish": "No digas 'por qué', di '¿qué tal?'",
+      "category": "Love",
+      "generated_at": "2026-05-02T17:43:33.612916"
+    },
+    {
+      "english": "This tiny word makes you flirty",
+      "spanish": "Esta palabra te pone lindo",
+      "category": "Love",
+      "generated_at": "2026-05-02T17:43:33.612924"
     }
   ],
   "used_english": [
@@ -4733,7 +4763,12 @@
     "urgent: use “tengo” before everything",
     "this tiny pause boosts fluency",
     "never freeze—finish the thought anyway",
-    "stop hiding—say it, then smile"
+    "stop hiding—say it, then smile",
+    "stop texting, say this instead",
+    "never confess too fast, whisper",
+    "the secret phrase, you’ll use tonight",
+    "never say 'why', say '¿qué tal?'",
+    "this tiny word makes you flirty"
   ],
-  "last_updated": "2026-05-02T15:48:28.047139"
+  "last_updated": "2026-05-02T17:43:33.612925"
 }
