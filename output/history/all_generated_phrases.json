@@ -3995,6 +3995,36 @@
       "spanish": "Nunca lo exageres, solo di “Sin problema”",
       "category": "Joy",
       "generated_at": "2026-05-01T21:42:18.608154"
+    },
+    {
+      "english": "Stop hiding, say “estoy listo”",
+      "spanish": "Deja de esconderte, di “estoy listo”",
+      "category": "Motivation",
+      "generated_at": "2026-05-02T14:11:43.610497"
+    },
+    {
+      "english": "Never say “I’ll try”, say “lo haré”",
+      "spanish": "No digas “lo intentaré”, di “lo haré”",
+      "category": "Motivation",
+      "generated_at": "2026-05-02T14:11:43.610512"
+    },
+    {
+      "english": "Stop Googling, ask “¿y tú?”",
+      "spanish": "Deja el Google, pregunta “¿y tú?”",
+      "category": "Motivation",
+      "generated_at": "2026-05-02T14:11:43.610520"
+    },
+    {
+      "english": "The secret? Say “necesito ayuda”",
+      "spanish": "El secreto: di “necesito ayuda”",
+      "category": "Motivation",
+      "generated_at": "2026-05-02T14:11:43.610528"
+    },
+    {
+      "english": "Stop losing words, use “lo siento”",
+      "spanish": "No pierdas palabras, usa “lo siento”",
+      "category": "Motivation",
+      "generated_at": "2026-05-02T14:11:43.610535"
     }
   ],
   "used_english": [
@@ -4663,7 +4693,12 @@
     "the secret phrase, “me interesa”",
     "what nobody tells you, answer fast",
     "stop freezing, start with “¿cómo?”",
-    "never overdo, just say “sin problema”"
+    "never overdo, just say “sin problema”",
+    "stop hiding, say “estoy listo”",
+    "never say “i’ll try”, say “lo haré”",
+    "stop googling, ask “¿y tú?”",
+    "the secret? say “necesito ayuda”",
+    "stop losing words, use “lo siento”"
   ],
-  "last_updated": "2026-05-01T21:42:18.608156"
+  "last_updated": "2026-05-02T14:11:43.610537"
 }
