@@ -4235,6 +4235,36 @@
       "spanish": "No busques perfecto, elige calma",
       "category": "Mindfulness",
       "generated_at": "2026-05-03T17:47:23.242280"
+    },
+    {
+      "english": "Stop learning alone, text now",
+      "spanish": "Deja de aprender solo, escribe ya",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T19:56:15.832366"
+    },
+    {
+      "english": "Never perfect, just reply—today",
+      "spanish": "Nunca perfecto, solo responde hoy",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T19:56:15.832385"
+    },
+    {
+      "english": "The secret, use one easy verb",
+      "spanish": "El secreto, usa un verbo fácil",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T19:56:15.832394"
+    },
+    {
+      "english": "This tiny word builds confidence, 'claro'",
+      "spanish": "Esa palabra crea confianza, 'claro'",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T19:56:15.832401"
+    },
+    {
+      "english": "Stop waiting for 'perfect' day",
+      "spanish": "No esperes por el día perfecto",
+      "category": "Motivation",
+      "generated_at": "2026-05-03T19:56:15.832409"
     }
   ],
   "used_english": [
@@ -4943,7 +4973,12 @@
     "the secret? tiny pauses, always",
     "urgent: speak slower, happier",
     "your breath is your cheat-code",
-    "never chase perfect, choose calm"
+    "never chase perfect, choose calm",
+    "stop learning alone, text now",
+    "never perfect, just reply—today",
+    "the secret, use one easy verb",
+    "this tiny word builds confidence, 'claro'",
+    "stop waiting for 'perfect' day"
   ],
-  "last_updated": "2026-05-03T17:47:23.242281"
+  "last_updated": "2026-05-03T19:56:15.832411"
 }
