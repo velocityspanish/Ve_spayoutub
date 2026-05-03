@@ -4175,6 +4175,36 @@
       "spanish": "No tengas miedo, di \"da igual\"",
       "category": "Joy",
       "generated_at": "2026-05-03T14:12:41.757951"
+    },
+    {
+      "english": "Stop saying 'hi', say '¿Qué tal?'",
+      "spanish": "Deja 'hola', di '¿Qué tal?'",
+      "category": "Joy",
+      "generated_at": "2026-05-03T15:49:37.426873"
+    },
+    {
+      "english": "Never say 'maybe', say 'seguro'",
+      "spanish": "Nunca digas 'tal vez', di 'seguro'",
+      "category": "Joy",
+      "generated_at": "2026-05-03T15:49:37.426887"
+    },
+    {
+      "english": "Stop hunting vocab, just say 'cosas'",
+      "spanish": "Deja buscar palabras, di 'cosas'",
+      "category": "Joy",
+      "generated_at": "2026-05-03T15:49:37.426895"
+    },
+    {
+      "english": "The secret? Ask for repetition, now",
+      "spanish": "El secreto… pide repetir, ahora",
+      "category": "Joy",
+      "generated_at": "2026-05-03T15:49:37.426903"
+    },
+    {
+      "english": "Stop overthinking, say 'yo tengo'",
+      "spanish": "Deja de pensar, di 'yo tengo'",
+      "category": "Joy",
+      "generated_at": "2026-05-03T15:49:37.426911"
     }
   ],
   "used_english": [
@@ -4873,7 +4903,12 @@
     "never say english, use \"vale\"",
     "the secret? say \"¿me entiendes?\"",
     "stop chasing words, use \"tengo\"",
-    "never fear mistakes, say \"da igual\""
+    "never fear mistakes, say \"da igual\"",
+    "stop saying 'hi', say '¿qué tal?'",
+    "never say 'maybe', say 'seguro'",
+    "stop hunting vocab, just say 'cosas'",
+    "the secret? ask for repetition, now",
+    "stop overthinking, say 'yo tengo'"
   ],
-  "last_updated": "2026-05-03T14:12:41.757953"
+  "last_updated": "2026-05-03T15:49:37.426913"
 }
