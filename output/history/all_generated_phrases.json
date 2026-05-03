@@ -4265,6 +4265,36 @@
       "spanish": "No esperes por el día perfecto",
       "category": "Motivation",
       "generated_at": "2026-05-03T19:56:15.832409"
+    },
+    {
+      "english": "Never say “okay”, say “vale”",
+      "spanish": "Nunca digas “vale”, di “vale”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T21:32:00.060468"
+    },
+    {
+      "english": "Stop panicking, whisper “tranquilo”",
+      "spanish": "Para, respira, di “tranquilo”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T21:32:00.060484"
+    },
+    {
+      "english": "The secret? Say it, then pause",
+      "spanish": "El secreto, dilo, luego pausa",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T21:32:00.060493"
+    },
+    {
+      "english": "Never hunt grammar, trust your rhythm",
+      "spanish": "Nunca busques gramática, sigue tu ritmo",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T21:32:00.060501"
+    },
+    {
+      "english": "Stop stalling, just say “bueno”",
+      "spanish": "Deja de frenar, di “bueno”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T21:32:00.060509"
     }
   ],
   "used_english": [
@@ -4978,7 +5008,12 @@
     "never perfect, just reply—today",
     "the secret, use one easy verb",
     "this tiny word builds confidence, 'claro'",
-    "stop waiting for 'perfect' day"
+    "stop waiting for 'perfect' day",
+    "never say “okay”, say “vale”",
+    "stop panicking, whisper “tranquilo”",
+    "the secret? say it, then pause",
+    "never hunt grammar, trust your rhythm",
+    "stop stalling, just say “bueno”"
   ],
-  "last_updated": "2026-05-03T19:56:15.832411"
+  "last_updated": "2026-05-03T21:32:00.060511"
 }
