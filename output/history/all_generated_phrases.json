@@ -4145,6 +4145,36 @@
       "spanish": "Una palabra te da tiempo",
       "category": "Growth",
       "generated_at": "2026-05-02T21:30:02.541060"
+    },
+    {
+      "english": "Stop blanking, say \"Lo siento\"",
+      "spanish": "Deja de trabarte, di \"Lo siento\"",
+      "category": "Joy",
+      "generated_at": "2026-05-03T14:12:41.757903"
+    },
+    {
+      "english": "Never say English, use \"vale\"",
+      "spanish": "Nunca digas inglés, usa \"vale\"",
+      "category": "Joy",
+      "generated_at": "2026-05-03T14:12:41.757922"
+    },
+    {
+      "english": "The secret? Say \"¿me entiendes?\"",
+      "spanish": "El secreto, di \"¿me entiendes?\"",
+      "category": "Joy",
+      "generated_at": "2026-05-03T14:12:41.757933"
+    },
+    {
+      "english": "Stop chasing words, use \"tengo\"",
+      "spanish": "Deja de buscar palabras, usa \"tengo\"",
+      "category": "Joy",
+      "generated_at": "2026-05-03T14:12:41.757942"
+    },
+    {
+      "english": "Never fear mistakes, say \"da igual\"",
+      "spanish": "No tengas miedo, di \"da igual\"",
+      "category": "Joy",
+      "generated_at": "2026-05-03T14:12:41.757951"
     }
   ],
   "used_english": [
@@ -4838,7 +4868,12 @@
     "never say nothing, reply with \"claro\"",
     "the secret... ask one opinion",
     "stop hiding, say \"lo entiendo\"",
-    "this one word buys you thinking time"
+    "this one word buys you thinking time",
+    "stop blanking, say \"lo siento\"",
+    "never say english, use \"vale\"",
+    "the secret? say \"¿me entiendes?\"",
+    "stop chasing words, use \"tengo\"",
+    "never fear mistakes, say \"da igual\""
   ],
-  "last_updated": "2026-05-02T21:30:02.541062"
+  "last_updated": "2026-05-03T14:12:41.757953"
 }
