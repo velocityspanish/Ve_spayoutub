@@ -4205,6 +4205,36 @@
       "spanish": "Deja de pensar, di 'yo tengo'",
       "category": "Joy",
       "generated_at": "2026-05-03T15:49:37.426911"
+    },
+    {
+      "english": "Stop multitasking, breathe, repeat",
+      "spanish": "Deja multitarea, respira, repite",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T17:47:23.242240"
+    },
+    {
+      "english": "The secret? Tiny pauses, always",
+      "spanish": "El secreto, micro pausas",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T17:47:23.242257"
+    },
+    {
+      "english": "Urgent: speak slower, happier",
+      "spanish": "Urgente, habla más despacio",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T17:47:23.242265"
+    },
+    {
+      "english": "Your breath is your cheat-code",
+      "spanish": "Tu respiración es truco",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T17:47:23.242272"
+    },
+    {
+      "english": "Never chase perfect, choose calm",
+      "spanish": "No busques perfecto, elige calma",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T17:47:23.242280"
     }
   ],
   "used_english": [
@@ -4908,7 +4938,12 @@
     "never say 'maybe', say 'seguro'",
     "stop hunting vocab, just say 'cosas'",
     "the secret? ask for repetition, now",
-    "stop overthinking, say 'yo tengo'"
+    "stop overthinking, say 'yo tengo'",
+    "stop multitasking, breathe, repeat",
+    "the secret? tiny pauses, always",
+    "urgent: speak slower, happier",
+    "your breath is your cheat-code",
+    "never chase perfect, choose calm"
   ],
-  "last_updated": "2026-05-03T15:49:37.426913"
+  "last_updated": "2026-05-03T17:47:23.242281"
 }
