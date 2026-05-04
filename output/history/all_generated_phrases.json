@@ -4385,6 +4385,36 @@
       "spanish": "Este hábito gana cada día",
       "category": "Perseverance",
       "generated_at": "2026-05-04T18:15:10.779620"
+    },
+    {
+      "english": "Stop ghosting your Spanish, speak now",
+      "spanish": "Deja de ignorar tu español, habla ya",
+      "category": "Patience",
+      "generated_at": "2026-05-04T20:20:13.133105"
+    },
+    {
+      "english": "Never wait for courage, just try",
+      "spanish": "Nunca esperes valor, inténtalo",
+      "category": "Patience",
+      "generated_at": "2026-05-04T20:20:13.133121"
+    },
+    {
+      "english": "The secret... name it, then say it",
+      "spanish": "El secreto... nómbralo, y dímelo",
+      "category": "Patience",
+      "generated_at": "2026-05-04T20:20:13.133130"
+    },
+    {
+      "english": "Stop overthinking, just answer honestly",
+      "spanish": "Deja de pensar de más, responde sincero",
+      "category": "Patience",
+      "generated_at": "2026-05-04T20:20:13.133137"
+    },
+    {
+      "english": "This one trick boosts speed, repeat",
+      "spanish": "Este truco acelera, repite",
+      "category": "Patience",
+      "generated_at": "2026-05-04T20:20:13.133145"
     }
   ],
   "used_english": [
@@ -5118,7 +5148,12 @@
     "never miss daily practice, even 30s",
     "the secret? keep going, no excuses",
     "never study, only speak your day",
-    "this one habit beats motivation daily"
+    "this one habit beats motivation daily",
+    "stop ghosting your spanish, speak now",
+    "never wait for courage, just try",
+    "the secret... name it, then say it",
+    "stop overthinking, just answer honestly",
+    "this one trick boosts speed, repeat"
   ],
-  "last_updated": "2026-05-04T18:15:10.779622"
+  "last_updated": "2026-05-04T20:20:13.133147"
 }
