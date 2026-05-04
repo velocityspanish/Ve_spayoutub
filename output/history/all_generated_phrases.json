@@ -4295,6 +4295,36 @@
       "spanish": "Deja de frenar, di “bueno”",
       "category": "Mindfulness",
       "generated_at": "2026-05-03T21:32:00.060509"
+    },
+    {
+      "english": "Stop learning alone, meet locals",
+      "spanish": "Deja de aprender solo, conoce locales",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-04T15:11:42.677484"
+    },
+    {
+      "english": "Never wait, speak from memory",
+      "spanish": "Nunca esperes, habla de memoria",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-04T15:11:42.677501"
+    },
+    {
+      "english": "Stop perfecting, say it anyway",
+      "spanish": "Deja de perfeccionar, díselo igual",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-04T15:11:42.677510"
+    },
+    {
+      "english": "Never practice silently, say one sentence",
+      "spanish": "No practiques en silencio, di una frase",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-04T15:11:42.677517"
+    },
+    {
+      "english": "Stop overthinking, just ask 'why'",
+      "spanish": "Deja de pensar, pregunta 'por qué'",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-04T15:11:42.677525"
     }
   ],
   "used_english": [
@@ -5013,7 +5043,12 @@
     "stop panicking, whisper “tranquilo”",
     "the secret? say it, then pause",
     "never hunt grammar, trust your rhythm",
-    "stop stalling, just say “bueno”"
+    "stop stalling, just say “bueno”",
+    "stop learning alone, meet locals",
+    "never wait, speak from memory",
+    "stop perfecting, say it anyway",
+    "never practice silently, say one sentence",
+    "stop overthinking, just ask 'why'"
   ],
-  "last_updated": "2026-05-03T21:32:00.060511"
+  "last_updated": "2026-05-04T15:11:42.677527"
 }
