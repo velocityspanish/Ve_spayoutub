@@ -4415,6 +4415,36 @@
       "spanish": "Este truco acelera, repite",
       "category": "Patience",
       "generated_at": "2026-05-04T20:20:13.133145"
+    },
+    {
+      "english": "Stop saying “calm down”, try “tranquilo”",
+      "spanish": "Deja de decir “calm down”, di “tranquilo”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T21:52:26.074641"
+    },
+    {
+      "english": "Never rush, use “todavía” once",
+      "spanish": "Nunca corras, usa “todavía” una vez",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T21:52:26.074658"
+    },
+    {
+      "english": "This is why natives smile, “vale”",
+      "spanish": "Por eso sonríen, “vale”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T21:52:26.074666"
+    },
+    {
+      "english": "Stop overthinking, say “¿está bien?”",
+      "spanish": "Deja de pensar tanto, di “¿está bien?”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T21:52:26.074675"
+    },
+    {
+      "english": "This changes everything, say “me gusta”",
+      "spanish": "Esto lo cambia todo, “me gusta”",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T21:52:26.074682"
     }
   ],
   "used_english": [
@@ -5153,7 +5183,12 @@
     "never wait for courage, just try",
     "the secret... name it, then say it",
     "stop overthinking, just answer honestly",
-    "this one trick boosts speed, repeat"
+    "this one trick boosts speed, repeat",
+    "stop saying “calm down”, try “tranquilo”",
+    "never rush, use “todavía” once",
+    "this is why natives smile, “vale”",
+    "stop overthinking, say “¿está bien?”",
+    "this changes everything, say “me gusta”"
   ],
-  "last_updated": "2026-05-04T20:20:13.133147"
+  "last_updated": "2026-05-04T21:52:26.074684"
 }
