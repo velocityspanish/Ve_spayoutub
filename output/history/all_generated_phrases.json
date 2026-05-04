@@ -4325,6 +4325,36 @@
       "spanish": "Deja de pensar, pregunta 'por qué'",
       "category": "Self Improvement",
       "generated_at": "2026-05-04T15:11:42.677525"
+    },
+    {
+      "english": "Never answer alone, ask back",
+      "spanish": "Nunca respondas sola, pregunta",
+      "category": "Joy",
+      "generated_at": "2026-05-04T16:47:39.261421"
+    },
+    {
+      "english": "The secret? Say it twice, fast",
+      "spanish": "El secreto, dilo dos veces",
+      "category": "Joy",
+      "generated_at": "2026-05-04T16:47:39.261436"
+    },
+    {
+      "english": "Stop overthinking, just react with 'claro'",
+      "spanish": "No pienses tanto, reacciona con claro",
+      "category": "Joy",
+      "generated_at": "2026-05-04T16:47:39.261444"
+    },
+    {
+      "english": "Never wait, add 'ahora' to everything",
+      "spanish": "Nunca esperes, pon 'ahora' en todo",
+      "category": "Joy",
+      "generated_at": "2026-05-04T16:47:39.261451"
+    },
+    {
+      "english": "This tiny phrase makes natives smile",
+      "spanish": "Esta frase pequeña hace sonreír",
+      "category": "Joy",
+      "generated_at": "2026-05-04T16:47:39.261459"
     }
   ],
   "used_english": [
@@ -5048,7 +5078,12 @@
     "never wait, speak from memory",
     "stop perfecting, say it anyway",
     "never practice silently, say one sentence",
-    "stop overthinking, just ask 'why'"
+    "stop overthinking, just ask 'why'",
+    "never answer alone, ask back",
+    "the secret? say it twice, fast",
+    "stop overthinking, just react with 'claro'",
+    "never wait, add 'ahora' to everything",
+    "this tiny phrase makes natives smile"
   ],
-  "last_updated": "2026-05-04T15:11:42.677527"
+  "last_updated": "2026-05-04T16:47:39.261461"
 }
