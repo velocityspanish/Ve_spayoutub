@@ -4355,6 +4355,36 @@
       "spanish": "Esta frase pequeña hace sonreír",
       "category": "Joy",
       "generated_at": "2026-05-04T16:47:39.261459"
+    },
+    {
+      "english": "Stop quitting, speak one sentence",
+      "spanish": "Deja de rendirte, di una frase",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:15:10.779577"
+    },
+    {
+      "english": "Never miss daily practice, even 30s",
+      "spanish": "Nunca falles, practícalo 30 segundos",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:15:10.779595"
+    },
+    {
+      "english": "The secret? Keep going, no excuses",
+      "spanish": "El secreto, sigue, sin excusas",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:15:10.779604"
+    },
+    {
+      "english": "Never study, only speak your day",
+      "spanish": "Nunca estudies, cuenta tu día",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:15:10.779613"
+    },
+    {
+      "english": "This one habit beats motivation daily",
+      "spanish": "Este hábito gana cada día",
+      "category": "Perseverance",
+      "generated_at": "2026-05-04T18:15:10.779620"
     }
   ],
   "used_english": [
@@ -5083,7 +5113,12 @@
     "the secret? say it twice, fast",
     "stop overthinking, just react with 'claro'",
     "never wait, add 'ahora' to everything",
-    "this tiny phrase makes natives smile"
+    "this tiny phrase makes natives smile",
+    "stop quitting, speak one sentence",
+    "never miss daily practice, even 30s",
+    "the secret? keep going, no excuses",
+    "never study, only speak your day",
+    "this one habit beats motivation daily"
   ],
-  "last_updated": "2026-05-04T16:47:39.261461"
+  "last_updated": "2026-05-04T18:15:10.779622"
 }
