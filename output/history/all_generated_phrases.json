@@ -4505,6 +4505,36 @@
       "spanish": "Nunca te trabes, usa «bueno…»",
       "category": "Friendship",
       "generated_at": "2026-05-05T20:13:43.716177"
+    },
+    {
+      "english": "Stop using 'love'—say 'te quiero'",
+      "spanish": "Deja de usar 'amor'—di 'te quiero'",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:02:17.215254"
+    },
+    {
+      "english": "The secret, add 'de verdad'—wow",
+      "spanish": "El secreto, agrega 'de verdad'—guau",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:02:17.215272"
+    },
+    {
+      "english": "What nobody tells you, whisper 'tú y yo'",
+      "spanish": "Lo que nadie te dice, susurra 'tú y yo'",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:02:17.215281"
+    },
+    {
+      "english": "Stop being formal, go 'tú'",
+      "spanish": "Deja la formalidad, usa 'tú'",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:02:17.215288"
+    },
+    {
+      "english": "Never rush—pause after 'por favor'",
+      "spanish": "No te apresures, pausa tras 'por favor'",
+      "category": "Love",
+      "generated_at": "2026-05-05T22:02:17.215297"
     }
   ],
   "used_english": [
@@ -5258,7 +5288,12 @@
     "never say silence, break with «oye»",
     "this is why friends notice «perdón»",
     "the secret to fast replies, «¿y tú?»",
-    "never get stuck, use «bueno…» first"
+    "never get stuck, use «bueno…» first",
+    "stop using 'love'—say 'te quiero'",
+    "the secret, add 'de verdad'—wow",
+    "what nobody tells you, whisper 'tú y yo'",
+    "stop being formal, go 'tú'",
+    "never rush—pause after 'por favor'"
   ],
-  "last_updated": "2026-05-05T20:13:43.716179"
+  "last_updated": "2026-05-05T22:02:17.215299"
 }
