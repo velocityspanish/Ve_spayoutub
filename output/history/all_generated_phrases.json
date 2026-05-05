@@ -4475,6 +4475,36 @@
       "spanish": "Esta señal acelera tu habla",
       "category": "Creativity",
       "generated_at": "2026-05-05T18:28:24.538429"
+    },
+    {
+      "english": "Stop asking for permission, say \"vale\"",
+      "spanish": "Deja de pedir permiso, di «vale»",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:13:43.716131"
+    },
+    {
+      "english": "Never say silence, break with «oye»",
+      "spanish": "Nunca te quedes callado, di «oye»",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:13:43.716149"
+    },
+    {
+      "english": "This is why friends notice «perdón»",
+      "spanish": "Por eso, tus amigos notan «perdón»",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:13:43.716158"
+    },
+    {
+      "english": "The secret to fast replies, «¿y tú?»",
+      "spanish": "El secreto para responder, «¿y tú?»",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:13:43.716167"
+    },
+    {
+      "english": "Never get stuck, use «bueno…» first",
+      "spanish": "Nunca te trabes, usa «bueno…»",
+      "category": "Friendship",
+      "generated_at": "2026-05-05T20:13:43.716177"
     }
   ],
   "used_english": [
@@ -5223,7 +5253,12 @@
     "never say “wait”, say “ahora”",
     "stop overexplaining, just point",
     "never apologize, just continue",
-    "this one cue makes speech faster"
+    "this one cue makes speech faster",
+    "stop asking for permission, say \"vale\"",
+    "never say silence, break with «oye»",
+    "this is why friends notice «perdón»",
+    "the secret to fast replies, «¿y tú?»",
+    "never get stuck, use «bueno…» first"
   ],
-  "last_updated": "2026-05-05T18:28:24.538431"
+  "last_updated": "2026-05-05T20:13:43.716179"
 }
