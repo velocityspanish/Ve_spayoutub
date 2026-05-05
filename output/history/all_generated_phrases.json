@@ -4445,6 +4445,36 @@
       "spanish": "Esto lo cambia todo, “me gusta”",
       "category": "Mindfulness",
       "generated_at": "2026-05-04T21:52:26.074682"
+    },
+    {
+      "english": "Stop translating, trust your gut",
+      "spanish": "No traduzcas, confía en tu instinto",
+      "category": "Creativity",
+      "generated_at": "2026-05-05T18:28:24.538389"
+    },
+    {
+      "english": "Never say “wait”, say “ahora”",
+      "spanish": "Nunca digas “espera”, di “ahora”",
+      "category": "Creativity",
+      "generated_at": "2026-05-05T18:28:24.538403"
+    },
+    {
+      "english": "Stop overexplaining, just point",
+      "spanish": "No expliques tanto, solo señala",
+      "category": "Creativity",
+      "generated_at": "2026-05-05T18:28:24.538412"
+    },
+    {
+      "english": "Never apologize, just continue",
+      "spanish": "No pidas perdón, sigue",
+      "category": "Creativity",
+      "generated_at": "2026-05-05T18:28:24.538421"
+    },
+    {
+      "english": "This one cue makes speech faster",
+      "spanish": "Esta señal acelera tu habla",
+      "category": "Creativity",
+      "generated_at": "2026-05-05T18:28:24.538429"
     }
   ],
   "used_english": [
@@ -5188,7 +5218,12 @@
     "never rush, use “todavía” once",
     "this is why natives smile, “vale”",
     "stop overthinking, say “¿está bien?”",
-    "this changes everything, say “me gusta”"
+    "this changes everything, say “me gusta”",
+    "stop translating, trust your gut",
+    "never say “wait”, say “ahora”",
+    "stop overexplaining, just point",
+    "never apologize, just continue",
+    "this one cue makes speech faster"
   ],
-  "last_updated": "2026-05-04T21:52:26.074684"
+  "last_updated": "2026-05-05T18:28:24.538431"
 }
