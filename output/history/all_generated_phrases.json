@@ -4535,6 +4535,36 @@
       "spanish": "No te apresures, pausa tras 'por favor'",
       "category": "Love",
       "generated_at": "2026-05-05T22:02:17.215297"
+    },
+    {
+      "english": "Never freeze, say one word",
+      "spanish": "Nunca te quedes, di una",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:29:03.294314"
+    },
+    {
+      "english": "The secret, use “hoy” everywhere",
+      "spanish": "El secreto, usa “hoy” en todo",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:29:03.294333"
+    },
+    {
+      "english": "Stop translating, copy the rhythm",
+      "spanish": "Deja traducir, copia el ritmo",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:29:03.294343"
+    },
+    {
+      "english": "Stop “maybe”, say “claro, sí”",
+      "spanish": "No digas “quizás”, di “claro, sí”",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:29:03.294351"
+    },
+    {
+      "english": "Never explain, point with one phrase",
+      "spanish": "No expliques, señala con frase",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:29:03.294360"
     }
   ],
   "used_english": [
@@ -5293,7 +5323,12 @@
     "the secret, add 'de verdad'—wow",
     "what nobody tells you, whisper 'tú y yo'",
     "stop being formal, go 'tú'",
-    "never rush—pause after 'por favor'"
+    "never rush—pause after 'por favor'",
+    "never freeze, say one word",
+    "the secret, use “hoy” everywhere",
+    "stop translating, copy the rhythm",
+    "stop “maybe”, say “claro, sí”",
+    "never explain, point with one phrase"
   ],
-  "last_updated": "2026-05-05T22:02:17.215299"
+  "last_updated": "2026-05-06T15:29:03.294362"
 }
