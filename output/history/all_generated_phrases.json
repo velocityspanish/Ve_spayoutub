@@ -4655,6 +4655,36 @@
       "spanish": "Tu confianza crece con una frase.",
       "category": "Confidence",
       "generated_at": "2026-05-06T20:28:30.437586"
+    },
+    {
+      "english": "Stop searching, steal this sentence",
+      "spanish": "Deja de buscar, roba esta frase",
+      "category": "Creativity",
+      "generated_at": "2026-05-06T21:51:16.871453"
+    },
+    {
+      "english": "Never start with “sorry,” try this",
+      "spanish": "Nunca empieces con “perdón,” usa esto",
+      "category": "Creativity",
+      "generated_at": "2026-05-06T21:51:16.871471"
+    },
+    {
+      "english": "The secret? Replace words with actions",
+      "spanish": "El secreto, cambia palabras por acciones",
+      "category": "Creativity",
+      "generated_at": "2026-05-06T21:51:16.871479"
+    },
+    {
+      "english": "Never fear mistakes, say this first",
+      "spanish": "No tengas miedo, di esto primero",
+      "category": "Creativity",
+      "generated_at": "2026-05-06T21:51:16.871488"
+    },
+    {
+      "english": "Stop memorizing, learn chunks instead",
+      "spanish": "Deja de memorizar, aprende frases juntas",
+      "category": "Creativity",
+      "generated_at": "2026-05-06T21:51:16.871496"
     }
   ],
   "used_english": [
@@ -5433,7 +5463,12 @@
     "the secret, start with one verb.",
     "this tiny phrase unlocks smooth talk.",
     "never overthink, pick the simplest.",
-    "your confidence grows after one sentence."
+    "your confidence grows after one sentence.",
+    "stop searching, steal this sentence",
+    "never start with “sorry,” try this",
+    "the secret? replace words with actions",
+    "never fear mistakes, say this first",
+    "stop memorizing, learn chunks instead"
   ],
-  "last_updated": "2026-05-06T20:28:30.437588"
+  "last_updated": "2026-05-06T21:51:16.871498"
 }
