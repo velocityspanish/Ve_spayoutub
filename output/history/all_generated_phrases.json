@@ -4595,6 +4595,36 @@
       "spanish": "Una sola palabra mejora los días",
       "category": "Happiness",
       "generated_at": "2026-05-06T16:30:15.785420"
+    },
+    {
+      "english": "Never wait, say “estoy aquí”",
+      "spanish": "Nunca esperes, di “estoy aquí”",
+      "category": "Patience",
+      "generated_at": "2026-05-06T18:16:54.212846"
+    },
+    {
+      "english": "Stop studying, start saying yes",
+      "spanish": "Deja de estudiar, empieza con “sí”",
+      "category": "Patience",
+      "generated_at": "2026-05-06T18:16:54.212860"
+    },
+    {
+      "english": "Stop explaining, just say “oye”",
+      "spanish": "Deja de explicar, solo di “oye”",
+      "category": "Patience",
+      "generated_at": "2026-05-06T18:16:54.212870"
+    },
+    {
+      "english": "Stop guessing, use “lo mismo”",
+      "spanish": "No adivines, usa “lo mismo”",
+      "category": "Patience",
+      "generated_at": "2026-05-06T18:16:54.212878"
+    },
+    {
+      "english": "This phrase buys you time, “ah”",
+      "spanish": "Esta frase compra tiempo, “ah”",
+      "category": "Patience",
+      "generated_at": "2026-05-06T18:16:54.212886"
     }
   ],
   "used_english": [
@@ -5363,7 +5393,12 @@
     "never say \"i'm fine\" today",
     "the secret to joy, share \"te quiero\"",
     "stop stress, start with \"tranquilo\"",
-    "this one word turns days better"
+    "this one word turns days better",
+    "never wait, say “estoy aquí”",
+    "stop studying, start saying yes",
+    "stop explaining, just say “oye”",
+    "stop guessing, use “lo mismo”",
+    "this phrase buys you time, “ah”"
   ],
-  "last_updated": "2026-05-06T16:30:15.785422"
+  "last_updated": "2026-05-06T18:16:54.212888"
 }
