@@ -4565,6 +4565,36 @@
       "spanish": "No expliques, señala con frase",
       "category": "Purpose",
       "generated_at": "2026-05-06T15:29:03.294360"
+    },
+    {
+      "english": "Stop chasing happiness, say \"gracias\"",
+      "spanish": "Deja de buscar felicidad, di \"gracias\"",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T16:30:15.785379"
+    },
+    {
+      "english": "Never say \"I'm fine\" today",
+      "spanish": "Nunca digas \"estoy bien\" hoy",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T16:30:15.785394"
+    },
+    {
+      "english": "The secret to joy, share \"te quiero\"",
+      "spanish": "El secreto de alegría, comparte \"te quiero\"",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T16:30:15.785403"
+    },
+    {
+      "english": "Stop stress, start with \"tranquilo\"",
+      "spanish": "Corta el estrés, empieza con \"tranquilo\"",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T16:30:15.785412"
+    },
+    {
+      "english": "This one word turns days better",
+      "spanish": "Una sola palabra mejora los días",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T16:30:15.785420"
     }
   ],
   "used_english": [
@@ -5328,7 +5358,12 @@
     "the secret, use “hoy” everywhere",
     "stop translating, copy the rhythm",
     "stop “maybe”, say “claro, sí”",
-    "never explain, point with one phrase"
+    "never explain, point with one phrase",
+    "stop chasing happiness, say \"gracias\"",
+    "never say \"i'm fine\" today",
+    "the secret to joy, share \"te quiero\"",
+    "stop stress, start with \"tranquilo\"",
+    "this one word turns days better"
   ],
-  "last_updated": "2026-05-06T15:29:03.294362"
+  "last_updated": "2026-05-06T16:30:15.785422"
 }
