@@ -4625,6 +4625,36 @@
       "spanish": "Esta frase compra tiempo, “ah”",
       "category": "Patience",
       "generated_at": "2026-05-06T18:16:54.212886"
+    },
+    {
+      "english": "Stop fearing accents, just speak.",
+      "spanish": "Deja de temer acentos, habla.",
+      "category": "Confidence",
+      "generated_at": "2026-05-06T20:28:30.437542"
+    },
+    {
+      "english": "The secret, start with one verb.",
+      "spanish": "El secreto, empieza con un verbo.",
+      "category": "Confidence",
+      "generated_at": "2026-05-06T20:28:30.437561"
+    },
+    {
+      "english": "This tiny phrase unlocks smooth talk.",
+      "spanish": "Esta frase abre charla fluida.",
+      "category": "Confidence",
+      "generated_at": "2026-05-06T20:28:30.437570"
+    },
+    {
+      "english": "Never overthink, pick the simplest.",
+      "spanish": "No pienses mucho, elige lo simple.",
+      "category": "Confidence",
+      "generated_at": "2026-05-06T20:28:30.437578"
+    },
+    {
+      "english": "Your confidence grows after one sentence.",
+      "spanish": "Tu confianza crece con una frase.",
+      "category": "Confidence",
+      "generated_at": "2026-05-06T20:28:30.437586"
     }
   ],
   "used_english": [
@@ -5398,7 +5428,12 @@
     "stop studying, start saying yes",
     "stop explaining, just say “oye”",
     "stop guessing, use “lo mismo”",
-    "this phrase buys you time, “ah”"
+    "this phrase buys you time, “ah”",
+    "stop fearing accents, just speak.",
+    "the secret, start with one verb.",
+    "this tiny phrase unlocks smooth talk.",
+    "never overthink, pick the simplest.",
+    "your confidence grows after one sentence."
   ],
-  "last_updated": "2026-05-06T18:16:54.212888"
+  "last_updated": "2026-05-06T20:28:30.437588"
 }
