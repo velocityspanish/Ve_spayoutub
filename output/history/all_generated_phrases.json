@@ -4775,6 +4775,36 @@
       "spanish": "Deja de traducir, di tu momento",
       "category": "Mindfulness",
       "generated_at": "2026-05-07T18:25:21.944834"
+    },
+    {
+      "english": "This one line saves your day",
+      "spanish": "Esta frase salva tu día",
+      "category": "Perseverance",
+      "generated_at": "2026-05-07T20:18:23.794139"
+    },
+    {
+      "english": "Stop searching words, say “lo siento”",
+      "spanish": "Deja buscar, di “lo siento”",
+      "category": "Perseverance",
+      "generated_at": "2026-05-07T20:18:23.794157"
+    },
+    {
+      "english": "Never lose courage, try again",
+      "spanish": "No pierdas valor, inténtalo otra vez",
+      "category": "Perseverance",
+      "generated_at": "2026-05-07T20:18:23.794166"
+    },
+    {
+      "english": "Never fear mistakes, you’re practicing",
+      "spanish": "No tengas miedo, estás practicando",
+      "category": "Perseverance",
+      "generated_at": "2026-05-07T20:18:23.794174"
+    },
+    {
+      "english": "This is why your progress sticks",
+      "spanish": "Por eso tu avance se queda",
+      "category": "Perseverance",
+      "generated_at": "2026-05-07T20:18:23.794183"
     }
   ],
   "used_english": [
@@ -5573,7 +5603,12 @@
     "never panic, name one feeling",
     "the secret? soften with \"oye\"",
     "never chase perfection, just respond",
-    "stop translating, speak your moment"
+    "stop translating, speak your moment",
+    "this one line saves your day",
+    "stop searching words, say “lo siento”",
+    "never lose courage, try again",
+    "never fear mistakes, you’re practicing",
+    "this is why your progress sticks"
   ],
-  "last_updated": "2026-05-07T18:25:21.944836"
+  "last_updated": "2026-05-07T20:18:23.794185"
 }
