@@ -4805,6 +4805,36 @@
       "spanish": "Por eso tu avance se queda",
       "category": "Perseverance",
       "generated_at": "2026-05-07T20:18:23.794183"
+    },
+    {
+      "english": "Never explain, answer with “así”",
+      "spanish": "Nunca expliques, responde con “así”",
+      "category": "Strength",
+      "generated_at": "2026-05-07T21:45:21.361084"
+    },
+    {
+      "english": "Stop freezing, say “va a ser”",
+      "spanish": "No te quedes, di “va a ser”",
+      "category": "Strength",
+      "generated_at": "2026-05-07T21:45:21.361108"
+    },
+    {
+      "english": "Never stall, start with “estoy…”",
+      "spanish": "No te pares, empieza con “estoy…”",
+      "category": "Strength",
+      "generated_at": "2026-05-07T21:45:21.361123"
+    },
+    {
+      "english": "The secret... use “porque” once",
+      "spanish": "El secreto..., usa “porque” una vez",
+      "category": "Strength",
+      "generated_at": "2026-05-07T21:45:21.361137"
+    },
+    {
+      "english": "This phrase turns mistakes into wins",
+      "spanish": "Esta frase convierte errores en wins",
+      "category": "Strength",
+      "generated_at": "2026-05-07T21:45:21.361151"
     }
   ],
   "used_english": [
@@ -5608,7 +5638,12 @@
     "stop searching words, say “lo siento”",
     "never lose courage, try again",
     "never fear mistakes, you’re practicing",
-    "this is why your progress sticks"
+    "this is why your progress sticks",
+    "never explain, answer with “así”",
+    "stop freezing, say “va a ser”",
+    "never stall, start with “estoy…”",
+    "the secret... use “porque” once",
+    "this phrase turns mistakes into wins"
   ],
-  "last_updated": "2026-05-07T20:18:23.794185"
+  "last_updated": "2026-05-07T21:45:21.361153"
 }
