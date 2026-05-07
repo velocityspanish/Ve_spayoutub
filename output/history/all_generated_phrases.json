@@ -4685,6 +4685,36 @@
       "spanish": "Deja de memorizar, aprende frases juntas",
       "category": "Creativity",
       "generated_at": "2026-05-06T21:51:16.871496"
+    },
+    {
+      "english": "Stop using “maybe”, say “claro”",
+      "spanish": "Deja “quizás”, di “claro”",
+      "category": "Success",
+      "generated_at": "2026-05-07T15:30:17.609840"
+    },
+    {
+      "english": "The secret, add “de verdad”",
+      "spanish": "El secreto, agrega “de verdad”",
+      "category": "Success",
+      "generated_at": "2026-05-07T15:30:17.609860"
+    },
+    {
+      "english": "Stop translating, speak in chunks",
+      "spanish": "No traduzcas, habla en bloques",
+      "category": "Success",
+      "generated_at": "2026-05-07T15:30:17.609870"
+    },
+    {
+      "english": "Never ask “why”, just say “ah, ya”",
+      "spanish": "No digas “por qué”, di “ah, ya”",
+      "category": "Success",
+      "generated_at": "2026-05-07T15:30:17.609879"
+    },
+    {
+      "english": "Never say “I’m sorry”, keep going",
+      "spanish": "No digas “perdón”, sigue igual",
+      "category": "Success",
+      "generated_at": "2026-05-07T15:30:17.609888"
     }
   ],
   "used_english": [
@@ -5468,7 +5498,12 @@
     "never start with “sorry,” try this",
     "the secret? replace words with actions",
     "never fear mistakes, say this first",
-    "stop memorizing, learn chunks instead"
+    "stop memorizing, learn chunks instead",
+    "stop using “maybe”, say “claro”",
+    "the secret, add “de verdad”",
+    "stop translating, speak in chunks",
+    "never ask “why”, just say “ah, ya”",
+    "never say “i’m sorry”, keep going"
   ],
-  "last_updated": "2026-05-06T21:51:16.871498"
+  "last_updated": "2026-05-07T15:30:17.609890"
 }
