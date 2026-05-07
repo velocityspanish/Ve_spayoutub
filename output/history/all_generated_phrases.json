@@ -4745,6 +4745,36 @@
       "spanish": "Deja «I think», di «creo»",
       "category": "Hope",
       "generated_at": "2026-05-07T16:51:51.463817"
+    },
+    {
+      "english": "Stop doomscrolling, breathe, say \"estoy\"",
+      "spanish": "Deja el doomscroll, respira, di «estoy»",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T18:25:21.944789"
+    },
+    {
+      "english": "Never panic, name one feeling",
+      "spanish": "Nunca entres en pánico, di un sentimiento",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T18:25:21.944808"
+    },
+    {
+      "english": "The secret? soften with \"oye\"",
+      "spanish": "El secreto, suaviza con «oye»",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T18:25:21.944817"
+    },
+    {
+      "english": "Never chase perfection, just respond",
+      "spanish": "No persigas perfección, solo responde",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T18:25:21.944825"
+    },
+    {
+      "english": "Stop translating, speak your moment",
+      "spanish": "Deja de traducir, di tu momento",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-07T18:25:21.944834"
     }
   ],
   "used_english": [
@@ -5538,7 +5568,12 @@
     "stop waiting, say “lo busco”",
     "never guess, ask “¿cómo se dice?”",
     "never quit mid-sentence, finish strong",
-    "stop saying “i think”, say “creo”"
+    "stop saying “i think”, say “creo”",
+    "stop doomscrolling, breathe, say \"estoy\"",
+    "never panic, name one feeling",
+    "the secret? soften with \"oye\"",
+    "never chase perfection, just respond",
+    "stop translating, speak your moment"
   ],
-  "last_updated": "2026-05-07T16:51:51.463819"
+  "last_updated": "2026-05-07T18:25:21.944836"
 }
