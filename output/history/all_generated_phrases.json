@@ -4715,6 +4715,36 @@
       "spanish": "No digas “perdón”, sigue igual",
       "category": "Success",
       "generated_at": "2026-05-07T15:30:17.609888"
+    },
+    {
+      "english": "Stop overthinking, use “entiendo”",
+      "spanish": "Deja de sobrepensar, usa «entiendo»",
+      "category": "Hope",
+      "generated_at": "2026-05-07T16:51:51.463772"
+    },
+    {
+      "english": "Stop waiting, say “lo busco”",
+      "spanish": "No esperes, di «lo busco»",
+      "category": "Hope",
+      "generated_at": "2026-05-07T16:51:51.463791"
+    },
+    {
+      "english": "Never guess, ask “¿cómo se dice?”",
+      "spanish": "No adivines, pregunta «¿cómo se dice?»",
+      "category": "Hope",
+      "generated_at": "2026-05-07T16:51:51.463800"
+    },
+    {
+      "english": "Never quit mid-sentence, finish strong",
+      "spanish": "No te rindas, termina con fuerza",
+      "category": "Hope",
+      "generated_at": "2026-05-07T16:51:51.463809"
+    },
+    {
+      "english": "Stop saying “I think”, say “creo”",
+      "spanish": "Deja «I think», di «creo»",
+      "category": "Hope",
+      "generated_at": "2026-05-07T16:51:51.463817"
     }
   ],
   "used_english": [
@@ -5503,7 +5533,12 @@
     "the secret, add “de verdad”",
     "stop translating, speak in chunks",
     "never ask “why”, just say “ah, ya”",
-    "never say “i’m sorry”, keep going"
+    "never say “i’m sorry”, keep going",
+    "stop overthinking, use “entiendo”",
+    "stop waiting, say “lo busco”",
+    "never guess, ask “¿cómo se dice?”",
+    "never quit mid-sentence, finish strong",
+    "stop saying “i think”, say “creo”"
   ],
-  "last_updated": "2026-05-07T15:30:17.609890"
+  "last_updated": "2026-05-07T16:51:51.463819"
 }
