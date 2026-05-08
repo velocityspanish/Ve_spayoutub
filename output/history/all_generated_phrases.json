@@ -4895,6 +4895,36 @@
       "spanish": "Deja de scrollear, dilo en voz alta",
       "category": "Wisdom",
       "generated_at": "2026-05-08T16:16:34.072512"
+    },
+    {
+      "english": "The secret is, speak in pairs",
+      "spanish": "El secreto, habla en parejas",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:10:32.263508"
+    },
+    {
+      "english": "Stop freezing, use “por qué” now",
+      "spanish": "No te quedes, usa “por qué” ahora",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:10:32.263527"
+    },
+    {
+      "english": "Never chase words, chase meaning",
+      "spanish": "No persigas palabras, persigue el sentido",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:10:32.263536"
+    },
+    {
+      "english": "This phrase turns fear into action",
+      "spanish": "Esta frase convierte miedo en acción",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:10:32.263545"
+    },
+    {
+      "english": "Never forget, add one detail",
+      "spanish": "Nunca olvides, añade un detalle",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:10:32.263553"
     }
   ],
   "used_english": [
@@ -5713,7 +5743,12 @@
     "the secret, talk slower, smile",
     "never wait, respond with “claro”",
     "this one pause saves fluency",
-    "stop scrolling, say it aloud"
+    "stop scrolling, say it aloud",
+    "the secret is, speak in pairs",
+    "stop freezing, use “por qué” now",
+    "never chase words, chase meaning",
+    "this phrase turns fear into action",
+    "never forget, add one detail"
   ],
-  "last_updated": "2026-05-08T16:16:34.072513"
+  "last_updated": "2026-05-08T18:10:32.263555"
 }
