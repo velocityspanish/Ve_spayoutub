@@ -4835,6 +4835,36 @@
       "spanish": "Esta frase convierte errores en wins",
       "category": "Strength",
       "generated_at": "2026-05-07T21:45:21.361151"
+    },
+    {
+      "english": "Never translate—use the situation",
+      "spanish": "Nunca traduzcas, usa la situación",
+      "category": "Success",
+      "generated_at": "2026-05-08T14:54:20.682537"
+    },
+    {
+      "english": "Never fear verbs, start with 'ser'",
+      "spanish": "No temas verbos, empieza con «ser»",
+      "category": "Success",
+      "generated_at": "2026-05-08T14:54:20.682553"
+    },
+    {
+      "english": "This tiny pause sounds native",
+      "spanish": "Una pausa corta suena nativa",
+      "category": "Success",
+      "generated_at": "2026-05-08T14:54:20.682562"
+    },
+    {
+      "english": "Stop asking 'how', ask 'what'",
+      "spanish": "Deja «cómo», pregunta «qué»",
+      "category": "Success",
+      "generated_at": "2026-05-08T14:54:20.682570"
+    },
+    {
+      "english": "Never wait, practice in your head",
+      "spanish": "Nunca esperes, practícalo en tu mente",
+      "category": "Success",
+      "generated_at": "2026-05-08T14:54:20.682579"
     }
   ],
   "used_english": [
@@ -5643,7 +5673,12 @@
     "stop freezing, say “va a ser”",
     "never stall, start with “estoy…”",
     "the secret... use “porque” once",
-    "this phrase turns mistakes into wins"
+    "this phrase turns mistakes into wins",
+    "never translate—use the situation",
+    "never fear verbs, start with 'ser'",
+    "this tiny pause sounds native",
+    "stop asking 'how', ask 'what'",
+    "never wait, practice in your head"
   ],
-  "last_updated": "2026-05-07T21:45:21.361153"
+  "last_updated": "2026-05-08T14:54:20.682581"
 }
