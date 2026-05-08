@@ -4865,6 +4865,36 @@
       "spanish": "Nunca esperes, practícalo en tu mente",
       "category": "Success",
       "generated_at": "2026-05-08T14:54:20.682579"
+    },
+    {
+      "english": "Never say tomorrow, say today",
+      "spanish": "Nunca digas mañana, di hoy",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T16:16:34.072474"
+    },
+    {
+      "english": "The secret, talk slower, smile",
+      "spanish": "El secreto, habla más lento, sonríe",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T16:16:34.072490"
+    },
+    {
+      "english": "Never wait, respond with “claro”",
+      "spanish": "No esperes, responde con “claro”",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T16:16:34.072499"
+    },
+    {
+      "english": "This one pause saves fluency",
+      "spanish": "Esta pausa salva la fluidez",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T16:16:34.072506"
+    },
+    {
+      "english": "Stop scrolling, say it aloud",
+      "spanish": "Deja de scrollear, dilo en voz alta",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T16:16:34.072512"
     }
   ],
   "used_english": [
@@ -5678,7 +5708,12 @@
     "never fear verbs, start with 'ser'",
     "this tiny pause sounds native",
     "stop asking 'how', ask 'what'",
-    "never wait, practice in your head"
+    "never wait, practice in your head",
+    "never say tomorrow, say today",
+    "the secret, talk slower, smile",
+    "never wait, respond with “claro”",
+    "this one pause saves fluency",
+    "stop scrolling, say it aloud"
   ],
-  "last_updated": "2026-05-08T14:54:20.682581"
+  "last_updated": "2026-05-08T16:16:34.072513"
 }
