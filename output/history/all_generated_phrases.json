@@ -4955,6 +4955,36 @@
       "spanish": "No temas respuestas cortas, úsalas",
       "category": "Self Improvement",
       "generated_at": "2026-05-08T20:10:43.144158"
+    },
+    {
+      "english": "Never say “I understand”, say “I get it”",
+      "spanish": "Nunca digas “lo entiendo”, di “lo pillo”",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T21:47:21.498560"
+    },
+    {
+      "english": "Stop debating, just say “maybe not”",
+      "spanish": "Deja el debate, di “puede que no”",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T21:47:21.498581"
+    },
+    {
+      "english": "This is why “perdón” keeps failing",
+      "spanish": "Esto es por qué “perdón” falla",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T21:47:21.498590"
+    },
+    {
+      "english": "Stop rehearsing, speak through mistakes",
+      "spanish": "Deja de ensayar, habla con errores",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T21:47:21.498599"
+    },
+    {
+      "english": "Never wait for perfect, say “así”",
+      "spanish": "Nunca esperes perfecto, di “así”",
+      "category": "Wisdom",
+      "generated_at": "2026-05-08T21:47:21.498608"
     }
   ],
   "used_english": [
@@ -5783,7 +5813,12 @@
     "never ask perfect questions, just start",
     "this daily 10 seconds changes everything",
     "the secret is thinking in verbs",
-    "never fear short answers, use them"
+    "never fear short answers, use them",
+    "never say “i understand”, say “i get it”",
+    "stop debating, just say “maybe not”",
+    "this is why “perdón” keeps failing",
+    "stop rehearsing, speak through mistakes",
+    "never wait for perfect, say “así”"
   ],
-  "last_updated": "2026-05-08T20:10:43.144160"
+  "last_updated": "2026-05-08T21:47:21.498610"
 }
