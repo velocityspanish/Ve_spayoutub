@@ -4925,6 +4925,36 @@
       "spanish": "Nunca olvides, añade un detalle",
       "category": "Motivation",
       "generated_at": "2026-05-08T18:10:32.263553"
+    },
+    {
+      "english": "Never be quiet, add a joke",
+      "spanish": "Nunca te calles, mete una broma",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-08T20:10:43.144114"
+    },
+    {
+      "english": "Never ask perfect questions, just start",
+      "spanish": "Nunca pidas perfecto, solo empieza",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-08T20:10:43.144131"
+    },
+    {
+      "english": "This daily 10 seconds changes everything",
+      "spanish": "Estos diez segundos cambian todo",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-08T20:10:43.144140"
+    },
+    {
+      "english": "The secret is thinking in verbs",
+      "spanish": "El secreto es pensar en verbos",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-08T20:10:43.144149"
+    },
+    {
+      "english": "Never fear short answers, use them",
+      "spanish": "No temas respuestas cortas, úsalas",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-08T20:10:43.144158"
     }
   ],
   "used_english": [
@@ -5748,7 +5778,12 @@
     "stop freezing, use “por qué” now",
     "never chase words, chase meaning",
     "this phrase turns fear into action",
-    "never forget, add one detail"
+    "never forget, add one detail",
+    "never be quiet, add a joke",
+    "never ask perfect questions, just start",
+    "this daily 10 seconds changes everything",
+    "the secret is thinking in verbs",
+    "never fear short answers, use them"
   ],
-  "last_updated": "2026-05-08T18:10:32.263555"
+  "last_updated": "2026-05-08T20:10:43.144160"
 }
