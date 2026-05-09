@@ -5075,6 +5075,36 @@
       "spanish": "No tengas miedo, sonríe",
       "category": "Love",
       "generated_at": "2026-05-09T17:52:01.980027"
+    },
+    {
+      "english": "Stop sounding robotic, say \"qué tal\"",
+      "spanish": "Deja de sonar robótico, di «qué tal»",
+      "category": "Hope",
+      "generated_at": "2026-05-09T19:59:00.119226"
+    },
+    {
+      "english": "Never panic, breathe, say \"tranquilo\"",
+      "spanish": "Nunca entres en pánico, respira, di «tranquilo»",
+      "category": "Hope",
+      "generated_at": "2026-05-09T19:59:00.119250"
+    },
+    {
+      "english": "This is why you stall, wrong order",
+      "spanish": "Por eso te trabas, cambia el orden",
+      "category": "Hope",
+      "generated_at": "2026-05-09T19:59:00.119267"
+    },
+    {
+      "english": "The secret... add one tiny question",
+      "spanish": "El secreto..., agrega una mini pregunta",
+      "category": "Hope",
+      "generated_at": "2026-05-09T19:59:00.119283"
+    },
+    {
+      "english": "The fastest way to sound real",
+      "spanish": "La forma más rápida de sonar real",
+      "category": "Hope",
+      "generated_at": "2026-05-09T19:59:00.119298"
     }
   ],
   "used_english": [
@@ -5923,7 +5953,12 @@
     "what if you text first?",
     "stop chasing romance, ask names",
     "the secret is one sweet phrase",
-    "never fear flirting, just smile"
+    "never fear flirting, just smile",
+    "stop sounding robotic, say \"qué tal\"",
+    "never panic, breathe, say \"tranquilo\"",
+    "this is why you stall, wrong order",
+    "the secret... add one tiny question",
+    "the fastest way to sound real"
   ],
-  "last_updated": "2026-05-09T17:52:01.980029"
+  "last_updated": "2026-05-09T19:59:00.119301"
 }
