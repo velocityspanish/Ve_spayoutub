@@ -5015,6 +5015,36 @@
       "spanish": "El secreto es practicar en segundos",
       "category": "Inner Peace",
       "generated_at": "2026-05-09T14:18:14.836995"
+    },
+    {
+      "english": "Never quit, say “otra vez”",
+      "spanish": "Nunca te rindas, di “otra vez”",
+      "category": "Perseverance",
+      "generated_at": "2026-05-09T15:54:17.842548"
+    },
+    {
+      "english": "Stop hiding, just say “lo siento”",
+      "spanish": "Deja de esconderte, di “lo siento”",
+      "category": "Perseverance",
+      "generated_at": "2026-05-09T15:54:17.842575"
+    },
+    {
+      "english": "The secret? Keep going, even wrong",
+      "spanish": "El secreto, sigue, aunque sea mal",
+      "category": "Perseverance",
+      "generated_at": "2026-05-09T15:54:17.842585"
+    },
+    {
+      "english": "Never fear the pause, continue",
+      "spanish": "No le tengas miedo, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-05-09T15:54:17.842594"
+    },
+    {
+      "english": "Stop overchecking, trust “ya casi”",
+      "spanish": "Deja de revisar, confía “ya casi”",
+      "category": "Perseverance",
+      "generated_at": "2026-05-09T15:54:17.842603"
     }
   ],
   "used_english": [
@@ -5853,7 +5883,12 @@
     "never memorize, repeat with emotion",
     "never overthink, use “porque” once",
     "stop quitting, finish with “y ya”",
-    "the secret is practice in seconds"
+    "the secret is practice in seconds",
+    "never quit, say “otra vez”",
+    "stop hiding, just say “lo siento”",
+    "the secret? keep going, even wrong",
+    "never fear the pause, continue",
+    "stop overchecking, trust “ya casi”"
   ],
-  "last_updated": "2026-05-09T14:18:14.836997"
+  "last_updated": "2026-05-09T15:54:17.842605"
 }
