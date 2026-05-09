@@ -5045,6 +5045,36 @@
       "spanish": "Deja de revisar, confía “ya casi”",
       "category": "Perseverance",
       "generated_at": "2026-05-09T15:54:17.842603"
+    },
+    {
+      "english": "Never say “I love you” first",
+      "spanish": "Nunca digas “te amo” primero",
+      "category": "Love",
+      "generated_at": "2026-05-09T17:52:01.979979"
+    },
+    {
+      "english": "What if you text first?",
+      "spanish": "¿Y si tú escribes primero?",
+      "category": "Love",
+      "generated_at": "2026-05-09T17:52:01.979998"
+    },
+    {
+      "english": "Stop chasing romance, ask names",
+      "spanish": "Deja la romántica, pregunta nombres",
+      "category": "Love",
+      "generated_at": "2026-05-09T17:52:01.980008"
+    },
+    {
+      "english": "The secret is one sweet phrase",
+      "spanish": "El secreto es una frase dulce",
+      "category": "Love",
+      "generated_at": "2026-05-09T17:52:01.980018"
+    },
+    {
+      "english": "Never fear flirting, just smile",
+      "spanish": "No tengas miedo, sonríe",
+      "category": "Love",
+      "generated_at": "2026-05-09T17:52:01.980027"
     }
   ],
   "used_english": [
@@ -5888,7 +5918,12 @@
     "stop hiding, just say “lo siento”",
     "the secret? keep going, even wrong",
     "never fear the pause, continue",
-    "stop overchecking, trust “ya casi”"
+    "stop overchecking, trust “ya casi”",
+    "never say “i love you” first",
+    "what if you text first?",
+    "stop chasing romance, ask names",
+    "the secret is one sweet phrase",
+    "never fear flirting, just smile"
   ],
-  "last_updated": "2026-05-09T15:54:17.842605"
+  "last_updated": "2026-05-09T17:52:01.980029"
 }
