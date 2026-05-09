@@ -5105,6 +5105,36 @@
       "spanish": "La forma más rápida de sonar real",
       "category": "Hope",
       "generated_at": "2026-05-09T19:59:00.119298"
+    },
+    {
+      "english": "Never overthink, use this starter",
+      "spanish": "No sobrepienses, usa este inicio",
+      "category": "Growth",
+      "generated_at": "2026-05-09T21:33:17.960617"
+    },
+    {
+      "english": "This verb trick boosts your fluency",
+      "spanish": "Este truco de verbos mejora fluidez",
+      "category": "Growth",
+      "generated_at": "2026-05-09T21:33:17.960632"
+    },
+    {
+      "english": "Stop swapping nouns, start with actions",
+      "spanish": "Deja los sustantivos, empieza con acciones",
+      "category": "Growth",
+      "generated_at": "2026-05-09T21:33:17.960641"
+    },
+    {
+      "english": "Never apologize for your accent",
+      "spanish": "Nunca pidas perdón por tu acento",
+      "category": "Growth",
+      "generated_at": "2026-05-09T21:33:17.960650"
+    },
+    {
+      "english": "This question makes natives respond faster",
+      "spanish": "Esta pregunta hace responder más rápido",
+      "category": "Growth",
+      "generated_at": "2026-05-09T21:33:17.960658"
     }
   ],
   "used_english": [
@@ -5958,7 +5988,12 @@
     "never panic, breathe, say \"tranquilo\"",
     "this is why you stall, wrong order",
     "the secret... add one tiny question",
-    "the fastest way to sound real"
+    "the fastest way to sound real",
+    "never overthink, use this starter",
+    "this verb trick boosts your fluency",
+    "stop swapping nouns, start with actions",
+    "never apologize for your accent",
+    "this question makes natives respond faster"
   ],
-  "last_updated": "2026-05-09T19:59:00.119301"
+  "last_updated": "2026-05-09T21:33:17.960660"
 }
