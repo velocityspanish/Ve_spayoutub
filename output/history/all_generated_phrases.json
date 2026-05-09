@@ -4985,6 +4985,36 @@
       "spanish": "Nunca esperes perfecto, di “así”",
       "category": "Wisdom",
       "generated_at": "2026-05-08T21:47:21.498608"
+    },
+    {
+      "english": "Never say “maybe”, say “en serio”",
+      "spanish": "Nunca digas “tal vez”, di “en serio”",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-09T14:18:14.836945"
+    },
+    {
+      "english": "Never memorize, repeat with emotion",
+      "spanish": "Nunca memorices, repite con emoción",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-09T14:18:14.836966"
+    },
+    {
+      "english": "Never overthink, use “porque” once",
+      "spanish": "No sobrepienses, usa “porque” una vez",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-09T14:18:14.836976"
+    },
+    {
+      "english": "Stop quitting, finish with “y ya”",
+      "spanish": "No te rindas, termina con “y ya”",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-09T14:18:14.836985"
+    },
+    {
+      "english": "The secret is practice in seconds",
+      "spanish": "El secreto es practicar en segundos",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-09T14:18:14.836995"
     }
   ],
   "used_english": [
@@ -5818,7 +5848,12 @@
     "stop debating, just say “maybe not”",
     "this is why “perdón” keeps failing",
     "stop rehearsing, speak through mistakes",
-    "never wait for perfect, say “así”"
+    "never wait for perfect, say “así”",
+    "never say “maybe”, say “en serio”",
+    "never memorize, repeat with emotion",
+    "never overthink, use “porque” once",
+    "stop quitting, finish with “y ya”",
+    "the secret is practice in seconds"
   ],
-  "last_updated": "2026-05-08T21:47:21.498610"
+  "last_updated": "2026-05-09T14:18:14.836997"
 }
