@@ -5255,6 +5255,36 @@
       "spanish": "No cambies de tiempo, mantén uno",
       "category": "Strength",
       "generated_at": "2026-05-10T20:00:50.232173"
+    },
+    {
+      "english": "Stop pausing, just say \"pues\"",
+      "spanish": "Deja la pausa, solo di \"pues\"",
+      "category": "Success",
+      "generated_at": "2026-05-10T21:37:48.299069"
+    },
+    {
+      "english": "Never say \"good\", say \"genial\"",
+      "spanish": "Nunca digas \"bien\", di \"genial\"",
+      "category": "Success",
+      "generated_at": "2026-05-10T21:37:48.299086"
+    },
+    {
+      "english": "This is why natives speed up",
+      "spanish": "Por eso los nativos van rápido",
+      "category": "Success",
+      "generated_at": "2026-05-10T21:37:48.299095"
+    },
+    {
+      "english": "Never translate, describe what you see",
+      "spanish": "No traduzcas, describe lo que ves",
+      "category": "Success",
+      "generated_at": "2026-05-10T21:37:48.299104"
+    },
+    {
+      "english": "This one word earns respect fast",
+      "spanish": "Una palabra te da respeto",
+      "category": "Success",
+      "generated_at": "2026-05-10T21:37:48.299113"
     }
   ],
   "used_english": [
@@ -6133,7 +6163,12 @@
     "this one question opens real talk",
     "never say please first, go direct",
     "this saves you, say it like this",
-    "stop switching tense, keep one"
+    "stop switching tense, keep one",
+    "stop pausing, just say \"pues\"",
+    "never say \"good\", say \"genial\"",
+    "this is why natives speed up",
+    "never translate, describe what you see",
+    "this one word earns respect fast"
   ],
-  "last_updated": "2026-05-10T20:00:50.232176"
+  "last_updated": "2026-05-10T21:37:48.299115"
 }
