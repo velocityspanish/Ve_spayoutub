@@ -5135,6 +5135,36 @@
       "spanish": "Esta pregunta hace responder más rápido",
       "category": "Growth",
       "generated_at": "2026-05-09T21:33:17.960658"
+    },
+    {
+      "english": "Never ask “are you okay?”",
+      "spanish": "Nunca preguntes “¿estás bien?”",
+      "category": "Joy",
+      "generated_at": "2026-05-10T14:21:14.862503"
+    },
+    {
+      "english": "The secret, add a soft “oye”",
+      "spanish": "El secreto, agrega un “oye” suave",
+      "category": "Joy",
+      "generated_at": "2026-05-10T14:21:14.862520"
+    },
+    {
+      "english": "Never say “I don’t know”, try “tal vez”",
+      "spanish": "No digas “no sé”, usa “tal vez”",
+      "category": "Joy",
+      "generated_at": "2026-05-10T14:21:14.862530"
+    },
+    {
+      "english": "This one word stops panic fast",
+      "spanish": "Esta palabra frena el pánico rápido",
+      "category": "Joy",
+      "generated_at": "2026-05-10T14:21:14.862542"
+    },
+    {
+      "english": "This phrase makes you instantly friendlier",
+      "spanish": "Esta frase te hace más amable",
+      "category": "Joy",
+      "generated_at": "2026-05-10T14:21:14.862551"
     }
   ],
   "used_english": [
@@ -5993,7 +6023,12 @@
     "this verb trick boosts your fluency",
     "stop swapping nouns, start with actions",
     "never apologize for your accent",
-    "this question makes natives respond faster"
+    "this question makes natives respond faster",
+    "never ask “are you okay?”",
+    "the secret, add a soft “oye”",
+    "never say “i don’t know”, try “tal vez”",
+    "this one word stops panic fast",
+    "this phrase makes you instantly friendlier"
   ],
-  "last_updated": "2026-05-09T21:33:17.960660"
+  "last_updated": "2026-05-10T14:21:14.862553"
 }
