@@ -5165,6 +5165,36 @@
       "spanish": "Esta frase te hace más amable",
       "category": "Joy",
       "generated_at": "2026-05-10T14:21:14.862551"
+    },
+    {
+      "english": "Never numb feelings, name one",
+      "spanish": "Nunca apagues emociones, nombra una",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T15:55:55.455829"
+    },
+    {
+      "english": "This one breath calms your tongue",
+      "spanish": "Esta respiración calma tu lengua",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T15:55:55.455848"
+    },
+    {
+      "english": "The secret is present tense",
+      "spanish": "El secreto es el presente",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T15:55:55.455858"
+    },
+    {
+      "english": "Never overthink, use \"vale\"",
+      "spanish": "No sobrepienses, usa \"vale\"",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T15:55:55.455866"
+    },
+    {
+      "english": "Stop comparing, say \"yo también\"",
+      "spanish": "Deja comparar, di \"yo también\"",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-10T15:55:55.455877"
     }
   ],
   "used_english": [
@@ -6028,7 +6058,12 @@
     "the secret, add a soft “oye”",
     "never say “i don’t know”, try “tal vez”",
     "this one word stops panic fast",
-    "this phrase makes you instantly friendlier"
+    "this phrase makes you instantly friendlier",
+    "never numb feelings, name one",
+    "this one breath calms your tongue",
+    "the secret is present tense",
+    "never overthink, use \"vale\"",
+    "stop comparing, say \"yo también\""
   ],
-  "last_updated": "2026-05-10T14:21:14.862553"
+  "last_updated": "2026-05-10T15:55:55.455879"
 }
