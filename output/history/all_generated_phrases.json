@@ -5225,6 +5225,36 @@
       "spanish": "Este mini reinicio lo arregla todo",
       "category": "Patience",
       "generated_at": "2026-05-10T17:53:38.924683"
+    },
+    {
+      "english": "Stop guessing, point, then say",
+      "spanish": "No adivines, señala, y di",
+      "category": "Strength",
+      "generated_at": "2026-05-10T20:00:50.232088"
+    },
+    {
+      "english": "This one question opens real talk",
+      "spanish": "Esta pregunta abre conversación real",
+      "category": "Strength",
+      "generated_at": "2026-05-10T20:00:50.232113"
+    },
+    {
+      "english": "Never say please first, go direct",
+      "spanish": "Nunca digas por favor primero, directo",
+      "category": "Strength",
+      "generated_at": "2026-05-10T20:00:50.232135"
+    },
+    {
+      "english": "This saves you, say it like this",
+      "spanish": "Esto te salva, dilo así",
+      "category": "Strength",
+      "generated_at": "2026-05-10T20:00:50.232156"
+    },
+    {
+      "english": "Stop switching tense, keep one",
+      "spanish": "No cambies de tiempo, mantén uno",
+      "category": "Strength",
+      "generated_at": "2026-05-10T20:00:50.232173"
     }
   ],
   "used_english": [
@@ -6098,7 +6128,12 @@
     "never wait, just say 'ya veo'",
     "the secret? reply with 'todavía'",
     "never quit, add one more word",
-    "this tiny reset fixes everything"
+    "this tiny reset fixes everything",
+    "stop guessing, point, then say",
+    "this one question opens real talk",
+    "never say please first, go direct",
+    "this saves you, say it like this",
+    "stop switching tense, keep one"
   ],
-  "last_updated": "2026-05-10T17:53:38.924685"
+  "last_updated": "2026-05-10T20:00:50.232176"
 }
