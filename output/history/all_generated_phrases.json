@@ -5195,6 +5195,36 @@
       "spanish": "Deja comparar, di \"yo también\"",
       "category": "Mindfulness",
       "generated_at": "2026-05-10T15:55:55.455877"
+    },
+    {
+      "english": "Stop scrolling, practice this phrase",
+      "spanish": "Deja el scroll, practica esta frase",
+      "category": "Patience",
+      "generated_at": "2026-05-10T17:53:38.924636"
+    },
+    {
+      "english": "Never wait, just say 'ya veo'",
+      "spanish": "Nunca esperes, di «ya veo»",
+      "category": "Patience",
+      "generated_at": "2026-05-10T17:53:38.924655"
+    },
+    {
+      "english": "The secret? Reply with 'todavía'",
+      "spanish": "El secreto, responde con «todavía»",
+      "category": "Patience",
+      "generated_at": "2026-05-10T17:53:38.924665"
+    },
+    {
+      "english": "Never quit, add one more word",
+      "spanish": "No te rindas, añade otra palabra",
+      "category": "Patience",
+      "generated_at": "2026-05-10T17:53:38.924674"
+    },
+    {
+      "english": "This tiny reset fixes everything",
+      "spanish": "Este mini reinicio lo arregla todo",
+      "category": "Patience",
+      "generated_at": "2026-05-10T17:53:38.924683"
     }
   ],
   "used_english": [
@@ -6063,7 +6093,12 @@
     "this one breath calms your tongue",
     "the secret is present tense",
     "never overthink, use \"vale\"",
-    "stop comparing, say \"yo también\""
+    "stop comparing, say \"yo también\"",
+    "stop scrolling, practice this phrase",
+    "never wait, just say 'ya veo'",
+    "the secret? reply with 'todavía'",
+    "never quit, add one more word",
+    "this tiny reset fixes everything"
   ],
-  "last_updated": "2026-05-10T15:55:55.455879"
+  "last_updated": "2026-05-10T17:53:38.924685"
 }
