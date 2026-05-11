@@ -5375,6 +5375,36 @@
       "spanish": "Este hábito acelera tu avance",
       "category": "Self Improvement",
       "generated_at": "2026-05-11T18:58:47.162679"
+    },
+    {
+      "english": "Stop apologizing, say “te perdono”",
+      "spanish": "Deja de pedir perdón, di “te perdono”",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-11T20:48:22.771323"
+    },
+    {
+      "english": "Never say sorry, use “disculpa”",
+      "spanish": "Nunca digas perdón, usa “disculpa”",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-11T20:48:22.771344"
+    },
+    {
+      "english": "This is why forgiveness feels lighter",
+      "spanish": "Por eso, el perdón se siente más ligero",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-11T20:48:22.771355"
+    },
+    {
+      "english": "Stop replaying fights, say “ya fue”",
+      "spanish": "Deja de repetir peleas, di “ya fue”",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-11T20:48:22.771365"
+    },
+    {
+      "english": "Never hold grudges, say “no pasa”",
+      "spanish": "No guardes rencor, di “no pasa”",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-11T20:48:22.771375"
     }
   ],
   "used_english": [
@@ -6273,7 +6303,12 @@
     "the secret, add emotion to verbs",
     "stop fixing yourself mid-sentence",
     "never argue, just agree once",
-    "this one habit makes progress fast"
+    "this one habit makes progress fast",
+    "stop apologizing, say “te perdono”",
+    "never say sorry, use “disculpa”",
+    "this is why forgiveness feels lighter",
+    "stop replaying fights, say “ya fue”",
+    "never hold grudges, say “no pasa”"
   ],
-  "last_updated": "2026-05-11T18:58:47.162684"
+  "last_updated": "2026-05-11T20:48:22.771377"
 }
