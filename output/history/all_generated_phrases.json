@@ -5345,6 +5345,36 @@
       "spanish": "El secreto, usa el presente",
       "category": "Purpose",
       "generated_at": "2026-05-11T17:26:06.020653"
+    },
+    {
+      "english": "Stop studying, start speaking today",
+      "spanish": "Deja de estudiar, empieza hoy",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-11T18:58:47.162632"
+    },
+    {
+      "english": "The secret, add emotion to verbs",
+      "spanish": "El secreto, mete emoción a verbos",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-11T18:58:47.162651"
+    },
+    {
+      "english": "Stop fixing yourself mid-sentence",
+      "spanish": "No te corrijas a mitad",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-11T18:58:47.162661"
+    },
+    {
+      "english": "Never argue, just agree once",
+      "spanish": "Nunca discutas, di que sí",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-11T18:58:47.162670"
+    },
+    {
+      "english": "This one habit makes progress fast",
+      "spanish": "Este hábito acelera tu avance",
+      "category": "Self Improvement",
+      "generated_at": "2026-05-11T18:58:47.162679"
     }
   ],
   "used_english": [
@@ -6238,7 +6268,12 @@
     "stop saying perfect, say real",
     "never translate, describe with emotion",
     "stop reviewing, start responding",
-    "the secret? use the present"
+    "the secret? use the present",
+    "stop studying, start speaking today",
+    "the secret, add emotion to verbs",
+    "stop fixing yourself mid-sentence",
+    "never argue, just agree once",
+    "this one habit makes progress fast"
   ],
-  "last_updated": "2026-05-11T17:26:06.020655"
+  "last_updated": "2026-05-11T18:58:47.162684"
 }
