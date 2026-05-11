@@ -5315,6 +5315,36 @@
       "spanish": "Esta frase convierte nervios en sonrisas",
       "category": "Love",
       "generated_at": "2026-05-11T15:57:12.514562"
+    },
+    {
+      "english": "Stop practicing alone, talk to strangers",
+      "spanish": "Deja de practicar solo, habla",
+      "category": "Purpose",
+      "generated_at": "2026-05-11T17:26:06.020607"
+    },
+    {
+      "english": "Stop saying perfect, say real",
+      "spanish": "No digas perfecto, di real",
+      "category": "Purpose",
+      "generated_at": "2026-05-11T17:26:06.020626"
+    },
+    {
+      "english": "Never translate, describe with emotion",
+      "spanish": "No traduzcas, describe con emoción",
+      "category": "Purpose",
+      "generated_at": "2026-05-11T17:26:06.020635"
+    },
+    {
+      "english": "Stop reviewing, start responding",
+      "spanish": "Deja de repasar, responde",
+      "category": "Purpose",
+      "generated_at": "2026-05-11T17:26:06.020645"
+    },
+    {
+      "english": "The secret? Use the present",
+      "spanish": "El secreto, usa el presente",
+      "category": "Purpose",
+      "generated_at": "2026-05-11T17:26:06.020653"
     }
   ],
   "used_english": [
@@ -6203,7 +6233,12 @@
     "the secret? compliment, then ask",
     "stop texting cold, add “después”",
     "never confess fast, start with “me gustas”",
-    "this phrase turns nerves into smiles"
+    "this phrase turns nerves into smiles",
+    "stop practicing alone, talk to strangers",
+    "stop saying perfect, say real",
+    "never translate, describe with emotion",
+    "stop reviewing, start responding",
+    "the secret? use the present"
   ],
-  "last_updated": "2026-05-11T15:57:12.514564"
+  "last_updated": "2026-05-11T17:26:06.020655"
 }
