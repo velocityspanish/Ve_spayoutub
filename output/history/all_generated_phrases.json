@@ -5285,6 +5285,36 @@
       "spanish": "Una palabra te da respeto",
       "category": "Success",
       "generated_at": "2026-05-10T21:37:48.299113"
+    },
+    {
+      "english": "Stop blanking, say “en serio”",
+      "spanish": "Deja el bloqueo, di “en serio”",
+      "category": "Love",
+      "generated_at": "2026-05-11T15:57:12.514515"
+    },
+    {
+      "english": "The secret? Compliment, then ask",
+      "spanish": "El secreto, felicita, luego pregunta",
+      "category": "Love",
+      "generated_at": "2026-05-11T15:57:12.514534"
+    },
+    {
+      "english": "Stop texting cold, add “después”",
+      "spanish": "No seas frío, agrega “después”",
+      "category": "Love",
+      "generated_at": "2026-05-11T15:57:12.514545"
+    },
+    {
+      "english": "Never confess fast, start with “me gustas”",
+      "spanish": "No digas todo, empieza “me gustas”",
+      "category": "Love",
+      "generated_at": "2026-05-11T15:57:12.514553"
+    },
+    {
+      "english": "This phrase turns nerves into smiles",
+      "spanish": "Esta frase convierte nervios en sonrisas",
+      "category": "Love",
+      "generated_at": "2026-05-11T15:57:12.514562"
     }
   ],
   "used_english": [
@@ -6168,7 +6198,12 @@
     "never say \"good\", say \"genial\"",
     "this is why natives speed up",
     "never translate, describe what you see",
-    "this one word earns respect fast"
+    "this one word earns respect fast",
+    "stop blanking, say “en serio”",
+    "the secret? compliment, then ask",
+    "stop texting cold, add “después”",
+    "never confess fast, start with “me gustas”",
+    "this phrase turns nerves into smiles"
   ],
-  "last_updated": "2026-05-10T21:37:48.299115"
+  "last_updated": "2026-05-11T15:57:12.514564"
 }
