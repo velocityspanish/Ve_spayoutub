@@ -5405,6 +5405,36 @@
       "spanish": "No guardes rencor, di “no pasa”",
       "category": "Forgiveness",
       "generated_at": "2026-05-11T20:48:22.771375"
+    },
+    {
+      "english": "Stop fearing errors, keep speaking",
+      "spanish": "Deja de temer errores, sigue hablando",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:57:02.052165"
+    },
+    {
+      "english": "The secret is, breathe, then answer",
+      "spanish": "El secreto es, respira, y responde",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:57:02.052183"
+    },
+    {
+      "english": "Never start with your best word",
+      "spanish": "Nunca empieces con tu mejor palabra",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:57:02.052194"
+    },
+    {
+      "english": "Stop translating, use the same word",
+      "spanish": "Deja de traducir, usa la misma palabra",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:57:02.052203"
+    },
+    {
+      "english": "The pause is your power, continue",
+      "spanish": "La pausa es tu poder, sigue",
+      "category": "Patience",
+      "generated_at": "2026-05-11T21:57:02.052213"
     }
   ],
   "used_english": [
@@ -6308,7 +6338,12 @@
     "never say sorry, use “disculpa”",
     "this is why forgiveness feels lighter",
     "stop replaying fights, say “ya fue”",
-    "never hold grudges, say “no pasa”"
+    "never hold grudges, say “no pasa”",
+    "stop fearing errors, keep speaking",
+    "the secret is, breathe, then answer",
+    "never start with your best word",
+    "stop translating, use the same word",
+    "the pause is your power, continue"
   ],
-  "last_updated": "2026-05-11T20:48:22.771377"
+  "last_updated": "2026-05-11T21:57:02.052215"
 }
