@@ -5465,6 +5465,36 @@
       "spanish": "No lo digas frío, di 'de verdad'",
       "category": "Forgiveness",
       "generated_at": "2026-05-12T15:45:59.463043"
+    },
+    {
+      "english": "Stop replaying pain, say it",
+      "spanish": "Deja de repetir dolor, díselo",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T17:12:36.551752"
+    },
+    {
+      "english": "Never punish yourself, forgive today",
+      "spanish": "Nunca te castigues, perdona hoy",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T17:12:36.551774"
+    },
+    {
+      "english": "Stop waiting, say 'lo siento'",
+      "spanish": "Deja de esperar, di 'lo siento'",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T17:12:36.551784"
+    },
+    {
+      "english": "Never silence it, use 'gracias'",
+      "spanish": "No lo calles, usa 'gracias'",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T17:12:36.551794"
+    },
+    {
+      "english": "This phrase turns blame into peace",
+      "spanish": "Esta frase cambia culpa por paz",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T17:12:36.551804"
     }
   ],
   "used_english": [
@@ -6378,7 +6408,12 @@
     "never burn bridges, use this",
     "the secret? forgive, then speak",
     "stop defending, start with 'te perdono'",
-    "never say it cold, add 'de verdad'"
+    "never say it cold, add 'de verdad'",
+    "stop replaying pain, say it",
+    "never punish yourself, forgive today",
+    "stop waiting, say 'lo siento'",
+    "never silence it, use 'gracias'",
+    "this phrase turns blame into peace"
   ],
-  "last_updated": "2026-05-12T15:45:59.463044"
+  "last_updated": "2026-05-12T17:12:36.551806"
 }
