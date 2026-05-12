@@ -5435,6 +5435,36 @@
       "spanish": "La pausa es tu poder, sigue",
       "category": "Patience",
       "generated_at": "2026-05-11T21:57:02.052213"
+    },
+    {
+      "english": "Stop holding that anger, say it",
+      "spanish": "Deja esa rabia, díselo",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T15:45:59.462996"
+    },
+    {
+      "english": "Never burn bridges, use this",
+      "spanish": "Nunca quiebres puentes, usa esto",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T15:45:59.463014"
+    },
+    {
+      "english": "The secret? Forgive, then speak",
+      "spanish": "El secreto, perdona, y habla",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T15:45:59.463024"
+    },
+    {
+      "english": "Stop defending, start with 'te perdono'",
+      "spanish": "Deja la defensa, di 'te perdono'",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T15:45:59.463033"
+    },
+    {
+      "english": "Never say it cold, add 'de verdad'",
+      "spanish": "No lo digas frío, di 'de verdad'",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T15:45:59.463043"
     }
   ],
   "used_english": [
@@ -6343,7 +6373,12 @@
     "the secret is, breathe, then answer",
     "never start with your best word",
     "stop translating, use the same word",
-    "the pause is your power, continue"
+    "the pause is your power, continue",
+    "stop holding that anger, say it",
+    "never burn bridges, use this",
+    "the secret? forgive, then speak",
+    "stop defending, start with 'te perdono'",
+    "never say it cold, add 'de verdad'"
   ],
-  "last_updated": "2026-05-11T21:57:02.052215"
+  "last_updated": "2026-05-12T15:45:59.463044"
 }
