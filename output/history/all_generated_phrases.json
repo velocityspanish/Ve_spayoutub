@@ -5555,6 +5555,36 @@
       "spanish": "No corras, sonríe, di “tranquilo” de vuelta",
       "category": "Kindness",
       "generated_at": "2026-05-12T20:43:17.824467"
+    },
+    {
+      "english": "Stop chasing happiness, choose one now",
+      "spanish": "Deja de perseguir la felicidad, elige una ahora",
+      "category": "Happiness",
+      "generated_at": "2026-05-12T22:02:36.600778"
+    },
+    {
+      "english": "Don’t fear silence, add a pause",
+      "spanish": "No temas el silencio, agrega pausa",
+      "category": "Happiness",
+      "generated_at": "2026-05-12T22:02:36.600799"
+    },
+    {
+      "english": "This one habit lifts your mood",
+      "spanish": "Este hábito sube tu ánimo",
+      "category": "Happiness",
+      "generated_at": "2026-05-12T22:02:36.600810"
+    },
+    {
+      "english": "Stop overthinking, just say “te entiendo”",
+      "spanish": "Deja de sobrepensar, di “te entiendo”",
+      "category": "Happiness",
+      "generated_at": "2026-05-12T22:02:36.600819"
+    },
+    {
+      "english": "Never be heavy, use “qué bueno”",
+      "spanish": "No seas pesado, usa “qué bueno”",
+      "category": "Happiness",
+      "generated_at": "2026-05-12T22:02:36.600829"
     }
   ],
   "used_english": [
@@ -6483,7 +6513,12 @@
     "never fear mistakes, start with “oye”",
     "this is why you sound kind, “perdón” softly",
     "the secret, thank them first, “gracias”",
-    "never rush, smile, say “tranquilo” back"
+    "never rush, smile, say “tranquilo” back",
+    "stop chasing happiness, choose one now",
+    "don’t fear silence, add a pause",
+    "this one habit lifts your mood",
+    "stop overthinking, just say “te entiendo”",
+    "never be heavy, use “qué bueno”"
   ],
-  "last_updated": "2026-05-12T20:43:17.824469"
+  "last_updated": "2026-05-12T22:02:36.600834"
 }
