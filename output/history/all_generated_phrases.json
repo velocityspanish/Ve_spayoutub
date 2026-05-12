@@ -5495,6 +5495,36 @@
       "spanish": "Esta frase cambia culpa por paz",
       "category": "Forgiveness",
       "generated_at": "2026-05-12T17:12:36.551804"
+    },
+    {
+      "english": "Stop guessing, trust this pause",
+      "spanish": "Deja de adivinar, confía en pausa",
+      "category": "Creativity",
+      "generated_at": "2026-05-12T18:56:29.091130"
+    },
+    {
+      "english": "The secret... use one linking word",
+      "spanish": "El secreto... usa una palabra puente",
+      "category": "Creativity",
+      "generated_at": "2026-05-12T18:56:29.091150"
+    },
+    {
+      "english": "Stop switching topics, finish your thought",
+      "spanish": "No cambies temas, termina tu idea",
+      "category": "Creativity",
+      "generated_at": "2026-05-12T18:56:29.091159"
+    },
+    {
+      "english": "This phrase saves awkward moments fast",
+      "spanish": "Esta frase salva momentos raros",
+      "category": "Creativity",
+      "generated_at": "2026-05-12T18:56:29.091168"
+    },
+    {
+      "english": "Stop overexplaining, say less, smile",
+      "spanish": "Deja de explicar, di menos, sonríe",
+      "category": "Creativity",
+      "generated_at": "2026-05-12T18:56:29.091177"
     }
   ],
   "used_english": [
@@ -6413,7 +6443,12 @@
     "never punish yourself, forgive today",
     "stop waiting, say 'lo siento'",
     "never silence it, use 'gracias'",
-    "this phrase turns blame into peace"
+    "this phrase turns blame into peace",
+    "stop guessing, trust this pause",
+    "the secret... use one linking word",
+    "stop switching topics, finish your thought",
+    "this phrase saves awkward moments fast",
+    "stop overexplaining, say less, smile"
   ],
-  "last_updated": "2026-05-12T17:12:36.551806"
+  "last_updated": "2026-05-12T18:56:29.091179"
 }
