@@ -5525,6 +5525,36 @@
       "spanish": "Deja de explicar, di menos, sonríe",
       "category": "Creativity",
       "generated_at": "2026-05-12T18:56:29.091177"
+    },
+    {
+      "english": "Stop judging yourself, say “está bien”",
+      "spanish": "Deja de juzgarte, di “está bien”",
+      "category": "Kindness",
+      "generated_at": "2026-05-12T20:43:17.824419"
+    },
+    {
+      "english": "Never fear mistakes, start with “oye”",
+      "spanish": "No temas errores, empieza con “oye”",
+      "category": "Kindness",
+      "generated_at": "2026-05-12T20:43:17.824438"
+    },
+    {
+      "english": "This is why you sound kind, “perdón” softly",
+      "spanish": "Por eso suenas amable, “perdón” suave",
+      "category": "Kindness",
+      "generated_at": "2026-05-12T20:43:17.824448"
+    },
+    {
+      "english": "The secret, thank them first, “gracias”",
+      "spanish": "El secreto, agradéceles primero, “gracias”",
+      "category": "Kindness",
+      "generated_at": "2026-05-12T20:43:17.824458"
+    },
+    {
+      "english": "Never rush, smile, say “tranquilo” back",
+      "spanish": "No corras, sonríe, di “tranquilo” de vuelta",
+      "category": "Kindness",
+      "generated_at": "2026-05-12T20:43:17.824467"
     }
   ],
   "used_english": [
@@ -6448,7 +6478,12 @@
     "the secret... use one linking word",
     "stop switching topics, finish your thought",
     "this phrase saves awkward moments fast",
-    "stop overexplaining, say less, smile"
+    "stop overexplaining, say less, smile",
+    "stop judging yourself, say “está bien”",
+    "never fear mistakes, start with “oye”",
+    "this is why you sound kind, “perdón” softly",
+    "the secret, thank them first, “gracias”",
+    "never rush, smile, say “tranquilo” back"
   ],
-  "last_updated": "2026-05-12T18:56:29.091179"
+  "last_updated": "2026-05-12T20:43:17.824469"
 }
