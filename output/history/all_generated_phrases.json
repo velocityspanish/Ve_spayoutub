@@ -5675,6 +5675,36 @@
       "spanish": "Nunca te quedes, reacciona ya",
       "category": "Creativity",
       "generated_at": "2026-05-13T18:57:26.837539"
+    },
+    {
+      "english": "Never say it like a robot",
+      "spanish": "Nunca lo digas como robot",
+      "category": "Love",
+      "generated_at": "2026-05-13T20:48:21.499981"
+    },
+    {
+      "english": "Stop, use the magic “también”",
+      "spanish": "Para, usa el mágico “también”",
+      "category": "Love",
+      "generated_at": "2026-05-13T20:48:21.500002"
+    },
+    {
+      "english": "Never start with silence, jump in",
+      "spanish": "Nunca empieces con silencio, entra",
+      "category": "Love",
+      "generated_at": "2026-05-13T20:48:21.500013"
+    },
+    {
+      "english": "Stop asking, start offering help",
+      "spanish": "Para, ofrece ayuda primero",
+      "category": "Love",
+      "generated_at": "2026-05-13T20:48:21.500044"
+    },
+    {
+      "english": "This phrase makes “yes” feel natural",
+      "spanish": "Esta frase hace “sí” natural",
+      "category": "Love",
+      "generated_at": "2026-05-13T20:48:21.500061"
     }
   ],
   "used_english": [
@@ -6623,7 +6653,12 @@
     "never say “how” first, listen",
     "stop building sentences, start stories",
     "this tiny pause sells confidence",
-    "never freeze, just react quickly"
+    "never freeze, just react quickly",
+    "never say it like a robot",
+    "stop, use the magic “también”",
+    "never start with silence, jump in",
+    "stop asking, start offering help",
+    "this phrase makes “yes” feel natural"
   ],
-  "last_updated": "2026-05-13T18:57:26.837540"
+  "last_updated": "2026-05-13T20:48:21.500063"
 }
