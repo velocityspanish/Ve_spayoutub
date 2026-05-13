@@ -5585,6 +5585,36 @@
       "spanish": "No seas pesado, usa “qué bueno”",
       "category": "Happiness",
       "generated_at": "2026-05-12T22:02:36.600829"
+    },
+    {
+      "english": "Never perfect, aim for “good enough”",
+      "spanish": "Nunca perfecto, apunta “suficiente”",
+      "category": "Wisdom",
+      "generated_at": "2026-05-13T15:52:28.055450"
+    },
+    {
+      "english": "The secret, repeat one sentence daily",
+      "spanish": "El secreto, repite una frase diaria",
+      "category": "Wisdom",
+      "generated_at": "2026-05-13T15:52:28.055467"
+    },
+    {
+      "english": "Stop switching verbs, use one",
+      "spanish": "No cambies verbos, usa uno",
+      "category": "Wisdom",
+      "generated_at": "2026-05-13T15:52:28.055477"
+    },
+    {
+      "english": "Never say “how are you” too soon",
+      "spanish": "Nunca digas “¿cómo estás?” tan pronto",
+      "category": "Wisdom",
+      "generated_at": "2026-05-13T15:52:28.055488"
+    },
+    {
+      "english": "This phrase gets you invited faster",
+      "spanish": "Esta frase, te invitan más rápido",
+      "category": "Wisdom",
+      "generated_at": "2026-05-13T15:52:28.055498"
     }
   ],
   "used_english": [
@@ -6518,7 +6548,12 @@
     "don’t fear silence, add a pause",
     "this one habit lifts your mood",
     "stop overthinking, just say “te entiendo”",
-    "never be heavy, use “qué bueno”"
+    "never be heavy, use “qué bueno”",
+    "never perfect, aim for “good enough”",
+    "the secret, repeat one sentence daily",
+    "stop switching verbs, use one",
+    "never say “how are you” too soon",
+    "this phrase gets you invited faster"
   ],
-  "last_updated": "2026-05-12T22:02:36.600834"
+  "last_updated": "2026-05-13T15:52:28.055499"
 }
