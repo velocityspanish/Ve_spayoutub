@@ -5705,6 +5705,36 @@
       "spanish": "Esta frase hace “sí” natural",
       "category": "Love",
       "generated_at": "2026-05-13T20:48:21.500061"
+    },
+    {
+      "english": "Never guess, repeat what you heard",
+      "spanish": "Nunca adivines, repite lo que oíste",
+      "category": "Patience",
+      "generated_at": "2026-05-13T22:04:14.629293"
+    },
+    {
+      "english": "The secret, use smaller sentences",
+      "spanish": "El secreto, usa frases cortas",
+      "category": "Patience",
+      "generated_at": "2026-05-13T22:04:14.629314"
+    },
+    {
+      "english": "This changes your patience instantly",
+      "spanish": "Esto cambia tu paciencia, ya",
+      "category": "Patience",
+      "generated_at": "2026-05-13T22:04:14.629325"
+    },
+    {
+      "english": "Never overreact, slow your rhythm",
+      "spanish": "Nunca te alteres, baja el ritmo",
+      "category": "Patience",
+      "generated_at": "2026-05-13T22:04:14.629335"
+    },
+    {
+      "english": "Stop quitting, finish the thought",
+      "spanish": "No te rindas, termina la idea",
+      "category": "Patience",
+      "generated_at": "2026-05-13T22:04:14.629345"
     }
   ],
   "used_english": [
@@ -6658,7 +6688,12 @@
     "stop, use the magic “también”",
     "never start with silence, jump in",
     "stop asking, start offering help",
-    "this phrase makes “yes” feel natural"
+    "this phrase makes “yes” feel natural",
+    "never guess, repeat what you heard",
+    "the secret, use smaller sentences",
+    "this changes your patience instantly",
+    "never overreact, slow your rhythm",
+    "stop quitting, finish the thought"
   ],
-  "last_updated": "2026-05-13T20:48:21.500063"
+  "last_updated": "2026-05-13T22:04:14.629347"
 }
