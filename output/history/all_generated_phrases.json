@@ -5615,6 +5615,36 @@
       "spanish": "Esta frase, te invitan más rápido",
       "category": "Wisdom",
       "generated_at": "2026-05-13T15:52:28.055498"
+    },
+    {
+      "english": "Stop translating, describe the vibe",
+      "spanish": "Deja traducir, describe el ambiente",
+      "category": "Balance",
+      "generated_at": "2026-05-13T17:37:00.076210"
+    },
+    {
+      "english": "Never say “maybe”, go certain",
+      "spanish": "Nunca digas “quizá”, di seguro",
+      "category": "Balance",
+      "generated_at": "2026-05-13T17:37:00.076228"
+    },
+    {
+      "english": "The secret? Ask with “por qué”",
+      "spanish": "El secreto, pregunta con “por qué”",
+      "category": "Balance",
+      "generated_at": "2026-05-13T17:37:00.076239"
+    },
+    {
+      "english": "What nobody tells you: rhythm",
+      "spanish": "Lo que nadie dice, es el ritmo",
+      "category": "Balance",
+      "generated_at": "2026-05-13T17:37:00.076249"
+    },
+    {
+      "english": "Stop freezing, say one opinion",
+      "spanish": "Deja helarte, di una opinión",
+      "category": "Balance",
+      "generated_at": "2026-05-13T17:37:00.076258"
     }
   ],
   "used_english": [
@@ -6553,7 +6583,12 @@
     "the secret, repeat one sentence daily",
     "stop switching verbs, use one",
     "never say “how are you” too soon",
-    "this phrase gets you invited faster"
+    "this phrase gets you invited faster",
+    "stop translating, describe the vibe",
+    "never say “maybe”, go certain",
+    "the secret? ask with “por qué”",
+    "what nobody tells you: rhythm",
+    "stop freezing, say one opinion"
   ],
-  "last_updated": "2026-05-13T15:52:28.055499"
+  "last_updated": "2026-05-13T17:37:00.076260"
 }
