@@ -5645,6 +5645,36 @@
       "spanish": "Deja helarte, di una opinión",
       "category": "Balance",
       "generated_at": "2026-05-13T17:37:00.076258"
+    },
+    {
+      "english": "Stop saying “stress” in Spanish",
+      "spanish": "Deja “estrés”, di otra cosa",
+      "category": "Creativity",
+      "generated_at": "2026-05-13T18:57:26.837491"
+    },
+    {
+      "english": "Never say “how” first, listen",
+      "spanish": "Nunca digas “cómo”, escucha primero",
+      "category": "Creativity",
+      "generated_at": "2026-05-13T18:57:26.837509"
+    },
+    {
+      "english": "Stop building sentences, start stories",
+      "spanish": "Deja frases, empieza historias",
+      "category": "Creativity",
+      "generated_at": "2026-05-13T18:57:26.837519"
+    },
+    {
+      "english": "This tiny pause sells confidence",
+      "spanish": "Esa pausa vende seguridad",
+      "category": "Creativity",
+      "generated_at": "2026-05-13T18:57:26.837529"
+    },
+    {
+      "english": "Never freeze, just react quickly",
+      "spanish": "Nunca te quedes, reacciona ya",
+      "category": "Creativity",
+      "generated_at": "2026-05-13T18:57:26.837539"
     }
   ],
   "used_english": [
@@ -6588,7 +6618,12 @@
     "never say “maybe”, go certain",
     "the secret? ask with “por qué”",
     "what nobody tells you: rhythm",
-    "stop freezing, say one opinion"
+    "stop freezing, say one opinion",
+    "stop saying “stress” in spanish",
+    "never say “how” first, listen",
+    "stop building sentences, start stories",
+    "this tiny pause sells confidence",
+    "never freeze, just react quickly"
   ],
-  "last_updated": "2026-05-13T17:37:00.076260"
+  "last_updated": "2026-05-13T18:57:26.837540"
 }
