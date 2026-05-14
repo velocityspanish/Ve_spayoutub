@@ -5795,6 +5795,36 @@
       "spanish": "Así suenas, súper natural",
       "category": "Purpose",
       "generated_at": "2026-05-14T17:02:35.277184"
+    },
+    {
+      "english": "Stop chasing, say “te extraño”",
+      "spanish": "Deja de buscar, di “te extraño”",
+      "category": "Love",
+      "generated_at": "2026-05-14T18:54:42.106331"
+    },
+    {
+      "english": "Never hide it, say “me enamoré”",
+      "spanish": "Nunca lo escondas, di “me enamoré”",
+      "category": "Love",
+      "generated_at": "2026-05-14T18:54:42.106354"
+    },
+    {
+      "english": "This is why love feels safe",
+      "spanish": "Por eso el amor se siente seguro",
+      "category": "Love",
+      "generated_at": "2026-05-14T18:54:42.106364"
+    },
+    {
+      "english": "The secret? Tell the truth gently",
+      "spanish": "El secreto, di la verdad con cariño",
+      "category": "Love",
+      "generated_at": "2026-05-14T18:54:42.106375"
+    },
+    {
+      "english": "What nobody tells you, text tonight",
+      "spanish": "Lo que nadie dice, manda un mensaje hoy",
+      "category": "Love",
+      "generated_at": "2026-05-14T18:54:42.106385"
     }
   ],
   "used_english": [
@@ -6763,7 +6793,12 @@
     "never say 'i don't know' again",
     "the secret... use fewer words",
     "never explain, just show agreement",
-    "this is how you sound natural"
+    "this is how you sound natural",
+    "stop chasing, say “te extraño”",
+    "never hide it, say “me enamoré”",
+    "this is why love feels safe",
+    "the secret? tell the truth gently",
+    "what nobody tells you, text tonight"
   ],
-  "last_updated": "2026-05-14T17:02:35.277186"
+  "last_updated": "2026-05-14T18:54:42.106387"
 }
