@@ -5735,6 +5735,36 @@
       "spanish": "No te rindas, termina la idea",
       "category": "Patience",
       "generated_at": "2026-05-13T22:04:14.629345"
+    },
+    {
+      "english": "Stop clenching, say “estoy bien”",
+      "spanish": "Deja de apretar, di “estoy bien”",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T15:22:36.323650"
+    },
+    {
+      "english": "Never hide your smile, say “sonríe”",
+      "spanish": "Nunca escondas tu sonrisa, di “sonríe”",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T15:22:36.323673"
+    },
+    {
+      "english": "This is why your day brightens",
+      "spanish": "Por eso tu día se ilumina",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T15:22:36.323684"
+    },
+    {
+      "english": "What nobody tells you, breathe, luego",
+      "spanish": "Lo que nadie te dice, respira, luego",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T15:22:36.323694"
+    },
+    {
+      "english": "The secret feeling? “Me alegro” now",
+      "spanish": "El secreto, “me alegro”, ahora",
+      "category": "Happiness",
+      "generated_at": "2026-05-14T15:22:36.323705"
     }
   ],
   "used_english": [
@@ -6693,7 +6723,12 @@
     "the secret, use smaller sentences",
     "this changes your patience instantly",
     "never overreact, slow your rhythm",
-    "stop quitting, finish the thought"
+    "stop quitting, finish the thought",
+    "stop clenching, say “estoy bien”",
+    "never hide your smile, say “sonríe”",
+    "this is why your day brightens",
+    "what nobody tells you, breathe, luego",
+    "the secret feeling? “me alegro” now"
   ],
-  "last_updated": "2026-05-13T22:04:14.629347"
+  "last_updated": "2026-05-14T15:22:36.323707"
 }
