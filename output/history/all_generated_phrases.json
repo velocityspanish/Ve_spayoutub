@@ -5825,6 +5825,36 @@
       "spanish": "Lo que nadie dice, manda un mensaje hoy",
       "category": "Love",
       "generated_at": "2026-05-14T18:54:42.106385"
+    },
+    {
+      "english": "Stop translating, say it with feeling",
+      "spanish": "Deja de traducir, dilo con emoción",
+      "category": "Creativity",
+      "generated_at": "2026-05-14T20:28:22.274121"
+    },
+    {
+      "english": "The secret? Speak in chunks, not sentences",
+      "spanish": "El secreto: di por partes, no frases",
+      "category": "Creativity",
+      "generated_at": "2026-05-14T20:28:22.274142"
+    },
+    {
+      "english": "Never explain, just add “anyway”",
+      "spanish": "No expliques, solo “de todas formas”",
+      "category": "Creativity",
+      "generated_at": "2026-05-14T20:28:22.274155"
+    },
+    {
+      "english": "This changes your Spanish in one week",
+      "spanish": "Así mejoras tu español en una semana",
+      "category": "Creativity",
+      "generated_at": "2026-05-14T20:28:22.274166"
+    },
+    {
+      "english": "Never say “maybe”, say “sure thing”",
+      "spanish": "No digas “quizá”, di “seguro”",
+      "category": "Creativity",
+      "generated_at": "2026-05-14T20:28:22.274177"
     }
   ],
   "used_english": [
@@ -6798,7 +6828,12 @@
     "never hide it, say “me enamoré”",
     "this is why love feels safe",
     "the secret? tell the truth gently",
-    "what nobody tells you, text tonight"
+    "what nobody tells you, text tonight",
+    "stop translating, say it with feeling",
+    "the secret? speak in chunks, not sentences",
+    "never explain, just add “anyway”",
+    "this changes your spanish in one week",
+    "never say “maybe”, say “sure thing”"
   ],
-  "last_updated": "2026-05-14T18:54:42.106387"
+  "last_updated": "2026-05-14T20:28:22.274179"
 }
