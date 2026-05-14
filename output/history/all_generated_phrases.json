@@ -5765,6 +5765,36 @@
       "spanish": "El secreto, “me alegro”, ahora",
       "category": "Happiness",
       "generated_at": "2026-05-14T15:22:36.323705"
+    },
+    {
+      "english": "Stop sounding polite, say this",
+      "spanish": "Deja sonar educado, di esto",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:02:35.277136"
+    },
+    {
+      "english": "Never say 'I don't know' again",
+      "spanish": "Nunca digas 'no sé' así",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:02:35.277154"
+    },
+    {
+      "english": "The secret... use fewer words",
+      "spanish": "El secreto... usa menos palabras",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:02:35.277164"
+    },
+    {
+      "english": "Never explain, just show agreement",
+      "spanish": "Nunca expliques, solo di que sí",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:02:35.277174"
+    },
+    {
+      "english": "This is how you sound natural",
+      "spanish": "Así suenas, súper natural",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T17:02:35.277184"
     }
   ],
   "used_english": [
@@ -6728,7 +6758,12 @@
     "never hide your smile, say “sonríe”",
     "this is why your day brightens",
     "what nobody tells you, breathe, luego",
-    "the secret feeling? “me alegro” now"
+    "the secret feeling? “me alegro” now",
+    "stop sounding polite, say this",
+    "never say 'i don't know' again",
+    "the secret... use fewer words",
+    "never explain, just show agreement",
+    "this is how you sound natural"
   ],
-  "last_updated": "2026-05-14T15:22:36.323707"
+  "last_updated": "2026-05-14T17:02:35.277186"
 }
