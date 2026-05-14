@@ -5855,6 +5855,36 @@
       "spanish": "No digas “quizá”, di “seguro”",
       "category": "Creativity",
       "generated_at": "2026-05-14T20:28:22.274177"
+    },
+    {
+      "english": "Stop saying 'really', say 'de verdad'",
+      "spanish": "Deja de decir 'really', di 'de verdad'",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T21:59:22.901406"
+    },
+    {
+      "english": "Never say 'no way', say 'ni hablar'",
+      "spanish": "Nunca digas 'no way', di 'ni hablar'",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T21:59:22.901423"
+    },
+    {
+      "english": "The secret? Keep it simple, please",
+      "spanish": "El secreto, simple y listo, porfa",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T21:59:22.901433"
+    },
+    {
+      "english": "Never translate, say what you mean",
+      "spanish": "No traduzcas, di lo que quieres decir",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T21:59:22.901443"
+    },
+    {
+      "english": "This one word makes you sound native",
+      "spanish": "Una palabra, suenas nativo",
+      "category": "Purpose",
+      "generated_at": "2026-05-14T21:59:22.901453"
     }
   ],
   "used_english": [
@@ -6833,7 +6863,12 @@
     "the secret? speak in chunks, not sentences",
     "never explain, just add “anyway”",
     "this changes your spanish in one week",
-    "never say “maybe”, say “sure thing”"
+    "never say “maybe”, say “sure thing”",
+    "stop saying 'really', say 'de verdad'",
+    "never say 'no way', say 'ni hablar'",
+    "the secret? keep it simple, please",
+    "never translate, say what you mean",
+    "this one word makes you sound native"
   ],
-  "last_updated": "2026-05-14T20:28:22.274179"
+  "last_updated": "2026-05-14T21:59:22.901455"
 }
