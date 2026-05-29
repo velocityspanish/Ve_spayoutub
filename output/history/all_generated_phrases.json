@@ -5975,6 +5975,36 @@
       "spanish": "El secreto, responde con lo que oíste",
       "category": "Growth",
       "generated_at": "2026-05-29T18:13:14.622467"
+    },
+    {
+      "english": "Never force small talk, ask this",
+      "spanish": "Nunca fuerces charla, pregunta esto",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T19:32:17.909533"
+    },
+    {
+      "english": "This is why besties stay close",
+      "spanish": "Por eso las mejores amigas se quedan",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T19:32:17.909551"
+    },
+    {
+      "english": "Stop texting “jajaja”, use this",
+      "spanish": "Deja de poner “jajaja”, usa esto",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T19:32:17.909563"
+    },
+    {
+      "english": "Never disappear, send one quick check-in",
+      "spanish": "No desaparezcas, manda un mensajito",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T19:32:17.909573"
+    },
+    {
+      "english": "This phrase makes apologies feel warm",
+      "spanish": "Esta frase hace disculpas más cálidas",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T19:32:17.909583"
     }
   ],
   "used_english": [
@@ -6973,7 +7003,12 @@
     "the secret? use real questions, now",
     "stop hunting words, steal phrases",
     "this one pause sounds powerful, try",
-    "the secret? answer with what you heard"
+    "the secret? answer with what you heard",
+    "never force small talk, ask this",
+    "this is why besties stay close",
+    "stop texting “jajaja”, use this",
+    "never disappear, send one quick check-in",
+    "this phrase makes apologies feel warm"
   ],
-  "last_updated": "2026-05-29T18:13:14.622469"
+  "last_updated": "2026-05-29T19:32:17.909584"
 }
