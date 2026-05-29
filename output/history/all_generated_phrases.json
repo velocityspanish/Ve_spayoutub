@@ -6035,6 +6035,36 @@
       "spanish": "Esta frase te calma de verdad",
       "category": "Hope",
       "generated_at": "2026-05-29T21:10:23.922119"
+    },
+    {
+      "english": "Never say “sorry” first, use this",
+      "spanish": "Nunca digas “perdón” primero, usa esto",
+      "category": "Wisdom",
+      "generated_at": "2026-05-29T22:23:46.272343"
+    },
+    {
+      "english": "The secret... add a smile, siempre",
+      "spanish": "El secreto... pon una sonrisa, siempre",
+      "category": "Wisdom",
+      "generated_at": "2026-05-29T22:23:46.272364"
+    },
+    {
+      "english": "Never overthink, just say the vibe",
+      "spanish": "No pienses de más, solo di la vibra",
+      "category": "Wisdom",
+      "generated_at": "2026-05-29T22:23:46.272375"
+    },
+    {
+      "english": "Stop stopping, finish the sentence",
+      "spanish": "Deja de parar, termina la frase",
+      "category": "Wisdom",
+      "generated_at": "2026-05-29T22:23:46.272384"
+    },
+    {
+      "english": "Never joke too soon, start safely",
+      "spanish": "Nunca bromees tan pronto, empieza seguro",
+      "category": "Wisdom",
+      "generated_at": "2026-05-29T22:23:46.272395"
     }
   ],
   "used_english": [
@@ -7043,7 +7073,12 @@
     "this is why you’ll improve fast",
     "the secret? try, then adjust",
     "never fear the quiet moments",
-    "this one phrase calms you down"
+    "this one phrase calms you down",
+    "never say “sorry” first, use this",
+    "the secret... add a smile, siempre",
+    "never overthink, just say the vibe",
+    "stop stopping, finish the sentence",
+    "never joke too soon, start safely"
   ],
-  "last_updated": "2026-05-29T21:10:23.922121"
+  "last_updated": "2026-05-29T22:23:46.272397"
 }
