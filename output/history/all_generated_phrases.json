@@ -6005,6 +6005,36 @@
       "spanish": "Esta frase hace disculpas más cálidas",
       "category": "Friendship",
       "generated_at": "2026-05-29T19:32:17.909583"
+    },
+    {
+      "english": "Never run out of hope",
+      "spanish": "Nunca se te acabe la esperanza",
+      "category": "Hope",
+      "generated_at": "2026-05-29T21:10:23.922068"
+    },
+    {
+      "english": "This is why you’ll improve fast",
+      "spanish": "Por eso mejorarás muy rápido",
+      "category": "Hope",
+      "generated_at": "2026-05-29T21:10:23.922088"
+    },
+    {
+      "english": "The secret? Try, then adjust",
+      "spanish": "El secreto, prueba y ajusta",
+      "category": "Hope",
+      "generated_at": "2026-05-29T21:10:23.922099"
+    },
+    {
+      "english": "Never fear the quiet moments",
+      "spanish": "No tengas miedo al silencio",
+      "category": "Hope",
+      "generated_at": "2026-05-29T21:10:23.922109"
+    },
+    {
+      "english": "This one phrase calms you down",
+      "spanish": "Esta frase te calma de verdad",
+      "category": "Hope",
+      "generated_at": "2026-05-29T21:10:23.922119"
     }
   ],
   "used_english": [
@@ -7008,7 +7038,12 @@
     "this is why besties stay close",
     "stop texting “jajaja”, use this",
     "never disappear, send one quick check-in",
-    "this phrase makes apologies feel warm"
+    "this phrase makes apologies feel warm",
+    "never run out of hope",
+    "this is why you’ll improve fast",
+    "the secret? try, then adjust",
+    "never fear the quiet moments",
+    "this one phrase calms you down"
   ],
-  "last_updated": "2026-05-29T19:32:17.909584"
+  "last_updated": "2026-05-29T21:10:23.922121"
 }
