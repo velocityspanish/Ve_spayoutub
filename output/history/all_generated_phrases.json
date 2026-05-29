@@ -5945,6 +5945,36 @@
       "spanish": "Deja de buscar, responde con uno",
       "category": "Growth",
       "generated_at": "2026-05-29T16:42:59.430978"
+    },
+    {
+      "english": "Stop memorizing, start remixing today",
+      "spanish": "Deja memorizar, empieza a remixar hoy",
+      "category": "Growth",
+      "generated_at": "2026-05-29T18:13:14.622416"
+    },
+    {
+      "english": "The secret? Use real questions, now",
+      "spanish": "El secreto, usa preguntas reales, ya",
+      "category": "Growth",
+      "generated_at": "2026-05-29T18:13:14.622435"
+    },
+    {
+      "english": "Stop hunting words, steal phrases",
+      "spanish": "Deja de buscar palabras, roba frases",
+      "category": "Growth",
+      "generated_at": "2026-05-29T18:13:14.622447"
+    },
+    {
+      "english": "This one pause sounds powerful, try",
+      "spanish": "Esa pausa suena poderosa, prueba",
+      "category": "Growth",
+      "generated_at": "2026-05-29T18:13:14.622457"
+    },
+    {
+      "english": "The secret? Answer with what you heard",
+      "spanish": "El secreto, responde con lo que oíste",
+      "category": "Growth",
+      "generated_at": "2026-05-29T18:13:14.622467"
     }
   ],
   "used_english": [
@@ -6938,7 +6968,12 @@
     "the secret... answer slower, smile",
     "never explain, just repeat part",
     "stop memorizing, use it today",
-    "stop searching, respond with one"
+    "stop searching, respond with one",
+    "stop memorizing, start remixing today",
+    "the secret? use real questions, now",
+    "stop hunting words, steal phrases",
+    "this one pause sounds powerful, try",
+    "the secret? answer with what you heard"
   ],
-  "last_updated": "2026-05-29T16:42:59.430979"
+  "last_updated": "2026-05-29T18:13:14.622469"
 }
