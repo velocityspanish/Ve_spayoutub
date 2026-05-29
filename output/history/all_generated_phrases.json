@@ -5885,6 +5885,36 @@
       "spanish": "Una palabra, suenas nativo",
       "category": "Purpose",
       "generated_at": "2026-05-14T21:59:22.901453"
+    },
+    {
+      "english": "Stop trying perfect, sound friendly",
+      "spanish": "No busques perfecto, suena amable",
+      "category": "Balance",
+      "generated_at": "2026-05-29T05:51:09.652426"
+    },
+    {
+      "english": "Your confidence grows, one sentence",
+      "spanish": "Tu confianza crece, una frase",
+      "category": "Balance",
+      "generated_at": "2026-05-29T05:51:09.652447"
+    },
+    {
+      "english": "This tiny word saves conversations",
+      "spanish": "Esta palabra salva conversaciones",
+      "category": "Balance",
+      "generated_at": "2026-05-29T05:51:09.652459"
+    },
+    {
+      "english": "Stop sounding tense, use 'tranquilo'",
+      "spanish": "Deja sonar tenso, di 'tranquilo'",
+      "category": "Balance",
+      "generated_at": "2026-05-29T05:51:09.652469"
+    },
+    {
+      "english": "Never quit mid-idea, finish",
+      "spanish": "No te rindas a medias, termina",
+      "category": "Balance",
+      "generated_at": "2026-05-29T05:51:09.652479"
     }
   ],
   "used_english": [
@@ -6868,7 +6898,12 @@
     "never say 'no way', say 'ni hablar'",
     "the secret? keep it simple, please",
     "never translate, say what you mean",
-    "this one word makes you sound native"
+    "this one word makes you sound native",
+    "stop trying perfect, sound friendly",
+    "your confidence grows, one sentence",
+    "this tiny word saves conversations",
+    "stop sounding tense, use 'tranquilo'",
+    "never quit mid-idea, finish"
   ],
-  "last_updated": "2026-05-14T21:59:22.901455"
+  "last_updated": "2026-05-29T05:51:09.652481"
 }
