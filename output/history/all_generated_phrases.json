@@ -5915,6 +5915,36 @@
       "spanish": "No te rindas a medias, termina",
       "category": "Balance",
       "generated_at": "2026-05-29T05:51:09.652479"
+    },
+    {
+      "english": "Stop listing, say one feeling",
+      "spanish": "Para de listar, di un sentimiento",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:59.430929"
+    },
+    {
+      "english": "The secret... answer slower, smile",
+      "spanish": "El secreto… responde más lento, sonríe",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:59.430946"
+    },
+    {
+      "english": "Never explain, just repeat part",
+      "spanish": "No expliques, repite solo una parte",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:59.430957"
+    },
+    {
+      "english": "Stop memorizing, use it today",
+      "spanish": "Deja de memorizar, úsalo hoy",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:59.430967"
+    },
+    {
+      "english": "Stop searching, respond with one",
+      "spanish": "Deja de buscar, responde con uno",
+      "category": "Growth",
+      "generated_at": "2026-05-29T16:42:59.430978"
     }
   ],
   "used_english": [
@@ -6903,7 +6933,12 @@
     "your confidence grows, one sentence",
     "this tiny word saves conversations",
     "stop sounding tense, use 'tranquilo'",
-    "never quit mid-idea, finish"
+    "never quit mid-idea, finish",
+    "stop listing, say one feeling",
+    "the secret... answer slower, smile",
+    "never explain, just repeat part",
+    "stop memorizing, use it today",
+    "stop searching, respond with one"
   ],
-  "last_updated": "2026-05-29T05:51:09.652481"
+  "last_updated": "2026-05-29T16:42:59.430979"
 }
