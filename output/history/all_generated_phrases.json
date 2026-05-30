@@ -6125,6 +6125,36 @@
       "spanish": "El secreto, aprende una frase, repite",
       "category": "Confidence",
       "generated_at": "2026-05-30T16:05:53.379716"
+    },
+    {
+      "english": "Stop fighting, breathe, suéltalo",
+      "spanish": "Deja de pelear, respira, suéltalo",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T18:02:45.574748"
+    },
+    {
+      "english": "Never chase calm, it chases you",
+      "spanish": "Nunca persigas la calma, ella va",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T18:02:45.574768"
+    },
+    {
+      "english": "This is why you’re tense, escucha",
+      "spanish": "Esto es por qué te pones tenso, escucha",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T18:02:45.574779"
+    },
+    {
+      "english": "The secret? Choose nhẹ, then act",
+      "spanish": "El secreto, elige “suave”, y actúa",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T18:02:45.574790"
+    },
+    {
+      "english": "Stop spiraling, say “tranqui” first",
+      "spanish": "Para la espiral, di “tranqui” primero",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T18:02:45.574801"
     }
   ],
   "used_english": [
@@ -7148,7 +7178,12 @@
     "the secret? speak slower than you think",
     "stop translating, start describing right now",
     "never freeze, look, then answer",
-    "the secret? learn one chunk, repeat"
+    "the secret? learn one chunk, repeat",
+    "stop fighting, breathe, suéltalo",
+    "never chase calm, it chases you",
+    "this is why you’re tense, escucha",
+    "the secret? choose nhẹ, then act",
+    "stop spiraling, say “tranqui” first"
   ],
-  "last_updated": "2026-05-30T16:05:53.379718"
+  "last_updated": "2026-05-30T18:02:45.574802"
 }
