@@ -6095,6 +6095,36 @@
       "spanish": "Esta frase abre conversaciones reales",
       "category": "Strength",
       "generated_at": "2026-05-30T14:42:31.485358"
+    },
+    {
+      "english": "Never overthink, just say one truth",
+      "spanish": "Nunca sobrepienses, solo di una verdad",
+      "category": "Confidence",
+      "generated_at": "2026-05-30T16:05:53.379668"
+    },
+    {
+      "english": "The secret? Speak slower than you think",
+      "spanish": "El secreto, habla más lento",
+      "category": "Confidence",
+      "generated_at": "2026-05-30T16:05:53.379685"
+    },
+    {
+      "english": "Stop translating, start describing right now",
+      "spanish": "Deja de traducir, describe ahora",
+      "category": "Confidence",
+      "generated_at": "2026-05-30T16:05:53.379695"
+    },
+    {
+      "english": "Never freeze, look, then answer",
+      "spanish": "Nunca te bloquees, mira y responde",
+      "category": "Confidence",
+      "generated_at": "2026-05-30T16:05:53.379705"
+    },
+    {
+      "english": "The secret? Learn one chunk, repeat",
+      "spanish": "El secreto, aprende una frase, repite",
+      "category": "Confidence",
+      "generated_at": "2026-05-30T16:05:53.379716"
     }
   ],
   "used_english": [
@@ -7113,7 +7143,12 @@
     "the secret? talk with one link",
     "stop googling, answer immediately",
     "never fear, use this exact phrase",
-    "this phrase unlocks real conversations"
+    "this phrase unlocks real conversations",
+    "never overthink, just say one truth",
+    "the secret? speak slower than you think",
+    "stop translating, start describing right now",
+    "never freeze, look, then answer",
+    "the secret? learn one chunk, repeat"
   ],
-  "last_updated": "2026-05-30T14:42:31.485360"
+  "last_updated": "2026-05-30T16:05:53.379718"
 }
