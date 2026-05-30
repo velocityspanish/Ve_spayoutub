@@ -6155,6 +6155,36 @@
       "spanish": "Para la espiral, di “tranqui” primero",
       "category": "Inner Peace",
       "generated_at": "2026-05-30T18:02:45.574801"
+    },
+    {
+      "english": "Never apologize, just soften words",
+      "spanish": "Nunca pidas perdón, suaviza la frase",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T20:11:43.880523"
+    },
+    {
+      "english": "The secret... switch to action",
+      "spanish": "El secreto... pasa a actuar",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T20:11:43.880545"
+    },
+    {
+      "english": "Never fight feelings, name them",
+      "spanish": "No pelees con lo que sientes",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T20:11:43.880557"
+    },
+    {
+      "english": "This one phrase resets your mood",
+      "spanish": "Esta frase te reordena por dentro",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T20:11:43.880568"
+    },
+    {
+      "english": "Your calm starts with one word",
+      "spanish": "Tu calma empieza con una palabra",
+      "category": "Inner Peace",
+      "generated_at": "2026-05-30T20:11:43.880579"
     }
   ],
   "used_english": [
@@ -7183,7 +7213,12 @@
     "never chase calm, it chases you",
     "this is why you’re tense, escucha",
     "the secret? choose nhẹ, then act",
-    "stop spiraling, say “tranqui” first"
+    "stop spiraling, say “tranqui” first",
+    "never apologize, just soften words",
+    "the secret... switch to action",
+    "never fight feelings, name them",
+    "this one phrase resets your mood",
+    "your calm starts with one word"
   ],
-  "last_updated": "2026-05-30T18:02:45.574802"
+  "last_updated": "2026-05-30T20:11:43.880581"
 }
