@@ -6065,6 +6065,36 @@
       "spanish": "Nunca bromees tan pronto, empieza seguro",
       "category": "Wisdom",
       "generated_at": "2026-05-29T22:23:46.272395"
+    },
+    {
+      "english": "Never say “tomorrow”, say “now”",
+      "spanish": "Nunca digas “mañana”, di “ahora”",
+      "category": "Strength",
+      "generated_at": "2026-05-30T14:42:31.485291"
+    },
+    {
+      "english": "The secret? Talk with one link",
+      "spanish": "El secreto, habla con un enlace",
+      "category": "Strength",
+      "generated_at": "2026-05-30T14:42:31.485312"
+    },
+    {
+      "english": "Stop Googling, answer immediately",
+      "spanish": "Deja Googlear, responde ya",
+      "category": "Strength",
+      "generated_at": "2026-05-30T14:42:31.485338"
+    },
+    {
+      "english": "Never fear, use this exact phrase",
+      "spanish": "No temas, usa esta frase exacta",
+      "category": "Strength",
+      "generated_at": "2026-05-30T14:42:31.485348"
+    },
+    {
+      "english": "This phrase unlocks real conversations",
+      "spanish": "Esta frase abre conversaciones reales",
+      "category": "Strength",
+      "generated_at": "2026-05-30T14:42:31.485358"
     }
   ],
   "used_english": [
@@ -7078,7 +7108,12 @@
     "the secret... add a smile, siempre",
     "never overthink, just say the vibe",
     "stop stopping, finish the sentence",
-    "never joke too soon, start safely"
+    "never joke too soon, start safely",
+    "never say “tomorrow”, say “now”",
+    "the secret? talk with one link",
+    "stop googling, answer immediately",
+    "never fear, use this exact phrase",
+    "this phrase unlocks real conversations"
   ],
-  "last_updated": "2026-05-29T22:23:46.272397"
+  "last_updated": "2026-05-30T14:42:31.485360"
 }
