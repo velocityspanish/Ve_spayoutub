@@ -6305,6 +6305,36 @@
       "spanish": "No digas “estás mal”, mejor esto",
       "category": "Forgiveness",
       "generated_at": "2026-05-31T18:01:59.957758"
+    },
+    {
+      "english": "Never apologize, just repeat kindly",
+      "spanish": "Nunca pidas perdón, repite amable",
+      "category": "Positive Life",
+      "generated_at": "2026-05-31T20:14:58.508403"
+    },
+    {
+      "english": "Never quit on boring days",
+      "spanish": "No abandones días aburridos",
+      "category": "Positive Life",
+      "generated_at": "2026-05-31T20:14:58.508421"
+    },
+    {
+      "english": "The secret? Celebrate tiny wins",
+      "spanish": "El secreto, celebra victorias pequeñas",
+      "category": "Positive Life",
+      "generated_at": "2026-05-31T20:14:58.508433"
+    },
+    {
+      "english": "Never block yourself, ask for help",
+      "spanish": "Nunca te frenes, pide ayuda",
+      "category": "Positive Life",
+      "generated_at": "2026-05-31T20:14:58.508444"
+    },
+    {
+      "english": "This phrase makes questions feel easy",
+      "spanish": "Esta frase hace preguntas fáciles",
+      "category": "Positive Life",
+      "generated_at": "2026-05-31T20:14:58.508454"
     }
   ],
   "used_english": [
@@ -7358,7 +7388,12 @@
     "never demand, say you understand",
     "this is why grudges grow fast",
     "stop arguing, say “i get it”",
-    "never say “you’re wrong”, try this"
+    "never say “you’re wrong”, try this",
+    "never apologize, just repeat kindly",
+    "never quit on boring days",
+    "the secret? celebrate tiny wins",
+    "never block yourself, ask for help",
+    "this phrase makes questions feel easy"
   ],
-  "last_updated": "2026-05-31T18:01:59.957760"
+  "last_updated": "2026-05-31T20:14:58.508456"
 }
