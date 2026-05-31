@@ -6335,6 +6335,36 @@
       "spanish": "Esta frase hace preguntas fáciles",
       "category": "Positive Life",
       "generated_at": "2026-05-31T20:14:58.508454"
+    },
+    {
+      "english": "Stop saying “good”,",
+      "spanish": "Deja “bien”, di “¡genial!”",
+      "category": "Friendship",
+      "generated_at": "2026-05-31T21:46:05.091276"
+    },
+    {
+      "english": "Never say “fine”, say this",
+      "spanish": "Nunca digas “estoy bien”",
+      "category": "Friendship",
+      "generated_at": "2026-05-31T21:46:05.091296"
+    },
+    {
+      "english": "Stop “maybe”, sound sure instead",
+      "spanish": "Me parece, sí, claro",
+      "category": "Friendship",
+      "generated_at": "2026-05-31T21:46:05.091309"
+    },
+    {
+      "english": "Never overtalk, use this",
+      "spanish": "Vale, ya entendí",
+      "category": "Friendship",
+      "generated_at": "2026-05-31T21:46:05.091319"
+    },
+    {
+      "english": "This single word saves friends",
+      "spanish": "Perdón… pero escucha",
+      "category": "Friendship",
+      "generated_at": "2026-05-31T21:46:05.091330"
     }
   ],
   "used_english": [
@@ -7393,7 +7423,12 @@
     "never quit on boring days",
     "the secret? celebrate tiny wins",
     "never block yourself, ask for help",
-    "this phrase makes questions feel easy"
+    "this phrase makes questions feel easy",
+    "stop saying “good”,",
+    "never say “fine”, say this",
+    "stop “maybe”, sound sure instead",
+    "never overtalk, use this",
+    "this single word saves friends"
   ],
-  "last_updated": "2026-05-31T20:14:58.508456"
+  "last_updated": "2026-05-31T21:46:05.091332"
 }
