@@ -6275,6 +6275,36 @@
       "spanish": "Deja la perfección, sé entendido",
       "category": "Courage",
       "generated_at": "2026-05-31T16:09:42.821426"
+    },
+    {
+      "english": "Stop rehearsing, apologize like this",
+      "spanish": "Deja ensayar, perdona así",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-31T18:01:59.957708"
+    },
+    {
+      "english": "Never demand, say you understand",
+      "spanish": "Nunca exijas, di que entiendes",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-31T18:01:59.957725"
+    },
+    {
+      "english": "This is why grudges grow fast",
+      "spanish": "Por eso las rencillas crecen",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-31T18:01:59.957736"
+    },
+    {
+      "english": "Stop arguing, say “I get it”",
+      "spanish": "Corta la pelea, di “lo entiendo”",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-31T18:01:59.957747"
+    },
+    {
+      "english": "Never say “you’re wrong”, try this",
+      "spanish": "No digas “estás mal”, mejor esto",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-31T18:01:59.957758"
     }
   ],
   "used_english": [
@@ -7323,7 +7353,12 @@
     "never freeze, say 'está bien'",
     "never say “okay”, use “perfecto”",
     "the secret, speak in tiny loops",
-    "stop chasing perfection, be understood"
+    "stop chasing perfection, be understood",
+    "stop rehearsing, apologize like this",
+    "never demand, say you understand",
+    "this is why grudges grow fast",
+    "stop arguing, say “i get it”",
+    "never say “you’re wrong”, try this"
   ],
-  "last_updated": "2026-05-31T16:09:42.821428"
+  "last_updated": "2026-05-31T18:01:59.957760"
 }
