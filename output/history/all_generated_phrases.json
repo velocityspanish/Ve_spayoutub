@@ -6245,6 +6245,36 @@
       "spanish": "Esta palabra gana respeto",
       "category": "Success",
       "generated_at": "2026-05-31T14:48:18.058527"
+    },
+    {
+      "english": "Never explain, just use 'claro'",
+      "spanish": "Nunca expliques, usa “claro”",
+      "category": "Courage",
+      "generated_at": "2026-05-31T16:09:42.821374"
+    },
+    {
+      "english": "Never freeze, say 'está bien'",
+      "spanish": "Nunca te paralices, di “está bien”",
+      "category": "Courage",
+      "generated_at": "2026-05-31T16:09:42.821393"
+    },
+    {
+      "english": "Never say “okay”, use “perfecto”",
+      "spanish": "No digas “vale”, di “perfecto”",
+      "category": "Courage",
+      "generated_at": "2026-05-31T16:09:42.821404"
+    },
+    {
+      "english": "The secret, speak in tiny loops",
+      "spanish": "El secreto, habla en bucles cortos",
+      "category": "Courage",
+      "generated_at": "2026-05-31T16:09:42.821416"
+    },
+    {
+      "english": "Stop chasing perfection, be understood",
+      "spanish": "Deja la perfección, sé entendido",
+      "category": "Courage",
+      "generated_at": "2026-05-31T16:09:42.821426"
     }
   ],
   "used_english": [
@@ -7288,7 +7318,12 @@
     "never rush, slow down your 'tú'",
     "the secret? say it confidently once",
     "stop memorizing, practice with one question",
-    "this one word gets instant respect"
+    "this one word gets instant respect",
+    "never explain, just use 'claro'",
+    "never freeze, say 'está bien'",
+    "never say “okay”, use “perfecto”",
+    "the secret, speak in tiny loops",
+    "stop chasing perfection, be understood"
   ],
-  "last_updated": "2026-05-31T14:48:18.058529"
+  "last_updated": "2026-05-31T16:09:42.821428"
 }
