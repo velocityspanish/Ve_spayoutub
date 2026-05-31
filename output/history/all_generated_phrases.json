@@ -6215,6 +6215,36 @@
       "spanish": "Una respiración lo arregla todo",
       "category": "Inner Peace",
       "generated_at": "2026-05-30T21:49:06.661781"
+    },
+    {
+      "english": "Stop saying 'good'—say this",
+      "spanish": "Deja de decir “bueno”—di esto",
+      "category": "Success",
+      "generated_at": "2026-05-31T14:48:18.058475"
+    },
+    {
+      "english": "Never rush, slow down your 'tú'",
+      "spanish": "Nunca corras, baja tu “tú”",
+      "category": "Success",
+      "generated_at": "2026-05-31T14:48:18.058495"
+    },
+    {
+      "english": "The secret? Say it confidently once",
+      "spanish": "El secreto, dilo una vez",
+      "category": "Success",
+      "generated_at": "2026-05-31T14:48:18.058506"
+    },
+    {
+      "english": "Stop memorizing, practice with one question",
+      "spanish": "Deja de memorizar, pregunta una cosa",
+      "category": "Success",
+      "generated_at": "2026-05-31T14:48:18.058516"
+    },
+    {
+      "english": "This one word gets instant respect",
+      "spanish": "Esta palabra gana respeto",
+      "category": "Success",
+      "generated_at": "2026-05-31T14:48:18.058527"
     }
   ],
   "used_english": [
@@ -7253,7 +7283,12 @@
     "never explain, just change the vibe",
     "the secret? use one soft filler",
     "stop spiraling, name one emotion",
-    "this one breath fixes everything"
+    "this one breath fixes everything",
+    "stop saying 'good'—say this",
+    "never rush, slow down your 'tú'",
+    "the secret? say it confidently once",
+    "stop memorizing, practice with one question",
+    "this one word gets instant respect"
   ],
-  "last_updated": "2026-05-30T21:49:06.661783"
+  "last_updated": "2026-05-31T14:48:18.058529"
 }
