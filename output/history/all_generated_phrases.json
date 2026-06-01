@@ -6425,6 +6425,36 @@
       "spanish": "No pidas disculpas, di «perdón»",
       "category": "Wisdom",
       "generated_at": "2026-06-01T19:56:10.700914"
+    },
+    {
+      "english": "Never learn tense first, learn feelings",
+      "spanish": "Nunca aprendas tiempos, aprende sentimientos",
+      "category": "Inspiration",
+      "generated_at": "2026-06-01T20:54:31.739614"
+    },
+    {
+      "english": "The secret? Practice in real moments",
+      "spanish": "El secreto, practica en momentos reales",
+      "category": "Inspiration",
+      "generated_at": "2026-06-01T20:54:31.739633"
+    },
+    {
+      "english": "Stop rewriting sentences, say it once",
+      "spanish": "Deja de reescribir frases, di una vez",
+      "category": "Inspiration",
+      "generated_at": "2026-06-01T20:54:31.739644"
+    },
+    {
+      "english": "Never translate thoughts, speak them outward",
+      "spanish": "Nunca traduzcas pensamientos, sácalos",
+      "category": "Inspiration",
+      "generated_at": "2026-06-01T20:54:31.739654"
+    },
+    {
+      "english": "Stop avoiding small talks, start asking",
+      "spanish": "Deja de evitar conversaciones, empieza preguntando",
+      "category": "Inspiration",
+      "generated_at": "2026-06-01T20:54:31.739664"
     }
   ],
   "used_english": [
@@ -7498,7 +7528,12 @@
     "never sound harsh, use «un poquito»",
     "this one word keeps you fluent",
     "stop guessing verbs, copy this rhythm",
-    "never apologize, soften with «perdón»"
+    "never apologize, soften with «perdón»",
+    "never learn tense first, learn feelings",
+    "the secret? practice in real moments",
+    "stop rewriting sentences, say it once",
+    "never translate thoughts, speak them outward",
+    "stop avoiding small talks, start asking"
   ],
-  "last_updated": "2026-06-01T19:56:10.700916"
+  "last_updated": "2026-06-01T20:54:31.739666"
 }
