@@ -6395,6 +6395,36 @@
       "spanish": "Esta frase cambia el estrés en esperanza",
       "category": "Happiness",
       "generated_at": "2026-06-01T18:41:16.526643"
+    },
+    {
+      "english": "Never say 'I forgot', say this",
+      "spanish": "Nunca digas «se me olvidó», así",
+      "category": "Wisdom",
+      "generated_at": "2026-06-01T19:56:10.700855"
+    },
+    {
+      "english": "Never sound harsh, use «un poquito»",
+      "spanish": "No suenes duro, usa «un poquito»",
+      "category": "Wisdom",
+      "generated_at": "2026-06-01T19:56:10.700879"
+    },
+    {
+      "english": "This one word keeps you fluent",
+      "spanish": "Una palabra te mantiene fluido",
+      "category": "Wisdom",
+      "generated_at": "2026-06-01T19:56:10.700891"
+    },
+    {
+      "english": "Stop guessing verbs, copy this rhythm",
+      "spanish": "Deja de adivinar, copia este ritmo",
+      "category": "Wisdom",
+      "generated_at": "2026-06-01T19:56:10.700902"
+    },
+    {
+      "english": "Never apologize, soften with «perdón»",
+      "spanish": "No pidas disculpas, di «perdón»",
+      "category": "Wisdom",
+      "generated_at": "2026-06-01T19:56:10.700914"
     }
   ],
   "used_english": [
@@ -7463,7 +7493,12 @@
     "stop faking smiles, use “sonríe”",
     "the secret... thank people, then glow",
     "never chase approval, choose “mejor”",
-    "this one phrase turns stress into hope"
+    "this one phrase turns stress into hope",
+    "never say 'i forgot', say this",
+    "never sound harsh, use «un poquito»",
+    "this one word keeps you fluent",
+    "stop guessing verbs, copy this rhythm",
+    "never apologize, soften with «perdón»"
   ],
-  "last_updated": "2026-06-01T18:41:16.526645"
+  "last_updated": "2026-06-01T19:56:10.700916"
 }
