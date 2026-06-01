@@ -6455,6 +6455,36 @@
       "spanish": "Deja de evitar conversaciones, empieza preguntando",
       "category": "Inspiration",
       "generated_at": "2026-06-01T20:54:31.739664"
+    },
+    {
+      "english": "Never overexplain, just nod back",
+      "spanish": "Nunca expliques, solo asiente",
+      "category": "Confidence",
+      "generated_at": "2026-06-01T22:13:14.687705"
+    },
+    {
+      "english": "The secret... ask with confidence",
+      "spanish": "El secreto..., pregunta con confianza",
+      "category": "Confidence",
+      "generated_at": "2026-06-01T22:13:14.687725"
+    },
+    {
+      "english": "What nobody tells you, you’ll cope",
+      "spanish": "Lo que nadie dice, puedes con eso",
+      "category": "Confidence",
+      "generated_at": "2026-06-01T22:13:14.687737"
+    },
+    {
+      "english": "Stop editing mid-sentence, breathe",
+      "spanish": "No edites a mitad, respira",
+      "category": "Confidence",
+      "generated_at": "2026-06-01T22:13:14.687748"
+    },
+    {
+      "english": "Never wait, start speaking now",
+      "spanish": "Nunca esperes, habla ya",
+      "category": "Confidence",
+      "generated_at": "2026-06-01T22:13:14.687759"
     }
   ],
   "used_english": [
@@ -7533,7 +7563,12 @@
     "the secret? practice in real moments",
     "stop rewriting sentences, say it once",
     "never translate thoughts, speak them outward",
-    "stop avoiding small talks, start asking"
+    "stop avoiding small talks, start asking",
+    "never overexplain, just nod back",
+    "the secret... ask with confidence",
+    "what nobody tells you, you’ll cope",
+    "stop editing mid-sentence, breathe",
+    "never wait, start speaking now"
   ],
-  "last_updated": "2026-06-01T20:54:31.739666"
+  "last_updated": "2026-06-01T22:13:14.687761"
 }
