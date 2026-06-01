@@ -6485,6 +6485,36 @@
       "spanish": "Nunca esperes, habla ya",
       "category": "Confidence",
       "generated_at": "2026-06-01T22:13:14.687759"
+    },
+    {
+      "english": "Stop fearing 'mistakes', say this",
+      "spanish": "Deja de temer «errores», di esto",
+      "category": "Growth",
+      "generated_at": "2026-06-01T22:55:05.067124"
+    },
+    {
+      "english": "Never say nothing, add one",
+      "spanish": "Nunca digas nada, agrega una",
+      "category": "Growth",
+      "generated_at": "2026-06-01T22:55:05.067142"
+    },
+    {
+      "english": "The secret? Use 'quiero' early",
+      "spanish": "El secreto... usa «quiero» temprano",
+      "category": "Growth",
+      "generated_at": "2026-06-01T22:55:05.067149"
+    },
+    {
+      "english": "Stop overexplaining, point to it",
+      "spanish": "Deja de sobreexplicar, señala eso",
+      "category": "Growth",
+      "generated_at": "2026-06-01T22:55:05.067156"
+    },
+    {
+      "english": "Never chase perfect grammar, just start",
+      "spanish": "No persigas gramática perfecta, empieza",
+      "category": "Growth",
+      "generated_at": "2026-06-01T22:55:05.067162"
     }
   ],
   "used_english": [
@@ -7568,7 +7598,12 @@
     "the secret... ask with confidence",
     "what nobody tells you, you’ll cope",
     "stop editing mid-sentence, breathe",
-    "never wait, start speaking now"
+    "never wait, start speaking now",
+    "stop fearing 'mistakes', say this",
+    "never say nothing, add one",
+    "the secret? use 'quiero' early",
+    "stop overexplaining, point to it",
+    "never chase perfect grammar, just start"
   ],
-  "last_updated": "2026-06-01T22:13:14.687761"
+  "last_updated": "2026-06-01T22:55:05.067163"
 }
