@@ -6365,6 +6365,36 @@
       "spanish": "Perdón… pero escucha",
       "category": "Friendship",
       "generated_at": "2026-05-31T21:46:05.091330"
+    },
+    {
+      "english": "Never say “hard” again, say “difícil”",
+      "spanish": "Nunca digas “difícil”, piensa fácil",
+      "category": "Happiness",
+      "generated_at": "2026-06-01T18:41:16.526586"
+    },
+    {
+      "english": "Stop faking smiles, use “sonríe”",
+      "spanish": "Deja la sonrisa falsa, di “sonríe”",
+      "category": "Happiness",
+      "generated_at": "2026-06-01T18:41:16.526609"
+    },
+    {
+      "english": "The secret... thank people, then glow",
+      "spanish": "El secreto... di gracias, y brillas",
+      "category": "Happiness",
+      "generated_at": "2026-06-01T18:41:16.526621"
+    },
+    {
+      "english": "Never chase approval, choose “mejor”",
+      "spanish": "No busques aprobación, elige “mejor”",
+      "category": "Happiness",
+      "generated_at": "2026-06-01T18:41:16.526632"
+    },
+    {
+      "english": "This one phrase turns stress into hope",
+      "spanish": "Esta frase cambia el estrés en esperanza",
+      "category": "Happiness",
+      "generated_at": "2026-06-01T18:41:16.526643"
     }
   ],
   "used_english": [
@@ -7428,7 +7458,12 @@
     "never say “fine”, say this",
     "stop “maybe”, sound sure instead",
     "never overtalk, use this",
-    "this single word saves friends"
+    "this single word saves friends",
+    "never say “hard” again, say “difícil”",
+    "stop faking smiles, use “sonríe”",
+    "the secret... thank people, then glow",
+    "never chase approval, choose “mejor”",
+    "this one phrase turns stress into hope"
   ],
-  "last_updated": "2026-05-31T21:46:05.091332"
+  "last_updated": "2026-06-01T18:41:16.526645"
 }
