@@ -6605,6 +6605,36 @@
       "spanish": "Nunca esperes, inclúyelos primero",
       "category": "Kindness",
       "generated_at": "2026-06-02T20:07:12.439366"
+    },
+    {
+      "english": "Stop multitasking, breathe, and speak",
+      "spanish": "Deja el multitasking, respira, habla",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-02T21:52:04.790921"
+    },
+    {
+      "english": "Never fear silence, use this",
+      "spanish": "Nunca temas el silencio, usa esto",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-02T21:52:04.790938"
+    },
+    {
+      "english": "The secret: slow your Spanish heart",
+      "spanish": "El secreto: baja tu corazón",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-02T21:52:04.790948"
+    },
+    {
+      "english": "Stop arguing with your mind",
+      "spanish": "Deja de pelear con tu mente",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-02T21:52:04.790956"
+    },
+    {
+      "english": "Never overthink, choose calm words",
+      "spanish": "Nunca sobrepienses, elige palabras",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-02T21:52:04.790965"
     }
   ],
   "used_english": [
@@ -7708,7 +7738,12 @@
     "never ignore, offer one help",
     "the secret, wish them well today",
     "stop scrolling, send this gentle line",
-    "never wait, include them first"
+    "never wait, include them first",
+    "stop multitasking, breathe, and speak",
+    "never fear silence, use this",
+    "the secret: slow your spanish heart",
+    "stop arguing with your mind",
+    "never overthink, choose calm words"
   ],
-  "last_updated": "2026-06-02T20:07:12.439370"
+  "last_updated": "2026-06-02T21:52:04.790967"
 }
