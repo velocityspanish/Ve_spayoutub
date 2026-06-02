@@ -6575,6 +6575,36 @@
       "spanish": "El secreto, pregunta lo que necesitas",
       "category": "Inspiration",
       "generated_at": "2026-06-02T18:40:18.661610"
+    },
+    {
+      "english": "Stop, say this kind thanks",
+      "spanish": "Para, di este gracias amable",
+      "category": "Kindness",
+      "generated_at": "2026-06-02T20:07:12.439314"
+    },
+    {
+      "english": "Never ignore, offer one help",
+      "spanish": "Nunca ignores, ofrece una ayuda",
+      "category": "Kindness",
+      "generated_at": "2026-06-02T20:07:12.439332"
+    },
+    {
+      "english": "The secret, wish them well today",
+      "spanish": "El secreto, deséales bien hoy",
+      "category": "Kindness",
+      "generated_at": "2026-06-02T20:07:12.439344"
+    },
+    {
+      "english": "Stop scrolling, send this gentle line",
+      "spanish": "Deja el celular, manda este mensaje",
+      "category": "Kindness",
+      "generated_at": "2026-06-02T20:07:12.439355"
+    },
+    {
+      "english": "Never wait, include them first",
+      "spanish": "Nunca esperes, inclúyelos primero",
+      "category": "Kindness",
+      "generated_at": "2026-06-02T20:07:12.439366"
     }
   ],
   "used_english": [
@@ -7673,7 +7703,12 @@
     "the secret? practice one useful story",
     "stop studying endings, say whole chunks",
     "never translate, just describe the scene",
-    "the secret? ask questions you actually need"
+    "the secret? ask questions you actually need",
+    "stop, say this kind thanks",
+    "never ignore, offer one help",
+    "the secret, wish them well today",
+    "stop scrolling, send this gentle line",
+    "never wait, include them first"
   ],
-  "last_updated": "2026-06-02T18:40:18.661612"
+  "last_updated": "2026-06-02T20:07:12.439370"
 }
