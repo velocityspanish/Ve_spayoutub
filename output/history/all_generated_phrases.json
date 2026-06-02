@@ -6515,6 +6515,36 @@
       "spanish": "No persigas gramática perfecta, empieza",
       "category": "Growth",
       "generated_at": "2026-06-01T22:55:05.067162"
+    },
+    {
+      "english": "Stop texting, send this one",
+      "spanish": "Deja de enviar mensajes, manda esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-02T17:26:01.305295"
+    },
+    {
+      "english": "This is why friends reply fast",
+      "spanish": "Por eso tus amigos responden rápido",
+      "category": "Friendship",
+      "generated_at": "2026-06-02T17:26:01.305320"
+    },
+    {
+      "english": "Stop overthinking, send one compliment",
+      "spanish": "Deja de pensar, manda un cumplido",
+      "category": "Friendship",
+      "generated_at": "2026-06-02T17:26:01.305332"
+    },
+    {
+      "english": "Never ghost—check in, softly",
+      "spanish": "No desaparezcas, revisa, despacio",
+      "category": "Friendship",
+      "generated_at": "2026-06-02T17:26:01.305344"
+    },
+    {
+      "english": "This phrase turns tension into warmth",
+      "spanish": "Esta frase convierte tensión en cariño",
+      "category": "Friendship",
+      "generated_at": "2026-06-02T17:26:01.305355"
     }
   ],
   "used_english": [
@@ -7603,7 +7633,12 @@
     "never say nothing, add one",
     "the secret? use 'quiero' early",
     "stop overexplaining, point to it",
-    "never chase perfect grammar, just start"
+    "never chase perfect grammar, just start",
+    "stop texting, send this one",
+    "this is why friends reply fast",
+    "stop overthinking, send one compliment",
+    "never ghost—check in, softly",
+    "this phrase turns tension into warmth"
   ],
-  "last_updated": "2026-06-01T22:55:05.067163"
+  "last_updated": "2026-06-02T17:26:01.305357"
 }
