@@ -6545,6 +6545,36 @@
       "spanish": "Esta frase convierte tensión en cariño",
       "category": "Friendship",
       "generated_at": "2026-06-02T17:26:01.305355"
+    },
+    {
+      "english": "Stop asking “how to” , start doing",
+      "spanish": "Deja de preguntar “cómo”, empieza haciendo",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T18:40:18.661554"
+    },
+    {
+      "english": "The secret? Practice one useful story",
+      "spanish": "El secreto, practica una historia útil",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T18:40:18.661575"
+    },
+    {
+      "english": "Stop studying endings, say whole chunks",
+      "spanish": "Deja de estudiar finales, di frases completas",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T18:40:18.661587"
+    },
+    {
+      "english": "Never translate, just describe the scene",
+      "spanish": "No traduzcas, describe la escena",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T18:40:18.661599"
+    },
+    {
+      "english": "The secret? Ask questions you actually need",
+      "spanish": "El secreto, pregunta lo que necesitas",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T18:40:18.661610"
     }
   ],
   "used_english": [
@@ -7638,7 +7668,12 @@
     "this is why friends reply fast",
     "stop overthinking, send one compliment",
     "never ghost—check in, softly",
-    "this phrase turns tension into warmth"
+    "this phrase turns tension into warmth",
+    "stop asking “how to” , start doing",
+    "the secret? practice one useful story",
+    "stop studying endings, say whole chunks",
+    "never translate, just describe the scene",
+    "the secret? ask questions you actually need"
   ],
-  "last_updated": "2026-06-02T17:26:01.305357"
+  "last_updated": "2026-06-02T18:40:18.661612"
 }
