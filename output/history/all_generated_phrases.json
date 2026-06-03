@@ -6785,6 +6785,36 @@
       "spanish": "No traduzcas, describe como película",
       "category": "Growth",
       "generated_at": "2026-06-03T21:53:40.110680"
+    },
+    {
+      "english": "Never learn Spanish alone, talk",
+      "spanish": "Nunca estudies solo, habla",
+      "category": "Courage",
+      "generated_at": "2026-06-03T22:57:13.145736"
+    },
+    {
+      "english": "This one phrase buys confidence",
+      "spanish": "Esta frase compra confianza",
+      "category": "Courage",
+      "generated_at": "2026-06-03T22:57:13.145757"
+    },
+    {
+      "english": "Stop translating, start narrating out loud",
+      "spanish": "Deja traducir, narra en voz alta",
+      "category": "Courage",
+      "generated_at": "2026-06-03T22:57:13.145768"
+    },
+    {
+      "english": "The secret is tiny sentences today",
+      "spanish": "El secreto son frases cortas hoy",
+      "category": "Courage",
+      "generated_at": "2026-06-03T22:57:13.145780"
+    },
+    {
+      "english": "Never sound perfect, sound real",
+      "spanish": "Nunca suenes perfecto, suena real",
+      "category": "Courage",
+      "generated_at": "2026-06-03T22:57:13.145791"
     }
   ],
   "used_english": [
@@ -7918,7 +7948,12 @@
     "never sound robotic, add emotion",
     "the secret, speak in present mode",
     "stop reviewing, start shadowing now",
-    "never translate, describe like a movie"
+    "never translate, describe like a movie",
+    "never learn spanish alone, talk",
+    "this one phrase buys confidence",
+    "stop translating, start narrating out loud",
+    "the secret is tiny sentences today",
+    "never sound perfect, sound real"
   ],
-  "last_updated": "2026-06-03T21:53:40.110682"
+  "last_updated": "2026-06-03T22:57:13.145803"
 }
