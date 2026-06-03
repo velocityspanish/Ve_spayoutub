@@ -6725,6 +6725,36 @@
       "spanish": "No abandones “pero”, solo cambia",
       "category": "Patience",
       "generated_at": "2026-06-03T18:44:57.755031"
+    },
+    {
+      "english": "Never fear pauses, you’re learning",
+      "spanish": "Nunca temas pausas, estás aprendiendo",
+      "category": "Perseverance",
+      "generated_at": "2026-06-03T20:18:20.245643"
+    },
+    {
+      "english": "What nobody tells you, keep going",
+      "spanish": "Lo que nadie dice, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-06-03T20:18:20.245662"
+    },
+    {
+      "english": "Stop skipping reps, do it daily",
+      "spanish": "Deja saltarte reps, hazlo diario",
+      "category": "Perseverance",
+      "generated_at": "2026-06-03T20:18:20.245674"
+    },
+    {
+      "english": "Never quit after one bad day",
+      "spanish": "Nunca renuncies tras un mal día",
+      "category": "Perseverance",
+      "generated_at": "2026-06-03T20:18:20.245685"
+    },
+    {
+      "english": "The secret? Practice with one verb",
+      "spanish": "El secreto: practica con un verbo",
+      "category": "Perseverance",
+      "generated_at": "2026-06-03T20:18:20.245697"
     }
   ],
   "used_english": [
@@ -7848,7 +7878,12 @@
     "never overthink, ask “¿en serio?”",
     "stop guessing genders, use “uno”",
     "the secret? say it like a joke",
-    "never quit “pero,” just pivot"
+    "never quit “pero,” just pivot",
+    "never fear pauses, you’re learning",
+    "what nobody tells you, keep going",
+    "stop skipping reps, do it daily",
+    "never quit after one bad day",
+    "the secret? practice with one verb"
   ],
-  "last_updated": "2026-06-03T18:44:57.755033"
+  "last_updated": "2026-06-03T20:18:20.245699"
 }
