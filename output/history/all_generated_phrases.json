@@ -6755,6 +6755,36 @@
       "spanish": "El secreto: practica con un verbo",
       "category": "Perseverance",
       "generated_at": "2026-06-03T20:18:20.245697"
+    },
+    {
+      "english": "Stop guessing, use this template",
+      "spanish": "Deja de adivinar, usa esta plantilla",
+      "category": "Growth",
+      "generated_at": "2026-06-03T21:53:40.110627"
+    },
+    {
+      "english": "Never sound robotic, add emotion",
+      "spanish": "Nunca suenes robótico, añade emoción",
+      "category": "Growth",
+      "generated_at": "2026-06-03T21:53:40.110645"
+    },
+    {
+      "english": "The secret, speak in present mode",
+      "spanish": "El secreto, habla en presente",
+      "category": "Growth",
+      "generated_at": "2026-06-03T21:53:40.110658"
+    },
+    {
+      "english": "Stop reviewing, start shadowing now",
+      "spanish": "Deja de repasar, empieza a imitar",
+      "category": "Growth",
+      "generated_at": "2026-06-03T21:53:40.110669"
+    },
+    {
+      "english": "Never translate, describe like a movie",
+      "spanish": "No traduzcas, describe como película",
+      "category": "Growth",
+      "generated_at": "2026-06-03T21:53:40.110680"
     }
   ],
   "used_english": [
@@ -7883,7 +7913,12 @@
     "what nobody tells you, keep going",
     "stop skipping reps, do it daily",
     "never quit after one bad day",
-    "the secret? practice with one verb"
+    "the secret? practice with one verb",
+    "stop guessing, use this template",
+    "never sound robotic, add emotion",
+    "the secret, speak in present mode",
+    "stop reviewing, start shadowing now",
+    "never translate, describe like a movie"
   ],
-  "last_updated": "2026-06-03T20:18:20.245699"
+  "last_updated": "2026-06-03T21:53:40.110682"
 }
