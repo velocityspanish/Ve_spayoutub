@@ -6695,6 +6695,36 @@
       "spanish": "No temas conversaciones pequeñas",
       "category": "Strength",
       "generated_at": "2026-06-03T18:00:55.287491"
+    },
+    {
+      "english": "Stop saying “later,” say “ahora”",
+      "spanish": "Deja de decir “luego”, di “ahora”",
+      "category": "Patience",
+      "generated_at": "2026-06-03T18:44:57.754978"
+    },
+    {
+      "english": "Never overthink, ask “¿en serio?”",
+      "spanish": "No pienses de más, di “¿en serio?”",
+      "category": "Patience",
+      "generated_at": "2026-06-03T18:44:57.754996"
+    },
+    {
+      "english": "Stop guessing genders, use “uno”",
+      "spanish": "Deja de adivinar géneros, usa “uno”",
+      "category": "Patience",
+      "generated_at": "2026-06-03T18:44:57.755008"
+    },
+    {
+      "english": "The secret? Say it like a joke",
+      "spanish": "El secreto, dilo como un chiste",
+      "category": "Patience",
+      "generated_at": "2026-06-03T18:44:57.755020"
+    },
+    {
+      "english": "Never quit “pero,” just pivot",
+      "spanish": "No abandones “pero”, solo cambia",
+      "category": "Patience",
+      "generated_at": "2026-06-03T18:44:57.755031"
     }
   ],
   "used_english": [
@@ -7813,7 +7843,12 @@
     "never practice perfect answers",
     "stop overthinking, just respond",
     "the secret? learn verbs in pairs",
-    "never fear small conversations"
+    "never fear small conversations",
+    "stop saying “later,” say “ahora”",
+    "never overthink, ask “¿en serio?”",
+    "stop guessing genders, use “uno”",
+    "the secret? say it like a joke",
+    "never quit “pero,” just pivot"
   ],
-  "last_updated": "2026-06-03T18:00:55.287493"
+  "last_updated": "2026-06-03T18:44:57.755033"
 }
