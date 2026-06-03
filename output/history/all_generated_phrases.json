@@ -6665,6 +6665,36 @@
       "spanish": "No corras, dilo como música",
       "category": "Love",
       "generated_at": "2026-06-02T22:54:55.998704"
+    },
+    {
+      "english": "Stop saying 'I don't know'",
+      "spanish": "Deja de decir 'no sé'",
+      "category": "Strength",
+      "generated_at": "2026-06-03T18:00:55.287433"
+    },
+    {
+      "english": "Never practice perfect answers",
+      "spanish": "Nunca practiques respuestas perfectas",
+      "category": "Strength",
+      "generated_at": "2026-06-03T18:00:55.287455"
+    },
+    {
+      "english": "Stop overthinking, just respond",
+      "spanish": "Deja de sobrepensar, responde",
+      "category": "Strength",
+      "generated_at": "2026-06-03T18:00:55.287467"
+    },
+    {
+      "english": "The secret? Learn verbs in pairs",
+      "spanish": "El secreto, aprende verbos en pares",
+      "category": "Strength",
+      "generated_at": "2026-06-03T18:00:55.287479"
+    },
+    {
+      "english": "Never fear small conversations",
+      "spanish": "No temas conversaciones pequeñas",
+      "category": "Strength",
+      "generated_at": "2026-06-03T18:00:55.287491"
     }
   ],
   "used_english": [
@@ -7778,7 +7808,12 @@
     "never say it, show it",
     "what nobody tells you, romance grows",
     "the secret, soften with “contigo”",
-    "never rush—say it like music"
+    "never rush—say it like music",
+    "stop saying 'i don't know'",
+    "never practice perfect answers",
+    "stop overthinking, just respond",
+    "the secret? learn verbs in pairs",
+    "never fear small conversations"
   ],
-  "last_updated": "2026-06-02T22:54:55.998705"
+  "last_updated": "2026-06-03T18:00:55.287493"
 }
