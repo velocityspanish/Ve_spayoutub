@@ -6845,6 +6845,36 @@
       "spanish": "No esperes, manda un gracias rápido",
       "category": "Gratitude",
       "generated_at": "2026-06-04T16:21:16.395041"
+    },
+    {
+      "english": "Never say “sorry”, just thank",
+      "spanish": "Nunca digas “lo siento”, solo gracias",
+      "category": "Positive Life",
+      "generated_at": "2026-06-04T17:46:27.093994"
+    },
+    {
+      "english": "Stop using English at work",
+      "spanish": "Deja de usar inglés en trabajo",
+      "category": "Positive Life",
+      "generated_at": "2026-06-04T17:46:27.094048"
+    },
+    {
+      "english": "Never overdo, just one question",
+      "spanish": "Nunca te pases, solo una pregunta",
+      "category": "Positive Life",
+      "generated_at": "2026-06-04T17:46:27.094063"
+    },
+    {
+      "english": "Stop blaming yourself, try “otra vez”",
+      "spanish": "No te culpes, prueba “otra vez”",
+      "category": "Positive Life",
+      "generated_at": "2026-06-04T17:46:27.094075"
+    },
+    {
+      "english": "Never fear accents, say it your way",
+      "spanish": "No temas el acento, dilo a tu modo",
+      "category": "Positive Life",
+      "generated_at": "2026-06-04T17:46:27.094087"
     }
   ],
   "used_english": [
@@ -7988,7 +8018,12 @@
     "never forget, thank them for effort",
     "this is why “te lo agradezco” works",
     "the secret? thank, then share a memory",
-    "stop waiting, send a quick thanks"
+    "stop waiting, send a quick thanks",
+    "never say “sorry”, just thank",
+    "stop using english at work",
+    "never overdo, just one question",
+    "stop blaming yourself, try “otra vez”",
+    "never fear accents, say it your way"
   ],
-  "last_updated": "2026-06-04T16:21:16.395043"
+  "last_updated": "2026-06-04T17:46:27.094089"
 }
