@@ -6815,6 +6815,36 @@
       "spanish": "Nunca suenes perfecto, suena real",
       "category": "Courage",
       "generated_at": "2026-06-03T22:57:13.145791"
+    },
+    {
+      "english": "Stop underusing “gracias”, say it twice",
+      "spanish": "Deja de subestimar “gracias”, dilo dos veces",
+      "category": "Gratitude",
+      "generated_at": "2026-06-04T16:21:16.394985"
+    },
+    {
+      "english": "Never forget, thank them for effort",
+      "spanish": "Nunca olvides, da gracias por el esfuerzo",
+      "category": "Gratitude",
+      "generated_at": "2026-06-04T16:21:16.395006"
+    },
+    {
+      "english": "This is why “te lo agradezco” works",
+      "spanish": "Esto es por qué “te lo agradezco” funciona",
+      "category": "Gratitude",
+      "generated_at": "2026-06-04T16:21:16.395019"
+    },
+    {
+      "english": "The secret? Thank, then share a memory",
+      "spanish": "El secreto: agradece, luego comparte un recuerdo",
+      "category": "Gratitude",
+      "generated_at": "2026-06-04T16:21:16.395030"
+    },
+    {
+      "english": "Stop waiting, send a quick thanks",
+      "spanish": "No esperes, manda un gracias rápido",
+      "category": "Gratitude",
+      "generated_at": "2026-06-04T16:21:16.395041"
     }
   ],
   "used_english": [
@@ -7953,7 +7983,12 @@
     "this one phrase buys confidence",
     "stop translating, start narrating out loud",
     "the secret is tiny sentences today",
-    "never sound perfect, sound real"
+    "never sound perfect, sound real",
+    "stop underusing “gracias”, say it twice",
+    "never forget, thank them for effort",
+    "this is why “te lo agradezco” works",
+    "the secret? thank, then share a memory",
+    "stop waiting, send a quick thanks"
   ],
-  "last_updated": "2026-06-03T22:57:13.145803"
+  "last_updated": "2026-06-04T16:21:16.395043"
 }
