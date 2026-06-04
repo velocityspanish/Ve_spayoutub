@@ -6905,6 +6905,36 @@
       "spanish": "Deja de sobrepensar, di la emoción",
       "category": "Strength",
       "generated_at": "2026-06-04T19:23:38.701657"
+    },
+    {
+      "english": "Never rush, breathe, then say it",
+      "spanish": "Nunca corras, respira, y di",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-04T20:59:36.753549"
+    },
+    {
+      "english": "Stop training Spanish in silence",
+      "spanish": "Deja de practicar español en silencio",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-04T20:59:36.753574"
+    },
+    {
+      "english": "Never memorize, live the moment",
+      "spanish": "Nunca memorices, vive el momento",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-04T20:59:36.753587"
+    },
+    {
+      "english": "Stop overthinking, listen first, trust",
+      "spanish": "Deja de sobrepensar, escucha primero",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-04T20:59:36.753598"
+    },
+    {
+      "english": "Never fear “wrong”, choose curiosity",
+      "spanish": "No temas “mal”, elige curiosidad",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-04T20:59:36.753611"
     }
   ],
   "used_english": [
@@ -8058,7 +8088,12 @@
     "the secret, add one “by the way”",
     "stop hunting words, build chunks",
     "this tiny word boosts every sentence",
-    "stop overthinking, speak the feeling"
+    "stop overthinking, speak the feeling",
+    "never rush, breathe, then say it",
+    "stop training spanish in silence",
+    "never memorize, live the moment",
+    "stop overthinking, listen first, trust",
+    "never fear “wrong”, choose curiosity"
   ],
-  "last_updated": "2026-06-04T19:23:38.701659"
+  "last_updated": "2026-06-04T20:59:36.753613"
 }
