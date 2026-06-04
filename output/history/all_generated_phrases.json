@@ -6935,6 +6935,36 @@
       "spanish": "No temas “mal”, elige curiosidad",
       "category": "Mindfulness",
       "generated_at": "2026-06-04T20:59:36.753611"
+    },
+    {
+      "english": "This is why you’ll speak today",
+      "spanish": "Por eso hablarás hoy",
+      "category": "Courage",
+      "generated_at": "2026-06-04T22:15:56.604970"
+    },
+    {
+      "english": "The secret? Start with one clear word",
+      "spanish": "El secreto, empieza con una palabra",
+      "category": "Courage",
+      "generated_at": "2026-06-04T22:15:56.604993"
+    },
+    {
+      "english": "Stop overthinking, just say 'sí' first",
+      "spanish": "Deja de pensar, di 'sí' primero",
+      "category": "Courage",
+      "generated_at": "2026-06-04T22:15:56.605005"
+    },
+    {
+      "english": "Never apologize, just try again",
+      "spanish": "No pidas perdón, inténtalo otra vez",
+      "category": "Courage",
+      "generated_at": "2026-06-04T22:15:56.605018"
+    },
+    {
+      "english": "Your accent is your superpower",
+      "spanish": "Tu acento es tu superpoder",
+      "category": "Courage",
+      "generated_at": "2026-06-04T22:15:56.605030"
     }
   ],
   "used_english": [
@@ -8093,7 +8123,12 @@
     "stop training spanish in silence",
     "never memorize, live the moment",
     "stop overthinking, listen first, trust",
-    "never fear “wrong”, choose curiosity"
+    "never fear “wrong”, choose curiosity",
+    "this is why you’ll speak today",
+    "the secret? start with one clear word",
+    "stop overthinking, just say 'sí' first",
+    "never apologize, just try again",
+    "your accent is your superpower"
   ],
-  "last_updated": "2026-06-04T20:59:36.753613"
+  "last_updated": "2026-06-04T22:15:56.605032"
 }
