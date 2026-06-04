@@ -6875,6 +6875,36 @@
       "spanish": "No temas el acento, dilo a tu modo",
       "category": "Positive Life",
       "generated_at": "2026-06-04T17:46:27.094087"
+    },
+    {
+      "english": "Stop saying “hello” first, try this",
+      "spanish": "Deja de decir “hola” primero, prueba esto",
+      "category": "Strength",
+      "generated_at": "2026-06-04T19:23:38.701599"
+    },
+    {
+      "english": "The secret, add one “by the way”",
+      "spanish": "El secreto, mete un “por cierto”",
+      "category": "Strength",
+      "generated_at": "2026-06-04T19:23:38.701621"
+    },
+    {
+      "english": "Stop hunting words, build chunks",
+      "spanish": "Deja de buscar palabras, arma bloques",
+      "category": "Strength",
+      "generated_at": "2026-06-04T19:23:38.701634"
+    },
+    {
+      "english": "This tiny word boosts every sentence",
+      "spanish": "Esta palabra pequeña mejora todo",
+      "category": "Strength",
+      "generated_at": "2026-06-04T19:23:38.701646"
+    },
+    {
+      "english": "Stop overthinking, speak the feeling",
+      "spanish": "Deja de sobrepensar, di la emoción",
+      "category": "Strength",
+      "generated_at": "2026-06-04T19:23:38.701657"
     }
   ],
   "used_english": [
@@ -8023,7 +8053,12 @@
     "stop using english at work",
     "never overdo, just one question",
     "stop blaming yourself, try “otra vez”",
-    "never fear accents, say it your way"
+    "never fear accents, say it your way",
+    "stop saying “hello” first, try this",
+    "the secret, add one “by the way”",
+    "stop hunting words, build chunks",
+    "this tiny word boosts every sentence",
+    "stop overthinking, speak the feeling"
   ],
-  "last_updated": "2026-06-04T17:46:27.094089"
+  "last_updated": "2026-06-04T19:23:38.701659"
 }
