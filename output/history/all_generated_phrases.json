@@ -7025,6 +7025,36 @@
       "spanish": "No tengas miedo, los errores te enseñan",
       "category": "Wisdom",
       "generated_at": "2026-06-05T17:20:23.495374"
+    },
+    {
+      "english": "Stop practicing alone, call a human",
+      "spanish": "Deja de practicar solo, llama a alguien",
+      "category": "Patience",
+      "generated_at": "2026-06-05T18:58:00.098080"
+    },
+    {
+      "english": "The secret... use 'me' first",
+      "spanish": "El secreto... usa 'me' primero",
+      "category": "Patience",
+      "generated_at": "2026-06-05T18:58:00.098101"
+    },
+    {
+      "english": "This trick makes Spanish feel automatic",
+      "spanish": "Este truco hace el español automático",
+      "category": "Patience",
+      "generated_at": "2026-06-05T18:58:00.098114"
+    },
+    {
+      "english": "Stop translating, describe what you see",
+      "spanish": "No traduzcas, describe lo que ves",
+      "category": "Patience",
+      "generated_at": "2026-06-05T18:58:00.098125"
+    },
+    {
+      "english": "Never delay, answer with 'sí, pero'",
+      "spanish": "No esperes, responde con 'sí, pero'",
+      "category": "Patience",
+      "generated_at": "2026-06-05T18:58:00.098139"
     }
   ],
   "used_english": [
@@ -8198,7 +8228,12 @@
     "never ask 'why', ask 'how do you'",
     "never quit mid-story, keep going",
     "this is why natives reply kindly",
-    "never fear mistakes, they teach you"
+    "never fear mistakes, they teach you",
+    "stop practicing alone, call a human",
+    "the secret... use 'me' first",
+    "this trick makes spanish feel automatic",
+    "stop translating, describe what you see",
+    "never delay, answer with 'sí, pero'"
   ],
-  "last_updated": "2026-06-05T17:20:23.495376"
+  "last_updated": "2026-06-05T18:58:00.098141"
 }
