@@ -6965,6 +6965,36 @@
       "spanish": "Tu acento es tu superpoder",
       "category": "Courage",
       "generated_at": "2026-06-04T22:15:56.605030"
+    },
+    {
+      "english": "Stop translating, just paraphrase",
+      "spanish": "Deja de traducir, parafrasea",
+      "category": "Balance",
+      "generated_at": "2026-06-05T15:56:34.566712"
+    },
+    {
+      "english": "Stop overcorrecting, keep moving forward",
+      "spanish": "Deja de corregir, sigue",
+      "category": "Balance",
+      "generated_at": "2026-06-05T15:56:34.566731"
+    },
+    {
+      "english": "Never say “maybe”, say “I’m going”",
+      "spanish": "No digas “quizás”, di “voy”",
+      "category": "Balance",
+      "generated_at": "2026-06-05T15:56:34.566744"
+    },
+    {
+      "english": "This tiny pause fixes your flow",
+      "spanish": "Esa pausa arregla tu ritmo",
+      "category": "Balance",
+      "generated_at": "2026-06-05T15:56:34.566757"
+    },
+    {
+      "english": "Stop memorizing, start describing out loud",
+      "spanish": "Deja memorizar, describe en voz alta",
+      "category": "Balance",
+      "generated_at": "2026-06-05T15:56:34.566767"
     }
   ],
   "used_english": [
@@ -8128,7 +8158,12 @@
     "the secret? start with one clear word",
     "stop overthinking, just say 'sí' first",
     "never apologize, just try again",
-    "your accent is your superpower"
+    "your accent is your superpower",
+    "stop translating, just paraphrase",
+    "stop overcorrecting, keep moving forward",
+    "never say “maybe”, say “i’m going”",
+    "this tiny pause fixes your flow",
+    "stop memorizing, start describing out loud"
   ],
-  "last_updated": "2026-06-04T22:15:56.605032"
+  "last_updated": "2026-06-05T15:56:34.566769"
 }
