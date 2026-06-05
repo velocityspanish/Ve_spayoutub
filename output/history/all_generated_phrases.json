@@ -7085,6 +7085,36 @@
       "spanish": "Esta frase vuelve todo amigable",
       "category": "Creativity",
       "generated_at": "2026-06-05T20:49:40.119663"
+    },
+    {
+      "english": "Never fear 'again', try it",
+      "spanish": "Nunca temas 'otra vez', inténtalo",
+      "category": "Motivation",
+      "generated_at": "2026-06-05T22:08:37.596822"
+    },
+    {
+      "english": "The secret... ask, then pause",
+      "spanish": "El secreto... pregunta, y espera",
+      "category": "Motivation",
+      "generated_at": "2026-06-05T22:08:37.596841"
+    },
+    {
+      "english": "Never explain, just point",
+      "spanish": "Nunca expliques, solo señala",
+      "category": "Motivation",
+      "generated_at": "2026-06-05T22:08:37.596852"
+    },
+    {
+      "english": "Stop deleting, send the voice",
+      "spanish": "Deja de borrar, manda la voz",
+      "category": "Motivation",
+      "generated_at": "2026-06-05T22:08:37.596864"
+    },
+    {
+      "english": "Stop switching, keep one tense",
+      "spanish": "Deja de cambiar, usa un tiempo",
+      "category": "Motivation",
+      "generated_at": "2026-06-05T22:08:37.596876"
     }
   ],
   "used_english": [
@@ -8268,7 +8298,12 @@
     "the secret... practice one weekday sentence",
     "stop apologizing, say “gracias, listo”",
     "never quit, even after one mistake",
-    "this phrase turns awkward into friendly"
+    "this phrase turns awkward into friendly",
+    "never fear 'again', try it",
+    "the secret... ask, then pause",
+    "never explain, just point",
+    "stop deleting, send the voice",
+    "stop switching, keep one tense"
   ],
-  "last_updated": "2026-06-05T20:49:40.119664"
+  "last_updated": "2026-06-05T22:08:37.596878"
 }
