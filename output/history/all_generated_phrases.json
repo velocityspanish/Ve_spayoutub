@@ -7055,6 +7055,36 @@
       "spanish": "No esperes, responde con 'sí, pero'",
       "category": "Patience",
       "generated_at": "2026-06-05T18:58:00.098139"
+    },
+    {
+      "english": "The secret... end sentences with “¿no?”",
+      "spanish": "El secreto... termina con “¿no?”",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T20:49:40.119604"
+    },
+    {
+      "english": "The secret... practice one weekday sentence",
+      "spanish": "El secreto... practica una frase diaria",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T20:49:40.119627"
+    },
+    {
+      "english": "Stop apologizing, say “gracias, listo”",
+      "spanish": "Deja de disculparte, di “gracias, listo”",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T20:49:40.119639"
+    },
+    {
+      "english": "Never quit, even after one mistake",
+      "spanish": "No te rindas, ni con un error",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T20:49:40.119651"
+    },
+    {
+      "english": "This phrase turns awkward into friendly",
+      "spanish": "Esta frase vuelve todo amigable",
+      "category": "Creativity",
+      "generated_at": "2026-06-05T20:49:40.119663"
     }
   ],
   "used_english": [
@@ -8233,7 +8263,12 @@
     "the secret... use 'me' first",
     "this trick makes spanish feel automatic",
     "stop translating, describe what you see",
-    "never delay, answer with 'sí, pero'"
+    "never delay, answer with 'sí, pero'",
+    "the secret... end sentences with “¿no?”",
+    "the secret... practice one weekday sentence",
+    "stop apologizing, say “gracias, listo”",
+    "never quit, even after one mistake",
+    "this phrase turns awkward into friendly"
   ],
-  "last_updated": "2026-06-05T18:58:00.098141"
+  "last_updated": "2026-06-05T20:49:40.119664"
 }
