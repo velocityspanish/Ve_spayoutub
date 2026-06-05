@@ -6995,6 +6995,36 @@
       "spanish": "Deja memorizar, describe en voz alta",
       "category": "Balance",
       "generated_at": "2026-06-05T15:56:34.566767"
+    },
+    {
+      "english": "Never study alone, borrow momentum",
+      "spanish": "Nunca estudies solo, toma impulso",
+      "category": "Wisdom",
+      "generated_at": "2026-06-05T17:20:23.495315"
+    },
+    {
+      "english": "Never ask 'why', ask 'how do you'",
+      "spanish": "No preguntes 'por qué', pregunta 'cómo'",
+      "category": "Wisdom",
+      "generated_at": "2026-06-05T17:20:23.495336"
+    },
+    {
+      "english": "Never quit mid-story, keep going",
+      "spanish": "Nunca pares a mitad de historia, sigue",
+      "category": "Wisdom",
+      "generated_at": "2026-06-05T17:20:23.495350"
+    },
+    {
+      "english": "This is why natives reply kindly",
+      "spanish": "Por eso los nativos responden con cariño",
+      "category": "Wisdom",
+      "generated_at": "2026-06-05T17:20:23.495362"
+    },
+    {
+      "english": "Never fear mistakes, they teach you",
+      "spanish": "No tengas miedo, los errores te enseñan",
+      "category": "Wisdom",
+      "generated_at": "2026-06-05T17:20:23.495374"
     }
   ],
   "used_english": [
@@ -8163,7 +8193,12 @@
     "stop overcorrecting, keep moving forward",
     "never say “maybe”, say “i’m going”",
     "this tiny pause fixes your flow",
-    "stop memorizing, start describing out loud"
+    "stop memorizing, start describing out loud",
+    "never study alone, borrow momentum",
+    "never ask 'why', ask 'how do you'",
+    "never quit mid-story, keep going",
+    "this is why natives reply kindly",
+    "never fear mistakes, they teach you"
   ],
-  "last_updated": "2026-06-05T15:56:34.566769"
+  "last_updated": "2026-06-05T17:20:23.495376"
 }
