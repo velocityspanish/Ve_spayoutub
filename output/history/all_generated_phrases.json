@@ -7235,6 +7235,36 @@
       "spanish": "Deja de pensar en inglés, habla español",
       "category": "Wisdom",
       "generated_at": "2026-06-06T20:12:50.234223"
+    },
+    {
+      "english": "Stop freezing, say “tranquilo” first",
+      "spanish": "Deja de congelarte, di “tranquilo” primero",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T21:54:23.361428"
+    },
+    {
+      "english": "Never text “hey”, ask this",
+      "spanish": "Nunca mandes “hey”, pregunta esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T21:54:23.361453"
+    },
+    {
+      "english": "The secret? Laugh together, always",
+      "spanish": "El secreto, reír juntos, siempre",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T21:54:23.361478"
+    },
+    {
+      "english": "Never dodge, say “cuéntame” today",
+      "spanish": "Nunca te evadas, di “cuéntame” hoy",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T21:54:23.361492"
+    },
+    {
+      "english": "Stop complaining, swap in this",
+      "spanish": "Deja de quejarte, cambia por esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T21:54:23.361505"
     }
   ],
   "used_english": [
@@ -8443,7 +8473,12 @@
     "never study grammar first, listen",
     "stop chasing perfect, chase readable",
     "never panic, use 'estoy bien'",
-    "stop thinking in english, speak spanish"
+    "stop thinking in english, speak spanish",
+    "stop freezing, say “tranquilo” first",
+    "never text “hey”, ask this",
+    "the secret? laugh together, always",
+    "never dodge, say “cuéntame” today",
+    "stop complaining, swap in this"
   ],
-  "last_updated": "2026-06-06T20:12:50.234224"
+  "last_updated": "2026-06-06T21:54:23.361507"
 }
