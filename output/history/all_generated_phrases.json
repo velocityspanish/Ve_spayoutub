@@ -7175,6 +7175,36 @@
       "spanish": "Deja la perfección, elige claridad",
       "category": "Mindfulness",
       "generated_at": "2026-06-06T16:06:29.034428"
+    },
+    {
+      "english": "Never say “thanks later”, say this",
+      "spanish": "Nunca digas “gracias después”, di esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T18:05:16.873798"
+    },
+    {
+      "english": "This is why you’ll sound friendly",
+      "spanish": "Esto es por qué sonarás amable",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T18:05:16.873818"
+    },
+    {
+      "english": "The secret? Speak, then smile",
+      "spanish": "El secreto, habla y sonríe",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T18:05:16.873831"
+    },
+    {
+      "english": "Never fear awkward, use “¿y tú?”",
+      "spanish": "Nunca temas lo raro, usa “¿y tú?”",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T18:05:16.873844"
+    },
+    {
+      "english": "Stop translating, build a tiny bridge",
+      "spanish": "Deja de traducir, crea un puente",
+      "category": "Friendship",
+      "generated_at": "2026-06-06T18:05:16.873856"
     }
   ],
   "used_english": [
@@ -8373,7 +8403,12 @@
     "the secret: say one sentence, repeat",
     "stop self-judging, talk anyway today",
     "this tiny pause makes you fluent",
-    "stop chasing perfection, choose clarity"
+    "stop chasing perfection, choose clarity",
+    "never say “thanks later”, say this",
+    "this is why you’ll sound friendly",
+    "the secret? speak, then smile",
+    "never fear awkward, use “¿y tú?”",
+    "stop translating, build a tiny bridge"
   ],
-  "last_updated": "2026-06-06T16:06:29.034430"
+  "last_updated": "2026-06-06T18:05:16.873857"
 }
