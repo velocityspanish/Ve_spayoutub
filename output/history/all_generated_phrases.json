@@ -7145,6 +7145,36 @@
       "spanish": "Deja elegir palabras, usa frases listas",
       "category": "Inspiration",
       "generated_at": "2026-06-06T14:43:23.846195"
+    },
+    {
+      "english": "Stop rushing, feel the breath first",
+      "spanish": "Deja de correr, siente la respiración primero",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-06T16:06:29.034371"
+    },
+    {
+      "english": "The secret: say one sentence, repeat",
+      "spanish": "El secreto: di una frase, repite",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-06T16:06:29.034392"
+    },
+    {
+      "english": "Stop self-judging, talk anyway today",
+      "spanish": "Deja de juzgarte, habla igual hoy",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-06T16:06:29.034405"
+    },
+    {
+      "english": "This tiny pause makes you fluent",
+      "spanish": "Esta pausa te vuelve fluido",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-06T16:06:29.034417"
+    },
+    {
+      "english": "Stop chasing perfection, choose clarity",
+      "spanish": "Deja la perfección, elige claridad",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-06T16:06:29.034428"
     }
   ],
   "used_english": [
@@ -8338,7 +8368,12 @@
     "stop perfecting, start storytelling today",
     "never translate—summarize in your own words",
     "this one question boosts every conversation",
-    "stop choosing words, use ready phrases"
+    "stop choosing words, use ready phrases",
+    "stop rushing, feel the breath first",
+    "the secret: say one sentence, repeat",
+    "stop self-judging, talk anyway today",
+    "this tiny pause makes you fluent",
+    "stop chasing perfection, choose clarity"
   ],
-  "last_updated": "2026-06-06T14:43:23.846197"
+  "last_updated": "2026-06-06T16:06:29.034430"
 }
