@@ -7115,6 +7115,36 @@
       "spanish": "Deja de cambiar, usa un tiempo",
       "category": "Motivation",
       "generated_at": "2026-06-05T22:08:37.596876"
+    },
+    {
+      "english": "Never say “I’m trying,” say this",
+      "spanish": "Nunca digas “estoy intentando”, di esto",
+      "category": "Inspiration",
+      "generated_at": "2026-06-06T14:43:23.846141"
+    },
+    {
+      "english": "Stop perfecting, start storytelling today",
+      "spanish": "Deja de perfeccionar, cuenta historias hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-06-06T14:43:23.846161"
+    },
+    {
+      "english": "Never translate—summarize in your own words",
+      "spanish": "Nunca traduzcas, resume con tus palabras",
+      "category": "Inspiration",
+      "generated_at": "2026-06-06T14:43:23.846173"
+    },
+    {
+      "english": "This one question boosts every conversation",
+      "spanish": "Esta pregunta mejora cualquier conversación",
+      "category": "Inspiration",
+      "generated_at": "2026-06-06T14:43:23.846184"
+    },
+    {
+      "english": "Stop choosing words, use ready phrases",
+      "spanish": "Deja elegir palabras, usa frases listas",
+      "category": "Inspiration",
+      "generated_at": "2026-06-06T14:43:23.846195"
     }
   ],
   "used_english": [
@@ -8303,7 +8333,12 @@
     "the secret... ask, then pause",
     "never explain, just point",
     "stop deleting, send the voice",
-    "stop switching, keep one tense"
+    "stop switching, keep one tense",
+    "never say “i’m trying,” say this",
+    "stop perfecting, start storytelling today",
+    "never translate—summarize in your own words",
+    "this one question boosts every conversation",
+    "stop choosing words, use ready phrases"
   ],
-  "last_updated": "2026-06-05T22:08:37.596878"
+  "last_updated": "2026-06-06T14:43:23.846197"
 }
