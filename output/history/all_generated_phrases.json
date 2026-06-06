@@ -7205,6 +7205,36 @@
       "spanish": "Deja de traducir, crea un puente",
       "category": "Friendship",
       "generated_at": "2026-06-06T18:05:16.873856"
+    },
+    {
+      "english": "Stop memorizing, start collecting sentences",
+      "spanish": "Deja de memorizar, empieza a coleccionar frases",
+      "category": "Wisdom",
+      "generated_at": "2026-06-06T20:12:50.234162"
+    },
+    {
+      "english": "Never study grammar first, listen",
+      "spanish": "Nunca estudies gramática primero, escucha",
+      "category": "Wisdom",
+      "generated_at": "2026-06-06T20:12:50.234185"
+    },
+    {
+      "english": "Stop chasing perfect, chase readable",
+      "spanish": "Deja de buscar perfecto, busca claro",
+      "category": "Wisdom",
+      "generated_at": "2026-06-06T20:12:50.234198"
+    },
+    {
+      "english": "Never panic, use 'Estoy bien'",
+      "spanish": "Nunca entres en pánico, usa «Estoy bien»",
+      "category": "Wisdom",
+      "generated_at": "2026-06-06T20:12:50.234211"
+    },
+    {
+      "english": "Stop thinking in English, speak Spanish",
+      "spanish": "Deja de pensar en inglés, habla español",
+      "category": "Wisdom",
+      "generated_at": "2026-06-06T20:12:50.234223"
     }
   ],
   "used_english": [
@@ -8408,7 +8438,12 @@
     "this is why you’ll sound friendly",
     "the secret? speak, then smile",
     "never fear awkward, use “¿y tú?”",
-    "stop translating, build a tiny bridge"
+    "stop translating, build a tiny bridge",
+    "stop memorizing, start collecting sentences",
+    "never study grammar first, listen",
+    "stop chasing perfect, chase readable",
+    "never panic, use 'estoy bien'",
+    "stop thinking in english, speak spanish"
   ],
-  "last_updated": "2026-06-06T18:05:16.873857"
+  "last_updated": "2026-06-06T20:12:50.234224"
 }
