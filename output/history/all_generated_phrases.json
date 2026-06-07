@@ -7295,6 +7295,36 @@
       "spanish": "No estudies “temas”, estudia preguntas",
       "category": "Purpose",
       "generated_at": "2026-06-07T14:54:26.056668"
+    },
+    {
+      "english": "Stop using silence, say “por favor”",
+      "spanish": "Deja el silencio, di “por favor”",
+      "category": "Kindness",
+      "generated_at": "2026-06-07T16:18:26.472884"
+    },
+    {
+      "english": "Stop being shy, offer help first",
+      "spanish": "Deja la timidez, ofrece ayuda primero",
+      "category": "Kindness",
+      "generated_at": "2026-06-07T16:18:26.472907"
+    },
+    {
+      "english": "Never forget names, it melts hearts",
+      "spanish": "No olvides nombres, derrites corazones",
+      "category": "Kindness",
+      "generated_at": "2026-06-07T16:18:26.472921"
+    },
+    {
+      "english": "This tiny phrase saves friendships",
+      "spanish": "Esta frase corta salva amistades",
+      "category": "Kindness",
+      "generated_at": "2026-06-07T16:18:26.472934"
+    },
+    {
+      "english": "Stop correcting, encourage with “bien”",
+      "spanish": "No corrijas, anima con “bien”",
+      "category": "Kindness",
+      "generated_at": "2026-06-07T16:18:26.472946"
     }
   ],
   "used_english": [
@@ -8513,7 +8543,12 @@
     "never wait for perfection, start now",
     "stop googling, ask a real human",
     "your brain loves patterns, use this",
-    "never study “topics”, study questions"
+    "never study “topics”, study questions",
+    "stop using silence, say “por favor”",
+    "stop being shy, offer help first",
+    "never forget names, it melts hearts",
+    "this tiny phrase saves friendships",
+    "stop correcting, encourage with “bien”"
   ],
-  "last_updated": "2026-06-07T14:54:26.056670"
+  "last_updated": "2026-06-07T16:18:26.472948"
 }
