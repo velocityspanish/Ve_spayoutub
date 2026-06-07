@@ -7385,6 +7385,36 @@
       "spanish": "Una palabra gana confianza",
       "category": "Creativity",
       "generated_at": "2026-06-07T20:15:51.554889"
+    },
+    {
+      "english": "Never quit before the sentence lands",
+      "spanish": "Nunca te rindas, antes de que llegue",
+      "category": "Perseverance",
+      "generated_at": "2026-06-07T21:57:10.432338"
+    },
+    {
+      "english": "Stop waiting, practice with strangers today",
+      "spanish": "Deja de esperar, practica con extraños",
+      "category": "Perseverance",
+      "generated_at": "2026-06-07T21:57:10.432356"
+    },
+    {
+      "english": "What nobody tells you, consistency wins",
+      "spanish": "Lo que nadie te dice, gana la constancia",
+      "category": "Perseverance",
+      "generated_at": "2026-06-07T21:57:10.432368"
+    },
+    {
+      "english": "The secret, start answering with “sí”",
+      "spanish": "El secreto, responde con “sí” primero",
+      "category": "Perseverance",
+      "generated_at": "2026-06-07T21:57:10.432381"
+    },
+    {
+      "english": "Never study longer, speak sooner",
+      "spanish": "Nunca estudies más, habla antes",
+      "category": "Perseverance",
+      "generated_at": "2026-06-07T21:57:10.432393"
     }
   ],
   "used_english": [
@@ -8618,7 +8648,12 @@
     "the secret, use “quiero” now",
     "never learn perfect, learn fast",
     "stop over-explaining, say less",
-    "this one word earns instant trust"
+    "this one word earns instant trust",
+    "never quit before the sentence lands",
+    "stop waiting, practice with strangers today",
+    "what nobody tells you, consistency wins",
+    "the secret, start answering with “sí”",
+    "never study longer, speak sooner"
   ],
-  "last_updated": "2026-06-07T20:15:51.554891"
+  "last_updated": "2026-06-07T21:57:10.432395"
 }
