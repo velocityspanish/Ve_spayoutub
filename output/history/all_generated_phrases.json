@@ -7325,6 +7325,36 @@
       "spanish": "No corrijas, anima con “bien”",
       "category": "Kindness",
       "generated_at": "2026-06-07T16:18:26.472946"
+    },
+    {
+      "english": "Stop translating, listen, then answer",
+      "spanish": "Deja traducir, escucha, y responde",
+      "category": "Joy",
+      "generated_at": "2026-06-07T18:04:22.784035"
+    },
+    {
+      "english": "Never quit after one “weird” word",
+      "spanish": "No te rindas por una palabra rara",
+      "category": "Joy",
+      "generated_at": "2026-06-07T18:04:22.784058"
+    },
+    {
+      "english": "Stop perfecting, just start speaking",
+      "spanish": "Deja perfeccionar, empieza a hablar",
+      "category": "Joy",
+      "generated_at": "2026-06-07T18:04:22.784072"
+    },
+    {
+      "english": "Never learn alone, voice-note someone",
+      "spanish": "Nunca aprendas solo, voz a alguien",
+      "category": "Joy",
+      "generated_at": "2026-06-07T18:04:22.784084"
+    },
+    {
+      "english": "Stop hunting verbs, use “tener”",
+      "spanish": "Deja buscar verbos, usa “tener”",
+      "category": "Joy",
+      "generated_at": "2026-06-07T18:04:22.784098"
     }
   ],
   "used_english": [
@@ -8548,7 +8578,12 @@
     "stop being shy, offer help first",
     "never forget names, it melts hearts",
     "this tiny phrase saves friendships",
-    "stop correcting, encourage with “bien”"
+    "stop correcting, encourage with “bien”",
+    "stop translating, listen, then answer",
+    "never quit after one “weird” word",
+    "stop perfecting, just start speaking",
+    "never learn alone, voice-note someone",
+    "stop hunting verbs, use “tener”"
   ],
-  "last_updated": "2026-06-07T16:18:26.472948"
+  "last_updated": "2026-06-07T18:04:22.784099"
 }
