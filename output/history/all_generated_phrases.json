@@ -7265,6 +7265,36 @@
       "spanish": "Deja de quejarte, cambia por esto",
       "category": "Friendship",
       "generated_at": "2026-06-06T21:54:23.361505"
+    },
+    {
+      "english": "What nobody tells you, you’re closer",
+      "spanish": "Lo que nadie te dice, estás más cerca",
+      "category": "Purpose",
+      "generated_at": "2026-06-07T14:54:26.056606"
+    },
+    {
+      "english": "Never wait for perfection, start now",
+      "spanish": "Nunca esperes perfección, empieza ya",
+      "category": "Purpose",
+      "generated_at": "2026-06-07T14:54:26.056628"
+    },
+    {
+      "english": "Stop Googling, ask a real human",
+      "spanish": "Deja de buscar, pregunta a alguien",
+      "category": "Purpose",
+      "generated_at": "2026-06-07T14:54:26.056643"
+    },
+    {
+      "english": "Your brain loves patterns, use this",
+      "spanish": "A tu cerebro le encantan patrones, usa esto",
+      "category": "Purpose",
+      "generated_at": "2026-06-07T14:54:26.056656"
+    },
+    {
+      "english": "Never study “topics”, study questions",
+      "spanish": "No estudies “temas”, estudia preguntas",
+      "category": "Purpose",
+      "generated_at": "2026-06-07T14:54:26.056668"
     }
   ],
   "used_english": [
@@ -8478,7 +8508,12 @@
     "never text “hey”, ask this",
     "the secret? laugh together, always",
     "never dodge, say “cuéntame” today",
-    "stop complaining, swap in this"
+    "stop complaining, swap in this",
+    "what nobody tells you, you’re closer",
+    "never wait for perfection, start now",
+    "stop googling, ask a real human",
+    "your brain loves patterns, use this",
+    "never study “topics”, study questions"
   ],
-  "last_updated": "2026-06-06T21:54:23.361507"
+  "last_updated": "2026-06-07T14:54:26.056670"
 }
