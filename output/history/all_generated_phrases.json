@@ -7355,6 +7355,36 @@
       "spanish": "Deja buscar verbos, usa “tener”",
       "category": "Joy",
       "generated_at": "2026-06-07T18:04:22.784098"
+    },
+    {
+      "english": "Stop saying “thanks” too late",
+      "spanish": "Deja de decir “gracias” tarde",
+      "category": "Creativity",
+      "generated_at": "2026-06-07T20:15:51.554827"
+    },
+    {
+      "english": "The secret, use “quiero” now",
+      "spanish": "El secreto, usa “quiero” ya",
+      "category": "Creativity",
+      "generated_at": "2026-06-07T20:15:51.554850"
+    },
+    {
+      "english": "Never learn perfect, learn fast",
+      "spanish": "No aprendas perfecto, aprende rápido",
+      "category": "Creativity",
+      "generated_at": "2026-06-07T20:15:51.554864"
+    },
+    {
+      "english": "Stop over-explaining, say less",
+      "spanish": "Deja de explicar tanto, di menos",
+      "category": "Creativity",
+      "generated_at": "2026-06-07T20:15:51.554877"
+    },
+    {
+      "english": "This one word earns instant trust",
+      "spanish": "Una palabra gana confianza",
+      "category": "Creativity",
+      "generated_at": "2026-06-07T20:15:51.554889"
     }
   ],
   "used_english": [
@@ -8583,7 +8613,12 @@
     "never quit after one “weird” word",
     "stop perfecting, just start speaking",
     "never learn alone, voice-note someone",
-    "stop hunting verbs, use “tener”"
+    "stop hunting verbs, use “tener”",
+    "stop saying “thanks” too late",
+    "the secret, use “quiero” now",
+    "never learn perfect, learn fast",
+    "stop over-explaining, say less",
+    "this one word earns instant trust"
   ],
-  "last_updated": "2026-06-07T18:04:22.784099"
+  "last_updated": "2026-06-07T20:15:51.554891"
 }
