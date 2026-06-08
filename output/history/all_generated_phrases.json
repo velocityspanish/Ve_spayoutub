@@ -7535,6 +7535,36 @@
       "spanish": "Este hábito sube tu hablar rápido",
       "category": "Growth",
       "generated_at": "2026-06-08T21:12:42.657504"
+    },
+    {
+      "english": "Never start with 'because,' use this",
+      "spanish": "Nunca empieces con 'porque', usa esto",
+      "category": "Creativity",
+      "generated_at": "2026-06-08T22:18:30.951097"
+    },
+    {
+      "english": "Never memorize, steal these patterns",
+      "spanish": "No memorices, roba estos patrones",
+      "category": "Creativity",
+      "generated_at": "2026-06-08T22:18:30.951116"
+    },
+    {
+      "english": "Stop searching, answer with a feeling",
+      "spanish": "Deja de buscar, responde con una emoción",
+      "category": "Creativity",
+      "generated_at": "2026-06-08T22:18:30.951126"
+    },
+    {
+      "english": "Stop perfecting, just say 'así'",
+      "spanish": "Deja de perfeccionar, solo di 'así'",
+      "category": "Creativity",
+      "generated_at": "2026-06-08T22:18:30.951137"
+    },
+    {
+      "english": "The secret? Use one question daily",
+      "spanish": "El secreto: usa una pregunta diaria",
+      "category": "Creativity",
+      "generated_at": "2026-06-08T22:18:30.951148"
     }
   ],
   "used_english": [
@@ -8793,7 +8823,12 @@
     "the secret... ask back, instantly",
     "never overthink endings, just finish",
     "stop 'learning', start using right now",
-    "this tiny habit boosts speaking fast"
+    "this tiny habit boosts speaking fast",
+    "never start with 'because,' use this",
+    "never memorize, steal these patterns",
+    "stop searching, answer with a feeling",
+    "stop perfecting, just say 'así'",
+    "the secret? use one question daily"
   ],
-  "last_updated": "2026-06-08T21:12:42.657506"
+  "last_updated": "2026-06-08T22:18:30.951149"
 }
