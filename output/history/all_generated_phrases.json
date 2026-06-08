@@ -7505,6 +7505,36 @@
       "spanish": "No preguntes “¿cómo?”, pregunta “¿qué haces?”",
       "category": "Patience",
       "generated_at": "2026-06-08T19:22:05.861930"
+    },
+    {
+      "english": "Stop avoiding small talk, say this",
+      "spanish": "Deja el small talk, di esto",
+      "category": "Growth",
+      "generated_at": "2026-06-08T21:12:42.657443"
+    },
+    {
+      "english": "The secret... ask back, instantly",
+      "spanish": "El secreto... pregunta de vuelta, ya",
+      "category": "Growth",
+      "generated_at": "2026-06-08T21:12:42.657467"
+    },
+    {
+      "english": "Never overthink endings, just finish",
+      "spanish": "No sobrepienses finales, termina",
+      "category": "Growth",
+      "generated_at": "2026-06-08T21:12:42.657480"
+    },
+    {
+      "english": "Stop 'learning', start using right now",
+      "spanish": "Deja de 'aprender', úsalo ahorita",
+      "category": "Growth",
+      "generated_at": "2026-06-08T21:12:42.657492"
+    },
+    {
+      "english": "This tiny habit boosts speaking fast",
+      "spanish": "Este hábito sube tu hablar rápido",
+      "category": "Growth",
+      "generated_at": "2026-06-08T21:12:42.657504"
     }
   ],
   "used_english": [
@@ -8758,7 +8788,12 @@
     "never say “i don't know”, try this",
     "stop switching, say one simple idea",
     "stop perfect tense, just speak",
-    "never ask “how?”, ask “what do you do”"
+    "never ask “how?”, ask “what do you do”",
+    "stop avoiding small talk, say this",
+    "the secret... ask back, instantly",
+    "never overthink endings, just finish",
+    "stop 'learning', start using right now",
+    "this tiny habit boosts speaking fast"
   ],
-  "last_updated": "2026-06-08T19:22:05.861932"
+  "last_updated": "2026-06-08T21:12:42.657506"
 }
