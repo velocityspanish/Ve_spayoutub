@@ -7415,6 +7415,36 @@
       "spanish": "Nunca estudies más, habla antes",
       "category": "Perseverance",
       "generated_at": "2026-06-07T21:57:10.432393"
+    },
+    {
+      "english": "Stop practicing, start performing today",
+      "spanish": "Deja de practicar, actúa hoy",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T16:50:47.172322"
+    },
+    {
+      "english": "Stop sounding careful, sound human",
+      "spanish": "Deja de sonar cuidadoso, sé humano",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T16:50:47.172345"
+    },
+    {
+      "english": "Stop rehearsing, answer anyway",
+      "spanish": "No ensayes, responde igual",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T16:50:47.172358"
+    },
+    {
+      "english": "Never feel behind, start speaking",
+      "spanish": "No te sientas atrás, habla ya",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T16:50:47.172371"
+    },
+    {
+      "english": "This changes your confidence fast",
+      "spanish": "Esto cambia tu confianza rápido",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T16:50:47.172383"
     }
   ],
   "used_english": [
@@ -8653,7 +8683,12 @@
     "stop waiting, practice with strangers today",
     "what nobody tells you, consistency wins",
     "the secret, start answering with “sí”",
-    "never study longer, speak sooner"
+    "never study longer, speak sooner",
+    "stop practicing, start performing today",
+    "stop sounding careful, sound human",
+    "stop rehearsing, answer anyway",
+    "never feel behind, start speaking",
+    "this changes your confidence fast"
   ],
-  "last_updated": "2026-06-07T21:57:10.432395"
+  "last_updated": "2026-06-08T16:50:47.172385"
 }
