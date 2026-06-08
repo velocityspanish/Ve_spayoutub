@@ -7445,6 +7445,36 @@
       "spanish": "Esto cambia tu confianza rápido",
       "category": "Confidence",
       "generated_at": "2026-06-08T16:50:47.172383"
+    },
+    {
+      "english": "Stop learning alone, start sharing today",
+      "spanish": "Deja aprender solo, comparte hoy",
+      "category": "Motivation",
+      "generated_at": "2026-06-08T17:55:08.812537"
+    },
+    {
+      "english": "Never wait for motivation, act now",
+      "spanish": "No esperes motivación, actúa ya",
+      "category": "Motivation",
+      "generated_at": "2026-06-08T17:55:08.812557"
+    },
+    {
+      "english": "Stop sounding perfect, sound present",
+      "spanish": "Deja sonar perfecto, suena presente",
+      "category": "Motivation",
+      "generated_at": "2026-06-08T17:55:08.812570"
+    },
+    {
+      "english": "Never explain, just answer quickly",
+      "spanish": "No expliques, responde rápido",
+      "category": "Motivation",
+      "generated_at": "2026-06-08T17:55:08.812582"
+    },
+    {
+      "english": "This tiny goal makes you unstoppable",
+      "spanish": "Este objetivo te hace imparable",
+      "category": "Motivation",
+      "generated_at": "2026-06-08T17:55:08.812596"
     }
   ],
   "used_english": [
@@ -8688,7 +8718,12 @@
     "stop sounding careful, sound human",
     "stop rehearsing, answer anyway",
     "never feel behind, start speaking",
-    "this changes your confidence fast"
+    "this changes your confidence fast",
+    "stop learning alone, start sharing today",
+    "never wait for motivation, act now",
+    "stop sounding perfect, sound present",
+    "never explain, just answer quickly",
+    "this tiny goal makes you unstoppable"
   ],
-  "last_updated": "2026-06-08T16:50:47.172385"
+  "last_updated": "2026-06-08T17:55:08.812598"
 }
