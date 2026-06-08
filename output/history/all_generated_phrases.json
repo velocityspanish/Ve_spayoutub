@@ -7475,6 +7475,36 @@
       "spanish": "Este objetivo te hace imparable",
       "category": "Motivation",
       "generated_at": "2026-06-08T17:55:08.812596"
+    },
+    {
+      "english": "Stop translating, start reacting instantly",
+      "spanish": "Deja de traducir, reacciona al instante",
+      "category": "Patience",
+      "generated_at": "2026-06-08T19:22:05.861870"
+    },
+    {
+      "english": "Never say “I don't know”, try this",
+      "spanish": "Nunca digas “no sé”, usa esto",
+      "category": "Patience",
+      "generated_at": "2026-06-08T19:22:05.861892"
+    },
+    {
+      "english": "Stop switching, say one simple idea",
+      "spanish": "Deja cambiar, di una idea simple",
+      "category": "Patience",
+      "generated_at": "2026-06-08T19:22:05.861906"
+    },
+    {
+      "english": "Stop perfect tense, just speak",
+      "spanish": "Deja el perfecto, solo habla",
+      "category": "Patience",
+      "generated_at": "2026-06-08T19:22:05.861918"
+    },
+    {
+      "english": "Never ask “how?”, ask “what do you do”",
+      "spanish": "No preguntes “¿cómo?”, pregunta “¿qué haces?”",
+      "category": "Patience",
+      "generated_at": "2026-06-08T19:22:05.861930"
     }
   ],
   "used_english": [
@@ -8723,7 +8753,12 @@
     "never wait for motivation, act now",
     "stop sounding perfect, sound present",
     "never explain, just answer quickly",
-    "this tiny goal makes you unstoppable"
+    "this tiny goal makes you unstoppable",
+    "stop translating, start reacting instantly",
+    "never say “i don't know”, try this",
+    "stop switching, say one simple idea",
+    "stop perfect tense, just speak",
+    "never ask “how?”, ask “what do you do”"
   ],
-  "last_updated": "2026-06-08T17:55:08.812598"
+  "last_updated": "2026-06-08T19:22:05.861932"
 }
