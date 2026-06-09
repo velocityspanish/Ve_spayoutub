@@ -7625,6 +7625,36 @@
       "spanish": "El secreto... agradece primero, luego explica",
       "category": "Gratitude",
       "generated_at": "2026-06-09T17:25:17.818240"
+    },
+    {
+      "english": "Stop hiding, say what you want",
+      "spanish": "Deja de esconderte, di lo que quieres",
+      "category": "Courage",
+      "generated_at": "2026-06-09T19:13:14.285887"
+    },
+    {
+      "english": "Never use “maybe”, choose certainty",
+      "spanish": "Nunca digas “quizás”, elige certeza",
+      "category": "Courage",
+      "generated_at": "2026-06-09T19:13:14.285912"
+    },
+    {
+      "english": "Stop overthinking, just add “pero”",
+      "spanish": "Deja de pensar, solo di “pero”",
+      "category": "Courage",
+      "generated_at": "2026-06-09T19:13:14.285926"
+    },
+    {
+      "english": "Never explain, just give one example",
+      "spanish": "No expliques, solo un ejemplo",
+      "category": "Courage",
+      "generated_at": "2026-06-09T19:13:14.285939"
+    },
+    {
+      "english": "The secret, use “exacto” once",
+      "spanish": "El secreto, usa “exacto” una vez",
+      "category": "Courage",
+      "generated_at": "2026-06-09T19:13:14.285953"
     }
   ],
   "used_english": [
@@ -8898,7 +8928,12 @@
     "never fear “por qué” questions",
     "the secret... say it with warmth",
     "never rush, let “muchas” breathe",
-    "the secret... thank first, then explain"
+    "the secret... thank first, then explain",
+    "stop hiding, say what you want",
+    "never use “maybe”, choose certainty",
+    "stop overthinking, just add “pero”",
+    "never explain, just give one example",
+    "the secret, use “exacto” once"
   ],
-  "last_updated": "2026-06-09T17:25:17.818242"
+  "last_updated": "2026-06-09T19:13:14.285954"
 }
