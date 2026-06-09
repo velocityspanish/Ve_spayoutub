@@ -7595,6 +7595,36 @@
       "spanish": "No los dejes en duda, usa esto",
       "category": "Friendship",
       "generated_at": "2026-06-09T15:58:04.082604"
+    },
+    {
+      "english": "Stop guessing, say “Estoy bien, gracias”",
+      "spanish": "Deja de adivinar, di “Estoy bien, gracias”",
+      "category": "Gratitude",
+      "generated_at": "2026-06-09T17:25:17.818177"
+    },
+    {
+      "english": "Never fear “por qué” questions",
+      "spanish": "Nunca temas preguntas con “por qué”",
+      "category": "Gratitude",
+      "generated_at": "2026-06-09T17:25:17.818200"
+    },
+    {
+      "english": "The secret... say it with warmth",
+      "spanish": "El secreto... dilo con calidez",
+      "category": "Gratitude",
+      "generated_at": "2026-06-09T17:25:17.818214"
+    },
+    {
+      "english": "Never rush, let “muchas” breathe",
+      "spanish": "No corras, deja respirar “muchas”",
+      "category": "Gratitude",
+      "generated_at": "2026-06-09T17:25:17.818228"
+    },
+    {
+      "english": "The secret... thank first, then explain",
+      "spanish": "El secreto... agradece primero, luego explica",
+      "category": "Gratitude",
+      "generated_at": "2026-06-09T17:25:17.818240"
     }
   ],
   "used_english": [
@@ -8863,7 +8893,12 @@
     "never say 'who cares'—try this",
     "the secret to friend energy: 'vamos'",
     "stop ghosting, answer with 'curious!'",
-    "never leave them guessing, add this"
+    "never leave them guessing, add this",
+    "stop guessing, say “estoy bien, gracias”",
+    "never fear “por qué” questions",
+    "the secret... say it with warmth",
+    "never rush, let “muchas” breathe",
+    "the secret... thank first, then explain"
   ],
-  "last_updated": "2026-06-09T15:58:04.082606"
+  "last_updated": "2026-06-09T17:25:17.818242"
 }
