@@ -7565,6 +7565,36 @@
       "spanish": "El secreto: usa una pregunta diaria",
       "category": "Creativity",
       "generated_at": "2026-06-08T22:18:30.951148"
+    },
+    {
+      "english": "Stop saying sorry, say 'right on!'",
+      "spanish": "No digas perdón, ¡di 'qué bien!'",
+      "category": "Friendship",
+      "generated_at": "2026-06-09T15:58:04.082537"
+    },
+    {
+      "english": "Never say 'who cares'—try this",
+      "spanish": "Nunca digas 'a mí qué'—di esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-09T15:58:04.082563"
+    },
+    {
+      "english": "The secret to friend energy: 'vamos'",
+      "spanish": "El secreto, energía amiga: 'vamos'",
+      "category": "Friendship",
+      "generated_at": "2026-06-09T15:58:04.082577"
+    },
+    {
+      "english": "Stop ghosting, answer with 'curious!'",
+      "spanish": "No desaparezcas, responde con 'qué curioso!'",
+      "category": "Friendship",
+      "generated_at": "2026-06-09T15:58:04.082590"
+    },
+    {
+      "english": "Never leave them guessing, add this",
+      "spanish": "No los dejes en duda, usa esto",
+      "category": "Friendship",
+      "generated_at": "2026-06-09T15:58:04.082604"
     }
   ],
   "used_english": [
@@ -8828,7 +8858,12 @@
     "never memorize, steal these patterns",
     "stop searching, answer with a feeling",
     "stop perfecting, just say 'así'",
-    "the secret? use one question daily"
+    "the secret? use one question daily",
+    "stop saying sorry, say 'right on!'",
+    "never say 'who cares'—try this",
+    "the secret to friend energy: 'vamos'",
+    "stop ghosting, answer with 'curious!'",
+    "never leave them guessing, add this"
   ],
-  "last_updated": "2026-06-08T22:18:30.951149"
+  "last_updated": "2026-06-09T15:58:04.082606"
 }
