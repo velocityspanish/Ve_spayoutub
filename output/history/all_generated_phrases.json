@@ -7685,6 +7685,36 @@
       "spanish": "Lo que nadie te dice, suena valiente",
       "category": "Self Improvement",
       "generated_at": "2026-06-09T21:02:41.638854"
+    },
+    {
+      "english": "Stop translating, shadow this",
+      "spanish": "No traduzcas, repite a la sombra",
+      "category": "Growth",
+      "generated_at": "2026-06-09T22:17:30.898815"
+    },
+    {
+      "english": "Never skip these 3 words",
+      "spanish": "Nunca saltes estas tres palabras",
+      "category": "Growth",
+      "generated_at": "2026-06-09T22:17:30.898834"
+    },
+    {
+      "english": "The secret: ask, then act",
+      "spanish": "El secreto, pregunta y actúa",
+      "category": "Growth",
+      "generated_at": "2026-06-09T22:17:30.898846"
+    },
+    {
+      "english": "Stop saying 'um', use 'pues'",
+      "spanish": "Deja 'um', usa 'pues'",
+      "category": "Growth",
+      "generated_at": "2026-06-09T22:17:30.898858"
+    },
+    {
+      "english": "This one cue improves listening",
+      "spanish": "Esta señal mejora tu escucha",
+      "category": "Growth",
+      "generated_at": "2026-06-09T22:17:30.898870"
     }
   ],
   "used_english": [
@@ -8968,7 +8998,12 @@
     "never ask “how?”, ask “where?”",
     "the secret... train your ear daily",
     "stop translating, react immediately",
-    "what nobody tells you, sound brave"
+    "what nobody tells you, sound brave",
+    "stop translating, shadow this",
+    "never skip these 3 words",
+    "the secret: ask, then act",
+    "stop saying 'um', use 'pues'",
+    "this one cue improves listening"
   ],
-  "last_updated": "2026-06-09T21:02:41.638856"
+  "last_updated": "2026-06-09T22:17:30.898872"
 }
