@@ -7655,6 +7655,36 @@
       "spanish": "El secreto, usa “exacto” una vez",
       "category": "Courage",
       "generated_at": "2026-06-09T19:13:14.285953"
+    },
+    {
+      "english": "Never study silently, speak aloud",
+      "spanish": "Nunca estudies en silencio, habla en voz alta",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-09T21:02:41.638793"
+    },
+    {
+      "english": "Never ask “how?”, ask “where?”",
+      "spanish": "Nunca digas “cómo?”, di “dónde?”",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-09T21:02:41.638814"
+    },
+    {
+      "english": "The secret... train your ear daily",
+      "spanish": "El secreto..., entrena tu oído cada día",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-09T21:02:41.638828"
+    },
+    {
+      "english": "Stop translating, react immediately",
+      "spanish": "Deja de traducir, reacciona ya",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-09T21:02:41.638841"
+    },
+    {
+      "english": "What nobody tells you, sound brave",
+      "spanish": "Lo que nadie te dice, suena valiente",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-09T21:02:41.638854"
     }
   ],
   "used_english": [
@@ -8933,7 +8963,12 @@
     "never use “maybe”, choose certainty",
     "stop overthinking, just add “pero”",
     "never explain, just give one example",
-    "the secret, use “exacto” once"
+    "the secret, use “exacto” once",
+    "never study silently, speak aloud",
+    "never ask “how?”, ask “where?”",
+    "the secret... train your ear daily",
+    "stop translating, react immediately",
+    "what nobody tells you, sound brave"
   ],
-  "last_updated": "2026-06-09T19:13:14.285954"
+  "last_updated": "2026-06-09T21:02:41.638856"
 }
