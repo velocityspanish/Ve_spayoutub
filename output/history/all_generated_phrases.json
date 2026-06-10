@@ -7775,6 +7775,36 @@
       "spanish": "No pidas permiso, intenta",
       "category": "Strength",
       "generated_at": "2026-06-10T17:58:05.784091"
+    },
+    {
+      "english": "Stop rushing gratitude, say this first",
+      "spanish": "Deja la prisa, di esto primero",
+      "category": "Gratitude",
+      "generated_at": "2026-06-10T19:34:52.200901"
+    },
+    {
+      "english": "Never thankless, use 'gracias de verdad'",
+      "spanish": "Nunca sin gratitud, usa 'gracias de verdad'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-10T19:34:52.200923"
+    },
+    {
+      "english": "This is why 'muchas gracias' wins",
+      "spanish": "Por eso 'muchas gracias' gana",
+      "category": "Gratitude",
+      "generated_at": "2026-06-10T19:34:52.200937"
+    },
+    {
+      "english": "The secret? Gratitude sounds warmer, faster",
+      "spanish": "El secreto: la gratitud suena más cálida",
+      "category": "Gratitude",
+      "generated_at": "2026-06-10T19:34:52.200949"
+    },
+    {
+      "english": "Stop awkward pauses, smile, then 'gracias'",
+      "spanish": "Corta las pausas, sonríe, luego 'gracias'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-10T19:34:52.200961"
     }
   ],
   "used_english": [
@@ -9073,7 +9103,12 @@
     "never speak alone, join a chorus",
     "stop overthinking, use one opener",
     "never wait for 'perfect day'",
-    "stop asking permission, just try"
+    "stop asking permission, just try",
+    "stop rushing gratitude, say this first",
+    "never thankless, use 'gracias de verdad'",
+    "this is why 'muchas gracias' wins",
+    "the secret? gratitude sounds warmer, faster",
+    "stop awkward pauses, smile, then 'gracias'"
   ],
-  "last_updated": "2026-06-10T17:58:05.784095"
+  "last_updated": "2026-06-10T19:34:52.200963"
 }
