@@ -7835,6 +7835,36 @@
       "spanish": "Deja de scrollear, practica 30 segundos",
       "category": "Positive Life",
       "generated_at": "2026-06-10T21:26:48.215722"
+    },
+    {
+      "english": "Stop memorizing sentences, use this",
+      "spanish": "Deja de memorizar frases, usa esto",
+      "category": "Growth",
+      "generated_at": "2026-06-10T22:45:58.568011"
+    },
+    {
+      "english": "Never say one word, start here",
+      "spanish": "Nunca digas una sola, empieza aquí",
+      "category": "Growth",
+      "generated_at": "2026-06-10T22:45:58.568034"
+    },
+    {
+      "english": "Never study alone, trade voice-notes",
+      "spanish": "No estudies solo, intercambia notas de voz",
+      "category": "Growth",
+      "generated_at": "2026-06-10T22:45:58.568047"
+    },
+    {
+      "english": "The secret? Use 'hoy' today, always",
+      "spanish": "El secreto, usa 'hoy' hoy, siempre",
+      "category": "Growth",
+      "generated_at": "2026-06-10T22:45:58.568060"
+    },
+    {
+      "english": "Stop scrolling, learn with one sentence",
+      "spanish": "Deja de scrollear, aprende con una frase",
+      "category": "Growth",
+      "generated_at": "2026-06-10T22:45:58.568073"
     }
   ],
   "used_english": [
@@ -9143,7 +9173,12 @@
     "the secret... repeat with feeling, wow",
     "stop hiding, sing one sentence",
     "never fear mistakes, they're practice",
-    "stop scrolling, practice 30 seconds"
+    "stop scrolling, practice 30 seconds",
+    "stop memorizing sentences, use this",
+    "never say one word, start here",
+    "never study alone, trade voice-notes",
+    "the secret? use 'hoy' today, always",
+    "stop scrolling, learn with one sentence"
   ],
-  "last_updated": "2026-06-10T21:26:48.215723"
+  "last_updated": "2026-06-10T22:45:58.568074"
 }
