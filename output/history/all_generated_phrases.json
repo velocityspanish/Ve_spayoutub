@@ -7715,6 +7715,36 @@
       "spanish": "Esta señal mejora tu escucha",
       "category": "Growth",
       "generated_at": "2026-06-09T22:17:30.898870"
+    },
+    {
+      "english": "Stop practicing alone, speak out loud",
+      "spanish": "Deja practicar solo, habla en voz alta",
+      "category": "Motivation",
+      "generated_at": "2026-06-10T16:36:56.261722"
+    },
+    {
+      "english": "Never memorize, learn like a movie",
+      "spanish": "Nunca memorices, aprende como una película",
+      "category": "Motivation",
+      "generated_at": "2026-06-10T16:36:56.261742"
+    },
+    {
+      "english": "What nobody tells you, your fear lies",
+      "spanish": "Lo que nadie te dice, tu miedo miente",
+      "category": "Motivation",
+      "generated_at": "2026-06-10T16:36:56.261755"
+    },
+    {
+      "english": "Never quit after the first mistake",
+      "spanish": "Nunca pares tras el primer error",
+      "category": "Motivation",
+      "generated_at": "2026-06-10T16:36:56.261768"
+    },
+    {
+      "english": "Stop doom-scrolling Spanish, talk today",
+      "spanish": "Deja el doom-scroll, habla hoy",
+      "category": "Motivation",
+      "generated_at": "2026-06-10T16:36:56.261780"
     }
   ],
   "used_english": [
@@ -9003,7 +9033,12 @@
     "never skip these 3 words",
     "the secret: ask, then act",
     "stop saying 'um', use 'pues'",
-    "this one cue improves listening"
+    "this one cue improves listening",
+    "stop practicing alone, speak out loud",
+    "never memorize, learn like a movie",
+    "what nobody tells you, your fear lies",
+    "never quit after the first mistake",
+    "stop doom-scrolling spanish, talk today"
   ],
-  "last_updated": "2026-06-09T22:17:30.898872"
+  "last_updated": "2026-06-10T16:36:56.261782"
 }
