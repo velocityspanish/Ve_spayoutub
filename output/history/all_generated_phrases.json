@@ -7805,6 +7805,36 @@
       "spanish": "Corta las pausas, sonríe, luego 'gracias'",
       "category": "Gratitude",
       "generated_at": "2026-06-10T19:34:52.200961"
+    },
+    {
+      "english": "Stop doubting, say 'estoy aprendiendo'",
+      "spanish": "Deja de dudar, di 'estoy aprendiendo'",
+      "category": "Positive Life",
+      "generated_at": "2026-06-10T21:26:48.215661"
+    },
+    {
+      "english": "The secret... repeat with feeling, wow",
+      "spanish": "El secreto... repite con emoción, ¡guau!",
+      "category": "Positive Life",
+      "generated_at": "2026-06-10T21:26:48.215683"
+    },
+    {
+      "english": "Stop hiding, sing one sentence",
+      "spanish": "Deja de esconderte, canta una frase",
+      "category": "Positive Life",
+      "generated_at": "2026-06-10T21:26:48.215696"
+    },
+    {
+      "english": "Never fear mistakes, they're practice",
+      "spanish": "No temas errores, son práctica",
+      "category": "Positive Life",
+      "generated_at": "2026-06-10T21:26:48.215709"
+    },
+    {
+      "english": "Stop scrolling, practice 30 seconds",
+      "spanish": "Deja de scrollear, practica 30 segundos",
+      "category": "Positive Life",
+      "generated_at": "2026-06-10T21:26:48.215722"
     }
   ],
   "used_english": [
@@ -9108,7 +9138,12 @@
     "never thankless, use 'gracias de verdad'",
     "this is why 'muchas gracias' wins",
     "the secret? gratitude sounds warmer, faster",
-    "stop awkward pauses, smile, then 'gracias'"
+    "stop awkward pauses, smile, then 'gracias'",
+    "stop doubting, say 'estoy aprendiendo'",
+    "the secret... repeat with feeling, wow",
+    "stop hiding, sing one sentence",
+    "never fear mistakes, they're practice",
+    "stop scrolling, practice 30 seconds"
   ],
-  "last_updated": "2026-06-10T19:34:52.200963"
+  "last_updated": "2026-06-10T21:26:48.215723"
 }
