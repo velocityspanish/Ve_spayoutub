@@ -7745,6 +7745,36 @@
       "spanish": "Deja el doom-scroll, habla hoy",
       "category": "Motivation",
       "generated_at": "2026-06-10T16:36:56.261780"
+    },
+    {
+      "english": "Stop memorizing lists, learn this",
+      "spanish": "Deja listas, aprende esto",
+      "category": "Strength",
+      "generated_at": "2026-06-10T17:58:05.784030"
+    },
+    {
+      "english": "Never speak alone, join a chorus",
+      "spanish": "Nunca hables solo, únete",
+      "category": "Strength",
+      "generated_at": "2026-06-10T17:58:05.784052"
+    },
+    {
+      "english": "Stop overthinking, use one opener",
+      "spanish": "Para de pensar, usa esto",
+      "category": "Strength",
+      "generated_at": "2026-06-10T17:58:05.784065"
+    },
+    {
+      "english": "Never wait for 'perfect day'",
+      "spanish": "Nunca esperes 'día perfecto'",
+      "category": "Strength",
+      "generated_at": "2026-06-10T17:58:05.784078"
+    },
+    {
+      "english": "Stop asking permission, just try",
+      "spanish": "No pidas permiso, intenta",
+      "category": "Strength",
+      "generated_at": "2026-06-10T17:58:05.784091"
     }
   ],
   "used_english": [
@@ -9038,7 +9068,12 @@
     "never memorize, learn like a movie",
     "what nobody tells you, your fear lies",
     "never quit after the first mistake",
-    "stop doom-scrolling spanish, talk today"
+    "stop doom-scrolling spanish, talk today",
+    "stop memorizing lists, learn this",
+    "never speak alone, join a chorus",
+    "stop overthinking, use one opener",
+    "never wait for 'perfect day'",
+    "stop asking permission, just try"
   ],
-  "last_updated": "2026-06-10T16:36:56.261782"
+  "last_updated": "2026-06-10T17:58:05.784095"
 }
