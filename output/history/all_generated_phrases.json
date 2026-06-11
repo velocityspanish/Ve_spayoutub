@@ -7865,6 +7865,36 @@
       "spanish": "Deja de scrollear, aprende con una frase",
       "category": "Growth",
       "generated_at": "2026-06-10T22:45:58.568073"
+    },
+    {
+      "english": "Stop learning verbs, learn situations",
+      "spanish": "Deja verbos, aprende situaciones",
+      "category": "Joy",
+      "generated_at": "2026-06-11T16:56:33.471006"
+    },
+    {
+      "english": "Never panic, say “tranquilo” first",
+      "spanish": "Nunca entres en pánico, di “tranquilo”",
+      "category": "Joy",
+      "generated_at": "2026-06-11T16:56:33.471029"
+    },
+    {
+      "english": "The secret, add body language",
+      "spanish": "El secreto, usa lenguaje corporal",
+      "category": "Joy",
+      "generated_at": "2026-06-11T16:56:33.471042"
+    },
+    {
+      "english": "Never say “maybe”, lock it",
+      "spanish": "No digas “tal vez”, decide",
+      "category": "Joy",
+      "generated_at": "2026-06-11T16:56:33.471054"
+    },
+    {
+      "english": "This one rule makes speech smoother",
+      "spanish": "Una regla, tu habla fluye",
+      "category": "Joy",
+      "generated_at": "2026-06-11T16:56:33.471067"
     }
   ],
   "used_english": [
@@ -9178,7 +9208,12 @@
     "never say one word, start here",
     "never study alone, trade voice-notes",
     "the secret? use 'hoy' today, always",
-    "stop scrolling, learn with one sentence"
+    "stop scrolling, learn with one sentence",
+    "stop learning verbs, learn situations",
+    "never panic, say “tranquilo” first",
+    "the secret, add body language",
+    "never say “maybe”, lock it",
+    "this one rule makes speech smoother"
   ],
-  "last_updated": "2026-06-10T22:45:58.568074"
+  "last_updated": "2026-06-11T16:56:33.471069"
 }
