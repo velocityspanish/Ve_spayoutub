@@ -7985,6 +7985,36 @@
       "spanish": "No digas “gracias” solo una vez",
       "category": "Gratitude",
       "generated_at": "2026-06-11T21:25:01.300378"
+    },
+    {
+      "english": "Stop saying “I’m busy”, try this",
+      "spanish": "Deja de decir “Estoy ocupado”, usa esto",
+      "category": "Love",
+      "generated_at": "2026-06-11T22:46:37.618299"
+    },
+    {
+      "english": "Stop practicing alone, send this",
+      "spanish": "No practiques solo, manda esto",
+      "category": "Love",
+      "generated_at": "2026-06-11T22:46:37.618322"
+    },
+    {
+      "english": "Never hide your feelings, say “te quiero”",
+      "spanish": "No escondas tus sentimientos, di “te quiero”",
+      "category": "Love",
+      "generated_at": "2026-06-11T22:46:37.618335"
+    },
+    {
+      "english": "This love phrase makes natives melt",
+      "spanish": "Esta frase de amor derrite",
+      "category": "Love",
+      "generated_at": "2026-06-11T22:46:37.618348"
+    },
+    {
+      "english": "Stop overexplaining, say “como quieras”",
+      "spanish": "Deja de explicar, di “como quieras”",
+      "category": "Love",
+      "generated_at": "2026-06-11T22:46:37.618361"
     }
   ],
   "used_english": [
@@ -9318,7 +9348,12 @@
     "never thank later, do it now",
     "this is why gratitude melts stress",
     "the secret: heartfelt thanks, not scripts",
-    "never say “thanks” only once"
+    "never say “thanks” only once",
+    "stop saying “i’m busy”, try this",
+    "stop practicing alone, send this",
+    "never hide your feelings, say “te quiero”",
+    "this love phrase makes natives melt",
+    "stop overexplaining, say “como quieras”"
   ],
-  "last_updated": "2026-06-11T21:25:01.300380"
+  "last_updated": "2026-06-11T22:46:37.618363"
 }
