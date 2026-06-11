@@ -7925,6 +7925,36 @@
       "spanish": "Lo que nadie te dice, empieza con empatía",
       "category": "Forgiveness",
       "generated_at": "2026-06-11T18:14:49.860037"
+    },
+    {
+      "english": "Stop apologizing, say it confidently",
+      "spanish": "Deja de pedir perdón, dilo con confianza",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T19:35:54.268861"
+    },
+    {
+      "english": "Never say “sorry” first—breathe",
+      "spanish": "Nunca digas “lo siento” primero, respira",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T19:35:54.268883"
+    },
+    {
+      "english": "The secret, forgive faster than facts",
+      "spanish": "El secreto, perdona más rápido que los hechos",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T19:35:54.268897"
+    },
+    {
+      "english": "Stop holding grudges, say this",
+      "spanish": "Deja el rencor, di esto",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T19:35:54.268910"
+    },
+    {
+      "english": "Never punish them, choose peace",
+      "spanish": "Nunca los castigas, elige paz",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T19:35:54.268923"
     }
   ],
   "used_english": [
@@ -9248,7 +9278,12 @@
     "stop blaming, say “fue un malentendido”",
     "this one line resets the vibe",
     "stop replaying it, say “ya está”",
-    "what nobody tells you, lead with empathy"
+    "what nobody tells you, lead with empathy",
+    "stop apologizing, say it confidently",
+    "never say “sorry” first—breathe",
+    "the secret, forgive faster than facts",
+    "stop holding grudges, say this",
+    "never punish them, choose peace"
   ],
-  "last_updated": "2026-06-11T18:14:49.860038"
+  "last_updated": "2026-06-11T19:35:54.268925"
 }
