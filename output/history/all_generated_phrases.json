@@ -7895,6 +7895,36 @@
       "spanish": "Una regla, tu habla fluye",
       "category": "Joy",
       "generated_at": "2026-06-11T16:56:33.471067"
+    },
+    {
+      "english": "The secret? Say “no pasa nada” first",
+      "spanish": "El secreto, di “no pasa nada” primero",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T18:14:49.859975"
+    },
+    {
+      "english": "Stop blaming, say “fue un malentendido”",
+      "spanish": "Deja de culpar, di “fue un malentendido”",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T18:14:49.859997"
+    },
+    {
+      "english": "This one line resets the vibe",
+      "spanish": "Esta frase reinicia el ambiente",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T18:14:49.860010"
+    },
+    {
+      "english": "Stop replaying it, say “ya está”",
+      "spanish": "Deja de repasarlo, di “ya está”",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T18:14:49.860024"
+    },
+    {
+      "english": "What nobody tells you, lead with empathy",
+      "spanish": "Lo que nadie te dice, empieza con empatía",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-11T18:14:49.860037"
     }
   ],
   "used_english": [
@@ -9213,7 +9243,12 @@
     "never panic, say “tranquilo” first",
     "the secret, add body language",
     "never say “maybe”, lock it",
-    "this one rule makes speech smoother"
+    "this one rule makes speech smoother",
+    "the secret? say “no pasa nada” first",
+    "stop blaming, say “fue un malentendido”",
+    "this one line resets the vibe",
+    "stop replaying it, say “ya está”",
+    "what nobody tells you, lead with empathy"
   ],
-  "last_updated": "2026-06-11T16:56:33.471069"
+  "last_updated": "2026-06-11T18:14:49.860038"
 }
