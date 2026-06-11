@@ -7955,6 +7955,36 @@
       "spanish": "Nunca los castigas, elige paz",
       "category": "Forgiveness",
       "generated_at": "2026-06-11T19:35:54.268923"
+    },
+    {
+      "english": "Stop rushing, say “gracias” twice",
+      "spanish": "Deja de correr, di “gracias” dos veces",
+      "category": "Gratitude",
+      "generated_at": "2026-06-11T21:25:01.300317"
+    },
+    {
+      "english": "Never thank later, do it now",
+      "spanish": "Nunca agradezcas después, hazlo ahora",
+      "category": "Gratitude",
+      "generated_at": "2026-06-11T21:25:01.300340"
+    },
+    {
+      "english": "This is why gratitude melts stress",
+      "spanish": "Por eso, la gratitud derrite estrés",
+      "category": "Gratitude",
+      "generated_at": "2026-06-11T21:25:01.300354"
+    },
+    {
+      "english": "The secret: heartfelt thanks, not scripts",
+      "spanish": "El secreto: gracias de verdad, no guiones",
+      "category": "Gratitude",
+      "generated_at": "2026-06-11T21:25:01.300366"
+    },
+    {
+      "english": "Never say “thanks” only once",
+      "spanish": "No digas “gracias” solo una vez",
+      "category": "Gratitude",
+      "generated_at": "2026-06-11T21:25:01.300378"
     }
   ],
   "used_english": [
@@ -9283,7 +9313,12 @@
     "never say “sorry” first—breathe",
     "the secret, forgive faster than facts",
     "stop holding grudges, say this",
-    "never punish them, choose peace"
+    "never punish them, choose peace",
+    "stop rushing, say “gracias” twice",
+    "never thank later, do it now",
+    "this is why gratitude melts stress",
+    "the secret: heartfelt thanks, not scripts",
+    "never say “thanks” only once"
   ],
-  "last_updated": "2026-06-11T19:35:54.268925"
+  "last_updated": "2026-06-11T21:25:01.300380"
 }
