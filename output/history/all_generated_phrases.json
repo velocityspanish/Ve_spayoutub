@@ -8045,6 +8045,36 @@
       "spanish": "Deja de traducir, habla alrededor",
       "category": "Purpose",
       "generated_at": "2026-06-12T16:21:22.466678"
+    },
+    {
+      "english": "Never freeze, use one safe phrase",
+      "spanish": "Nunca te congeles, usa esta frase",
+      "category": "Joy",
+      "generated_at": "2026-06-12T17:38:45.268131"
+    },
+    {
+      "english": "The secret? Start with 'Estoy aquí'",
+      "spanish": "El secreto, empieza con 'Estoy aquí'",
+      "category": "Joy",
+      "generated_at": "2026-06-12T17:38:45.268157"
+    },
+    {
+      "english": "Stop overthinking, just make it playful",
+      "spanish": "Deja de pensar, hazlo más divertido",
+      "category": "Joy",
+      "generated_at": "2026-06-12T17:38:45.268171"
+    },
+    {
+      "english": "Stop translating, try '¿En serio?'",
+      "spanish": "Deja de traducir, prueba '¿En serio?'",
+      "category": "Joy",
+      "generated_at": "2026-06-12T17:38:45.268186"
+    },
+    {
+      "english": "Never quit today, celebrate small wins",
+      "spanish": "No te rindas hoy, celebra pequeñas victorias",
+      "category": "Joy",
+      "generated_at": "2026-06-12T17:38:45.268199"
     }
   ],
   "used_english": [
@@ -9388,7 +9418,12 @@
     "the secret is speaking first, listen",
     "never wait, answer with a story",
     "the secret to flow, short sentences",
-    "stop translating, talk around the word"
+    "stop translating, talk around the word",
+    "never freeze, use one safe phrase",
+    "the secret? start with 'estoy aquí'",
+    "stop overthinking, just make it playful",
+    "stop translating, try '¿en serio?'",
+    "never quit today, celebrate small wins"
   ],
-  "last_updated": "2026-06-12T16:21:22.466680"
+  "last_updated": "2026-06-12T17:38:45.268201"
 }
