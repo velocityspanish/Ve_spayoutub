@@ -8105,6 +8105,36 @@
       "spanish": "No expliques tanto, añade un sentimiento",
       "category": "Creativity",
       "generated_at": "2026-06-12T19:05:05.504994"
+    },
+    {
+      "english": "Never study alone, record your voice",
+      "spanish": "Nunca estudies solo, graba tu voz",
+      "category": "Inspiration",
+      "generated_at": "2026-06-12T21:03:31.059541"
+    },
+    {
+      "english": "Never panic, begin with “estoy”",
+      "spanish": "No entres en pánico, empieza con “estoy”",
+      "category": "Inspiration",
+      "generated_at": "2026-06-12T21:03:31.059563"
+    },
+    {
+      "english": "The secret to fluency, talk imperfectly",
+      "spanish": "El secreto de fluidez, habla imperfecto",
+      "category": "Inspiration",
+      "generated_at": "2026-06-12T21:03:31.059577"
+    },
+    {
+      "english": "Stop scrolling, ask a real question",
+      "spanish": "Deja de scrollear, pregunta algo real",
+      "category": "Inspiration",
+      "generated_at": "2026-06-12T21:03:31.059591"
+    },
+    {
+      "english": "Never over-explain, just add “ya”",
+      "spanish": "Nunca des demasiadas, solo “ya”",
+      "category": "Inspiration",
+      "generated_at": "2026-06-12T21:03:31.059604"
     }
   ],
   "used_english": [
@@ -9458,7 +9488,12 @@
     "stop freezing, use 'sí, claro'",
     "stop waiting, answer in past-time",
     "the secret? turn questions into stories",
-    "stop overexplaining, add a feeling"
+    "stop overexplaining, add a feeling",
+    "never study alone, record your voice",
+    "never panic, begin with “estoy”",
+    "the secret to fluency, talk imperfectly",
+    "stop scrolling, ask a real question",
+    "never over-explain, just add “ya”"
   ],
-  "last_updated": "2026-06-12T19:05:05.504995"
+  "last_updated": "2026-06-12T21:03:31.059606"
 }
