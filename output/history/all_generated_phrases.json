@@ -8075,6 +8075,36 @@
       "spanish": "No te rindas hoy, celebra pequeñas victorias",
       "category": "Joy",
       "generated_at": "2026-06-12T17:38:45.268199"
+    },
+    {
+      "english": "Stop deleting, keep the sentence",
+      "spanish": "Deja de borrar, termina la frase",
+      "category": "Creativity",
+      "generated_at": "2026-06-12T19:05:05.504931"
+    },
+    {
+      "english": "Stop freezing, use 'sí, claro'",
+      "spanish": "Deja de congelarte, di 'sí, claro'",
+      "category": "Creativity",
+      "generated_at": "2026-06-12T19:05:05.504954"
+    },
+    {
+      "english": "Stop waiting, answer in past-time",
+      "spanish": "No esperes, responde en pasado",
+      "category": "Creativity",
+      "generated_at": "2026-06-12T19:05:05.504968"
+    },
+    {
+      "english": "The secret? Turn questions into stories",
+      "spanish": "El secreto, convierte preguntas en historias",
+      "category": "Creativity",
+      "generated_at": "2026-06-12T19:05:05.504980"
+    },
+    {
+      "english": "Stop overexplaining, add a feeling",
+      "spanish": "No expliques tanto, añade un sentimiento",
+      "category": "Creativity",
+      "generated_at": "2026-06-12T19:05:05.504994"
     }
   ],
   "used_english": [
@@ -9423,7 +9453,12 @@
     "the secret? start with 'estoy aquí'",
     "stop overthinking, just make it playful",
     "stop translating, try '¿en serio?'",
-    "never quit today, celebrate small wins"
+    "never quit today, celebrate small wins",
+    "stop deleting, keep the sentence",
+    "stop freezing, use 'sí, claro'",
+    "stop waiting, answer in past-time",
+    "the secret? turn questions into stories",
+    "stop overexplaining, add a feeling"
   ],
-  "last_updated": "2026-06-12T17:38:45.268201"
+  "last_updated": "2026-06-12T19:05:05.504995"
 }
