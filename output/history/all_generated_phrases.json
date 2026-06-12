@@ -8015,6 +8015,36 @@
       "spanish": "Deja de explicar, di “como quieras”",
       "category": "Love",
       "generated_at": "2026-06-11T22:46:37.618361"
+    },
+    {
+      "english": "Stop memorizing, master chunks today",
+      "spanish": "Deja de memorizar, domina bloques hoy",
+      "category": "Purpose",
+      "generated_at": "2026-06-12T16:21:22.466617"
+    },
+    {
+      "english": "The secret is speaking first, listen",
+      "spanish": "El secreto, habla primero, escucha",
+      "category": "Purpose",
+      "generated_at": "2026-06-12T16:21:22.466638"
+    },
+    {
+      "english": "Never wait, answer with a story",
+      "spanish": "No esperes, responde con una historia",
+      "category": "Purpose",
+      "generated_at": "2026-06-12T16:21:22.466652"
+    },
+    {
+      "english": "The secret to flow, short sentences",
+      "spanish": "El secreto del fluido, frases cortas",
+      "category": "Purpose",
+      "generated_at": "2026-06-12T16:21:22.466666"
+    },
+    {
+      "english": "Stop translating, talk around the word",
+      "spanish": "Deja de traducir, habla alrededor",
+      "category": "Purpose",
+      "generated_at": "2026-06-12T16:21:22.466678"
     }
   ],
   "used_english": [
@@ -9353,7 +9383,12 @@
     "stop practicing alone, send this",
     "never hide your feelings, say “te quiero”",
     "this love phrase makes natives melt",
-    "stop overexplaining, say “como quieras”"
+    "stop overexplaining, say “como quieras”",
+    "stop memorizing, master chunks today",
+    "the secret is speaking first, listen",
+    "never wait, answer with a story",
+    "the secret to flow, short sentences",
+    "stop translating, talk around the word"
   ],
-  "last_updated": "2026-06-11T22:46:37.618363"
+  "last_updated": "2026-06-12T16:21:22.466680"
 }
