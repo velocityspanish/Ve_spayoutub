@@ -8135,6 +8135,36 @@
       "spanish": "Nunca des demasiadas, solo “ya”",
       "category": "Inspiration",
       "generated_at": "2026-06-12T21:03:31.059604"
+    },
+    {
+      "english": "Stop translating, speak before you think",
+      "spanish": "Deja de traducir, habla antes",
+      "category": "Strength",
+      "generated_at": "2026-06-12T22:17:33.288624"
+    },
+    {
+      "english": "Stop fearing mistakes, use “todavía”",
+      "spanish": "No tengas miedo, usa “todavía”",
+      "category": "Strength",
+      "generated_at": "2026-06-12T22:17:33.288649"
+    },
+    {
+      "english": "Never go blank, use “¿Cómo se dice?”",
+      "spanish": "No te quedes en blanco, “¿Cómo se dice?”",
+      "category": "Strength",
+      "generated_at": "2026-06-12T22:17:33.288663"
+    },
+    {
+      "english": "Stop scrolling, practice with one person",
+      "spanish": "Deja el scroll, practica con alguien",
+      "category": "Strength",
+      "generated_at": "2026-06-12T22:17:33.288676"
+    },
+    {
+      "english": "Never hide, say “Necesito ayuda”",
+      "spanish": "No te escondas, di “Necesito ayuda”",
+      "category": "Strength",
+      "generated_at": "2026-06-12T22:17:33.288691"
     }
   ],
   "used_english": [
@@ -9493,7 +9523,12 @@
     "never panic, begin with “estoy”",
     "the secret to fluency, talk imperfectly",
     "stop scrolling, ask a real question",
-    "never over-explain, just add “ya”"
+    "never over-explain, just add “ya”",
+    "stop translating, speak before you think",
+    "stop fearing mistakes, use “todavía”",
+    "never go blank, use “¿cómo se dice?”",
+    "stop scrolling, practice with one person",
+    "never hide, say “necesito ayuda”"
   ],
-  "last_updated": "2026-06-12T21:03:31.059606"
+  "last_updated": "2026-06-12T22:17:33.288693"
 }
