@@ -8255,6 +8255,36 @@
       "spanish": "Nunca entres en pánico, frases cortas",
       "category": "Success",
       "generated_at": "2026-06-13T18:08:06.174454"
+    },
+    {
+      "english": "Never quit, say it again",
+      "spanish": "Nunca te rindas, repítelo",
+      "category": "Perseverance",
+      "generated_at": "2026-06-13T20:19:04.707595"
+    },
+    {
+      "english": "The secret... lose your fear faster",
+      "spanish": "El secreto... pierde el miedo rápido",
+      "category": "Perseverance",
+      "generated_at": "2026-06-13T20:19:04.707616"
+    },
+    {
+      "english": "Never skip practice, even tired",
+      "spanish": "Nunca saltes práctica, aunque cansado",
+      "category": "Perseverance",
+      "generated_at": "2026-06-13T20:19:04.707630"
+    },
+    {
+      "english": "Stop deleting, keep going now",
+      "spanish": "Deja de borrar, sigue ya",
+      "category": "Perseverance",
+      "generated_at": "2026-06-13T20:19:04.707643"
+    },
+    {
+      "english": "Your progress is happening silently",
+      "spanish": "Tu progreso pasa en silencio",
+      "category": "Perseverance",
+      "generated_at": "2026-06-13T20:19:04.707657"
     }
   ],
   "used_english": [
@@ -9633,7 +9663,12 @@
     "the secret? ask one follow-up",
     "stop rehearsing, talk like you text",
     "never freeze, ask for clarification",
-    "never panic, speak in short bursts"
+    "never panic, speak in short bursts",
+    "never quit, say it again",
+    "the secret... lose your fear faster",
+    "never skip practice, even tired",
+    "stop deleting, keep going now",
+    "your progress is happening silently"
   ],
-  "last_updated": "2026-06-13T18:08:06.174456"
+  "last_updated": "2026-06-13T20:19:04.707659"
 }
