@@ -8285,6 +8285,36 @@
       "spanish": "Tu progreso pasa en silencio",
       "category": "Perseverance",
       "generated_at": "2026-06-13T20:19:04.707657"
+    },
+    {
+      "english": "Never flirt softly, say it boldly",
+      "spanish": "Nunca coquetees suave, dilo valiente",
+      "category": "Love",
+      "generated_at": "2026-06-13T21:56:11.134810"
+    },
+    {
+      "english": "This is why “me importas” hits",
+      "spanish": "Por eso “me importas” pega",
+      "category": "Love",
+      "generated_at": "2026-06-13T21:56:11.134834"
+    },
+    {
+      "english": "The secret: say “te necesito”",
+      "spanish": "El secreto, di “te necesito”",
+      "category": "Love",
+      "generated_at": "2026-06-13T21:56:11.134848"
+    },
+    {
+      "english": "Stop texting “I miss you”, do this",
+      "spanish": "Deja “te extraño”, haz esto",
+      "category": "Love",
+      "generated_at": "2026-06-13T21:56:11.134862"
+    },
+    {
+      "english": "Never say “good luck”, say “confío”",
+      "spanish": "Nunca digas “buena suerte”, di “confío”",
+      "category": "Love",
+      "generated_at": "2026-06-13T21:56:11.134876"
     }
   ],
   "used_english": [
@@ -9668,7 +9698,12 @@
     "the secret... lose your fear faster",
     "never skip practice, even tired",
     "stop deleting, keep going now",
-    "your progress is happening silently"
+    "your progress is happening silently",
+    "never flirt softly, say it boldly",
+    "this is why “me importas” hits",
+    "the secret: say “te necesito”",
+    "stop texting “i miss you”, do this",
+    "never say “good luck”, say “confío”"
   ],
-  "last_updated": "2026-06-13T20:19:04.707659"
+  "last_updated": "2026-06-13T21:56:11.134878"
 }
