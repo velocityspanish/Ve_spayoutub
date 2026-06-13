@@ -8165,6 +8165,36 @@
       "spanish": "No te escondas, di “Necesito ayuda”",
       "category": "Strength",
       "generated_at": "2026-06-12T22:17:33.288691"
+    },
+    {
+      "english": "Stop leaking English, think in Spanish",
+      "spanish": "Deja filtrar inglés, piensa en español",
+      "category": "Positive Life",
+      "generated_at": "2026-06-13T15:03:20.289439"
+    },
+    {
+      "english": "Never say “I want”… just say “I’d like”",
+      "spanish": "Nunca digas “Quiero”…, di “Me gustaría”",
+      "category": "Positive Life",
+      "generated_at": "2026-06-13T15:03:20.289461"
+    },
+    {
+      "english": "What nobody tells you, stop overreading",
+      "spanish": "Lo que nadie dice, deja de leer tanto",
+      "category": "Positive Life",
+      "generated_at": "2026-06-13T15:03:20.289474"
+    },
+    {
+      "english": "Stop replacing words, use simple ones",
+      "spanish": "Deja cambiar palabras, usa simples",
+      "category": "Positive Life",
+      "generated_at": "2026-06-13T15:03:20.289487"
+    },
+    {
+      "english": "Never learn alone, trade quick answers",
+      "spanish": "Nunca aprendas solo, intercambia respuestas",
+      "category": "Positive Life",
+      "generated_at": "2026-06-13T15:03:20.289500"
     }
   ],
   "used_english": [
@@ -9528,7 +9558,12 @@
     "stop fearing mistakes, use “todavía”",
     "never go blank, use “¿cómo se dice?”",
     "stop scrolling, practice with one person",
-    "never hide, say “necesito ayuda”"
+    "never hide, say “necesito ayuda”",
+    "stop leaking english, think in spanish",
+    "never say “i want”… just say “i’d like”",
+    "what nobody tells you, stop overreading",
+    "stop replacing words, use simple ones",
+    "never learn alone, trade quick answers"
   ],
-  "last_updated": "2026-06-12T22:17:33.288693"
+  "last_updated": "2026-06-13T15:03:20.289502"
 }
