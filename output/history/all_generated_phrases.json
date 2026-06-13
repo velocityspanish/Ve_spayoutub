@@ -8195,6 +8195,36 @@
       "spanish": "Nunca aprendas solo, intercambia respuestas",
       "category": "Positive Life",
       "generated_at": "2026-06-13T15:03:20.289500"
+    },
+    {
+      "english": "The secret? Speak before analyzing",
+      "spanish": "El secreto, habla antes de analizar",
+      "category": "Purpose",
+      "generated_at": "2026-06-13T16:14:23.675134"
+    },
+    {
+      "english": "Never memorize, learn from real talks",
+      "spanish": "Nunca memorices, aprende de charlas reales",
+      "category": "Purpose",
+      "generated_at": "2026-06-13T16:14:23.675155"
+    },
+    {
+      "english": "Stop scrolling, practice with your hands",
+      "spanish": "Deja el scroll, practica con tus manos",
+      "category": "Purpose",
+      "generated_at": "2026-06-13T16:14:23.675168"
+    },
+    {
+      "english": "Never fear accents, they open doors",
+      "spanish": "No temas el acento, abre puertas",
+      "category": "Purpose",
+      "generated_at": "2026-06-13T16:14:23.675182"
+    },
+    {
+      "english": "Stop translating, answer in one breath",
+      "spanish": "Deja de traducir, responde en una bocanada",
+      "category": "Purpose",
+      "generated_at": "2026-06-13T16:14:23.675195"
     }
   ],
   "used_english": [
@@ -9563,7 +9593,12 @@
     "never say “i want”… just say “i’d like”",
     "what nobody tells you, stop overreading",
     "stop replacing words, use simple ones",
-    "never learn alone, trade quick answers"
+    "never learn alone, trade quick answers",
+    "the secret? speak before analyzing",
+    "never memorize, learn from real talks",
+    "stop scrolling, practice with your hands",
+    "never fear accents, they open doors",
+    "stop translating, answer in one breath"
   ],
-  "last_updated": "2026-06-13T15:03:20.289502"
+  "last_updated": "2026-06-13T16:14:23.675196"
 }
