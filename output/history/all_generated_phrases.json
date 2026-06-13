@@ -8225,6 +8225,36 @@
       "spanish": "Deja de traducir, responde en una bocanada",
       "category": "Purpose",
       "generated_at": "2026-06-13T16:14:23.675195"
+    },
+    {
+      "english": "Never say 'what?' again, say this",
+      "spanish": "Nunca digas '¿qué?' de nuevo, di esto",
+      "category": "Success",
+      "generated_at": "2026-06-13T18:08:06.174391"
+    },
+    {
+      "english": "The secret? Ask one follow-up",
+      "spanish": "El secreto, pregunta una sola cosa",
+      "category": "Success",
+      "generated_at": "2026-06-13T18:08:06.174413"
+    },
+    {
+      "english": "Stop rehearsing, talk like you text",
+      "spanish": "Deja de ensayar, habla como texto",
+      "category": "Success",
+      "generated_at": "2026-06-13T18:08:06.174427"
+    },
+    {
+      "english": "Never freeze, ask for clarification",
+      "spanish": "Nunca te quedes, pide aclaración",
+      "category": "Success",
+      "generated_at": "2026-06-13T18:08:06.174441"
+    },
+    {
+      "english": "Never panic, speak in short bursts",
+      "spanish": "Nunca entres en pánico, frases cortas",
+      "category": "Success",
+      "generated_at": "2026-06-13T18:08:06.174454"
     }
   ],
   "used_english": [
@@ -9598,7 +9628,12 @@
     "never memorize, learn from real talks",
     "stop scrolling, practice with your hands",
     "never fear accents, they open doors",
-    "stop translating, answer in one breath"
+    "stop translating, answer in one breath",
+    "never say 'what?' again, say this",
+    "the secret? ask one follow-up",
+    "stop rehearsing, talk like you text",
+    "never freeze, ask for clarification",
+    "never panic, speak in short bursts"
   ],
-  "last_updated": "2026-06-13T16:14:23.675196"
+  "last_updated": "2026-06-13T18:08:06.174456"
 }
