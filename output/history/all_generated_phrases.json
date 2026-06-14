@@ -8435,6 +8435,36 @@
       "spanish": "Deja lo formal, usa 'te agradezco'",
       "category": "Gratitude",
       "generated_at": "2026-06-14T20:21:34.634907"
+    },
+    {
+      "english": "Stop learning, start bargaining",
+      "spanish": "No aprendas, empieza a negociar",
+      "category": "Motivation",
+      "generated_at": "2026-06-14T22:01:15.402148"
+    },
+    {
+      "english": "Never memorize, use it today",
+      "spanish": "Nunca memorices, úsalo hoy",
+      "category": "Motivation",
+      "generated_at": "2026-06-14T22:01:15.402173"
+    },
+    {
+      "english": "The secret, ask—then just answer",
+      "spanish": "El truco, pregunta—y responde",
+      "category": "Motivation",
+      "generated_at": "2026-06-14T22:01:15.402189"
+    },
+    {
+      "english": "Stop avoiding questions, use this",
+      "spanish": "Deja de evitar preguntas, usa esto",
+      "category": "Motivation",
+      "generated_at": "2026-06-14T22:01:15.402204"
+    },
+    {
+      "english": "Never ghost practice, send audio",
+      "spanish": "No desaparezcas, envía audios",
+      "category": "Motivation",
+      "generated_at": "2026-06-14T22:01:15.402219"
     }
   ],
   "used_english": [
@@ -9843,7 +9873,12 @@
     "this is why gratitude builds confidence",
     "the secret? simple thanks, big energy",
     "never say 'thanks later', do it now",
-    "stop being formal, use 'te agradezco'"
+    "stop being formal, use 'te agradezco'",
+    "stop learning, start bargaining",
+    "never memorize, use it today",
+    "the secret, ask—then just answer",
+    "stop avoiding questions, use this",
+    "never ghost practice, send audio"
   ],
-  "last_updated": "2026-06-14T20:21:34.634909"
+  "last_updated": "2026-06-14T22:01:15.402221"
 }
