@@ -8345,6 +8345,36 @@
       "spanish": "Para, aprecia el momento",
       "category": "Gratitude",
       "generated_at": "2026-06-14T15:08:17.534585"
+    },
+    {
+      "english": "Stop using English in secret",
+      "spanish": "Deja el inglés en secreto",
+      "category": "Inspiration",
+      "generated_at": "2026-06-14T16:22:38.333537"
+    },
+    {
+      "english": "Stop waiting to sound native",
+      "spanish": "No esperes sonar nativo",
+      "category": "Inspiration",
+      "generated_at": "2026-06-14T16:22:38.333560"
+    },
+    {
+      "english": "The secret is asking, then answering",
+      "spanish": "La clave: pregunta, luego responde",
+      "category": "Inspiration",
+      "generated_at": "2026-06-14T16:22:38.333574"
+    },
+    {
+      "english": "Stop being perfect, be clear",
+      "spanish": "Deja la perfección, sé claro",
+      "category": "Inspiration",
+      "generated_at": "2026-06-14T16:22:38.333587"
+    },
+    {
+      "english": "Never quit when you feel stuck",
+      "spanish": "No pares cuando te atoras",
+      "category": "Inspiration",
+      "generated_at": "2026-06-14T16:22:38.333601"
     }
   ],
   "used_english": [
@@ -9738,7 +9768,12 @@
     "stop, gratitude is your superpower",
     "the secret? thank twice, breathe",
     "never wait, say 'te lo agradezco'",
-    "stop rushing, appreciate the moment"
+    "stop rushing, appreciate the moment",
+    "stop using english in secret",
+    "stop waiting to sound native",
+    "the secret is asking, then answering",
+    "stop being perfect, be clear",
+    "never quit when you feel stuck"
   ],
-  "last_updated": "2026-06-14T15:08:17.534586"
+  "last_updated": "2026-06-14T16:22:38.333603"
 }
