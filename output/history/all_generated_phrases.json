@@ -8315,6 +8315,36 @@
       "spanish": "Nunca digas “buena suerte”, di “confío”",
       "category": "Love",
       "generated_at": "2026-06-13T21:56:11.134876"
+    },
+    {
+      "english": "Never forget to thank, fast",
+      "spanish": "Nunca olvides agradecer, rápido",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T15:08:17.534520"
+    },
+    {
+      "english": "Stop, gratitude is your superpower",
+      "spanish": "Para, la gratitud es tu superpoder",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T15:08:17.534542"
+    },
+    {
+      "english": "The secret? Thank twice, breathe",
+      "spanish": "El secreto, agradece dos veces",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T15:08:17.534557"
+    },
+    {
+      "english": "Never wait, say 'te lo agradezco'",
+      "spanish": "Nunca esperes, di 'te lo agradezco'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T15:08:17.534571"
+    },
+    {
+      "english": "Stop rushing, appreciate the moment",
+      "spanish": "Para, aprecia el momento",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T15:08:17.534585"
     }
   ],
   "used_english": [
@@ -9703,7 +9733,12 @@
     "this is why “me importas” hits",
     "the secret: say “te necesito”",
     "stop texting “i miss you”, do this",
-    "never say “good luck”, say “confío”"
+    "never say “good luck”, say “confío”",
+    "never forget to thank, fast",
+    "stop, gratitude is your superpower",
+    "the secret? thank twice, breathe",
+    "never wait, say 'te lo agradezco'",
+    "stop rushing, appreciate the moment"
   ],
-  "last_updated": "2026-06-13T21:56:11.134878"
+  "last_updated": "2026-06-14T15:08:17.534586"
 }
