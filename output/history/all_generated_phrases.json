@@ -8405,6 +8405,36 @@
       "spanish": "Nunca practiques solo, responde en voz alta",
       "category": "Courage",
       "generated_at": "2026-06-14T18:13:27.859152"
+    },
+    {
+      "english": "Never rush, thank first, breathe",
+      "spanish": "Nunca corras, agradece primero, respira",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T20:21:34.634838"
+    },
+    {
+      "english": "This is why gratitude builds confidence",
+      "spanish": "Por eso, la gratitud da confianza",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T20:21:34.634863"
+    },
+    {
+      "english": "The secret? Simple thanks, big energy",
+      "spanish": "El secreto, gracias simples, gran energía",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T20:21:34.634878"
+    },
+    {
+      "english": "Never say 'thanks later', do it now",
+      "spanish": "No digas 'gracias después', hazlo ya",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T20:21:34.634892"
+    },
+    {
+      "english": "Stop being formal, use 'te agradezco'",
+      "spanish": "Deja lo formal, usa 'te agradezco'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-14T20:21:34.634907"
     }
   ],
   "used_english": [
@@ -9808,7 +9838,12 @@
     "the secret... ask names, then smile",
     "never explain too much, pause first",
     "never quit mornings, say one line",
-    "never practice alone, answer out loud"
+    "never practice alone, answer out loud",
+    "never rush, thank first, breathe",
+    "this is why gratitude builds confidence",
+    "the secret? simple thanks, big energy",
+    "never say 'thanks later', do it now",
+    "stop being formal, use 'te agradezco'"
   ],
-  "last_updated": "2026-06-14T18:13:27.859154"
+  "last_updated": "2026-06-14T20:21:34.634909"
 }
