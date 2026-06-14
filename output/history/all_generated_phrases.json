@@ -8375,6 +8375,36 @@
       "spanish": "No pares cuando te atoras",
       "category": "Inspiration",
       "generated_at": "2026-06-14T16:22:38.333601"
+    },
+    {
+      "english": "Stop saying “maybe”, try “claro” now",
+      "spanish": "Deja “tal vez”, di “claro” ya",
+      "category": "Courage",
+      "generated_at": "2026-06-14T18:13:27.859084"
+    },
+    {
+      "english": "The secret... ask names, then smile",
+      "spanish": "El secreto... pregunta nombres, sonríe",
+      "category": "Courage",
+      "generated_at": "2026-06-14T18:13:27.859110"
+    },
+    {
+      "english": "Never explain too much, pause first",
+      "spanish": "Nunca expliques de más, pausa primero",
+      "category": "Courage",
+      "generated_at": "2026-06-14T18:13:27.859124"
+    },
+    {
+      "english": "Never quit mornings, say one line",
+      "spanish": "No te rindas en la mañana, una línea",
+      "category": "Courage",
+      "generated_at": "2026-06-14T18:13:27.859138"
+    },
+    {
+      "english": "Never practice alone, answer out loud",
+      "spanish": "Nunca practiques solo, responde en voz alta",
+      "category": "Courage",
+      "generated_at": "2026-06-14T18:13:27.859152"
     }
   ],
   "used_english": [
@@ -9773,7 +9803,12 @@
     "stop waiting to sound native",
     "the secret is asking, then answering",
     "stop being perfect, be clear",
-    "never quit when you feel stuck"
+    "never quit when you feel stuck",
+    "stop saying “maybe”, try “claro” now",
+    "the secret... ask names, then smile",
+    "never explain too much, pause first",
+    "never quit mornings, say one line",
+    "never practice alone, answer out loud"
   ],
-  "last_updated": "2026-06-14T16:22:38.333603"
+  "last_updated": "2026-06-14T18:13:27.859154"
 }
