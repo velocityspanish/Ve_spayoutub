@@ -8465,6 +8465,36 @@
       "spanish": "No desaparezcas, envía audios",
       "category": "Motivation",
       "generated_at": "2026-06-14T22:01:15.402219"
+    },
+    {
+      "english": "Never wait, smile before speaking",
+      "spanish": "Nunca esperes, sonríe antes de hablar",
+      "category": "Happiness",
+      "generated_at": "2026-06-15T17:59:07.898245"
+    },
+    {
+      "english": "This is why 'vale' calms everything",
+      "spanish": "Por eso 'vale' calma todo",
+      "category": "Happiness",
+      "generated_at": "2026-06-15T17:59:07.898271"
+    },
+    {
+      "english": "What nobody tells you, relax endings",
+      "spanish": "Lo que nadie dice, relaja finales",
+      "category": "Happiness",
+      "generated_at": "2026-06-15T17:59:07.898285"
+    },
+    {
+      "english": "Stop forcing, let your words land",
+      "spanish": "No fuerces, deja que caigan tus palabras",
+      "category": "Happiness",
+      "generated_at": "2026-06-15T17:59:07.898299"
+    },
+    {
+      "english": "Never explain first, just share one feeling",
+      "spanish": "No expliques primero, solo comparte un sentimiento",
+      "category": "Happiness",
+      "generated_at": "2026-06-15T17:59:07.898312"
     }
   ],
   "used_english": [
@@ -9878,7 +9908,12 @@
     "never memorize, use it today",
     "the secret, ask—then just answer",
     "stop avoiding questions, use this",
-    "never ghost practice, send audio"
+    "never ghost practice, send audio",
+    "never wait, smile before speaking",
+    "this is why 'vale' calms everything",
+    "what nobody tells you, relax endings",
+    "stop forcing, let your words land",
+    "never explain first, just share one feeling"
   ],
-  "last_updated": "2026-06-14T22:01:15.402221"
+  "last_updated": "2026-06-15T17:59:07.898314"
 }
