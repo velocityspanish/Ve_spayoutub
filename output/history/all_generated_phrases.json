@@ -8585,6 +8585,36 @@
       "spanish": "El secreto, repite la misma frase",
       "category": "Growth",
       "generated_at": "2026-06-15T21:47:11.360022"
+    },
+    {
+      "english": "Stop aiming for native, aim clear",
+      "spanish": "Deja de buscar nativo, busca claro",
+      "category": "Growth",
+      "generated_at": "2026-06-15T22:53:56.255685"
+    },
+    {
+      "english": "The secret? Speak with feeling first",
+      "spanish": "El secreto, habla con sentimiento primero",
+      "category": "Growth",
+      "generated_at": "2026-06-15T22:53:56.255715"
+    },
+    {
+      "english": "Never restart, continue the same sentence",
+      "spanish": "Nunca reinicies, sigue la misma frase",
+      "category": "Growth",
+      "generated_at": "2026-06-15T22:53:56.255729"
+    },
+    {
+      "english": "This tiny phrase unlocks confidence fast",
+      "spanish": "Esta frase corta da confianza rápido",
+      "category": "Growth",
+      "generated_at": "2026-06-15T22:53:56.255742"
+    },
+    {
+      "english": "Stop waiting, answer before you think",
+      "spanish": "No esperes, responde antes de pensar",
+      "category": "Growth",
+      "generated_at": "2026-06-15T22:53:56.255756"
     }
   ],
   "used_english": [
@@ -10018,7 +10048,12 @@
     "never say 'maybe', use 'de una'",
     "stop perfecting, just make it clear",
     "never ask for words, ask why",
-    "the secret? repeat the same line"
+    "the secret? repeat the same line",
+    "stop aiming for native, aim clear",
+    "the secret? speak with feeling first",
+    "never restart, continue the same sentence",
+    "this tiny phrase unlocks confidence fast",
+    "stop waiting, answer before you think"
   ],
-  "last_updated": "2026-06-15T21:47:11.360024"
+  "last_updated": "2026-06-15T22:53:56.255758"
 }
