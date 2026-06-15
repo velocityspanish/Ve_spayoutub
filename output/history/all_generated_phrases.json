@@ -8495,6 +8495,36 @@
       "spanish": "No expliques primero, solo comparte un sentimiento",
       "category": "Happiness",
       "generated_at": "2026-06-15T17:59:07.898312"
+    },
+    {
+      "english": "Stop studying, start reacting",
+      "spanish": "Deja de estudiar, empieza a reaccionar",
+      "category": "Motivation",
+      "generated_at": "2026-06-15T19:04:17.925940"
+    },
+    {
+      "english": "Stop overthinking, answer fast",
+      "spanish": "Deja de pensar, responde rápido",
+      "category": "Motivation",
+      "generated_at": "2026-06-15T19:04:17.925965"
+    },
+    {
+      "english": "Stop translating, use real examples",
+      "spanish": "Deja traducir, usa ejemplos reales",
+      "category": "Motivation",
+      "generated_at": "2026-06-15T19:04:17.925981"
+    },
+    {
+      "english": "The secret, shadow every day",
+      "spanish": "El secreto, repite en sombra",
+      "category": "Motivation",
+      "generated_at": "2026-06-15T19:04:17.925994"
+    },
+    {
+      "english": "Never explain, just give a vibe",
+      "spanish": "Nunca expliques, solo da vibra",
+      "category": "Motivation",
+      "generated_at": "2026-06-15T19:04:17.926008"
     }
   ],
   "used_english": [
@@ -9913,7 +9943,12 @@
     "this is why 'vale' calms everything",
     "what nobody tells you, relax endings",
     "stop forcing, let your words land",
-    "never explain first, just share one feeling"
+    "never explain first, just share one feeling",
+    "stop studying, start reacting",
+    "stop overthinking, answer fast",
+    "stop translating, use real examples",
+    "the secret, shadow every day",
+    "never explain, just give a vibe"
   ],
-  "last_updated": "2026-06-15T17:59:07.898314"
+  "last_updated": "2026-06-15T19:04:17.926010"
 }
