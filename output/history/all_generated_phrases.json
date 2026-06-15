@@ -8555,6 +8555,36 @@
       "spanish": "Nunca estudies en silencio, graba tu respuesta",
       "category": "Strength",
       "generated_at": "2026-06-15T20:25:40.563820"
+    },
+    {
+      "english": "Stop avoiding practice, do this today",
+      "spanish": "Deja evitar practicar, hazlo hoy",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:47:11.359951"
+    },
+    {
+      "english": "Never say 'maybe', use 'de una'",
+      "spanish": "Nunca digas 'tal vez', usa 'de una'",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:47:11.359979"
+    },
+    {
+      "english": "Stop perfecting, just make it clear",
+      "spanish": "Deja perfeccionar, hazlo claro",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:47:11.359995"
+    },
+    {
+      "english": "Never ask for words, ask why",
+      "spanish": "Nunca pidas palabras, pregunta 'por qué'",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:47:11.360008"
+    },
+    {
+      "english": "The secret? Repeat the same line",
+      "spanish": "El secreto, repite la misma frase",
+      "category": "Growth",
+      "generated_at": "2026-06-15T21:47:11.360022"
     }
   ],
   "used_english": [
@@ -9983,7 +10013,12 @@
     "the secret? use one shortcut phrase",
     "stop chasing perfection, speak anyway",
     "this one word fixes your flow",
-    "never study silently, record your reply"
+    "never study silently, record your reply",
+    "stop avoiding practice, do this today",
+    "never say 'maybe', use 'de una'",
+    "stop perfecting, just make it clear",
+    "never ask for words, ask why",
+    "the secret? repeat the same line"
   ],
-  "last_updated": "2026-06-15T20:25:40.563823"
+  "last_updated": "2026-06-15T21:47:11.360024"
 }
