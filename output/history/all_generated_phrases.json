@@ -8525,6 +8525,36 @@
       "spanish": "Nunca expliques, solo da vibra",
       "category": "Motivation",
       "generated_at": "2026-06-15T19:04:17.926008"
+    },
+    {
+      "english": "Stop saying “I’ll try”, start now",
+      "spanish": "Deja de decir “lo intentaré”, empieza ya",
+      "category": "Strength",
+      "generated_at": "2026-06-15T20:25:40.563750"
+    },
+    {
+      "english": "The secret? Use one shortcut phrase",
+      "spanish": "El secreto, usa una frase atajo",
+      "category": "Strength",
+      "generated_at": "2026-06-15T20:25:40.563777"
+    },
+    {
+      "english": "Stop chasing perfection, speak anyway",
+      "spanish": "Deja de buscar perfección, habla igual",
+      "category": "Strength",
+      "generated_at": "2026-06-15T20:25:40.563792"
+    },
+    {
+      "english": "This one word fixes your flow",
+      "spanish": "Esta palabra arregla tu fluidez",
+      "category": "Strength",
+      "generated_at": "2026-06-15T20:25:40.563807"
+    },
+    {
+      "english": "Never study silently, record your reply",
+      "spanish": "Nunca estudies en silencio, graba tu respuesta",
+      "category": "Strength",
+      "generated_at": "2026-06-15T20:25:40.563820"
     }
   ],
   "used_english": [
@@ -9948,7 +9978,12 @@
     "stop overthinking, answer fast",
     "stop translating, use real examples",
     "the secret, shadow every day",
-    "never explain, just give a vibe"
+    "never explain, just give a vibe",
+    "stop saying “i’ll try”, start now",
+    "the secret? use one shortcut phrase",
+    "stop chasing perfection, speak anyway",
+    "this one word fixes your flow",
+    "never study silently, record your reply"
   ],
-  "last_updated": "2026-06-15T19:04:17.926010"
+  "last_updated": "2026-06-15T20:25:40.563823"
 }
