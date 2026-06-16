@@ -8705,6 +8705,36 @@
       "spanish": "El secreto, pregunta, y reacciona",
       "category": "Strength",
       "generated_at": "2026-06-16T20:12:41.831216"
+    },
+    {
+      "english": "Stop memorizing, practice the pause",
+      "spanish": "Deja de memorizar, practica la pausa",
+      "category": "Hope",
+      "generated_at": "2026-06-16T21:43:17.662930"
+    },
+    {
+      "english": "Never chase perfect grammar—talk anyway",
+      "spanish": "Nunca persigas gramática perfecta—habla igual",
+      "category": "Hope",
+      "generated_at": "2026-06-16T21:43:17.662956"
+    },
+    {
+      "english": "The secret... swap questions for answers",
+      "spanish": "El secreto... cambia preguntas por respuestas",
+      "category": "Hope",
+      "generated_at": "2026-06-16T21:43:17.662971"
+    },
+    {
+      "english": "Stop translating, describe your day",
+      "spanish": "Deja de traducir, describe tu día",
+      "category": "Hope",
+      "generated_at": "2026-06-16T21:43:17.662985"
+    },
+    {
+      "english": "This one habit accelerates confidence",
+      "spanish": "Este hábito acelera tu confianza",
+      "category": "Hope",
+      "generated_at": "2026-06-16T21:43:17.662999"
     }
   ],
   "used_english": [
@@ -10158,7 +10188,12 @@
     "never pause, keep it moving",
     "never fear small verbs, use them",
     "what nobody tells you, copy intonation",
-    "the secret, ask, then react"
+    "the secret, ask, then react",
+    "stop memorizing, practice the pause",
+    "never chase perfect grammar—talk anyway",
+    "the secret... swap questions for answers",
+    "stop translating, describe your day",
+    "this one habit accelerates confidence"
   ],
-  "last_updated": "2026-06-16T20:12:41.831218"
+  "last_updated": "2026-06-16T21:43:17.663001"
 }
