@@ -8615,6 +8615,36 @@
       "spanish": "No esperes, responde antes de pensar",
       "category": "Growth",
       "generated_at": "2026-06-15T22:53:56.255756"
+    },
+    {
+      "english": "Stop stalling, use “ahora”",
+      "spanish": "Para, usa “ahora”",
+      "category": "Love",
+      "generated_at": "2026-06-16T18:05:52.787699"
+    },
+    {
+      "english": "Stop begging for perfect words",
+      "spanish": "Deja pedir palabras perfectas",
+      "category": "Love",
+      "generated_at": "2026-06-16T18:05:52.787722"
+    },
+    {
+      "english": "Never end with silence, add “todavía”",
+      "spanish": "Nunca termines en silencio, “todavía”",
+      "category": "Love",
+      "generated_at": "2026-06-16T18:05:52.787737"
+    },
+    {
+      "english": "Stop hiding behind “maybe”",
+      "spanish": "Deja esconderte con “quizá”",
+      "category": "Love",
+      "generated_at": "2026-06-16T18:05:52.787750"
+    },
+    {
+      "english": "Never overthink, just start smiling",
+      "spanish": "No sobrepienses, sonríe ya",
+      "category": "Love",
+      "generated_at": "2026-06-16T18:05:52.787766"
     }
   ],
   "used_english": [
@@ -10053,7 +10083,12 @@
     "the secret? speak with feeling first",
     "never restart, continue the same sentence",
     "this tiny phrase unlocks confidence fast",
-    "stop waiting, answer before you think"
+    "stop waiting, answer before you think",
+    "stop stalling, use “ahora”",
+    "stop begging for perfect words",
+    "never end with silence, add “todavía”",
+    "stop hiding behind “maybe”",
+    "never overthink, just start smiling"
   ],
-  "last_updated": "2026-06-15T22:53:56.255758"
+  "last_updated": "2026-06-16T18:05:52.787768"
 }
