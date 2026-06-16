@@ -8675,6 +8675,36 @@
       "spanish": "No traduzcas, resume en español",
       "category": "Courage",
       "generated_at": "2026-06-16T18:55:10.266144"
+    },
+    {
+      "english": "Stop asking for grammar, speak",
+      "spanish": "Deja de pedir gramática, habla",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:12:41.831154"
+    },
+    {
+      "english": "Never pause, keep it moving",
+      "spanish": "Nunca te detengas, sigue",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:12:41.831174"
+    },
+    {
+      "english": "Never fear small verbs, use them",
+      "spanish": "No temas verbos simples, úsalos",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:12:41.831190"
+    },
+    {
+      "english": "What nobody tells you, copy intonation",
+      "spanish": "Lo que nadie te dice, copia la entonación",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:12:41.831203"
+    },
+    {
+      "english": "The secret, ask, then react",
+      "spanish": "El secreto, pregunta, y reacciona",
+      "category": "Strength",
+      "generated_at": "2026-06-16T20:12:41.831216"
     }
   ],
   "used_english": [
@@ -10123,7 +10153,12 @@
     "stop searching, start using this",
     "this is why natives pause less",
     "stop repeating the same sentence",
-    "never translate, summarize in spanish"
+    "never translate, summarize in spanish",
+    "stop asking for grammar, speak",
+    "never pause, keep it moving",
+    "never fear small verbs, use them",
+    "what nobody tells you, copy intonation",
+    "the secret, ask, then react"
   ],
-  "last_updated": "2026-06-16T18:55:10.266146"
+  "last_updated": "2026-06-16T20:12:41.831218"
 }
