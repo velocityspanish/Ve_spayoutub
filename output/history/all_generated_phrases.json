@@ -8735,6 +8735,36 @@
       "spanish": "Este hábito acelera tu confianza",
       "category": "Hope",
       "generated_at": "2026-06-16T21:43:17.662999"
+    },
+    {
+      "english": "Stop overexplaining, just name the feeling",
+      "spanish": "Deja de explicar, nombra el sentimiento",
+      "category": "Wisdom",
+      "generated_at": "2026-06-16T22:46:25.405543"
+    },
+    {
+      "english": "Never fear “por” and “para”",
+      "spanish": "Nunca temas “por” y “para”",
+      "category": "Wisdom",
+      "generated_at": "2026-06-16T22:46:25.405567"
+    },
+    {
+      "english": "Stop translating, answer with your story",
+      "spanish": "Deja de traducir, responde con tu historia",
+      "category": "Wisdom",
+      "generated_at": "2026-06-16T22:46:25.405581"
+    },
+    {
+      "english": "Never restart, keep the momentum",
+      "spanish": "Nunca reinicies, sigue el ritmo",
+      "category": "Wisdom",
+      "generated_at": "2026-06-16T22:46:25.405595"
+    },
+    {
+      "english": "This is why your accent improves fast",
+      "spanish": "Esto es por qué tu acento mejora rápido",
+      "category": "Wisdom",
+      "generated_at": "2026-06-16T22:46:25.405631"
     }
   ],
   "used_english": [
@@ -10193,7 +10223,12 @@
     "never chase perfect grammar—talk anyway",
     "the secret... swap questions for answers",
     "stop translating, describe your day",
-    "this one habit accelerates confidence"
+    "this one habit accelerates confidence",
+    "stop overexplaining, just name the feeling",
+    "never fear “por” and “para”",
+    "stop translating, answer with your story",
+    "never restart, keep the momentum",
+    "this is why your accent improves fast"
   ],
-  "last_updated": "2026-06-16T21:43:17.663001"
+  "last_updated": "2026-06-16T22:46:25.405634"
 }
