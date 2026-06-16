@@ -8645,6 +8645,36 @@
       "spanish": "No sobrepienses, sonríe ya",
       "category": "Love",
       "generated_at": "2026-06-16T18:05:52.787766"
+    },
+    {
+      "english": "Never fear, you’re learning out loud",
+      "spanish": "Nunca tengas miedo, aprende en voz alta",
+      "category": "Courage",
+      "generated_at": "2026-06-16T18:55:10.266074"
+    },
+    {
+      "english": "Stop searching, start using this",
+      "spanish": "Deja de buscar, usa esto ya",
+      "category": "Courage",
+      "generated_at": "2026-06-16T18:55:10.266100"
+    },
+    {
+      "english": "This is why natives pause less",
+      "spanish": "Por eso los nativos dudan menos",
+      "category": "Courage",
+      "generated_at": "2026-06-16T18:55:10.266115"
+    },
+    {
+      "english": "Stop repeating the same sentence",
+      "spanish": "Deja de repetir la misma frase",
+      "category": "Courage",
+      "generated_at": "2026-06-16T18:55:10.266130"
+    },
+    {
+      "english": "Never translate, summarize in Spanish",
+      "spanish": "No traduzcas, resume en español",
+      "category": "Courage",
+      "generated_at": "2026-06-16T18:55:10.266144"
     }
   ],
   "used_english": [
@@ -10088,7 +10118,12 @@
     "stop begging for perfect words",
     "never end with silence, add “todavía”",
     "stop hiding behind “maybe”",
-    "never overthink, just start smiling"
+    "never overthink, just start smiling",
+    "never fear, you’re learning out loud",
+    "stop searching, start using this",
+    "this is why natives pause less",
+    "stop repeating the same sentence",
+    "never translate, summarize in spanish"
   ],
-  "last_updated": "2026-06-16T18:05:52.787768"
+  "last_updated": "2026-06-16T18:55:10.266146"
 }
