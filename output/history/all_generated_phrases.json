@@ -8885,6 +8885,36 @@
       "spanish": "Este error mata la confianza rápido",
       "category": "Self Improvement",
       "generated_at": "2026-06-17T21:12:14.797561"
+    },
+    {
+      "english": "Stop skipping articles, say them",
+      "spanish": "Deja los artículos, dilo completo",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T22:58:13.889644"
+    },
+    {
+      "english": "The secret is one question, always",
+      "spanish": "El secreto, una pregunta, siempre",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T22:58:13.889667"
+    },
+    {
+      "english": "Stop fearing 'ser', use it",
+      "spanish": "Deja el miedo a 'ser', úsalo",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T22:58:13.889681"
+    },
+    {
+      "english": "Never guess endings, hear them",
+      "spanish": "No adivines finales, escúchalos",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T22:58:13.889696"
+    },
+    {
+      "english": "The secret... reply before you translate",
+      "spanish": "El secreto... responde antes de traducir",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T22:58:13.889709"
     }
   ],
   "used_english": [
@@ -10368,7 +10398,12 @@
     "stop waiting for motivation, do one",
     "the secret... use your body pauses",
     "stop correcting yourself, keep flowing",
-    "this one mistake kills confidence fast"
+    "this one mistake kills confidence fast",
+    "stop skipping articles, say them",
+    "the secret is one question, always",
+    "stop fearing 'ser', use it",
+    "never guess endings, hear them",
+    "the secret... reply before you translate"
   ],
-  "last_updated": "2026-06-17T21:12:14.797563"
+  "last_updated": "2026-06-17T22:58:13.889711"
 }
