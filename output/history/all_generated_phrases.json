@@ -8855,6 +8855,36 @@
       "spanish": "No traduzcas, piensa en escenas",
       "category": "Creativity",
       "generated_at": "2026-06-17T19:25:39.574054"
+    },
+    {
+      "english": "Never study when stressed, breathe first",
+      "spanish": "Nunca estudies estresado, respira primero",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-17T21:12:14.797491"
+    },
+    {
+      "english": "Stop waiting for motivation, do one",
+      "spanish": "Deja de esperar motivación, haz una",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-17T21:12:14.797518"
+    },
+    {
+      "english": "The secret... use your body pauses",
+      "spanish": "El secreto... usa pausas con tu cuerpo",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-17T21:12:14.797534"
+    },
+    {
+      "english": "Stop correcting yourself, keep flowing",
+      "spanish": "No te corrijas, sigue fluyendo",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-17T21:12:14.797548"
+    },
+    {
+      "english": "This one mistake kills confidence fast",
+      "spanish": "Este error mata la confianza rápido",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-17T21:12:14.797561"
     }
   ],
   "used_english": [
@@ -10333,7 +10363,12 @@
     "never overthink, say “sí, claro”",
     "stop “learning,” start answering questions",
     "the secret is speed, with clarity",
-    "never translate, think in scenes"
+    "never translate, think in scenes",
+    "never study when stressed, breathe first",
+    "stop waiting for motivation, do one",
+    "the secret... use your body pauses",
+    "stop correcting yourself, keep flowing",
+    "this one mistake kills confidence fast"
   ],
-  "last_updated": "2026-06-17T19:25:39.574056"
+  "last_updated": "2026-06-17T21:12:14.797563"
 }
