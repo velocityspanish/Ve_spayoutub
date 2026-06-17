@@ -8825,6 +8825,36 @@
       "spanish": "Esta pregunta desbloquea respuestas fluidas",
       "category": "Purpose",
       "generated_at": "2026-06-17T17:49:35.126816"
+    },
+    {
+      "english": "Never memorize, memorize THIS response",
+      "spanish": "No memorices, aprende esta respuesta",
+      "category": "Creativity",
+      "generated_at": "2026-06-17T19:25:39.573988"
+    },
+    {
+      "english": "Never overthink, say “sí, claro”",
+      "spanish": "No pienses tanto, di “sí, claro”",
+      "category": "Creativity",
+      "generated_at": "2026-06-17T19:25:39.574011"
+    },
+    {
+      "english": "Stop “learning,” start answering questions",
+      "spanish": "Deja de “aprender,” contesta ya",
+      "category": "Creativity",
+      "generated_at": "2026-06-17T19:25:39.574025"
+    },
+    {
+      "english": "The secret is speed, with clarity",
+      "spanish": "El secreto es rapidez, con claridad",
+      "category": "Creativity",
+      "generated_at": "2026-06-17T19:25:39.574040"
+    },
+    {
+      "english": "Never translate, think in scenes",
+      "spanish": "No traduzcas, piensa en escenas",
+      "category": "Creativity",
+      "generated_at": "2026-06-17T19:25:39.574054"
     }
   ],
   "used_english": [
@@ -10298,7 +10328,12 @@
     "never say 'i understand', prove it",
     "stop studying verbs, use them now",
     "never fear mistakes, upgrade instantly",
-    "this one question unlocks fluent replies"
+    "this one question unlocks fluent replies",
+    "never memorize, memorize this response",
+    "never overthink, say “sí, claro”",
+    "stop “learning,” start answering questions",
+    "the secret is speed, with clarity",
+    "never translate, think in scenes"
   ],
-  "last_updated": "2026-06-17T17:49:35.126818"
+  "last_updated": "2026-06-17T19:25:39.574056"
 }
