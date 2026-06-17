@@ -8765,6 +8765,36 @@
       "spanish": "Esto es por qué tu acento mejora rápido",
       "category": "Wisdom",
       "generated_at": "2026-06-16T22:46:25.405631"
+    },
+    {
+      "english": "Stop asking, start feeling it",
+      "spanish": "Deja de preguntar, ¡siente eso!",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T16:40:10.651011"
+    },
+    {
+      "english": "Never perfect, just connect emotionally",
+      "spanish": "Nunca perfecciones, conecta emocionalmente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T16:40:10.651033"
+    },
+    {
+      "english": "The secret? Say it slowly, boldly",
+      "spanish": "El secreto: dilo lento, valiente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T16:40:10.651048"
+    },
+    {
+      "english": "This one sentence ends your stress",
+      "spanish": "Esta frase termina tu estrés.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T16:40:10.651063"
+    },
+    {
+      "english": "The secret is jokes, not rules",
+      "spanish": "El secreto son chistes, no reglas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T16:40:10.651077"
     }
   ],
   "used_english": [
@@ -10228,7 +10258,12 @@
     "never fear “por” and “para”",
     "stop translating, answer with your story",
     "never restart, keep the momentum",
-    "this is why your accent improves fast"
+    "this is why your accent improves fast",
+    "stop asking, start feeling it",
+    "never perfect, just connect emotionally",
+    "the secret? say it slowly, boldly",
+    "this one sentence ends your stress",
+    "the secret is jokes, not rules"
   ],
-  "last_updated": "2026-06-16T22:46:25.405634"
+  "last_updated": "2026-06-17T16:40:10.651078"
 }
