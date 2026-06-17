@@ -8795,6 +8795,36 @@
       "spanish": "El secreto son chistes, no reglas.",
       "category": "Forgiveness",
       "generated_at": "2026-06-17T16:40:10.651077"
+    },
+    {
+      "english": "Stop learning alone, speak daily",
+      "spanish": "Deja de aprender solo, habla diario",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T17:49:35.126748"
+    },
+    {
+      "english": "Never say 'I understand', prove it",
+      "spanish": "Nunca digas 'lo entiendo', demuéstralo",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T17:49:35.126773"
+    },
+    {
+      "english": "Stop studying verbs, use them now",
+      "spanish": "Deja de estudiar verbos, úsalos ya",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T17:49:35.126789"
+    },
+    {
+      "english": "Never fear mistakes, upgrade instantly",
+      "spanish": "No temas errores, mejora al instante",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T17:49:35.126803"
+    },
+    {
+      "english": "This one question unlocks fluent replies",
+      "spanish": "Esta pregunta desbloquea respuestas fluidas",
+      "category": "Purpose",
+      "generated_at": "2026-06-17T17:49:35.126816"
     }
   ],
   "used_english": [
@@ -10263,7 +10293,12 @@
     "never perfect, just connect emotionally",
     "the secret? say it slowly, boldly",
     "this one sentence ends your stress",
-    "the secret is jokes, not rules"
+    "the secret is jokes, not rules",
+    "stop learning alone, speak daily",
+    "never say 'i understand', prove it",
+    "stop studying verbs, use them now",
+    "never fear mistakes, upgrade instantly",
+    "this one question unlocks fluent replies"
   ],
-  "last_updated": "2026-06-17T16:40:10.651078"
+  "last_updated": "2026-06-17T17:49:35.126818"
 }
