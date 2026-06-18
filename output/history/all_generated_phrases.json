@@ -8945,6 +8945,36 @@
       "spanish": "Nunca persigas lo perfecto, persigue luz",
       "category": "Happiness",
       "generated_at": "2026-06-18T16:50:13.566236"
+    },
+    {
+      "english": "Stop chasing calm, breathe first",
+      "spanish": "Deja de perseguir la calma, respira",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T18:01:15.115759"
+    },
+    {
+      "english": "Stop negotiating peace, just do it",
+      "spanish": "Deja de negociar la paz, hazlo",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T18:01:15.115783"
+    },
+    {
+      "english": "Never rush truth, pause then say",
+      "spanish": "Nunca corras la verdad, pausa y di",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T18:01:15.115799"
+    },
+    {
+      "english": "The secret is soft, not perfect",
+      "spanish": "El secreto es suave, no perfecto",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T18:01:15.115814"
+    },
+    {
+      "english": "Never fight today, just flow",
+      "spanish": "No pelees con hoy, fluye",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-18T18:01:15.115828"
     }
   ],
   "used_english": [
@@ -10438,7 +10468,12 @@
     "never shrink—say it proudly",
     "the secret? share small wins",
     "stop overthinking, breathe and say",
-    "never chase perfect, chase light"
+    "never chase perfect, chase light",
+    "stop chasing calm, breathe first",
+    "stop negotiating peace, just do it",
+    "never rush truth, pause then say",
+    "the secret is soft, not perfect",
+    "never fight today, just flow"
   ],
-  "last_updated": "2026-06-18T16:50:13.566238"
+  "last_updated": "2026-06-18T18:01:15.115829"
 }
