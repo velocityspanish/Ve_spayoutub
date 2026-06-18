@@ -8915,6 +8915,36 @@
       "spanish": "El secreto... responde antes de traducir",
       "category": "Wisdom",
       "generated_at": "2026-06-17T22:58:13.889709"
+    },
+    {
+      "english": "Stop waiting, your joy speaks",
+      "spanish": "Deja esperar, tu alegría habla",
+      "category": "Happiness",
+      "generated_at": "2026-06-18T16:50:13.566165"
+    },
+    {
+      "english": "Never shrink—say it proudly",
+      "spanish": "Nunca te achiques, díselo orgulloso",
+      "category": "Happiness",
+      "generated_at": "2026-06-18T16:50:13.566190"
+    },
+    {
+      "english": "The secret? Share small wins",
+      "spanish": "El secreto, celebra pequeñas victorias",
+      "category": "Happiness",
+      "generated_at": "2026-06-18T16:50:13.566205"
+    },
+    {
+      "english": "Stop overthinking, breathe and say",
+      "spanish": "Deja pensar de más, respira y di",
+      "category": "Happiness",
+      "generated_at": "2026-06-18T16:50:13.566221"
+    },
+    {
+      "english": "Never chase perfect, chase light",
+      "spanish": "Nunca persigas lo perfecto, persigue luz",
+      "category": "Happiness",
+      "generated_at": "2026-06-18T16:50:13.566236"
     }
   ],
   "used_english": [
@@ -10403,7 +10433,12 @@
     "the secret is one question, always",
     "stop fearing 'ser', use it",
     "never guess endings, hear them",
-    "the secret... reply before you translate"
+    "the secret... reply before you translate",
+    "stop waiting, your joy speaks",
+    "never shrink—say it proudly",
+    "the secret? share small wins",
+    "stop overthinking, breathe and say",
+    "never chase perfect, chase light"
   ],
-  "last_updated": "2026-06-17T22:58:13.889711"
+  "last_updated": "2026-06-18T16:50:13.566238"
 }
