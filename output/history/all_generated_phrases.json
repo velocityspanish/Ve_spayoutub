@@ -9035,6 +9035,36 @@
       "spanish": "Nunca preguntes, '¿cómo lo digo?'",
       "category": "Hope",
       "generated_at": "2026-06-18T21:26:26.473106"
+    },
+    {
+      "english": "Stop replaying mistakes, forgive faster",
+      "spanish": "Deja de repetir errores, perdona más rápido",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:51:24.387439"
+    },
+    {
+      "english": "Never blame yourself, practice anyway",
+      "spanish": "Nunca te culpes, practica igual",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:51:24.387466"
+    },
+    {
+      "english": "This is why forgiveness unlocks Spanish",
+      "spanish": "Por eso, la perdón desbloquea español",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:51:24.387481"
+    },
+    {
+      "english": "The secret? Say “lo intenté”",
+      "spanish": "El secreto: “lo intenté”",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:51:24.387496"
+    },
+    {
+      "english": "Stop spiraling, use one kind phrase",
+      "spanish": "Deja el caos, usa una frase amable",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:51:24.387512"
     }
   ],
   "used_english": [
@@ -10543,7 +10573,12 @@
     "the secret? answer with feelings, not facts",
     "stop overthinking, name what you want",
     "this fixes your tense in seconds",
-    "never ask, 'how do i say?'"
+    "never ask, 'how do i say?'",
+    "stop replaying mistakes, forgive faster",
+    "never blame yourself, practice anyway",
+    "this is why forgiveness unlocks spanish",
+    "the secret? say “lo intenté”",
+    "stop spiraling, use one kind phrase"
   ],
-  "last_updated": "2026-06-18T21:26:26.473108"
+  "last_updated": "2026-06-18T22:51:24.387514"
 }
