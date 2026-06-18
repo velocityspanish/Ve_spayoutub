@@ -9005,6 +9005,36 @@
       "spanish": "Tu progreso es fuerte, sigue",
       "category": "Perseverance",
       "generated_at": "2026-06-18T19:46:28.478741"
+    },
+    {
+      "english": "Never fear, use 'pues' for flow",
+      "spanish": "Nunca temas, usa 'pues' para fluir",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:26:26.473035"
+    },
+    {
+      "english": "The secret? Answer with feelings, not facts",
+      "spanish": "El secreto, responde con emoción",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:26:26.473061"
+    },
+    {
+      "english": "Stop overthinking, name what you want",
+      "spanish": "Para de pensar, di lo que quieres",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:26:26.473077"
+    },
+    {
+      "english": "This fixes your tense in seconds",
+      "spanish": "Esto arregla tus tiempos, rápido",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:26:26.473092"
+    },
+    {
+      "english": "Never ask, 'how do I say?'",
+      "spanish": "Nunca preguntes, '¿cómo lo digo?'",
+      "category": "Hope",
+      "generated_at": "2026-06-18T21:26:26.473106"
     }
   ],
   "used_english": [
@@ -10508,7 +10538,12 @@
     "never wait, speak imperfectly—today",
     "the secret... answer, then improve",
     "never apologize, say it with confidence",
-    "your progress is loud, keep going"
+    "your progress is loud, keep going",
+    "never fear, use 'pues' for flow",
+    "the secret? answer with feelings, not facts",
+    "stop overthinking, name what you want",
+    "this fixes your tense in seconds",
+    "never ask, 'how do i say?'"
   ],
-  "last_updated": "2026-06-18T19:46:28.478743"
+  "last_updated": "2026-06-18T21:26:26.473108"
 }
