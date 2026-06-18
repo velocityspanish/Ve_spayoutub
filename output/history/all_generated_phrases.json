@@ -8975,6 +8975,36 @@
       "spanish": "No pelees con hoy, fluye",
       "category": "Inner Peace",
       "generated_at": "2026-06-18T18:01:15.115828"
+    },
+    {
+      "english": "Stop memorizing, start surviving conversations",
+      "spanish": "Deja de memorizar, empieza a sobrevivir",
+      "category": "Perseverance",
+      "generated_at": "2026-06-18T19:46:28.478672"
+    },
+    {
+      "english": "Never wait, speak imperfectly—today",
+      "spanish": "Nunca esperes, habla imperfecto—hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-06-18T19:46:28.478696"
+    },
+    {
+      "english": "The secret... answer, then improve",
+      "spanish": "El secreto... responde, luego mejora",
+      "category": "Perseverance",
+      "generated_at": "2026-06-18T19:46:28.478712"
+    },
+    {
+      "english": "Never apologize, say it with confidence",
+      "spanish": "No pidas perdón, d í lo seguro",
+      "category": "Perseverance",
+      "generated_at": "2026-06-18T19:46:28.478726"
+    },
+    {
+      "english": "Your progress is loud, keep going",
+      "spanish": "Tu progreso es fuerte, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-06-18T19:46:28.478741"
     }
   ],
   "used_english": [
@@ -10473,7 +10503,12 @@
     "stop negotiating peace, just do it",
     "never rush truth, pause then say",
     "the secret is soft, not perfect",
-    "never fight today, just flow"
+    "never fight today, just flow",
+    "stop memorizing, start surviving conversations",
+    "never wait, speak imperfectly—today",
+    "the secret... answer, then improve",
+    "never apologize, say it with confidence",
+    "your progress is loud, keep going"
   ],
-  "last_updated": "2026-06-18T18:01:15.115829"
+  "last_updated": "2026-06-18T19:46:28.478743"
 }
