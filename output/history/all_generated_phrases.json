@@ -9155,6 +9155,36 @@
       "spanish": "Nunca tengas miedo, habla igual",
       "category": "Patience",
       "generated_at": "2026-06-19T18:54:32.517923"
+    },
+    {
+      "english": "Stop ghosting, send the Spanish",
+      "spanish": "Deja de desaparecer, manda español",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T20:27:20.865032"
+    },
+    {
+      "english": "Never sound stuck, keep it flowing",
+      "spanish": "Nunca suenes trabado, sigue fluyendo",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T20:27:20.865055"
+    },
+    {
+      "english": "Stop overthinking, ask one thing",
+      "spanish": "Deja de pensar, pregunta una cosa",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T20:27:20.865071"
+    },
+    {
+      "english": "Never study alone, duet with audio",
+      "spanish": "No estudies solo, haz dúo con audio",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T20:27:20.865086"
+    },
+    {
+      "english": "Stop translating, act out your line",
+      "spanish": "Deja de traducir, actúa tu frase",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T20:27:20.865101"
     }
   ],
   "used_english": [
@@ -10683,7 +10713,12 @@
     "stop overchecking, just send it",
     "never study alone, do voice practice",
     "stop waiting, narrate your next move",
-    "never fear imperfect, speak anyway"
+    "never fear imperfect, speak anyway",
+    "stop ghosting, send the spanish",
+    "never sound stuck, keep it flowing",
+    "stop overthinking, ask one thing",
+    "never study alone, duet with audio",
+    "stop translating, act out your line"
   ],
-  "last_updated": "2026-06-19T18:54:32.517924"
+  "last_updated": "2026-06-19T20:27:20.865103"
 }
