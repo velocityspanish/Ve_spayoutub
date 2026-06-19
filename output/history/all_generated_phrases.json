@@ -9125,6 +9125,36 @@
       "spanish": "Deja de traducir, describe y respira",
       "category": "Purpose",
       "generated_at": "2026-06-19T17:20:17.431093"
+    },
+    {
+      "english": "This is why your 'thinks' fail",
+      "spanish": "Esto es por qué fallan tus 'piensas'",
+      "category": "Patience",
+      "generated_at": "2026-06-19T18:54:32.517866"
+    },
+    {
+      "english": "Stop overchecking, just send it",
+      "spanish": "Deja de sobrepensar, envíalo",
+      "category": "Patience",
+      "generated_at": "2026-06-19T18:54:32.517887"
+    },
+    {
+      "english": "Never study alone, do voice practice",
+      "spanish": "Nunca estudies solo, practica en voz",
+      "category": "Patience",
+      "generated_at": "2026-06-19T18:54:32.517899"
+    },
+    {
+      "english": "Stop waiting, narrate your next move",
+      "spanish": "Deja de esperar, narra tu próximo paso",
+      "category": "Patience",
+      "generated_at": "2026-06-19T18:54:32.517911"
+    },
+    {
+      "english": "Never fear imperfect, speak anyway",
+      "spanish": "Nunca tengas miedo, habla igual",
+      "category": "Patience",
+      "generated_at": "2026-06-19T18:54:32.517923"
     }
   ],
   "used_english": [
@@ -10648,7 +10678,12 @@
     "the secret, answer in chunks",
     "this one cue boosts fluency today",
     "never study silently, talk anyway",
-    "stop translating, describe, then breathe"
+    "stop translating, describe, then breathe",
+    "this is why your 'thinks' fail",
+    "stop overchecking, just send it",
+    "never study alone, do voice practice",
+    "stop waiting, narrate your next move",
+    "never fear imperfect, speak anyway"
   ],
-  "last_updated": "2026-06-19T17:20:17.431095"
+  "last_updated": "2026-06-19T18:54:32.517924"
 }
