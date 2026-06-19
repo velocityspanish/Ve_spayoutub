@@ -9095,6 +9095,36 @@
       "spanish": "El secreto, empieza con “me gusta”",
       "category": "Wisdom",
       "generated_at": "2026-06-19T16:07:16.608133"
+    },
+    {
+      "english": "Never freeze, just say 'bueno'",
+      "spanish": "Nunca te congeles, di 'bueno'",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:20:17.431026"
+    },
+    {
+      "english": "The secret, answer in chunks",
+      "spanish": "El secreto, responde en trozos",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:20:17.431050"
+    },
+    {
+      "english": "This one cue boosts fluency today",
+      "spanish": "Esta señal sube tu fluidez hoy",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:20:17.431065"
+    },
+    {
+      "english": "Never study silently, talk anyway",
+      "spanish": "Nunca estudies en silencio, habla igual",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:20:17.431080"
+    },
+    {
+      "english": "Stop translating, describe, then breathe",
+      "spanish": "Deja de traducir, describe y respira",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:20:17.431093"
     }
   ],
   "used_english": [
@@ -10613,7 +10643,12 @@
     "never say “okay,” use “claro”",
     "stop memorizing, steal these 3 verbs",
     "stop overexplaining, keep it simple",
-    "the secret? start with “me gusta”"
+    "the secret? start with “me gusta”",
+    "never freeze, just say 'bueno'",
+    "the secret, answer in chunks",
+    "this one cue boosts fluency today",
+    "never study silently, talk anyway",
+    "stop translating, describe, then breathe"
   ],
-  "last_updated": "2026-06-19T16:07:16.608135"
+  "last_updated": "2026-06-19T17:20:17.431095"
 }
