@@ -9185,6 +9185,36 @@
       "spanish": "Deja de traducir, actúa tu frase",
       "category": "Friendship",
       "generated_at": "2026-06-19T20:27:20.865101"
+    },
+    {
+      "english": "Stop practicing, say thanks—now",
+      "spanish": "Deja practicar, di gracias—ahora",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T21:57:04.454519"
+    },
+    {
+      "english": "Never rush, say “te agradezco”",
+      "spanish": "Nunca corras, di “te agradezco”",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T21:57:04.454543"
+    },
+    {
+      "english": "The secret... gratitude makes Spanish stick",
+      "spanish": "El secreto... la gratitud te pega",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T21:57:04.454557"
+    },
+    {
+      "english": "This one habit, thank someone daily",
+      "spanish": "Este hábito, agradece cada día",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T21:57:04.454572"
+    },
+    {
+      "english": "Stop scrolling, send “gracias” today",
+      "spanish": "Deja el celular, manda “gracias” hoy",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T21:57:04.454587"
     }
   ],
   "used_english": [
@@ -10718,7 +10748,12 @@
     "never sound stuck, keep it flowing",
     "stop overthinking, ask one thing",
     "never study alone, duet with audio",
-    "stop translating, act out your line"
+    "stop translating, act out your line",
+    "stop practicing, say thanks—now",
+    "never rush, say “te agradezco”",
+    "the secret... gratitude makes spanish stick",
+    "this one habit, thank someone daily",
+    "stop scrolling, send “gracias” today"
   ],
-  "last_updated": "2026-06-19T20:27:20.865103"
+  "last_updated": "2026-06-19T21:57:04.454589"
 }
