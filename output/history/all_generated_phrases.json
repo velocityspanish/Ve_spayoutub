@@ -9065,6 +9065,36 @@
       "spanish": "Deja el caos, usa una frase amable",
       "category": "Forgiveness",
       "generated_at": "2026-06-18T22:51:24.387512"
+    },
+    {
+      "english": "Stop translating, just tell the truth",
+      "spanish": "Deja de traducir, di la verdad",
+      "category": "Wisdom",
+      "generated_at": "2026-06-19T16:07:16.608065"
+    },
+    {
+      "english": "Never say “okay,” use “claro”",
+      "spanish": "Nunca digas “okay”, di “claro”",
+      "category": "Wisdom",
+      "generated_at": "2026-06-19T16:07:16.608087"
+    },
+    {
+      "english": "Stop memorizing, steal these 3 verbs",
+      "spanish": "Deja de memorizar, roba tres verbos",
+      "category": "Wisdom",
+      "generated_at": "2026-06-19T16:07:16.608103"
+    },
+    {
+      "english": "Stop overexplaining, keep it simple",
+      "spanish": "No expliques de más, simple",
+      "category": "Wisdom",
+      "generated_at": "2026-06-19T16:07:16.608118"
+    },
+    {
+      "english": "The secret? Start with “me gusta”",
+      "spanish": "El secreto, empieza con “me gusta”",
+      "category": "Wisdom",
+      "generated_at": "2026-06-19T16:07:16.608133"
     }
   ],
   "used_english": [
@@ -10578,7 +10608,12 @@
     "never blame yourself, practice anyway",
     "this is why forgiveness unlocks spanish",
     "the secret? say “lo intenté”",
-    "stop spiraling, use one kind phrase"
+    "stop spiraling, use one kind phrase",
+    "stop translating, just tell the truth",
+    "never say “okay,” use “claro”",
+    "stop memorizing, steal these 3 verbs",
+    "stop overexplaining, keep it simple",
+    "the secret? start with “me gusta”"
   ],
-  "last_updated": "2026-06-18T22:51:24.387514"
+  "last_updated": "2026-06-19T16:07:16.608135"
 }
