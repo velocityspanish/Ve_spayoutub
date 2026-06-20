@@ -9335,6 +9335,36 @@
       "spanish": "¿Y si tu acento es ritmo?",
       "category": "Patience",
       "generated_at": "2026-06-20T20:18:50.947550"
+    },
+    {
+      "english": "Stop freezing on “How are you?”",
+      "spanish": "Deja de congelarte con “¿Cómo estás?”",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T21:58:29.174007"
+    },
+    {
+      "english": "The secret: answer with a detail",
+      "spanish": "El secreto, responde con un detalle",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T21:58:29.174030"
+    },
+    {
+      "english": "This one habit kills your accent",
+      "spanish": "Este hábito mata tu acento",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T21:58:29.174045"
+    },
+    {
+      "english": "Never “maybe,” say it with certainty",
+      "spanish": "Nunca “tal vez”, dilo con seguridad",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T21:58:29.174061"
+    },
+    {
+      "english": "What if you learn by replying?",
+      "spanish": "¿Y si aprendes respondiendo?",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T21:58:29.174076"
     }
   ],
   "used_english": [
@@ -10893,7 +10923,12 @@
     "stop buffering, start with 'voy'",
     "this one habit boosts your speed",
     "stop replaying, answer in real time",
-    "what if your 'accent' is rhythm?"
+    "what if your 'accent' is rhythm?",
+    "stop freezing on “how are you?”",
+    "the secret: answer with a detail",
+    "this one habit kills your accent",
+    "never “maybe,” say it with certainty",
+    "what if you learn by replying?"
   ],
-  "last_updated": "2026-06-20T20:18:50.947552"
+  "last_updated": "2026-06-20T21:58:29.174078"
 }
