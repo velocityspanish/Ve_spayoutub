@@ -9275,6 +9275,36 @@
       "spanish": "No pierdas el ritmo, respira",
       "category": "Confidence",
       "generated_at": "2026-06-20T16:19:39.712828"
+    },
+    {
+      "english": "Stop naming words, start meaning",
+      "spanish": "Deja de nombrar, empieza a dar sentido",
+      "category": "Balance",
+      "generated_at": "2026-06-20T18:11:15.449552"
+    },
+    {
+      "english": "Never answer in silence, speak",
+      "spanish": "Nunca respondas en silencio, habla",
+      "category": "Balance",
+      "generated_at": "2026-06-20T18:11:15.449577"
+    },
+    {
+      "english": "The secret is your next sentence",
+      "spanish": "El secreto es tu próxima frase",
+      "category": "Balance",
+      "generated_at": "2026-06-20T18:11:15.449594"
+    },
+    {
+      "english": "Never explain—just respond with action",
+      "spanish": "Nunca expliques, responde con acción",
+      "category": "Balance",
+      "generated_at": "2026-06-20T18:11:15.449609"
+    },
+    {
+      "english": "This one question makes you unstoppable",
+      "spanish": "Esta pregunta te hace imparable",
+      "category": "Balance",
+      "generated_at": "2026-06-20T18:11:15.449623"
     }
   ],
   "used_english": [
@@ -10823,7 +10853,12 @@
     "stop trying to be perfect",
     "this changes your spanish today",
     "stop asking, just narrate now",
-    "never lose pace, breathe mid-sentence"
+    "never lose pace, breathe mid-sentence",
+    "stop naming words, start meaning",
+    "never answer in silence, speak",
+    "the secret is your next sentence",
+    "never explain—just respond with action",
+    "this one question makes you unstoppable"
   ],
-  "last_updated": "2026-06-20T16:19:39.712830"
+  "last_updated": "2026-06-20T18:11:15.449625"
 }
