@@ -9305,6 +9305,36 @@
       "spanish": "Esta pregunta te hace imparable",
       "category": "Balance",
       "generated_at": "2026-06-20T18:11:15.449623"
+    },
+    {
+      "english": "The secret... repeat, but differently",
+      "spanish": "El secreto... repite, pero distinto",
+      "category": "Patience",
+      "generated_at": "2026-06-20T20:18:50.947481"
+    },
+    {
+      "english": "Stop buffering, start with 'voy'",
+      "spanish": "Deja de cargar, empieza con 'voy'",
+      "category": "Patience",
+      "generated_at": "2026-06-20T20:18:50.947504"
+    },
+    {
+      "english": "This one habit boosts your speed",
+      "spanish": "Este hábito sube tu velocidad",
+      "category": "Patience",
+      "generated_at": "2026-06-20T20:18:50.947520"
+    },
+    {
+      "english": "Stop replaying, answer in real time",
+      "spanish": "Deja de repasar, responde en tiempo real",
+      "category": "Patience",
+      "generated_at": "2026-06-20T20:18:50.947536"
+    },
+    {
+      "english": "What if your 'accent' is rhythm?",
+      "spanish": "¿Y si tu acento es ritmo?",
+      "category": "Patience",
+      "generated_at": "2026-06-20T20:18:50.947550"
     }
   ],
   "used_english": [
@@ -10858,7 +10888,12 @@
     "never answer in silence, speak",
     "the secret is your next sentence",
     "never explain—just respond with action",
-    "this one question makes you unstoppable"
+    "this one question makes you unstoppable",
+    "the secret... repeat, but differently",
+    "stop buffering, start with 'voy'",
+    "this one habit boosts your speed",
+    "stop replaying, answer in real time",
+    "what if your 'accent' is rhythm?"
   ],
-  "last_updated": "2026-06-20T18:11:15.449625"
+  "last_updated": "2026-06-20T20:18:50.947552"
 }
