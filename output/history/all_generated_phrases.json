@@ -9245,6 +9245,36 @@
       "spanish": "Esta palabra acelera tu flujo",
       "category": "Growth",
       "generated_at": "2026-06-20T15:04:38.470058"
+    },
+    {
+      "english": "Never wait, answer before thinking",
+      "spanish": "Nunca esperes, responde antes",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T16:19:39.712761"
+    },
+    {
+      "english": "Stop trying to be perfect",
+      "spanish": "No intentes ser perfecto",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T16:19:39.712783"
+    },
+    {
+      "english": "This changes your Spanish today",
+      "spanish": "Esto cambia tu español hoy",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T16:19:39.712799"
+    },
+    {
+      "english": "Stop asking, just narrate now",
+      "spanish": "Deja preguntar, narra ahora",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T16:19:39.712813"
+    },
+    {
+      "english": "Never lose pace, breathe mid-sentence",
+      "spanish": "No pierdas el ritmo, respira",
+      "category": "Confidence",
+      "generated_at": "2026-06-20T16:19:39.712828"
     }
   ],
   "used_english": [
@@ -10788,7 +10818,12 @@
     "this is why you stall on verbs",
     "the secret, use one anchor phrase",
     "never wait for “more vocab”",
-    "this tiny word boosts your flow"
+    "this tiny word boosts your flow",
+    "never wait, answer before thinking",
+    "stop trying to be perfect",
+    "this changes your spanish today",
+    "stop asking, just narrate now",
+    "never lose pace, breathe mid-sentence"
   ],
-  "last_updated": "2026-06-20T15:04:38.470060"
+  "last_updated": "2026-06-20T16:19:39.712830"
 }
