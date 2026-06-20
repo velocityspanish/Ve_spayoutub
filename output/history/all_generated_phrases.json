@@ -9215,6 +9215,36 @@
       "spanish": "Deja el celular, manda “gracias” hoy",
       "category": "Gratitude",
       "generated_at": "2026-06-19T21:57:04.454587"
+    },
+    {
+      "english": "Never say “perfect”—say “close enough”",
+      "spanish": "Nunca digas “perfecto”, di “vale”",
+      "category": "Growth",
+      "generated_at": "2026-06-20T15:04:38.469990"
+    },
+    {
+      "english": "This is why you stall on verbs",
+      "spanish": "Por eso te atoras con verbos",
+      "category": "Growth",
+      "generated_at": "2026-06-20T15:04:38.470014"
+    },
+    {
+      "english": "The secret, use one anchor phrase",
+      "spanish": "El secreto, usa una frase ancla",
+      "category": "Growth",
+      "generated_at": "2026-06-20T15:04:38.470029"
+    },
+    {
+      "english": "Never wait for “more vocab”",
+      "spanish": "No esperes, falta vocabulario no",
+      "category": "Growth",
+      "generated_at": "2026-06-20T15:04:38.470043"
+    },
+    {
+      "english": "This tiny word boosts your flow",
+      "spanish": "Esta palabra acelera tu flujo",
+      "category": "Growth",
+      "generated_at": "2026-06-20T15:04:38.470058"
     }
   ],
   "used_english": [
@@ -10753,7 +10783,12 @@
     "never rush, say “te agradezco”",
     "the secret... gratitude makes spanish stick",
     "this one habit, thank someone daily",
-    "stop scrolling, send “gracias” today"
+    "stop scrolling, send “gracias” today",
+    "never say “perfect”—say “close enough”",
+    "this is why you stall on verbs",
+    "the secret, use one anchor phrase",
+    "never wait for “more vocab”",
+    "this tiny word boosts your flow"
   ],
-  "last_updated": "2026-06-19T21:57:04.454589"
+  "last_updated": "2026-06-20T15:04:38.470060"
 }
