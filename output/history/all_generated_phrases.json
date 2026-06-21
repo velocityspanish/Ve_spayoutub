@@ -9425,6 +9425,36 @@
       "spanish": "¿Y si tu meta es fluidez?",
       "category": "Self Improvement",
       "generated_at": "2026-06-21T16:46:13.320091"
+    },
+    {
+      "english": "Never say “maybe,” say “seguro”",
+      "spanish": "Nunca digas “quizás”, di “seguro”",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:20:01.788483"
+    },
+    {
+      "english": "Stop dodging pronouns, say “yo”",
+      "spanish": "Deja de evitar pronombres, di “yo”",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:20:01.788505"
+    },
+    {
+      "english": "Never fear “wrong,” just speak",
+      "spanish": "No temas “mal”, habla",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:20:01.788521"
+    },
+    {
+      "english": "Stop hunting grammar, start talking",
+      "spanish": "Deja de cazar gramática, habla",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:20:01.788537"
+    },
+    {
+      "english": "Never wait, narrate your morning",
+      "spanish": "Nunca esperes, narra tu mañana",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:20:01.788553"
     }
   ],
   "used_english": [
@@ -10998,7 +11028,12 @@
     "never memorize sentences, steal patterns",
     "stop asking, just answer your day",
     "stop scrolling, speak for ten seconds",
-    "what if your goal is flow?"
+    "what if your goal is flow?",
+    "never say “maybe,” say “seguro”",
+    "stop dodging pronouns, say “yo”",
+    "never fear “wrong,” just speak",
+    "stop hunting grammar, start talking",
+    "never wait, narrate your morning"
   ],
-  "last_updated": "2026-06-21T16:46:13.320093"
+  "last_updated": "2026-06-21T18:20:01.788555"
 }
