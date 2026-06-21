@@ -9485,6 +9485,36 @@
       "spanish": "Deja el doom-scroll, practica diez segundos",
       "category": "Motivation",
       "generated_at": "2026-06-21T20:27:25.892262"
+    },
+    {
+      "english": "Never study, teach the sentence",
+      "spanish": "No estudies, enseña esa frase",
+      "category": "Success",
+      "generated_at": "2026-06-21T22:07:38.593382"
+    },
+    {
+      "english": "Stop overthinking, trust the moment",
+      "spanish": "Deja pensar de más, confía en el momento",
+      "category": "Success",
+      "generated_at": "2026-06-21T22:07:38.593410"
+    },
+    {
+      "english": "Stop translating, choose one real reply",
+      "spanish": "Deja traducir, elige una respuesta real",
+      "category": "Success",
+      "generated_at": "2026-06-21T22:07:38.593426"
+    },
+    {
+      "english": "Never miss this, use “porque”",
+      "spanish": "No falles esto, usa “porque”",
+      "category": "Success",
+      "generated_at": "2026-06-21T22:07:38.593442"
+    },
+    {
+      "english": "Stop scrolling, speak your next line",
+      "spanish": "Deja el scroll, di tu próxima frase",
+      "category": "Success",
+      "generated_at": "2026-06-21T22:07:38.593459"
     }
   ],
   "used_english": [
@@ -11068,7 +11098,12 @@
     "stop translating, switch to reactions",
     "the secret? faster replies, no fear",
     "what if your brain learns by replying?",
-    "stop doom-scrolling, practice ten seconds"
+    "stop doom-scrolling, practice ten seconds",
+    "never study, teach the sentence",
+    "stop overthinking, trust the moment",
+    "stop translating, choose one real reply",
+    "never miss this, use “porque”",
+    "stop scrolling, speak your next line"
   ],
-  "last_updated": "2026-06-21T20:27:25.892267"
+  "last_updated": "2026-06-21T22:07:38.593461"
 }
