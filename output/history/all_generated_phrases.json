@@ -9365,6 +9365,36 @@
       "spanish": "¿Y si aprendes respondiendo?",
       "category": "Purpose",
       "generated_at": "2026-06-20T21:58:29.174076"
+    },
+    {
+      "english": "Stop translating, start feeling meaning",
+      "spanish": "Deja de traducir, empieza a sentir",
+      "category": "Inspiration",
+      "generated_at": "2026-06-21T15:12:38.738289"
+    },
+    {
+      "english": "Never study, just steal real lines",
+      "spanish": "Nunca estudies, roba frases reales",
+      "category": "Inspiration",
+      "generated_at": "2026-06-21T15:12:38.738316"
+    },
+    {
+      "english": "The secret, ask questions with feeling",
+      "spanish": "El secreto, pregunta con emoción",
+      "category": "Inspiration",
+      "generated_at": "2026-06-21T15:12:38.738331"
+    },
+    {
+      "english": "This one trick makes listening click",
+      "spanish": "Este truco hace clic al oír",
+      "category": "Inspiration",
+      "generated_at": "2026-06-21T15:12:38.738346"
+    },
+    {
+      "english": "Stop rereading, listen and repeat",
+      "spanish": "No releas, escucha y repite",
+      "category": "Inspiration",
+      "generated_at": "2026-06-21T15:12:38.738361"
     }
   ],
   "used_english": [
@@ -10928,7 +10958,12 @@
     "the secret: answer with a detail",
     "this one habit kills your accent",
     "never “maybe,” say it with certainty",
-    "what if you learn by replying?"
+    "what if you learn by replying?",
+    "stop translating, start feeling meaning",
+    "never study, just steal real lines",
+    "the secret, ask questions with feeling",
+    "this one trick makes listening click",
+    "stop rereading, listen and repeat"
   ],
-  "last_updated": "2026-06-20T21:58:29.174078"
+  "last_updated": "2026-06-21T15:12:38.738363"
 }
