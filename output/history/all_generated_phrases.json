@@ -9455,6 +9455,36 @@
       "spanish": "Nunca esperes, narra tu mañana",
       "category": "Strength",
       "generated_at": "2026-06-21T18:20:01.788553"
+    },
+    {
+      "english": "The secret... use questions to lead",
+      "spanish": "El secreto... usa preguntas, guía",
+      "category": "Motivation",
+      "generated_at": "2026-06-21T20:27:25.892161"
+    },
+    {
+      "english": "Stop translating, switch to reactions",
+      "spanish": "Deja de traducir, cambia a reacciones",
+      "category": "Motivation",
+      "generated_at": "2026-06-21T20:27:25.892184"
+    },
+    {
+      "english": "The secret? Faster replies, no fear",
+      "spanish": "El secreto? Respuestas rápidas, sin miedo",
+      "category": "Motivation",
+      "generated_at": "2026-06-21T20:27:25.892200"
+    },
+    {
+      "english": "What if your brain learns by replying?",
+      "spanish": "¿Y si tu mente aprende respondiendo?",
+      "category": "Motivation",
+      "generated_at": "2026-06-21T20:27:25.892215"
+    },
+    {
+      "english": "Stop doom-scrolling, practice ten seconds",
+      "spanish": "Deja el doom-scroll, practica diez segundos",
+      "category": "Motivation",
+      "generated_at": "2026-06-21T20:27:25.892262"
     }
   ],
   "used_english": [
@@ -11033,7 +11063,12 @@
     "stop dodging pronouns, say “yo”",
     "never fear “wrong,” just speak",
     "stop hunting grammar, start talking",
-    "never wait, narrate your morning"
+    "never wait, narrate your morning",
+    "the secret... use questions to lead",
+    "stop translating, switch to reactions",
+    "the secret? faster replies, no fear",
+    "what if your brain learns by replying?",
+    "stop doom-scrolling, practice ten seconds"
   ],
-  "last_updated": "2026-06-21T18:20:01.788555"
+  "last_updated": "2026-06-21T20:27:25.892267"
 }
