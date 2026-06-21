@@ -9395,6 +9395,36 @@
       "spanish": "No releas, escucha y repite",
       "category": "Inspiration",
       "generated_at": "2026-06-21T15:12:38.738361"
+    },
+    {
+      "english": "The secret? Use verbs, not lists",
+      "spanish": "El secreto, usa verbos, no listas",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-21T16:46:13.320023"
+    },
+    {
+      "english": "Never memorize sentences, steal patterns",
+      "spanish": "Nunca memorices frases, roba patrones",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-21T16:46:13.320047"
+    },
+    {
+      "english": "Stop asking, just answer your day",
+      "spanish": "Deja de preguntar, responde tu día",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-21T16:46:13.320063"
+    },
+    {
+      "english": "Stop scrolling, speak for ten seconds",
+      "spanish": "Deja de scrollear, habla diez segundos",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-21T16:46:13.320078"
+    },
+    {
+      "english": "What if your goal is flow?",
+      "spanish": "¿Y si tu meta es fluidez?",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-21T16:46:13.320091"
     }
   ],
   "used_english": [
@@ -10963,7 +10993,12 @@
     "never study, just steal real lines",
     "the secret, ask questions with feeling",
     "this one trick makes listening click",
-    "stop rereading, listen and repeat"
+    "stop rereading, listen and repeat",
+    "the secret? use verbs, not lists",
+    "never memorize sentences, steal patterns",
+    "stop asking, just answer your day",
+    "stop scrolling, speak for ten seconds",
+    "what if your goal is flow?"
   ],
-  "last_updated": "2026-06-21T15:12:38.738363"
+  "last_updated": "2026-06-21T16:46:13.320093"
 }
