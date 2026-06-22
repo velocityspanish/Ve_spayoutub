@@ -9635,6 +9635,36 @@
       "spanish": "El secreto, usa “ahora mismo”",
       "category": "Creativity",
       "generated_at": "2026-06-22T21:32:53.538949"
+    },
+    {
+      "english": "Stop saying \"I don't know\"",
+      "spanish": "Deja de decir \"no sé\"",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T22:30:23.977146"
+    },
+    {
+      "english": "Never pause, keep talking now",
+      "spanish": "No pares, sigue hablando",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T22:30:23.977170"
+    },
+    {
+      "english": "Stop deleting your Spanish attempts",
+      "spanish": "Deja de borrar tus intentos",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T22:30:23.977187"
+    },
+    {
+      "english": "Never ask, just answer honestly",
+      "spanish": "Nunca preguntes, responde honesto",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T22:30:23.977202"
+    },
+    {
+      "english": "Stop hiding behind perfect grammar",
+      "spanish": "No te escondas por la gramática",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T22:30:23.977218"
     }
   ],
   "used_english": [
@@ -11243,7 +11273,12 @@
     "stop hunting words, just react",
     "this fixes your “i forgot” moment",
     "stop rewriting, speak your best",
-    "the secret? use “right now”"
+    "the secret? use “right now”",
+    "stop saying \"i don't know\"",
+    "never pause, keep talking now",
+    "stop deleting your spanish attempts",
+    "never ask, just answer honestly",
+    "stop hiding behind perfect grammar"
   ],
-  "last_updated": "2026-06-22T21:32:53.538951"
+  "last_updated": "2026-06-22T22:30:23.977220"
 }
