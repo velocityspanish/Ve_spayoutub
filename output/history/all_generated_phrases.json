@@ -9545,6 +9545,36 @@
       "spanish": "Deja de repetir, practica respuestas",
       "category": "Confidence",
       "generated_at": "2026-06-22T17:41:22.000423"
+    },
+    {
+      "english": "Stop apologizing, speak like you mean it",
+      "spanish": "Deja de disculparte, habla en serio",
+      "category": "Courage",
+      "generated_at": "2026-06-22T18:48:10.843167"
+    },
+    {
+      "english": "Never start with English in your head",
+      "spanish": "Nunca empieces con inglés en tu mente",
+      "category": "Courage",
+      "generated_at": "2026-06-22T18:48:10.843191"
+    },
+    {
+      "english": "Never wait, use your first instinct",
+      "spanish": "No esperes, usa tu primera idea",
+      "category": "Courage",
+      "generated_at": "2026-06-22T18:48:10.843208"
+    },
+    {
+      "english": "This fixes your fear of speaking",
+      "spanish": "Esto cura tu miedo al hablar",
+      "category": "Courage",
+      "generated_at": "2026-06-22T18:48:10.843224"
+    },
+    {
+      "english": "Never freeze on small talk, ask back",
+      "spanish": "Nunca te quedes, pregunta de vuelta",
+      "category": "Courage",
+      "generated_at": "2026-06-22T18:48:10.843239"
     }
   ],
   "used_english": [
@@ -11138,7 +11168,12 @@
     "stop guessing, say what you know",
     "never rush grammar, say meaning",
     "what if your tongue learns faster?",
-    "stop replaying, practice live answers"
+    "stop replaying, practice live answers",
+    "stop apologizing, speak like you mean it",
+    "never start with english in your head",
+    "never wait, use your first instinct",
+    "this fixes your fear of speaking",
+    "never freeze on small talk, ask back"
   ],
-  "last_updated": "2026-06-22T17:41:22.000425"
+  "last_updated": "2026-06-22T18:48:10.843240"
 }
