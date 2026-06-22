@@ -9575,6 +9575,36 @@
       "spanish": "Nunca te quedes, pregunta de vuelta",
       "category": "Courage",
       "generated_at": "2026-06-22T18:48:10.843239"
+    },
+    {
+      "english": "Stop saying 'maybe', say 'claro'",
+      "spanish": "Deja de decir “quizás”, di “claro”.",
+      "category": "Strength",
+      "generated_at": "2026-06-22T20:08:43.979815"
+    },
+    {
+      "english": "Never memorize, copy real phrases",
+      "spanish": "No memorices, copia frases reales.",
+      "category": "Strength",
+      "generated_at": "2026-06-22T20:08:43.979843"
+    },
+    {
+      "english": "Stop swapping verbs mid-sentence",
+      "spanish": "Deja de cambiar verbos en medio.",
+      "category": "Strength",
+      "generated_at": "2026-06-22T20:08:43.979861"
+    },
+    {
+      "english": "This trick beats grammar anxiety",
+      "spanish": "Este truco gana ansiedad gramatical.",
+      "category": "Strength",
+      "generated_at": "2026-06-22T20:08:43.979876"
+    },
+    {
+      "english": "Stop studying alone, shadow answers",
+      "spanish": "No estudies solo, repite respuestas.",
+      "category": "Strength",
+      "generated_at": "2026-06-22T20:08:43.979892"
     }
   ],
   "used_english": [
@@ -11173,7 +11203,12 @@
     "never start with english in your head",
     "never wait, use your first instinct",
     "this fixes your fear of speaking",
-    "never freeze on small talk, ask back"
+    "never freeze on small talk, ask back",
+    "stop saying 'maybe', say 'claro'",
+    "never memorize, copy real phrases",
+    "stop swapping verbs mid-sentence",
+    "this trick beats grammar anxiety",
+    "stop studying alone, shadow answers"
   ],
-  "last_updated": "2026-06-22T18:48:10.843240"
+  "last_updated": "2026-06-22T20:08:43.979894"
 }
