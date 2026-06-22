@@ -9605,6 +9605,36 @@
       "spanish": "No estudies solo, repite respuestas.",
       "category": "Strength",
       "generated_at": "2026-06-22T20:08:43.979892"
+    },
+    {
+      "english": "Never start with English again",
+      "spanish": "Nunca empieces con inglés",
+      "category": "Creativity",
+      "generated_at": "2026-06-22T21:32:53.538855"
+    },
+    {
+      "english": "Stop hunting words, just react",
+      "spanish": "Deja de buscar, solo reacciona",
+      "category": "Creativity",
+      "generated_at": "2026-06-22T21:32:53.538901"
+    },
+    {
+      "english": "This fixes your “I forgot” moment",
+      "spanish": "Esto arregla tu “se me olvidó”",
+      "category": "Creativity",
+      "generated_at": "2026-06-22T21:32:53.538918"
+    },
+    {
+      "english": "Stop rewriting, speak your best",
+      "spanish": "Deja de reescribir, di tu mejor",
+      "category": "Creativity",
+      "generated_at": "2026-06-22T21:32:53.538934"
+    },
+    {
+      "english": "The secret? Use “right now”",
+      "spanish": "El secreto, usa “ahora mismo”",
+      "category": "Creativity",
+      "generated_at": "2026-06-22T21:32:53.538949"
     }
   ],
   "used_english": [
@@ -11208,7 +11238,12 @@
     "never memorize, copy real phrases",
     "stop swapping verbs mid-sentence",
     "this trick beats grammar anxiety",
-    "stop studying alone, shadow answers"
+    "stop studying alone, shadow answers",
+    "never start with english again",
+    "stop hunting words, just react",
+    "this fixes your “i forgot” moment",
+    "stop rewriting, speak your best",
+    "the secret? use “right now”"
   ],
-  "last_updated": "2026-06-22T20:08:43.979894"
+  "last_updated": "2026-06-22T21:32:53.538951"
 }
