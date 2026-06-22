@@ -9515,6 +9515,36 @@
       "spanish": "Deja el scroll, di tu próxima frase",
       "category": "Success",
       "generated_at": "2026-06-21T22:07:38.593459"
+    },
+    {
+      "english": "Stop freezing, use one sentence",
+      "spanish": "No te congeles, usa una frase",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:22.000345"
+    },
+    {
+      "english": "Stop guessing, say what you know",
+      "spanish": "Deja de adivinar, di lo que sabes",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:22.000374"
+    },
+    {
+      "english": "Never rush grammar, say meaning",
+      "spanish": "No corras la gramática, di significado",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:22.000391"
+    },
+    {
+      "english": "What if your tongue learns faster?",
+      "spanish": "¿Y si tu lengua aprende más rápido?",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:22.000408"
+    },
+    {
+      "english": "Stop replaying, practice live answers",
+      "spanish": "Deja de repetir, practica respuestas",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T17:41:22.000423"
     }
   ],
   "used_english": [
@@ -11103,7 +11133,12 @@
     "stop overthinking, trust the moment",
     "stop translating, choose one real reply",
     "never miss this, use “porque”",
-    "stop scrolling, speak your next line"
+    "stop scrolling, speak your next line",
+    "stop freezing, use one sentence",
+    "stop guessing, say what you know",
+    "never rush grammar, say meaning",
+    "what if your tongue learns faster?",
+    "stop replaying, practice live answers"
   ],
-  "last_updated": "2026-06-21T22:07:38.593461"
+  "last_updated": "2026-06-22T17:41:22.000425"
 }
