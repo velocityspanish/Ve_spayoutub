@@ -9725,6 +9725,36 @@
       "spanish": "Nunca te congeles, cuando hablen",
       "category": "Success",
       "generated_at": "2026-06-23T17:18:22.847854"
+    },
+    {
+      "english": "Stop asking, feel the vibe",
+      "spanish": "No preguntes, siente la vibra",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-23T19:09:17.496156"
+    },
+    {
+      "english": "Never fear silence, breathe first",
+      "spanish": "Nunca temas el silencio, respira primero",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-23T19:09:17.496185"
+    },
+    {
+      "english": "What nobody tells you, learn chunks",
+      "spanish": "Lo que nadie dice, aprende frases",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-23T19:09:17.496203"
+    },
+    {
+      "english": "This is why your 'ser' slips",
+      "spanish": "Por eso fallas con 'ser'",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-23T19:09:17.496218"
+    },
+    {
+      "english": "The secret is simple, use 'hoy'",
+      "spanish": "El secreto es simple, usa 'hoy'",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-23T19:09:17.496234"
     }
   ],
   "used_english": [
@@ -11348,7 +11378,12 @@
     "stop pausing, add a connector",
     "this one tip sparks confidence",
     "stop overchecking, trust your ear",
-    "never freeze when they talk"
+    "never freeze when they talk",
+    "stop asking, feel the vibe",
+    "never fear silence, breathe first",
+    "what nobody tells you, learn chunks",
+    "this is why your 'ser' slips",
+    "the secret is simple, use 'hoy'"
   ],
-  "last_updated": "2026-06-23T17:18:22.847855"
+  "last_updated": "2026-06-23T19:09:17.496236"
 }
