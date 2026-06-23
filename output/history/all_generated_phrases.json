@@ -9695,6 +9695,36 @@
       "spanish": "Nunca ensayes, habla con sorpresa",
       "category": "Kindness",
       "generated_at": "2026-06-23T15:51:10.130333"
+    },
+    {
+      "english": "The secret, steal their rhythm",
+      "spanish": "El secreto, roba su ritmo",
+      "category": "Success",
+      "generated_at": "2026-06-23T17:18:22.847776"
+    },
+    {
+      "english": "Stop pausing, add a connector",
+      "spanish": "No te detengas, agrega un conector",
+      "category": "Success",
+      "generated_at": "2026-06-23T17:18:22.847808"
+    },
+    {
+      "english": "This one tip sparks confidence",
+      "spanish": "Este tip enciende la confianza",
+      "category": "Success",
+      "generated_at": "2026-06-23T17:18:22.847824"
+    },
+    {
+      "english": "Stop overchecking, trust your ear",
+      "spanish": "Deja de revisar, confía en tu oído",
+      "category": "Success",
+      "generated_at": "2026-06-23T17:18:22.847839"
+    },
+    {
+      "english": "Never freeze when they talk",
+      "spanish": "Nunca te congeles, cuando hablen",
+      "category": "Success",
+      "generated_at": "2026-06-23T17:18:22.847854"
     }
   ],
   "used_english": [
@@ -11313,7 +11343,12 @@
     "stop freezing, just add 'ya'",
     "this one phrase opens doors",
     "stop chasing perfection, thank them",
-    "never rehearse, speak with surprise"
+    "never rehearse, speak with surprise",
+    "the secret, steal their rhythm",
+    "stop pausing, add a connector",
+    "this one tip sparks confidence",
+    "stop overchecking, trust your ear",
+    "never freeze when they talk"
   ],
-  "last_updated": "2026-06-23T15:51:10.130335"
+  "last_updated": "2026-06-23T17:18:22.847855"
 }
