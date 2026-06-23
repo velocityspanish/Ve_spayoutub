@@ -9755,6 +9755,36 @@
       "spanish": "El secreto es simple, usa 'hoy'",
       "category": "Inner Peace",
       "generated_at": "2026-06-23T19:09:17.496234"
+    },
+    {
+      "english": "Stop repeating, answer differently now",
+      "spanish": "Deja de repetir, responde distinto ahora",
+      "category": "Hope",
+      "generated_at": "2026-06-23T21:01:41.171588"
+    },
+    {
+      "english": "Stop perfecting, just communicate",
+      "spanish": "Deja de perfeccionar, solo comunica",
+      "category": "Hope",
+      "generated_at": "2026-06-23T21:01:41.171615"
+    },
+    {
+      "english": "Never wait, use “hoy” once",
+      "spanish": "No esperes, usa “hoy” una vez",
+      "category": "Hope",
+      "generated_at": "2026-06-23T21:01:41.171632"
+    },
+    {
+      "english": "This trick turns grammar into speech",
+      "spanish": "Este truco vuelve la gramática voz",
+      "category": "Hope",
+      "generated_at": "2026-06-23T21:01:41.171648"
+    },
+    {
+      "english": "Stop hunting words, grab feelings",
+      "spanish": "Deja de buscar palabras, toma emociones",
+      "category": "Hope",
+      "generated_at": "2026-06-23T21:01:41.171663"
     }
   ],
   "used_english": [
@@ -11383,7 +11413,12 @@
     "never fear silence, breathe first",
     "what nobody tells you, learn chunks",
     "this is why your 'ser' slips",
-    "the secret is simple, use 'hoy'"
+    "the secret is simple, use 'hoy'",
+    "stop repeating, answer differently now",
+    "stop perfecting, just communicate",
+    "never wait, use “hoy” once",
+    "this trick turns grammar into speech",
+    "stop hunting words, grab feelings"
   ],
-  "last_updated": "2026-06-23T19:09:17.496236"
+  "last_updated": "2026-06-23T21:01:41.171665"
 }
