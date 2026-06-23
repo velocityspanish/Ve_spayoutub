@@ -9785,6 +9785,36 @@
       "spanish": "Deja de buscar palabras, toma emociones",
       "category": "Hope",
       "generated_at": "2026-06-23T21:01:41.171663"
+    },
+    {
+      "english": "Never say 'sorry'—say 'thank you'",
+      "spanish": "Nunca digas 'perdón', di 'gracias'",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T22:07:15.167143"
+    },
+    {
+      "english": "Never overthink, just describe now",
+      "spanish": "No sobrepienses, solo describe ahora",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T22:07:15.167169"
+    },
+    {
+      "english": "Stop freezing, use 'estoy bien'",
+      "spanish": "Deja el bloqueo, usa 'estoy bien'",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T22:07:15.167186"
+    },
+    {
+      "english": "The secret is tiny, '¿y tú?'",
+      "spanish": "El secreto es pequeño, '¿y tú?'",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T22:07:15.167201"
+    },
+    {
+      "english": "What if kindness makes you fluent?",
+      "spanish": "¿Y si la amabilidad te vuelve fluido?",
+      "category": "Kindness",
+      "generated_at": "2026-06-23T22:07:15.167218"
     }
   ],
   "used_english": [
@@ -11418,7 +11448,12 @@
     "stop perfecting, just communicate",
     "never wait, use “hoy” once",
     "this trick turns grammar into speech",
-    "stop hunting words, grab feelings"
+    "stop hunting words, grab feelings",
+    "never say 'sorry'—say 'thank you'",
+    "never overthink, just describe now",
+    "stop freezing, use 'estoy bien'",
+    "the secret is tiny, '¿y tú?'",
+    "what if kindness makes you fluent?"
   ],
-  "last_updated": "2026-06-23T21:01:41.171665"
+  "last_updated": "2026-06-23T22:07:15.167219"
 }
