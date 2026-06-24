@@ -9875,6 +9875,36 @@
       "spanish": "Este es tu paz interior en español",
       "category": "Inner Peace",
       "generated_at": "2026-06-24T17:06:41.780323"
+    },
+    {
+      "english": "Stop rehearsing, just jump in",
+      "spanish": "Deja de ensayar, salta ya",
+      "category": "Hope",
+      "generated_at": "2026-06-24T18:51:46.971264"
+    },
+    {
+      "english": "Never fear mistakes, they’re progress",
+      "spanish": "Nunca temas errores, son progreso",
+      "category": "Hope",
+      "generated_at": "2026-06-24T18:51:46.971299"
+    },
+    {
+      "english": "Stop hiding, speak your real thought",
+      "spanish": "Deja de esconderte, habla real",
+      "category": "Hope",
+      "generated_at": "2026-06-24T18:51:46.971316"
+    },
+    {
+      "english": "This tip turns listening into replies",
+      "spanish": "Este consejo convierte escucha en respuesta",
+      "category": "Hope",
+      "generated_at": "2026-06-24T18:51:46.971332"
+    },
+    {
+      "english": "What if you speak, then learn?",
+      "spanish": "¿Y si hablas, y luego aprendes?",
+      "category": "Hope",
+      "generated_at": "2026-06-24T18:51:46.971348"
     }
   ],
   "used_english": [
@@ -11523,7 +11553,12 @@
     "never ask, say your real need",
     "stop pausing, use 'ahí' instead",
     "never translate, copy their emotion",
-    "this is your inner peace in spanish"
+    "this is your inner peace in spanish",
+    "stop rehearsing, just jump in",
+    "never fear mistakes, they’re progress",
+    "stop hiding, speak your real thought",
+    "this tip turns listening into replies",
+    "what if you speak, then learn?"
   ],
-  "last_updated": "2026-06-24T17:06:41.780326"
+  "last_updated": "2026-06-24T18:51:46.971349"
 }
