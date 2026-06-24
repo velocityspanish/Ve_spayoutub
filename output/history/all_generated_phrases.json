@@ -9815,6 +9815,36 @@
       "spanish": "¿Y si la amabilidad te vuelve fluido?",
       "category": "Kindness",
       "generated_at": "2026-06-23T22:07:15.167218"
+    },
+    {
+      "english": "Stop apologizing, say “es mi culpa”",
+      "spanish": "Deja de disculparte, di “es mi culpa”",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T15:33:38.571845"
+    },
+    {
+      "english": "Never wait, use “ya mismo”",
+      "spanish": "Nunca esperes, usa “ya mismo”",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T15:33:38.571867"
+    },
+    {
+      "english": "Stop overexplaining, answer with action",
+      "spanish": "Deja de explicar, responde con acción",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T15:33:38.571883"
+    },
+    {
+      "english": "Never fear “está” questions, go",
+      "spanish": "No temas preguntas con “está”, ve",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T15:33:38.571899"
+    },
+    {
+      "english": "This phrase makes natives respond fast",
+      "spanish": "Esta frase hace responder rápido",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T15:33:38.571914"
     }
   ],
   "used_english": [
@@ -11453,7 +11483,12 @@
     "never overthink, just describe now",
     "stop freezing, use 'estoy bien'",
     "the secret is tiny, '¿y tú?'",
-    "what if kindness makes you fluent?"
+    "what if kindness makes you fluent?",
+    "stop apologizing, say “es mi culpa”",
+    "never wait, use “ya mismo”",
+    "stop overexplaining, answer with action",
+    "never fear “está” questions, go",
+    "this phrase makes natives respond fast"
   ],
-  "last_updated": "2026-06-23T22:07:15.167219"
+  "last_updated": "2026-06-24T15:33:38.571916"
 }
