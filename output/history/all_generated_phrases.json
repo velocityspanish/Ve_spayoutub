@@ -9905,6 +9905,36 @@
       "spanish": "¿Y si hablas, y luego aprendes?",
       "category": "Hope",
       "generated_at": "2026-06-24T18:51:46.971348"
+    },
+    {
+      "english": "Never memorize, learn endings first",
+      "spanish": "Nunca memorices, aprende primero finales",
+      "category": "Success",
+      "generated_at": "2026-06-24T20:50:20.947848"
+    },
+    {
+      "english": "Stop “teacher mode”, talk like you",
+      "spanish": "Deja el “modo profe”, habla como tú",
+      "category": "Success",
+      "generated_at": "2026-06-24T20:50:20.947871"
+    },
+    {
+      "english": "Stop pausing, breathe, then continue",
+      "spanish": "Deja de pausar, respira, sigue",
+      "category": "Success",
+      "generated_at": "2026-06-24T20:50:20.947888"
+    },
+    {
+      "english": "The secret... say it in one breath",
+      "spanish": "El secreto... dímelo en un aliento",
+      "category": "Success",
+      "generated_at": "2026-06-24T20:50:20.947904"
+    },
+    {
+      "english": "Never study alone, swap voice notes",
+      "spanish": "Nunca estudies solo, intercambia notas de voz",
+      "category": "Success",
+      "generated_at": "2026-06-24T20:50:20.947920"
     }
   ],
   "used_english": [
@@ -11558,7 +11588,12 @@
     "never fear mistakes, they’re progress",
     "stop hiding, speak your real thought",
     "this tip turns listening into replies",
-    "what if you speak, then learn?"
+    "what if you speak, then learn?",
+    "never memorize, learn endings first",
+    "stop “teacher mode”, talk like you",
+    "stop pausing, breathe, then continue",
+    "the secret... say it in one breath",
+    "never study alone, swap voice notes"
   ],
-  "last_updated": "2026-06-24T18:51:46.971349"
+  "last_updated": "2026-06-24T20:50:20.947922"
 }
