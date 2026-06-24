@@ -9935,6 +9935,36 @@
       "spanish": "Nunca estudies solo, intercambia notas de voz",
       "category": "Success",
       "generated_at": "2026-06-24T20:50:20.947920"
+    },
+    {
+      "english": "Never translate feelings, say them",
+      "spanish": "Nunca traduzcas sentimientos, dilos",
+      "category": "Hope",
+      "generated_at": "2026-06-24T22:06:18.090845"
+    },
+    {
+      "english": "The secret, use one tiny question",
+      "spanish": "El secreto, usa una pregunta pequeña",
+      "category": "Hope",
+      "generated_at": "2026-06-24T22:06:18.090895"
+    },
+    {
+      "english": "Never wait for words, start anyway",
+      "spanish": "Nunca esperes palabras, empieza igual",
+      "category": "Hope",
+      "generated_at": "2026-06-24T22:06:18.090913"
+    },
+    {
+      "english": "Your confidence grows with one voice",
+      "spanish": "Tu confianza crece con una voz",
+      "category": "Hope",
+      "generated_at": "2026-06-24T22:06:18.090929"
+    },
+    {
+      "english": "This changes fear into real conversation",
+      "spanish": "Esto convierte miedo en conversación",
+      "category": "Hope",
+      "generated_at": "2026-06-24T22:06:18.090944"
     }
   ],
   "used_english": [
@@ -11593,7 +11623,12 @@
     "stop “teacher mode”, talk like you",
     "stop pausing, breathe, then continue",
     "the secret... say it in one breath",
-    "never study alone, swap voice notes"
+    "never study alone, swap voice notes",
+    "never translate feelings, say them",
+    "the secret, use one tiny question",
+    "never wait for words, start anyway",
+    "your confidence grows with one voice",
+    "this changes fear into real conversation"
   ],
-  "last_updated": "2026-06-24T20:50:20.947922"
+  "last_updated": "2026-06-24T22:06:18.090946"
 }
