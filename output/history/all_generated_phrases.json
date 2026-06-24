@@ -9845,6 +9845,36 @@
       "spanish": "Esta frase hace responder rápido",
       "category": "Purpose",
       "generated_at": "2026-06-24T15:33:38.571914"
+    },
+    {
+      "english": "Stop checking, just listen back",
+      "spanish": "Deja de revisar, escucha otra vez",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-24T17:06:41.780248"
+    },
+    {
+      "english": "Never ask, say your real need",
+      "spanish": "No preguntes, di tu necesidad",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-24T17:06:41.780273"
+    },
+    {
+      "english": "Stop pausing, use 'ahí' instead",
+      "spanish": "Deja la pausa, usa 'ahí' ",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-24T17:06:41.780291"
+    },
+    {
+      "english": "Never translate, copy their emotion",
+      "spanish": "No traduzcas, copia su emoción",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-24T17:06:41.780307"
+    },
+    {
+      "english": "This is your inner peace in Spanish",
+      "spanish": "Este es tu paz interior en español",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-24T17:06:41.780323"
     }
   ],
   "used_english": [
@@ -11488,7 +11518,12 @@
     "never wait, use “ya mismo”",
     "stop overexplaining, answer with action",
     "never fear “está” questions, go",
-    "this phrase makes natives respond fast"
+    "this phrase makes natives respond fast",
+    "stop checking, just listen back",
+    "never ask, say your real need",
+    "stop pausing, use 'ahí' instead",
+    "never translate, copy their emotion",
+    "this is your inner peace in spanish"
   ],
-  "last_updated": "2026-06-24T15:33:38.571916"
+  "last_updated": "2026-06-24T17:06:41.780326"
 }
