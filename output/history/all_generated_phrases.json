@@ -9995,6 +9995,36 @@
       "spanish": "No tengas miedo, habla ya",
       "category": "Confidence",
       "generated_at": "2026-06-25T15:41:04.275651"
+    },
+    {
+      "english": "Stop asking, just choose one",
+      "spanish": "Deja de preguntar, elige una",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-25T17:12:59.379142"
+    },
+    {
+      "english": "Never explain, show with actions",
+      "spanish": "Nunca expliques, muestra acciones",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-25T17:12:59.379166"
+    },
+    {
+      "english": "Never fear pauses, use 'bueno'",
+      "spanish": "No temas pausas, usa 'bueno'",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-25T17:12:59.379176"
+    },
+    {
+      "english": "Stop rehearsing, start with one word",
+      "spanish": "Deja de ensayar, empieza con una",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-25T17:12:59.379186"
+    },
+    {
+      "english": "This fixes your 'I forgot' moment",
+      "spanish": "Esto arregla tu 'se me olvidó'",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-25T17:12:59.379196"
     }
   ],
   "used_english": [
@@ -11663,7 +11693,12 @@
     "stop searching, use one answer",
     "never shrink, own your accent",
     "this fixes “i blanked” instantly",
-    "never fear “wrong”, speak now"
+    "never fear “wrong”, speak now",
+    "stop asking, just choose one",
+    "never explain, show with actions",
+    "never fear pauses, use 'bueno'",
+    "stop rehearsing, start with one word",
+    "this fixes your 'i forgot' moment"
   ],
-  "last_updated": "2026-06-25T15:41:04.275654"
+  "last_updated": "2026-06-25T17:12:59.379198"
 }
