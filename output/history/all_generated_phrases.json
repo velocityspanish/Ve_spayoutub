@@ -10055,6 +10055,36 @@
       "spanish": "Nunca te bloquees, sonríe",
       "category": "Kindness",
       "generated_at": "2026-06-25T19:04:53.686707"
+    },
+    {
+      "english": "Stop filtering, just speak naturally",
+      "spanish": "Deja de filtrar, habla natural",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T21:00:21.256941"
+    },
+    {
+      "english": "The secret? Answer slower, clearly",
+      "spanish": "El secreto? Responde más lento, claro",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T21:00:21.256965"
+    },
+    {
+      "english": "Stop overplanning, just start small",
+      "spanish": "Deja de planear, empieza con poco",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T21:00:21.256982"
+    },
+    {
+      "english": "Never fear questions, ask one now",
+      "spanish": "No temas preguntas, pregunta una vez",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T21:00:21.256998"
+    },
+    {
+      "english": "The secret is practice with people",
+      "spanish": "El secreto es practicar con gente",
+      "category": "Positive Life",
+      "generated_at": "2026-06-25T21:00:21.257014"
     }
   ],
   "used_english": [
@@ -11733,7 +11763,12 @@
     "stop hesitating, bless their day",
     "this is why kindness spreads fast",
     "stop rushing, slow your spanish",
-    "never lock up, just smile"
+    "never lock up, just smile",
+    "stop filtering, just speak naturally",
+    "the secret? answer slower, clearly",
+    "stop overplanning, just start small",
+    "never fear questions, ask one now",
+    "the secret is practice with people"
   ],
-  "last_updated": "2026-06-25T19:04:53.686709"
+  "last_updated": "2026-06-25T21:00:21.257016"
 }
