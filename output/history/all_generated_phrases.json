@@ -10025,6 +10025,36 @@
       "spanish": "Esto arregla tu 'se me olvidó'",
       "category": "Self Improvement",
       "generated_at": "2026-06-25T17:12:59.379196"
+    },
+    {
+      "english": "Never be polite, use gratitude",
+      "spanish": "Nunca seas solo educado, ¡di gracias!",
+      "category": "Kindness",
+      "generated_at": "2026-06-25T19:04:53.686648"
+    },
+    {
+      "english": "Stop hesitating, bless their day",
+      "spanish": "Deja la duda, bendice su día",
+      "category": "Kindness",
+      "generated_at": "2026-06-25T19:04:53.686671"
+    },
+    {
+      "english": "This is why kindness spreads fast",
+      "spanish": "Por eso, la bondad se contagia",
+      "category": "Kindness",
+      "generated_at": "2026-06-25T19:04:53.686684"
+    },
+    {
+      "english": "Stop rushing, slow your Spanish",
+      "spanish": "No corras, habla más despacio",
+      "category": "Kindness",
+      "generated_at": "2026-06-25T19:04:53.686697"
+    },
+    {
+      "english": "Never lock up, just smile",
+      "spanish": "Nunca te bloquees, sonríe",
+      "category": "Kindness",
+      "generated_at": "2026-06-25T19:04:53.686707"
     }
   ],
   "used_english": [
@@ -11698,7 +11728,12 @@
     "never explain, show with actions",
     "never fear pauses, use 'bueno'",
     "stop rehearsing, start with one word",
-    "this fixes your 'i forgot' moment"
+    "this fixes your 'i forgot' moment",
+    "never be polite, use gratitude",
+    "stop hesitating, bless their day",
+    "this is why kindness spreads fast",
+    "stop rushing, slow your spanish",
+    "never lock up, just smile"
   ],
-  "last_updated": "2026-06-25T17:12:59.379198"
+  "last_updated": "2026-06-25T19:04:53.686709"
 }
