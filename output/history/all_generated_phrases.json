@@ -10085,6 +10085,36 @@
       "spanish": "El secreto es practicar con gente",
       "category": "Positive Life",
       "generated_at": "2026-06-25T21:00:21.257014"
+    },
+    {
+      "english": "The secret? Smiles earn easy replies",
+      "spanish": "El secreto, las sonrisas traen respuestas",
+      "category": "Happiness",
+      "generated_at": "2026-06-25T22:15:10.602556"
+    },
+    {
+      "english": "Stop whispering fear, speak softly",
+      "spanish": "Deja el miedo en voz baja",
+      "category": "Happiness",
+      "generated_at": "2026-06-25T22:15:10.602582"
+    },
+    {
+      "english": "Never wait, share your little joy",
+      "spanish": "No esperes, comparte tu alegría",
+      "category": "Happiness",
+      "generated_at": "2026-06-25T22:15:10.602599"
+    },
+    {
+      "english": "This is your happiness shortcut",
+      "spanish": "Este es tu atajo feliz",
+      "category": "Happiness",
+      "generated_at": "2026-06-25T22:15:10.602616"
+    },
+    {
+      "english": "Stop apologizing, celebrate your effort",
+      "spanish": "No pidas perdón, celebra tu esfuerzo",
+      "category": "Happiness",
+      "generated_at": "2026-06-25T22:15:10.602630"
     }
   ],
   "used_english": [
@@ -11768,7 +11798,12 @@
     "the secret? answer slower, clearly",
     "stop overplanning, just start small",
     "never fear questions, ask one now",
-    "the secret is practice with people"
+    "the secret is practice with people",
+    "the secret? smiles earn easy replies",
+    "stop whispering fear, speak softly",
+    "never wait, share your little joy",
+    "this is your happiness shortcut",
+    "stop apologizing, celebrate your effort"
   ],
-  "last_updated": "2026-06-25T21:00:21.257016"
+  "last_updated": "2026-06-25T22:15:10.602633"
 }
