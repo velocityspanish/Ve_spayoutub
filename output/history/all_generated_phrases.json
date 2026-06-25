@@ -9965,6 +9965,36 @@
       "spanish": "Esto convierte miedo en conversación",
       "category": "Hope",
       "generated_at": "2026-06-24T22:06:18.090944"
+    },
+    {
+      "english": "Never wait, tell the truth",
+      "spanish": "No esperes, di la verdad",
+      "category": "Confidence",
+      "generated_at": "2026-06-25T15:41:04.275577"
+    },
+    {
+      "english": "Stop searching, use one answer",
+      "spanish": "Deja buscar, usa una respuesta",
+      "category": "Confidence",
+      "generated_at": "2026-06-25T15:41:04.275603"
+    },
+    {
+      "english": "Never shrink, own your accent",
+      "spanish": "No te encogas, usa tu acento",
+      "category": "Confidence",
+      "generated_at": "2026-06-25T15:41:04.275619"
+    },
+    {
+      "english": "This fixes “I blanked” instantly",
+      "spanish": "Esto arregla tu “se me fue”",
+      "category": "Confidence",
+      "generated_at": "2026-06-25T15:41:04.275636"
+    },
+    {
+      "english": "Never fear “wrong”, speak now",
+      "spanish": "No tengas miedo, habla ya",
+      "category": "Confidence",
+      "generated_at": "2026-06-25T15:41:04.275651"
     }
   ],
   "used_english": [
@@ -11628,7 +11658,12 @@
     "the secret, use one tiny question",
     "never wait for words, start anyway",
     "your confidence grows with one voice",
-    "this changes fear into real conversation"
+    "this changes fear into real conversation",
+    "never wait, tell the truth",
+    "stop searching, use one answer",
+    "never shrink, own your accent",
+    "this fixes “i blanked” instantly",
+    "never fear “wrong”, speak now"
   ],
-  "last_updated": "2026-06-24T22:06:18.090946"
+  "last_updated": "2026-06-25T15:41:04.275654"
 }
