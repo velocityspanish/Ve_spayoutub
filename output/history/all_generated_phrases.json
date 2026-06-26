@@ -10115,6 +10115,36 @@
       "spanish": "No pidas perdón, celebra tu esfuerzo",
       "category": "Happiness",
       "generated_at": "2026-06-25T22:15:10.602630"
+    },
+    {
+      "english": "Never wait, use eye contact",
+      "spanish": "Nunca esperes, usa contacto visual",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T15:25:08.688386"
+    },
+    {
+      "english": "Stop hunting, trust your first word",
+      "spanish": "Deja de buscar, confía tu primera palabra",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T15:25:08.688410"
+    },
+    {
+      "english": "Never fear small errors, continue",
+      "spanish": "Nunca tengas miedo, sigue igual",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T15:25:08.688427"
+    },
+    {
+      "english": "Stop translating, trust the context",
+      "spanish": "Deja de traducir, confía el contexto",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T15:25:08.688442"
+    },
+    {
+      "english": "Never shrink, speak at full speed",
+      "spanish": "No te achiques, habla a velocidad",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T15:25:08.688458"
     }
   ],
   "used_english": [
@@ -11803,7 +11833,12 @@
     "stop whispering fear, speak softly",
     "never wait, share your little joy",
     "this is your happiness shortcut",
-    "stop apologizing, celebrate your effort"
+    "stop apologizing, celebrate your effort",
+    "never wait, use eye contact",
+    "stop hunting, trust your first word",
+    "never fear small errors, continue",
+    "stop translating, trust the context",
+    "never shrink, speak at full speed"
   ],
-  "last_updated": "2026-06-25T22:15:10.602633"
+  "last_updated": "2026-06-26T15:25:08.688459"
 }
