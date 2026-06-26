@@ -10235,6 +10235,36 @@
       "spanish": "Deja de buscar, reutiliza tu última frase",
       "category": "Joy",
       "generated_at": "2026-06-26T20:49:30.958944"
+    },
+    {
+      "english": "Never over-explain, just ask back",
+      "spanish": "Nunca expliques de más, pregunta",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T22:00:28.209804"
+    },
+    {
+      "english": "This is why your friends pause",
+      "spanish": "Esto es por qué titubeas",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T22:00:28.209829"
+    },
+    {
+      "english": "Never wait, text one compliment",
+      "spanish": "No esperes, manda un cumplido",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T22:00:28.209846"
+    },
+    {
+      "english": "Stop word-hunting, use “está bien”",
+      "spanish": "Deja de buscar, usa “está bien”",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T22:00:28.209863"
+    },
+    {
+      "english": "This one phrase keeps friendships alive",
+      "spanish": "Esta frase mantiene amistades",
+      "category": "Friendship",
+      "generated_at": "2026-06-26T22:00:28.209878"
     }
   ],
   "used_english": [
@@ -11943,7 +11973,12 @@
     "never wait, reply with one chunk",
     "this fixes your “i’ll try” habit",
     "never memorize, steal natural phrases",
-    "stop searching, reuse your last sentence"
+    "stop searching, reuse your last sentence",
+    "never over-explain, just ask back",
+    "this is why your friends pause",
+    "never wait, text one compliment",
+    "stop word-hunting, use “está bien”",
+    "this one phrase keeps friendships alive"
   ],
-  "last_updated": "2026-06-26T20:49:30.958946"
+  "last_updated": "2026-06-26T22:00:28.209880"
 }
