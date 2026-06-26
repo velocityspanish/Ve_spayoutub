@@ -10205,6 +10205,36 @@
       "spanish": "No te quedes, señala y describe",
       "category": "Confidence",
       "generated_at": "2026-06-26T18:51:05.902108"
+    },
+    {
+      "english": "Stop translating, follow their vibe",
+      "spanish": "Deja de traducir, sigue su vibra",
+      "category": "Joy",
+      "generated_at": "2026-06-26T20:49:30.958866"
+    },
+    {
+      "english": "Never wait, reply with one chunk",
+      "spanish": "Nunca esperes, responde con un chunk",
+      "category": "Joy",
+      "generated_at": "2026-06-26T20:49:30.958893"
+    },
+    {
+      "english": "This fixes your “I’ll try” habit",
+      "spanish": "Esto arregla tu hábito de “lo intentaré”",
+      "category": "Joy",
+      "generated_at": "2026-06-26T20:49:30.958912"
+    },
+    {
+      "english": "Never memorize, steal natural phrases",
+      "spanish": "Nunca memorices, roba frases naturales",
+      "category": "Joy",
+      "generated_at": "2026-06-26T20:49:30.958928"
+    },
+    {
+      "english": "Stop searching, reuse your last sentence",
+      "spanish": "Deja de buscar, reutiliza tu última frase",
+      "category": "Joy",
+      "generated_at": "2026-06-26T20:49:30.958944"
     }
   ],
   "used_english": [
@@ -11908,7 +11938,12 @@
     "stop overthinking, choose a simple verb",
     "your accent is proof, not failure",
     "this confidence hits when you respond",
-    "never freeze, point and describe"
+    "never freeze, point and describe",
+    "stop translating, follow their vibe",
+    "never wait, reply with one chunk",
+    "this fixes your “i’ll try” habit",
+    "never memorize, steal natural phrases",
+    "stop searching, reuse your last sentence"
   ],
-  "last_updated": "2026-06-26T18:51:05.902110"
+  "last_updated": "2026-06-26T20:49:30.958946"
 }
