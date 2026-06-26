@@ -10145,6 +10145,36 @@
       "spanish": "No te achiques, habla a velocidad",
       "category": "Confidence",
       "generated_at": "2026-06-26T15:25:08.688458"
+    },
+    {
+      "english": "Stop dreading verbs, use feelings",
+      "spanish": "Deja el miedo a verbos, usa sentimientos",
+      "category": "Joy",
+      "generated_at": "2026-06-26T17:01:23.522202"
+    },
+    {
+      "english": "Never overthink, name what you see",
+      "spanish": "No pienses tanto, nombra lo que ves",
+      "category": "Joy",
+      "generated_at": "2026-06-26T17:01:23.522227"
+    },
+    {
+      "english": "Stop guessing, say the obvious",
+      "spanish": "No adivines, di lo obvio",
+      "category": "Joy",
+      "generated_at": "2026-06-26T17:01:23.522243"
+    },
+    {
+      "english": "The secret is joy, not perfection",
+      "spanish": "El secreto es alegría, no perfección",
+      "category": "Joy",
+      "generated_at": "2026-06-26T17:01:23.522259"
+    },
+    {
+      "english": "Never mute yourself, add a 'porque'",
+      "spanish": "No te calles, añade un 'porque'",
+      "category": "Joy",
+      "generated_at": "2026-06-26T17:01:23.522275"
     }
   ],
   "used_english": [
@@ -11838,7 +11868,12 @@
     "stop hunting, trust your first word",
     "never fear small errors, continue",
     "stop translating, trust the context",
-    "never shrink, speak at full speed"
+    "never shrink, speak at full speed",
+    "stop dreading verbs, use feelings",
+    "never overthink, name what you see",
+    "stop guessing, say the obvious",
+    "the secret is joy, not perfection",
+    "never mute yourself, add a 'porque'"
   ],
-  "last_updated": "2026-06-26T15:25:08.688459"
+  "last_updated": "2026-06-26T17:01:23.522277"
 }
