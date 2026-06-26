@@ -10175,6 +10175,36 @@
       "spanish": "No te calles, añade un 'porque'",
       "category": "Joy",
       "generated_at": "2026-06-26T17:01:23.522275"
+    },
+    {
+      "english": "Never fear sounding imperfect, go",
+      "spanish": "No tengas miedo, suena imperfecto",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T18:51:05.902036"
+    },
+    {
+      "english": "Stop overthinking, choose a simple verb",
+      "spanish": "Deja de pensar, elige un verbo simple",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T18:51:05.902059"
+    },
+    {
+      "english": "Your accent is proof, not failure",
+      "spanish": "Tu acento es prueba, no falla",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T18:51:05.902076"
+    },
+    {
+      "english": "This confidence hits when you respond",
+      "spanish": "La confianza llega cuando respondes",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T18:51:05.902092"
+    },
+    {
+      "english": "Never freeze, point and describe",
+      "spanish": "No te quedes, señala y describe",
+      "category": "Confidence",
+      "generated_at": "2026-06-26T18:51:05.902108"
     }
   ],
   "used_english": [
@@ -11873,7 +11903,12 @@
     "never overthink, name what you see",
     "stop guessing, say the obvious",
     "the secret is joy, not perfection",
-    "never mute yourself, add a 'porque'"
+    "never mute yourself, add a 'porque'",
+    "never fear sounding imperfect, go",
+    "stop overthinking, choose a simple verb",
+    "your accent is proof, not failure",
+    "this confidence hits when you respond",
+    "never freeze, point and describe"
   ],
-  "last_updated": "2026-06-26T17:01:23.522277"
+  "last_updated": "2026-06-26T18:51:05.902110"
 }
