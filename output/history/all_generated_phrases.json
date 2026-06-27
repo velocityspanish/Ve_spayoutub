@@ -10265,6 +10265,36 @@
       "spanish": "Esta frase mantiene amistades",
       "category": "Friendship",
       "generated_at": "2026-06-26T22:00:28.209878"
+    },
+    {
+      "english": "Stop “starting over”, keep going",
+      "spanish": "Deja “empezar de cero”, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-06-27T14:45:18.993010"
+    },
+    {
+      "english": "Stop waiting for “motivation”, train anyway",
+      "spanish": "No esperes motivación, entrena igual",
+      "category": "Perseverance",
+      "generated_at": "2026-06-27T14:45:18.993028"
+    },
+    {
+      "english": "Never miss the second time",
+      "spanish": "Nunca pierdas la segunda vez",
+      "category": "Perseverance",
+      "generated_at": "2026-06-27T14:45:18.993036"
+    },
+    {
+      "english": "This one habit upgrades your courage",
+      "spanish": "Este hábito sube tu valentía",
+      "category": "Perseverance",
+      "generated_at": "2026-06-27T14:45:18.993046"
+    },
+    {
+      "english": "The secret? Do it scared",
+      "spanish": "El secreto: hazlo con miedo",
+      "category": "Perseverance",
+      "generated_at": "2026-06-27T14:45:18.993053"
     }
   ],
   "used_english": [
@@ -11978,7 +12008,12 @@
     "this is why your friends pause",
     "never wait, text one compliment",
     "stop word-hunting, use “está bien”",
-    "this one phrase keeps friendships alive"
+    "this one phrase keeps friendships alive",
+    "stop “starting over”, keep going",
+    "stop waiting for “motivation”, train anyway",
+    "never miss the second time",
+    "this one habit upgrades your courage",
+    "the secret? do it scared"
   ],
-  "last_updated": "2026-06-26T22:00:28.209880"
+  "last_updated": "2026-06-27T14:45:18.993055"
 }
