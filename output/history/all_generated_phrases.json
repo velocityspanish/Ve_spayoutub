@@ -10295,6 +10295,36 @@
       "spanish": "El secreto: hazlo con miedo",
       "category": "Perseverance",
       "generated_at": "2026-06-27T14:45:18.993053"
+    },
+    {
+      "english": "Stop ignoring them, say gracias",
+      "spanish": "Deja de ignorarlos, di gracias",
+      "category": "Gratitude",
+      "generated_at": "2026-06-27T16:05:32.726283"
+    },
+    {
+      "english": "Never say nothing, send thanks",
+      "spanish": "Nunca digas nada, manda gracias",
+      "category": "Gratitude",
+      "generated_at": "2026-06-27T16:05:32.726310"
+    },
+    {
+      "english": "This is why people open up",
+      "spanish": "Por eso la gente se abre",
+      "category": "Gratitude",
+      "generated_at": "2026-06-27T16:05:32.726326"
+    },
+    {
+      "english": "The secret? Thank you, truly",
+      "spanish": "El secreto, gracias de verdad",
+      "category": "Gratitude",
+      "generated_at": "2026-06-27T16:05:32.726341"
+    },
+    {
+      "english": "Stop awkwardness, use 'muchas gracias'",
+      "spanish": "Para la incomodidad, 'muchas gracias'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-27T16:05:32.726356"
     }
   ],
   "used_english": [
@@ -12013,7 +12043,12 @@
     "stop waiting for “motivation”, train anyway",
     "never miss the second time",
     "this one habit upgrades your courage",
-    "the secret? do it scared"
+    "the secret? do it scared",
+    "stop ignoring them, say gracias",
+    "never say nothing, send thanks",
+    "this is why people open up",
+    "the secret? thank you, truly",
+    "stop awkwardness, use 'muchas gracias'"
   ],
-  "last_updated": "2026-06-27T14:45:18.993055"
+  "last_updated": "2026-06-27T16:05:32.726358"
 }
