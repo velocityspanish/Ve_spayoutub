@@ -10355,6 +10355,36 @@
       "spanish": "La esperanza rápida, habla con extraños",
       "category": "Hope",
       "generated_at": "2026-06-27T18:02:48.490406"
+    },
+    {
+      "english": "Stop apologizing in Spanish, choose action",
+      "spanish": "Deja de disculparte, elige acción",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T20:11:11.291495"
+    },
+    {
+      "english": "Never explain, just ask: ¿Mejor?",
+      "spanish": "Nunca expliques, solo pregunta: ¿Mejor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T20:11:11.291521"
+    },
+    {
+      "english": "Stop hunting tenses, use today",
+      "spanish": "Deja de buscar tiempos, usa hoy",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T20:11:11.291538"
+    },
+    {
+      "english": "Never lose hope, say it anyway",
+      "spanish": "Nunca pierdas la fe, dila igual",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T20:11:11.291553"
+    },
+    {
+      "english": "The secret is listening, not studying",
+      "spanish": "El secreto es escuchar, no estudiar",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-27T20:11:11.291569"
     }
   ],
   "used_english": [
@@ -12083,7 +12113,12 @@
     "your confidence grows, speak again today",
     "never fear silent practice, repeat",
     "what if your accent helps you?",
-    "the fastest hope, talk with strangers"
+    "the fastest hope, talk with strangers",
+    "stop apologizing in spanish, choose action",
+    "never explain, just ask: ¿mejor?",
+    "stop hunting tenses, use today",
+    "never lose hope, say it anyway",
+    "the secret is listening, not studying"
   ],
-  "last_updated": "2026-06-27T18:02:48.490408"
+  "last_updated": "2026-06-27T20:11:11.291571"
 }
