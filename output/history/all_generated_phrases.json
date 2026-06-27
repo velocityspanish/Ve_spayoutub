@@ -10385,6 +10385,36 @@
       "spanish": "El secreto es escuchar, no estudiar",
       "category": "Forgiveness",
       "generated_at": "2026-06-27T20:11:11.291569"
+    },
+    {
+      "english": "Never learn alone, do this nightly",
+      "spanish": "Nunca aprendas solo, haz esto cada noche",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T21:52:28.742501"
+    },
+    {
+      "english": "Stop thinking in English, breathe first",
+      "spanish": "Deja de pensar en inglés, respira primero",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T21:52:28.742525"
+    },
+    {
+      "english": "Stop overthinking, say the next word",
+      "spanish": "Para de sobrepensar, di la próxima palabra",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T21:52:28.742542"
+    },
+    {
+      "english": "This phrase buys you instant time",
+      "spanish": "Esta frase te da tiempo al instante",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T21:52:28.742558"
+    },
+    {
+      "english": "Never wait for “perfect”, start messy",
+      "spanish": "Nunca esperes “perfecto”, empieza imperfecto",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T21:52:28.742574"
     }
   ],
   "used_english": [
@@ -12118,7 +12148,12 @@
     "never explain, just ask: ¿mejor?",
     "stop hunting tenses, use today",
     "never lose hope, say it anyway",
-    "the secret is listening, not studying"
+    "the secret is listening, not studying",
+    "never learn alone, do this nightly",
+    "stop thinking in english, breathe first",
+    "stop overthinking, say the next word",
+    "this phrase buys you instant time",
+    "never wait for “perfect”, start messy"
   ],
-  "last_updated": "2026-06-27T20:11:11.291571"
+  "last_updated": "2026-06-27T21:52:28.742576"
 }
