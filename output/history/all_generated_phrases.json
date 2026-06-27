@@ -10325,6 +10325,36 @@
       "spanish": "Para la incomodidad, 'muchas gracias'",
       "category": "Gratitude",
       "generated_at": "2026-06-27T16:05:32.726356"
+    },
+    {
+      "english": "The secret? Say one honest sentence",
+      "spanish": "El secreto, di una frase honesta",
+      "category": "Hope",
+      "generated_at": "2026-06-27T18:02:48.490332"
+    },
+    {
+      "english": "Your confidence grows, speak again today",
+      "spanish": "Tu confianza crece, habla hoy",
+      "category": "Hope",
+      "generated_at": "2026-06-27T18:02:48.490357"
+    },
+    {
+      "english": "Never fear silent practice, repeat",
+      "spanish": "No temas practicar en silencio, repite",
+      "category": "Hope",
+      "generated_at": "2026-06-27T18:02:48.490374"
+    },
+    {
+      "english": "What if your accent helps you?",
+      "spanish": "¿Y si tu acento te ayuda?",
+      "category": "Hope",
+      "generated_at": "2026-06-27T18:02:48.490390"
+    },
+    {
+      "english": "The fastest hope, talk with strangers",
+      "spanish": "La esperanza rápida, habla con extraños",
+      "category": "Hope",
+      "generated_at": "2026-06-27T18:02:48.490406"
     }
   ],
   "used_english": [
@@ -12048,7 +12078,12 @@
     "never say nothing, send thanks",
     "this is why people open up",
     "the secret? thank you, truly",
-    "stop awkwardness, use 'muchas gracias'"
+    "stop awkwardness, use 'muchas gracias'",
+    "the secret? say one honest sentence",
+    "your confidence grows, speak again today",
+    "never fear silent practice, repeat",
+    "what if your accent helps you?",
+    "the fastest hope, talk with strangers"
   ],
-  "last_updated": "2026-06-27T16:05:32.726358"
+  "last_updated": "2026-06-27T18:02:48.490408"
 }
