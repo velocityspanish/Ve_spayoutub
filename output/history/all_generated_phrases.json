@@ -10445,6 +10445,36 @@
       "spanish": "Este hábito acelera tus respuestas",
       "category": "Confidence",
       "generated_at": "2026-06-28T14:50:24.899101"
+    },
+    {
+      "english": "Stop chasing perfect, say the next",
+      "spanish": "Deja de buscar perfecto, di el siguiente",
+      "category": "Courage",
+      "generated_at": "2026-06-28T16:11:40.984422"
+    },
+    {
+      "english": "Never overthink, just name it",
+      "spanish": "Nunca sobrepienses, solo nómbralo",
+      "category": "Courage",
+      "generated_at": "2026-06-28T16:11:40.984450"
+    },
+    {
+      "english": "Stop waiting, answer without planning",
+      "spanish": "Deja de esperar, contesta sin planear",
+      "category": "Courage",
+      "generated_at": "2026-06-28T16:11:40.984467"
+    },
+    {
+      "english": "Never fear the awkward second",
+      "spanish": "Nunca temas la segunda incómoda",
+      "category": "Courage",
+      "generated_at": "2026-06-28T16:11:40.984483"
+    },
+    {
+      "english": "The secret? One word, then breathe",
+      "spanish": "El secreto, una palabra, y respira",
+      "category": "Courage",
+      "generated_at": "2026-06-28T16:11:40.984500"
     }
   ],
   "used_english": [
@@ -12188,7 +12218,12 @@
     "never fear short answers",
     "the secret is one brave sentence",
     "never overthink, copy their rhythm",
-    "this habit makes replies faster"
+    "this habit makes replies faster",
+    "stop chasing perfect, say the next",
+    "never overthink, just name it",
+    "stop waiting, answer without planning",
+    "never fear the awkward second",
+    "the secret? one word, then breathe"
   ],
-  "last_updated": "2026-06-28T14:50:24.899103"
+  "last_updated": "2026-06-28T16:11:40.984502"
 }
