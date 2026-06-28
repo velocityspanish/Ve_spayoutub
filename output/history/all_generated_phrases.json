@@ -10505,6 +10505,36 @@
       "spanish": "Nunca estudies, repite una frase",
       "category": "Inspiration",
       "generated_at": "2026-06-28T18:05:26.644916"
+    },
+    {
+      "english": "Stop rewriting, use the simplest reply",
+      "spanish": "No reescribas, usa la respuesta más simple",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:16:46.334817"
+    },
+    {
+      "english": "Never say later, use 'ahora mismo'",
+      "spanish": "Nunca digas luego, usa 'ahora mismo'",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:16:46.334860"
+    },
+    {
+      "english": "The secret, ask for a small favor",
+      "spanish": "El secreto, pide un favor pequeño",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:16:46.334878"
+    },
+    {
+      "english": "Stop building perfect sentences, speak chunks",
+      "spanish": "Deja de armar frases perfectas, habla en partes",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:16:46.334893"
+    },
+    {
+      "english": "Never over-explain, add one clarifier",
+      "spanish": "No expliques de más, agrega una aclaración",
+      "category": "Success",
+      "generated_at": "2026-06-28T20:16:46.334909"
     }
   ],
   "used_english": [
@@ -12258,7 +12288,12 @@
     "never fear 'wrong', aim for 'clear'",
     "the fastest win, answer with feelings",
     "stop overthinking, speak your guess",
-    "never study, shadow one sentence"
+    "never study, shadow one sentence",
+    "stop rewriting, use the simplest reply",
+    "never say later, use 'ahora mismo'",
+    "the secret, ask for a small favor",
+    "stop building perfect sentences, speak chunks",
+    "never over-explain, add one clarifier"
   ],
-  "last_updated": "2026-06-28T18:05:26.644918"
+  "last_updated": "2026-06-28T20:16:46.334911"
 }
