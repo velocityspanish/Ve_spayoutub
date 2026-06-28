@@ -10475,6 +10475,36 @@
       "spanish": "El secreto, una palabra, y respira",
       "category": "Courage",
       "generated_at": "2026-06-28T16:11:40.984500"
+    },
+    {
+      "english": "The secret, talk before you explain",
+      "spanish": "El secreto, habla antes de explicar",
+      "category": "Inspiration",
+      "generated_at": "2026-06-28T18:05:26.644842"
+    },
+    {
+      "english": "Never fear 'wrong', aim for 'clear'",
+      "spanish": "Nunca temas 'equivocado', busca claridad",
+      "category": "Inspiration",
+      "generated_at": "2026-06-28T18:05:26.644865"
+    },
+    {
+      "english": "The fastest win, answer with feelings",
+      "spanish": "La victoria rápida, responde con emociones",
+      "category": "Inspiration",
+      "generated_at": "2026-06-28T18:05:26.644883"
+    },
+    {
+      "english": "Stop overthinking, speak your guess",
+      "spanish": "Deja de pensar tanto, di tu suposición",
+      "category": "Inspiration",
+      "generated_at": "2026-06-28T18:05:26.644899"
+    },
+    {
+      "english": "Never study, shadow one sentence",
+      "spanish": "Nunca estudies, repite una frase",
+      "category": "Inspiration",
+      "generated_at": "2026-06-28T18:05:26.644916"
     }
   ],
   "used_english": [
@@ -12223,7 +12253,12 @@
     "never overthink, just name it",
     "stop waiting, answer without planning",
     "never fear the awkward second",
-    "the secret? one word, then breathe"
+    "the secret? one word, then breathe",
+    "the secret, talk before you explain",
+    "never fear 'wrong', aim for 'clear'",
+    "the fastest win, answer with feelings",
+    "stop overthinking, speak your guess",
+    "never study, shadow one sentence"
   ],
-  "last_updated": "2026-06-28T16:11:40.984502"
+  "last_updated": "2026-06-28T18:05:26.644918"
 }
