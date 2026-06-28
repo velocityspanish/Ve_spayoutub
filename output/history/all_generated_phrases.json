@@ -10535,6 +10535,36 @@
       "spanish": "No expliques de más, agrega una aclaración",
       "category": "Success",
       "generated_at": "2026-06-28T20:16:46.334909"
+    },
+    {
+      "english": "Stop doubting, use “estoy” first",
+      "spanish": "Deja la duda, usa “estoy” primero",
+      "category": "Positive Life",
+      "generated_at": "2026-06-28T21:52:30.458533"
+    },
+    {
+      "english": "Never hide, say “me gusta”",
+      "spanish": "Nunca te escondas, di “me gusta”",
+      "category": "Positive Life",
+      "generated_at": "2026-06-28T21:52:30.458560"
+    },
+    {
+      "english": "Stop perfecting, learn through mistakes",
+      "spanish": "Deja de perfeccionar, aprende por errores",
+      "category": "Positive Life",
+      "generated_at": "2026-06-28T21:52:30.458579"
+    },
+    {
+      "english": "Never rush, choose one simple verb",
+      "spanish": "Nunca corras, elige un verbo simple",
+      "category": "Positive Life",
+      "generated_at": "2026-06-28T21:52:30.458599"
+    },
+    {
+      "english": "The fastest upgrade, talk daily",
+      "spanish": "El mejor avance, habla cada día",
+      "category": "Positive Life",
+      "generated_at": "2026-06-28T21:52:30.458618"
     }
   ],
   "used_english": [
@@ -12293,7 +12323,12 @@
     "never say later, use 'ahora mismo'",
     "the secret, ask for a small favor",
     "stop building perfect sentences, speak chunks",
-    "never over-explain, add one clarifier"
+    "never over-explain, add one clarifier",
+    "stop doubting, use “estoy” first",
+    "never hide, say “me gusta”",
+    "stop perfecting, learn through mistakes",
+    "never rush, choose one simple verb",
+    "the fastest upgrade, talk daily"
   ],
-  "last_updated": "2026-06-28T20:16:46.334911"
+  "last_updated": "2026-06-28T21:52:30.458620"
 }
