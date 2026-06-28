@@ -10415,6 +10415,36 @@
       "spanish": "Nunca esperes “perfecto”, empieza imperfecto",
       "category": "Inspiration",
       "generated_at": "2026-06-27T21:52:28.742574"
+    },
+    {
+      "english": "Stop deleting your sentences",
+      "spanish": "Deja de borrar tus frases",
+      "category": "Confidence",
+      "generated_at": "2026-06-28T14:50:24.899038"
+    },
+    {
+      "english": "Never fear short answers",
+      "spanish": "No tengas miedo a respuestas cortas",
+      "category": "Confidence",
+      "generated_at": "2026-06-28T14:50:24.899060"
+    },
+    {
+      "english": "The secret is one brave sentence",
+      "spanish": "El secreto es una frase valiente",
+      "category": "Confidence",
+      "generated_at": "2026-06-28T14:50:24.899075"
+    },
+    {
+      "english": "Never overthink, copy their rhythm",
+      "spanish": "No pienses tanto, copia su ritmo",
+      "category": "Confidence",
+      "generated_at": "2026-06-28T14:50:24.899088"
+    },
+    {
+      "english": "This habit makes replies faster",
+      "spanish": "Este hábito acelera tus respuestas",
+      "category": "Confidence",
+      "generated_at": "2026-06-28T14:50:24.899101"
     }
   ],
   "used_english": [
@@ -12153,7 +12183,12 @@
     "stop thinking in english, breathe first",
     "stop overthinking, say the next word",
     "this phrase buys you instant time",
-    "never wait for “perfect”, start messy"
+    "never wait for “perfect”, start messy",
+    "stop deleting your sentences",
+    "never fear short answers",
+    "the secret is one brave sentence",
+    "never overthink, copy their rhythm",
+    "this habit makes replies faster"
   ],
-  "last_updated": "2026-06-27T21:52:28.742576"
+  "last_updated": "2026-06-28T14:50:24.899103"
 }
