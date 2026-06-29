@@ -10625,6 +10625,36 @@
       "spanish": "No temas errores, sigue confesando",
       "category": "Love",
       "generated_at": "2026-06-29T17:37:50.671876"
+    },
+    {
+      "english": "Never start with “umm”, speak",
+      "spanish": "Nunca empieces con “ehm”, habla",
+      "category": "Purpose",
+      "generated_at": "2026-06-29T19:04:17.828947"
+    },
+    {
+      "english": "The secret, name feelings fast",
+      "spanish": "El secreto, di tus emociones",
+      "category": "Purpose",
+      "generated_at": "2026-06-29T19:04:17.828971"
+    },
+    {
+      "english": "Never fear pauses, they help",
+      "spanish": "No temas pausas, ayudan",
+      "category": "Purpose",
+      "generated_at": "2026-06-29T19:04:17.828987"
+    },
+    {
+      "english": "Stop asking “how”, just do",
+      "spanish": "Deja de preguntar “cómo”, hazlo",
+      "category": "Purpose",
+      "generated_at": "2026-06-29T19:04:17.829003"
+    },
+    {
+      "english": "Stop “studying”, start tiny conversations",
+      "spanish": "Deja de “estudiar”, conversa poquito",
+      "category": "Purpose",
+      "generated_at": "2026-06-29T19:04:17.829018"
     }
   ],
   "used_english": [
@@ -12398,7 +12428,12 @@
     "never hide, your heart speaks first",
     "this fixes your shy “i like you”",
     "stop freezing, breathe, then smile",
-    "never fear mistakes, keep confessing"
+    "never fear mistakes, keep confessing",
+    "never start with “umm”, speak",
+    "the secret, name feelings fast",
+    "never fear pauses, they help",
+    "stop asking “how”, just do",
+    "stop “studying”, start tiny conversations"
   ],
-  "last_updated": "2026-06-29T17:37:50.671878"
+  "last_updated": "2026-06-29T19:04:17.829019"
 }
