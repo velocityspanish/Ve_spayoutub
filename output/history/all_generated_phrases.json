@@ -10595,6 +10595,36 @@
       "spanish": "Deja de pensar, di 'te aprecio'",
       "category": "Gratitude",
       "generated_at": "2026-06-29T16:39:09.354262"
+    },
+    {
+      "english": "Stop waiting, say “me importas”",
+      "spanish": "Para ya, di “me importas”",
+      "category": "Love",
+      "generated_at": "2026-06-29T17:37:50.671790"
+    },
+    {
+      "english": "Never hide, your heart speaks first",
+      "spanish": "Nunca te escondas, el corazón habla",
+      "category": "Love",
+      "generated_at": "2026-06-29T17:37:50.671823"
+    },
+    {
+      "english": "This fixes your shy “I like you”",
+      "spanish": "Así rompes tu timidez, “me gustas”",
+      "category": "Love",
+      "generated_at": "2026-06-29T17:37:50.671842"
+    },
+    {
+      "english": "Stop freezing, breathe, then smile",
+      "spanish": "Deja de congelarte, respira, sonríe",
+      "category": "Love",
+      "generated_at": "2026-06-29T17:37:50.671860"
+    },
+    {
+      "english": "Never fear mistakes, keep confessing",
+      "spanish": "No temas errores, sigue confesando",
+      "category": "Love",
+      "generated_at": "2026-06-29T17:37:50.671876"
     }
   ],
   "used_english": [
@@ -12363,7 +12393,12 @@
     "never skip the magic word, hoy",
     "this is why people forgive faster",
     "the secret? gracias, con tu sonrisa",
-    "stop overthinking, just say 'te aprecio'"
+    "stop overthinking, just say 'te aprecio'",
+    "stop waiting, say “me importas”",
+    "never hide, your heart speaks first",
+    "this fixes your shy “i like you”",
+    "stop freezing, breathe, then smile",
+    "never fear mistakes, keep confessing"
   ],
-  "last_updated": "2026-06-29T16:39:09.354264"
+  "last_updated": "2026-06-29T17:37:50.671878"
 }
