@@ -10655,6 +10655,36 @@
       "spanish": "Deja de “estudiar”, conversa poquito",
       "category": "Purpose",
       "generated_at": "2026-06-29T19:04:17.829018"
+    },
+    {
+      "english": "The secret, ask what they love",
+      "spanish": "El secreto, pregunta qué les gusta",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T20:50:20.143102"
+    },
+    {
+      "english": "Never perfect, just sound friendly",
+      "spanish": "Nunca seas perfecto, suena amable",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T20:50:20.143130"
+    },
+    {
+      "english": "Stop rehearsing, trust your first try",
+      "spanish": "Deja de ensayar, confía en tu primera",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T20:50:20.143147"
+    },
+    {
+      "english": "Never freeze, say “tranquilo”, then speak",
+      "spanish": "Nunca te quedes, di “tranquilo”, y habla",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T20:50:20.143163"
+    },
+    {
+      "english": "Stop guessing, point and describe",
+      "spanish": "Deja de adivinar, señala y describe",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T20:50:20.143180"
     }
   ],
   "used_english": [
@@ -12433,7 +12463,12 @@
     "the secret, name feelings fast",
     "never fear pauses, they help",
     "stop asking “how”, just do",
-    "stop “studying”, start tiny conversations"
+    "stop “studying”, start tiny conversations",
+    "the secret, ask what they love",
+    "never perfect, just sound friendly",
+    "stop rehearsing, trust your first try",
+    "never freeze, say “tranquilo”, then speak",
+    "stop guessing, point and describe"
   ],
-  "last_updated": "2026-06-29T19:04:17.829019"
+  "last_updated": "2026-06-29T20:50:20.143181"
 }
