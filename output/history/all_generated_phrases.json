@@ -10565,6 +10565,36 @@
       "spanish": "El mejor avance, habla cada día",
       "category": "Positive Life",
       "generated_at": "2026-06-28T21:52:30.458618"
+    },
+    {
+      "english": "Stop saying thanks like a robot",
+      "spanish": "Deja el gracias robótico, dilo con alma",
+      "category": "Gratitude",
+      "generated_at": "2026-06-29T16:39:09.354185"
+    },
+    {
+      "english": "Never skip the magic word, hoy",
+      "spanish": "Nunca omitas la magia, hoy",
+      "category": "Gratitude",
+      "generated_at": "2026-06-29T16:39:09.354213"
+    },
+    {
+      "english": "This is why people forgive faster",
+      "spanish": "Por eso perdonan más rápido",
+      "category": "Gratitude",
+      "generated_at": "2026-06-29T16:39:09.354230"
+    },
+    {
+      "english": "The secret? Gracias, con tu sonrisa",
+      "spanish": "El secreto, gracias, con tu sonrisa",
+      "category": "Gratitude",
+      "generated_at": "2026-06-29T16:39:09.354248"
+    },
+    {
+      "english": "Stop overthinking, just say 'te aprecio'",
+      "spanish": "Deja de pensar, di 'te aprecio'",
+      "category": "Gratitude",
+      "generated_at": "2026-06-29T16:39:09.354262"
     }
   ],
   "used_english": [
@@ -12328,7 +12358,12 @@
     "never hide, say “me gusta”",
     "stop perfecting, learn through mistakes",
     "never rush, choose one simple verb",
-    "the fastest upgrade, talk daily"
+    "the fastest upgrade, talk daily",
+    "stop saying thanks like a robot",
+    "never skip the magic word, hoy",
+    "this is why people forgive faster",
+    "the secret? gracias, con tu sonrisa",
+    "stop overthinking, just say 'te aprecio'"
   ],
-  "last_updated": "2026-06-28T21:52:30.458620"
+  "last_updated": "2026-06-29T16:39:09.354264"
 }
