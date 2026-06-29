@@ -10685,6 +10685,36 @@
       "spanish": "Deja de adivinar, señala y describe",
       "category": "Kindness",
       "generated_at": "2026-06-29T20:50:20.143180"
+    },
+    {
+      "english": "Stop fearing awkward, just ask",
+      "spanish": "Deja el miedo, solo pregunta",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T22:02:59.199419"
+    },
+    {
+      "english": "Never wait, say “Te entiendo”",
+      "spanish": "Nunca esperes, di “Te entiendo”",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T22:02:59.199443"
+    },
+    {
+      "english": "Stop perfecting, say what you feel",
+      "spanish": "Deja de perfeccionar, di lo que sientes",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T22:02:59.199460"
+    },
+    {
+      "english": "Never ghost, send one question",
+      "spanish": "Nunca desaparezcas, manda una pregunta",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T22:02:59.199477"
+    },
+    {
+      "english": "This one kindness flips their mood",
+      "spanish": "Esta bondad cambia su ánimo",
+      "category": "Kindness",
+      "generated_at": "2026-06-29T22:02:59.199494"
     }
   ],
   "used_english": [
@@ -12468,7 +12498,12 @@
     "never perfect, just sound friendly",
     "stop rehearsing, trust your first try",
     "never freeze, say “tranquilo”, then speak",
-    "stop guessing, point and describe"
+    "stop guessing, point and describe",
+    "stop fearing awkward, just ask",
+    "never wait, say “te entiendo”",
+    "stop perfecting, say what you feel",
+    "never ghost, send one question",
+    "this one kindness flips their mood"
   ],
-  "last_updated": "2026-06-29T20:50:20.143181"
+  "last_updated": "2026-06-29T22:02:59.199496"
 }
