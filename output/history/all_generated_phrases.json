@@ -10775,6 +10775,36 @@
       "spanish": "Nunca preguntes “¿entiendes?”",
       "category": "Self Improvement",
       "generated_at": "2026-06-30T17:06:48.487230"
+    },
+    {
+      "english": "Stop losing time, speak now",
+      "spanish": "Deja de perder tiempo, habla ya",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T18:55:38.762923"
+    },
+    {
+      "english": "Never fear boring sentences, start",
+      "spanish": "Nunca temas frases aburridas, empieza",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T18:55:38.762948"
+    },
+    {
+      "english": "This one trick builds speed fast",
+      "spanish": "Este truco da velocidad rápido",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T18:55:38.762966"
+    },
+    {
+      "english": "Stop rehearsing, practice spontaneity",
+      "spanish": "Deja de ensayar, practica espontáneo",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T18:55:38.762982"
+    },
+    {
+      "english": "Never sound fluent, sound present",
+      "spanish": "No suenes perfecto, sé presente",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T18:55:38.762998"
     }
   ],
   "used_english": [
@@ -12573,7 +12603,12 @@
     "never wait, invite them to talk",
     "stop overcorrecting, keep the flow",
     "stop waiting for words, use pauses",
-    "never ask “do you understand?”"
+    "never ask “do you understand?”",
+    "stop losing time, speak now",
+    "never fear boring sentences, start",
+    "this one trick builds speed fast",
+    "stop rehearsing, practice spontaneity",
+    "never sound fluent, sound present"
   ],
-  "last_updated": "2026-06-30T17:06:48.487231"
+  "last_updated": "2026-06-30T18:55:38.763000"
 }
