@@ -10715,6 +10715,36 @@
       "spanish": "Esta bondad cambia su ánimo",
       "category": "Kindness",
       "generated_at": "2026-06-29T22:02:59.199494"
+    },
+    {
+      "english": "Stop replying with 'maybe', say yes",
+      "spanish": "Deja de decir «tal vez», di sí",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T15:30:34.463891"
+    },
+    {
+      "english": "Never say 'sorry', say 'thank you'!",
+      "spanish": "Nunca pidas perdón, di «gracias»",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T15:30:34.463915"
+    },
+    {
+      "english": "Stop fearing pauses, they’re power",
+      "spanish": "Deja los silencios, son poder",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T15:30:34.463934"
+    },
+    {
+      "english": "This fixes 'I don't know' fast",
+      "spanish": "Esto cura «no sé» al instante",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T15:30:34.463952"
+    },
+    {
+      "english": "The fastest confidence, ask back",
+      "spanish": "Confianza rápida, pregunta tú",
+      "category": "Wisdom",
+      "generated_at": "2026-06-30T15:30:34.463970"
     }
   ],
   "used_english": [
@@ -12503,7 +12533,12 @@
     "never wait, say “te entiendo”",
     "stop perfecting, say what you feel",
     "never ghost, send one question",
-    "this one kindness flips their mood"
+    "this one kindness flips their mood",
+    "stop replying with 'maybe', say yes",
+    "never say 'sorry', say 'thank you'!",
+    "stop fearing pauses, they’re power",
+    "this fixes 'i don't know' fast",
+    "the fastest confidence, ask back"
   ],
-  "last_updated": "2026-06-29T22:02:59.199496"
+  "last_updated": "2026-06-30T15:30:34.463972"
 }
