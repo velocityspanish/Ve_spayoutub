@@ -10805,6 +10805,36 @@
       "spanish": "No suenes perfecto, sé presente",
       "category": "Wisdom",
       "generated_at": "2026-06-30T18:55:38.762998"
+    },
+    {
+      "english": "Never say “love” first, say “hola”",
+      "spanish": "Nunca digas “amor” primero, di “hola”",
+      "category": "Love",
+      "generated_at": "2026-06-30T20:58:02.482390"
+    },
+    {
+      "english": "Stop scrolling, send one heart",
+      "spanish": "Deja de scrollear, manda un corazón",
+      "category": "Love",
+      "generated_at": "2026-06-30T20:58:02.482417"
+    },
+    {
+      "english": "This is why they reply faster",
+      "spanish": "Esto es por qué contestan más rápido",
+      "category": "Love",
+      "generated_at": "2026-06-30T20:58:02.482434"
+    },
+    {
+      "english": "Stop being “busy”, say “te necesito”",
+      "spanish": "No digas “estoy ocupado”, di “te necesito”",
+      "category": "Love",
+      "generated_at": "2026-06-30T20:58:02.482451"
+    },
+    {
+      "english": "Never hide, send “¿hablamos?”",
+      "spanish": "Nunca te escondas, manda “¿hablamos?”",
+      "category": "Love",
+      "generated_at": "2026-06-30T20:58:02.482467"
     }
   ],
   "used_english": [
@@ -12608,7 +12638,12 @@
     "never fear boring sentences, start",
     "this one trick builds speed fast",
     "stop rehearsing, practice spontaneity",
-    "never sound fluent, sound present"
+    "never sound fluent, sound present",
+    "never say “love” first, say “hola”",
+    "stop scrolling, send one heart",
+    "this is why they reply faster",
+    "stop being “busy”, say “te necesito”",
+    "never hide, send “¿hablamos?”"
   ],
-  "last_updated": "2026-06-30T18:55:38.763000"
+  "last_updated": "2026-06-30T20:58:02.482469"
 }
