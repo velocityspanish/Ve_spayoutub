@@ -10835,6 +10835,36 @@
       "spanish": "Nunca te escondas, manda “¿hablamos?”",
       "category": "Love",
       "generated_at": "2026-06-30T20:58:02.482467"
+    },
+    {
+      "english": "Stop translating, just describe it",
+      "spanish": "Deja de traducir, descríbelo así",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T22:07:27.429561"
+    },
+    {
+      "english": "Never wait, use ‘I’m learning’",
+      "spanish": "Nunca esperes, usa “estoy aprendiendo”",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T22:07:27.429583"
+    },
+    {
+      "english": "Stop overthinking, ask for details",
+      "spanish": "Deja de pensar, pide detalles",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T22:07:27.429598"
+    },
+    {
+      "english": "The secret is simple, “¿y tú?”",
+      "spanish": "El secreto es simple, “¿y tú?”",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T22:07:27.429612"
+    },
+    {
+      "english": "This fixes your ‘meaning’ panic",
+      "spanish": "Esto arregla tu pánico de sentido",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T22:07:27.429626"
     }
   ],
   "used_english": [
@@ -12643,7 +12673,12 @@
     "stop scrolling, send one heart",
     "this is why they reply faster",
     "stop being “busy”, say “te necesito”",
-    "never hide, send “¿hablamos?”"
+    "never hide, send “¿hablamos?”",
+    "stop translating, just describe it",
+    "never wait, use ‘i’m learning’",
+    "stop overthinking, ask for details",
+    "the secret is simple, “¿y tú?”",
+    "this fixes your ‘meaning’ panic"
   ],
-  "last_updated": "2026-06-30T20:58:02.482469"
+  "last_updated": "2026-06-30T22:07:27.429627"
 }
