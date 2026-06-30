@@ -10745,6 +10745,36 @@
       "spanish": "Confianza rápida, pregunta tú",
       "category": "Wisdom",
       "generated_at": "2026-06-30T15:30:34.463970"
+    },
+    {
+      "english": "Stop chasing perfect, say “I’m trying”",
+      "spanish": "Deja la perfección, di “estoy intentando”",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-30T17:06:48.487147"
+    },
+    {
+      "english": "Never wait, invite them to talk",
+      "spanish": "Nunca esperes, invítalos a hablar",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-30T17:06:48.487175"
+    },
+    {
+      "english": "Stop overcorrecting, keep the flow",
+      "spanish": "Deja corregir de más, sigue el flujo",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-30T17:06:48.487194"
+    },
+    {
+      "english": "Stop waiting for words, use pauses",
+      "spanish": "No esperes palabras, usa pausas",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-30T17:06:48.487212"
+    },
+    {
+      "english": "Never ask “do you understand?”",
+      "spanish": "Nunca preguntes “¿entiendes?”",
+      "category": "Self Improvement",
+      "generated_at": "2026-06-30T17:06:48.487230"
     }
   ],
   "used_english": [
@@ -12538,7 +12568,12 @@
     "never say 'sorry', say 'thank you'!",
     "stop fearing pauses, they’re power",
     "this fixes 'i don't know' fast",
-    "the fastest confidence, ask back"
+    "the fastest confidence, ask back",
+    "stop chasing perfect, say “i’m trying”",
+    "never wait, invite them to talk",
+    "stop overcorrecting, keep the flow",
+    "stop waiting for words, use pauses",
+    "never ask “do you understand?”"
   ],
-  "last_updated": "2026-06-30T15:30:34.463972"
+  "last_updated": "2026-06-30T17:06:48.487231"
 }
