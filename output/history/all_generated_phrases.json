@@ -10955,6 +10955,36 @@
       "spanish": "Este truco calma, y responde rápido",
       "category": "Inner Peace",
       "generated_at": "2026-07-01T18:59:26.435323"
+    },
+    {
+      "english": "Stop overthinking, whisper it slowly",
+      "spanish": "Deja de pensar, susurra despacio",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T20:48:45.504695"
+    },
+    {
+      "english": "The secret, breathe, then choose simple",
+      "spanish": "El secreto, respira, elige simple",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T20:48:45.504722"
+    },
+    {
+      "english": "Never chase perfection, trust your rhythm",
+      "spanish": "No persigas perfección, confía ritmo",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T20:48:45.504739"
+    },
+    {
+      "english": "Stop multitasking, one sentence only",
+      "spanish": "Deja multitarea, solo una frase",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T20:48:45.504756"
+    },
+    {
+      "english": "Never apologize, just add 'gracias'",
+      "spanish": "No te disculpes, solo di 'gracias'",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-01T20:48:45.504774"
     }
   ],
   "used_english": [
@@ -12783,7 +12813,12 @@
     "the secret: name the feeling, now",
     "stop aiming perfect, aim honest",
     "never rush meaning, just be clear",
-    "this calming trick changes replies fast"
+    "this calming trick changes replies fast",
+    "stop overthinking, whisper it slowly",
+    "the secret, breathe, then choose simple",
+    "never chase perfection, trust your rhythm",
+    "stop multitasking, one sentence only",
+    "never apologize, just add 'gracias'"
   ],
-  "last_updated": "2026-07-01T18:59:26.435325"
+  "last_updated": "2026-07-01T20:48:45.504776"
 }
