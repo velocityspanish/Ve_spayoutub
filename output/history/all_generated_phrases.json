@@ -10925,6 +10925,36 @@
       "spanish": "No temas el silencio, cuenta hasta tres",
       "category": "Strength",
       "generated_at": "2026-07-01T17:14:50.780213"
+    },
+    {
+      "english": "Never negotiate with your inner doubt",
+      "spanish": "Nunca negocies con tu duda interior",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-01T18:59:26.435245"
+    },
+    {
+      "english": "The secret: name the feeling, now",
+      "spanish": "El secreto: nombra el sentimiento, ya",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-01T18:59:26.435271"
+    },
+    {
+      "english": "Stop aiming perfect, aim honest",
+      "spanish": "No busques perfecto, busca honesto",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-01T18:59:26.435290"
+    },
+    {
+      "english": "Never rush meaning, just be clear",
+      "spanish": "Nunca corras el significado, sé claro",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-01T18:59:26.435307"
+    },
+    {
+      "english": "This calming trick changes replies fast",
+      "spanish": "Este truco calma, y responde rápido",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-01T18:59:26.435323"
     }
   ],
   "used_english": [
@@ -12748,7 +12778,12 @@
     "stop freezing, just say 'está bien'",
     "never apologize, say 'te entiendo'",
     "the secret? use 'yo quiero', daily",
-    "never fear silence, count to three"
+    "never fear silence, count to three",
+    "never negotiate with your inner doubt",
+    "the secret: name the feeling, now",
+    "stop aiming perfect, aim honest",
+    "never rush meaning, just be clear",
+    "this calming trick changes replies fast"
   ],
-  "last_updated": "2026-07-01T17:14:50.780215"
+  "last_updated": "2026-07-01T18:59:26.435325"
 }
