@@ -10895,6 +10895,36 @@
       "spanish": "El secreto: pregunta su día, ¿cómo va?",
       "category": "Friendship",
       "generated_at": "2026-07-01T15:44:13.179022"
+    },
+    {
+      "english": "The secret, practice one tiny 'pero'",
+      "spanish": "El secreto, practica un 'pero' pequeño",
+      "category": "Strength",
+      "generated_at": "2026-07-01T17:14:50.780134"
+    },
+    {
+      "english": "Stop freezing, just say 'está bien'",
+      "spanish": "No te congeles, solo di 'está bien'",
+      "category": "Strength",
+      "generated_at": "2026-07-01T17:14:50.780162"
+    },
+    {
+      "english": "Never apologize, say 'te entiendo'",
+      "spanish": "No pidas perdón, di 'te entiendo'",
+      "category": "Strength",
+      "generated_at": "2026-07-01T17:14:50.780180"
+    },
+    {
+      "english": "The secret? Use 'yo quiero', daily",
+      "spanish": "El secreto, usa 'yo quiero' diario",
+      "category": "Strength",
+      "generated_at": "2026-07-01T17:14:50.780197"
+    },
+    {
+      "english": "Never fear silence, count to three",
+      "spanish": "No temas el silencio, cuenta hasta tres",
+      "category": "Strength",
+      "generated_at": "2026-07-01T17:14:50.780213"
     }
   ],
   "used_english": [
@@ -12713,7 +12743,12 @@
     "never let pride silence you, pide ayuda",
     "stop overexplaining, use “claro, te entiendo”",
     "never wait to be “ready”, habla hoy",
-    "the secret? ask about their day, ¿cómo va?"
+    "the secret? ask about their day, ¿cómo va?",
+    "the secret, practice one tiny 'pero'",
+    "stop freezing, just say 'está bien'",
+    "never apologize, say 'te entiendo'",
+    "the secret? use 'yo quiero', daily",
+    "never fear silence, count to three"
   ],
-  "last_updated": "2026-07-01T15:44:13.179024"
+  "last_updated": "2026-07-01T17:14:50.780215"
 }
