@@ -10865,6 +10865,36 @@
       "spanish": "Esto arregla tu pánico de sentido",
       "category": "Creativity",
       "generated_at": "2026-06-30T22:07:27.429626"
+    },
+    {
+      "english": "Stop using “friend” too late, di amigo",
+      "spanish": "Deja “friend” tarde, di amigo",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T15:44:13.178944"
+    },
+    {
+      "english": "Never let pride silence you, pide ayuda",
+      "spanish": "Nunca el orgullo te calla, pide ayuda",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T15:44:13.178971"
+    },
+    {
+      "english": "Stop overexplaining, use “claro, te entiendo”",
+      "spanish": "Deja explicarte, “claro, te entiendo”",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T15:44:13.178988"
+    },
+    {
+      "english": "Never wait to be “ready”, habla hoy",
+      "spanish": "No esperes “listo”, habla hoy",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T15:44:13.179006"
+    },
+    {
+      "english": "The secret? Ask about their day, ¿cómo va?",
+      "spanish": "El secreto: pregunta su día, ¿cómo va?",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T15:44:13.179022"
     }
   ],
   "used_english": [
@@ -12678,7 +12708,12 @@
     "never wait, use ‘i’m learning’",
     "stop overthinking, ask for details",
     "the secret is simple, “¿y tú?”",
-    "this fixes your ‘meaning’ panic"
+    "this fixes your ‘meaning’ panic",
+    "stop using “friend” too late, di amigo",
+    "never let pride silence you, pide ayuda",
+    "stop overexplaining, use “claro, te entiendo”",
+    "never wait to be “ready”, habla hoy",
+    "the secret? ask about their day, ¿cómo va?"
   ],
-  "last_updated": "2026-06-30T22:07:27.429627"
+  "last_updated": "2026-07-01T15:44:13.179024"
 }
