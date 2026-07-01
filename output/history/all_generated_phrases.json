@@ -10985,6 +10985,36 @@
       "spanish": "No te disculpes, solo di 'gracias'",
       "category": "Mindfulness",
       "generated_at": "2026-07-01T20:48:45.504774"
+    },
+    {
+      "english": "Stop skipping practice, do five minutes",
+      "spanish": "Deja de saltarte práctica, cinco minutos",
+      "category": "Perseverance",
+      "generated_at": "2026-07-01T22:20:05.802025"
+    },
+    {
+      "english": "The secret? Speak imperfect, daily",
+      "spanish": "El secreto, habla imperfecto, diario",
+      "category": "Perseverance",
+      "generated_at": "2026-07-01T22:20:05.802055"
+    },
+    {
+      "english": "Never fear progress, it feels messy",
+      "spanish": "No tengas miedo, el progreso es raro",
+      "category": "Perseverance",
+      "generated_at": "2026-07-01T22:20:05.802074"
+    },
+    {
+      "english": "This mindset makes mistakes useful",
+      "spanish": "Esta mentalidad hace útiles tus errores",
+      "category": "Perseverance",
+      "generated_at": "2026-07-01T22:20:05.802092"
+    },
+    {
+      "english": "Stop translating, guess, then correct yourself",
+      "spanish": "Deja de traducir, adivina, corrige",
+      "category": "Perseverance",
+      "generated_at": "2026-07-01T22:20:05.802107"
     }
   ],
   "used_english": [
@@ -12818,7 +12848,12 @@
     "the secret, breathe, then choose simple",
     "never chase perfection, trust your rhythm",
     "stop multitasking, one sentence only",
-    "never apologize, just add 'gracias'"
+    "never apologize, just add 'gracias'",
+    "stop skipping practice, do five minutes",
+    "the secret? speak imperfect, daily",
+    "never fear progress, it feels messy",
+    "this mindset makes mistakes useful",
+    "stop translating, guess, then correct yourself"
   ],
-  "last_updated": "2026-07-01T20:48:45.504776"
+  "last_updated": "2026-07-01T22:20:05.802108"
 }
