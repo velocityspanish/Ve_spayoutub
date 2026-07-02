@@ -11075,6 +11075,36 @@
       "spanish": "Deja de ocultarte, haz una pregunta simple",
       "category": "Growth",
       "generated_at": "2026-07-02T16:50:01.202386"
+    },
+    {
+      "english": "Never chase calm, practice small honesty",
+      "spanish": "No busques calma, practica honestidad pequeña",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-02T18:25:09.593254"
+    },
+    {
+      "english": "The secret? Speak slower, not safer",
+      "spanish": "El secreto, habla más lento, no más seguro",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-02T18:25:09.593282"
+    },
+    {
+      "english": "Stop searching words, describe anyway",
+      "spanish": "Deja de buscar palabras, describe igual",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-02T18:25:09.593301"
+    },
+    {
+      "english": "Stop asking, “Can I?” just do",
+      "spanish": "Deja de preguntar “Puedo?”, hazlo",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-02T18:25:09.593319"
+    },
+    {
+      "english": "This is why pauses feel safe",
+      "spanish": "Por eso las pausas se sienten seguras",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-02T18:25:09.593337"
     }
   ],
   "used_english": [
@@ -12923,7 +12953,12 @@
     "the secret, use daily mini-replies",
     "stop chasing grammar, catch meaning",
     "the secret? copy rhythm, not words",
-    "stop hiding, ask a simple question"
+    "stop hiding, ask a simple question",
+    "never chase calm, practice small honesty",
+    "the secret? speak slower, not safer",
+    "stop searching words, describe anyway",
+    "stop asking, “can i?” just do",
+    "this is why pauses feel safe"
   ],
-  "last_updated": "2026-07-02T16:50:01.202388"
+  "last_updated": "2026-07-02T18:25:09.593339"
 }
