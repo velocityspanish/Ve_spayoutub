@@ -11135,6 +11135,36 @@
       "spanish": "El atajo, di por qué",
       "category": "Success",
       "generated_at": "2026-07-02T20:22:07.870875"
+    },
+    {
+      "english": "Never sound smart, sound kind",
+      "spanish": "Nunca suenes inteligente, sé amable",
+      "category": "Positive Life",
+      "generated_at": "2026-07-02T21:57:10.552565"
+    },
+    {
+      "english": "The secret? Swap fear for curiosity",
+      "spanish": "El secreto, cambia miedo por curiosidad",
+      "category": "Positive Life",
+      "generated_at": "2026-07-02T21:57:10.552597"
+    },
+    {
+      "english": "Stop chasing perfection, chase connection",
+      "spanish": "Deja la perfección, busca conexión",
+      "category": "Positive Life",
+      "generated_at": "2026-07-02T21:57:10.552614"
+    },
+    {
+      "english": "Never study more, practice one sentence",
+      "spanish": "Nunca estudies más, practica una frase",
+      "category": "Positive Life",
+      "generated_at": "2026-07-02T21:57:10.552631"
+    },
+    {
+      "english": "Your brain loves patterns, repeat daily",
+      "spanish": "Tu mente ama patrones, repite diario",
+      "category": "Positive Life",
+      "generated_at": "2026-07-02T21:57:10.552647"
     }
   ],
   "used_english": [
@@ -12993,7 +13023,12 @@
     "never freeze, say the truth",
     "never memorize, shadow their rhythm",
     "this saves you when you blank",
-    "the fastest link, tell them why"
+    "the fastest link, tell them why",
+    "never sound smart, sound kind",
+    "the secret? swap fear for curiosity",
+    "stop chasing perfection, chase connection",
+    "never study more, practice one sentence",
+    "your brain loves patterns, repeat daily"
   ],
-  "last_updated": "2026-07-02T20:22:07.870877"
+  "last_updated": "2026-07-02T21:57:10.552648"
 }
