@@ -11015,6 +11015,36 @@
       "spanish": "Deja de traducir, adivina, corrige",
       "category": "Perseverance",
       "generated_at": "2026-07-01T22:20:05.802107"
+    },
+    {
+      "english": "Never say “perfect” to yourself, again",
+      "spanish": "Nunca te digas “perfecto”, otra vez",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-02T15:20:07.749712"
+    },
+    {
+      "english": "Never wait to feel ready, speak",
+      "spanish": "No esperes sentirte listo, habla",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-02T15:20:07.749738"
+    },
+    {
+      "english": "The secret? Ask, don’t rehearse",
+      "spanish": "El secreto, pregunta, no ensayes",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-02T15:20:07.749756"
+    },
+    {
+      "english": "Never panic, use “simplemente así”",
+      "spanish": "Nunca entres en pánico, “simplemente así”",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-02T15:20:07.749774"
+    },
+    {
+      "english": "Stop hiding, tell one tiny story",
+      "spanish": "No te escondas, cuenta una mini historia",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-02T15:20:07.749792"
     }
   ],
   "used_english": [
@@ -12853,7 +12883,12 @@
     "the secret? speak imperfect, daily",
     "never fear progress, it feels messy",
     "this mindset makes mistakes useful",
-    "stop translating, guess, then correct yourself"
+    "stop translating, guess, then correct yourself",
+    "never say “perfect” to yourself, again",
+    "never wait to feel ready, speak",
+    "the secret? ask, don’t rehearse",
+    "never panic, use “simplemente así”",
+    "stop hiding, tell one tiny story"
   ],
-  "last_updated": "2026-07-01T22:20:05.802108"
+  "last_updated": "2026-07-02T15:20:07.749794"
 }
