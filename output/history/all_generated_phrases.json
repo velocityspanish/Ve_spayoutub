@@ -11045,6 +11045,36 @@
       "spanish": "No te escondas, cuenta una mini historia",
       "category": "Self Improvement",
       "generated_at": "2026-07-02T15:20:07.749792"
+    },
+    {
+      "english": "Never explain, just ask why",
+      "spanish": "Nunca expliques, solo pregunta por qué",
+      "category": "Growth",
+      "generated_at": "2026-07-02T16:50:01.202292"
+    },
+    {
+      "english": "The secret, use daily mini-replies",
+      "spanish": "El secreto, responde mini a diario",
+      "category": "Growth",
+      "generated_at": "2026-07-02T16:50:01.202320"
+    },
+    {
+      "english": "Stop chasing grammar, catch meaning",
+      "spanish": "Deja la gramática, capta el sentido",
+      "category": "Growth",
+      "generated_at": "2026-07-02T16:50:01.202340"
+    },
+    {
+      "english": "The secret? Copy rhythm, not words",
+      "spanish": "El secreto, copia el ritmo, no palabras",
+      "category": "Growth",
+      "generated_at": "2026-07-02T16:50:01.202368"
+    },
+    {
+      "english": "Stop hiding, ask a simple question",
+      "spanish": "Deja de ocultarte, haz una pregunta simple",
+      "category": "Growth",
+      "generated_at": "2026-07-02T16:50:01.202386"
     }
   ],
   "used_english": [
@@ -12888,7 +12918,12 @@
     "never wait to feel ready, speak",
     "the secret? ask, don’t rehearse",
     "never panic, use “simplemente así”",
-    "stop hiding, tell one tiny story"
+    "stop hiding, tell one tiny story",
+    "never explain, just ask why",
+    "the secret, use daily mini-replies",
+    "stop chasing grammar, catch meaning",
+    "the secret? copy rhythm, not words",
+    "stop hiding, ask a simple question"
   ],
-  "last_updated": "2026-07-02T15:20:07.749794"
+  "last_updated": "2026-07-02T16:50:01.202388"
 }
