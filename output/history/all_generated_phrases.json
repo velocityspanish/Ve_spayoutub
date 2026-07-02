@@ -11105,6 +11105,36 @@
       "spanish": "Por eso las pausas se sienten seguras",
       "category": "Inner Peace",
       "generated_at": "2026-07-02T18:25:09.593337"
+    },
+    {
+      "english": "Stop saying “maybe,” pick one",
+      "spanish": "Deja “tal vez”, elige uno",
+      "category": "Success",
+      "generated_at": "2026-07-02T20:22:07.870794"
+    },
+    {
+      "english": "Never freeze, say the truth",
+      "spanish": "Nunca te congeles, di la verdad",
+      "category": "Success",
+      "generated_at": "2026-07-02T20:22:07.870821"
+    },
+    {
+      "english": "Never memorize, shadow their rhythm",
+      "spanish": "Nunca memorices, imita su ritmo",
+      "category": "Success",
+      "generated_at": "2026-07-02T20:22:07.870840"
+    },
+    {
+      "english": "This saves you when you blank",
+      "spanish": "Esto te salva cuando te quedas",
+      "category": "Success",
+      "generated_at": "2026-07-02T20:22:07.870857"
+    },
+    {
+      "english": "The fastest link, tell them why",
+      "spanish": "El atajo, di por qué",
+      "category": "Success",
+      "generated_at": "2026-07-02T20:22:07.870875"
     }
   ],
   "used_english": [
@@ -12958,7 +12988,12 @@
     "the secret? speak slower, not safer",
     "stop searching words, describe anyway",
     "stop asking, “can i?” just do",
-    "this is why pauses feel safe"
+    "this is why pauses feel safe",
+    "stop saying “maybe,” pick one",
+    "never freeze, say the truth",
+    "never memorize, shadow their rhythm",
+    "this saves you when you blank",
+    "the fastest link, tell them why"
   ],
-  "last_updated": "2026-07-02T18:25:09.593339"
+  "last_updated": "2026-07-02T20:22:07.870877"
 }
