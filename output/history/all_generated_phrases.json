@@ -11285,6 +11285,36 @@
       "spanish": "¿Y si suenas 'simple' hoy?",
       "category": "Balance",
       "generated_at": "2026-07-03T20:17:53.298335"
+    },
+    {
+      "english": "Never argue with your inner fear.",
+      "spanish": "Nunca discutas con tu miedo interno.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-03T21:54:23.139355"
+    },
+    {
+      "english": "This is why “respira” works.",
+      "spanish": "Esto es por qué “respira” funciona.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-03T21:54:23.139382"
+    },
+    {
+      "english": "The secret? Speak like you're human.",
+      "spanish": "El secreto, habla como humano.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-03T21:54:23.139401"
+    },
+    {
+      "english": "Stop asking, start noticing feelings.",
+      "spanish": "Deja de preguntar, nota tus emociones.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-03T21:54:23.139418"
+    },
+    {
+      "english": "This one pause makes you braver.",
+      "spanish": "Esta pausa te hace más valiente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-03T21:54:23.139437"
     }
   ],
   "used_english": [
@@ -13168,7 +13198,12 @@
     "never fear mistakes, learn faster",
     "the secret? replace 'i think' with truth",
     "this is the fastest confidence boost",
-    "what if you sound 'simple' today?"
+    "what if you sound 'simple' today?",
+    "never argue with your inner fear.",
+    "this is why “respira” works.",
+    "the secret? speak like you're human.",
+    "stop asking, start noticing feelings.",
+    "this one pause makes you braver."
   ],
-  "last_updated": "2026-07-03T20:17:53.298337"
+  "last_updated": "2026-07-03T21:54:23.139439"
 }
