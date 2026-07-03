@@ -11225,6 +11225,36 @@
       "spanish": "El secreto, pregunta con “¿qué tal?”",
       "category": "Self Improvement",
       "generated_at": "2026-07-03T16:24:43.533224"
+    },
+    {
+      "english": "Never fear 'I want' daily",
+      "spanish": "Nunca temas 'yo quiero' diario",
+      "category": "Wisdom",
+      "generated_at": "2026-07-03T18:13:00.447873"
+    },
+    {
+      "english": "This one question boosts fluency fast",
+      "spanish": "Esta pregunta sube fluidez rápido",
+      "category": "Wisdom",
+      "generated_at": "2026-07-03T18:13:00.447897"
+    },
+    {
+      "english": "Stop explaining, ask what they felt",
+      "spanish": "Deja de explicar, pregunta qué sintieron",
+      "category": "Wisdom",
+      "generated_at": "2026-07-03T18:13:00.447912"
+    },
+    {
+      "english": "Never lose confidence, say 'todavía'",
+      "spanish": "No pierdas confianza, di 'todavía'",
+      "category": "Wisdom",
+      "generated_at": "2026-07-03T18:13:00.447926"
+    },
+    {
+      "english": "What if you speak wrong, so what?",
+      "spanish": "¿Y si dices mal? ¿y qué?",
+      "category": "Wisdom",
+      "generated_at": "2026-07-03T18:13:00.447940"
     }
   ],
   "used_english": [
@@ -13098,7 +13128,12 @@
     "the secret? use “tengo” first",
     "stop “i’m fine”, say how",
     "stop translating, steal their sentence",
-    "the secret? ask with “qué tal”"
+    "the secret? ask with “qué tal”",
+    "never fear 'i want' daily",
+    "this one question boosts fluency fast",
+    "stop explaining, ask what they felt",
+    "never lose confidence, say 'todavía'",
+    "what if you speak wrong, so what?"
   ],
-  "last_updated": "2026-07-03T16:24:43.533226"
+  "last_updated": "2026-07-03T18:13:00.447942"
 }
