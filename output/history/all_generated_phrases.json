@@ -11255,6 +11255,36 @@
       "spanish": "¿Y si dices mal? ¿y qué?",
       "category": "Wisdom",
       "generated_at": "2026-07-03T18:13:00.447940"
+    },
+    {
+      "english": "Stop saying 'maybe', pick now",
+      "spanish": "Deja 'tal vez', decide ahora",
+      "category": "Balance",
+      "generated_at": "2026-07-03T20:17:53.298254"
+    },
+    {
+      "english": "Never fear mistakes, learn faster",
+      "spanish": "No tengas miedo, aprendes más rápido",
+      "category": "Balance",
+      "generated_at": "2026-07-03T20:17:53.298282"
+    },
+    {
+      "english": "The secret? Replace 'I think' with truth",
+      "spanish": "El secreto, cambia 'creo' por verdad",
+      "category": "Balance",
+      "generated_at": "2026-07-03T20:17:53.298300"
+    },
+    {
+      "english": "This is the fastest confidence boost",
+      "spanish": "Este es el empujón más rápido",
+      "category": "Balance",
+      "generated_at": "2026-07-03T20:17:53.298318"
+    },
+    {
+      "english": "What if you sound 'simple' today?",
+      "spanish": "¿Y si suenas 'simple' hoy?",
+      "category": "Balance",
+      "generated_at": "2026-07-03T20:17:53.298335"
     }
   ],
   "used_english": [
@@ -13133,7 +13163,12 @@
     "this one question boosts fluency fast",
     "stop explaining, ask what they felt",
     "never lose confidence, say 'todavía'",
-    "what if you speak wrong, so what?"
+    "what if you speak wrong, so what?",
+    "stop saying 'maybe', pick now",
+    "never fear mistakes, learn faster",
+    "the secret? replace 'i think' with truth",
+    "this is the fastest confidence boost",
+    "what if you sound 'simple' today?"
   ],
-  "last_updated": "2026-07-03T18:13:00.447942"
+  "last_updated": "2026-07-03T20:17:53.298337"
 }
