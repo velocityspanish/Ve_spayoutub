@@ -11165,6 +11165,36 @@
       "spanish": "Tu mente ama patrones, repite diario",
       "category": "Positive Life",
       "generated_at": "2026-07-02T21:57:10.552647"
+    },
+    {
+      "english": "Stop learning Spanish like homework",
+      "spanish": "Deja de aprender español como tarea",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T15:14:13.605373"
+    },
+    {
+      "english": "The secret: think in shortcuts",
+      "spanish": "El secreto, piensa en atajos",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T15:14:13.605398"
+    },
+    {
+      "english": "Stop chasing “perfect”, chase meaning",
+      "spanish": "Deja de perseguir “perfecto”, busca sentido",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T15:14:13.605416"
+    },
+    {
+      "english": "Stop translating, start retelling",
+      "spanish": "Deja de traducir, empieza a contar",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T15:14:13.605435"
+    },
+    {
+      "english": "Never fear your accent, use it",
+      "spanish": "No temas tu acento, úsalo",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T15:14:13.605452"
     }
   ],
   "used_english": [
@@ -13028,7 +13058,12 @@
     "the secret? swap fear for curiosity",
     "stop chasing perfection, chase connection",
     "never study more, practice one sentence",
-    "your brain loves patterns, repeat daily"
+    "your brain loves patterns, repeat daily",
+    "stop learning spanish like homework",
+    "the secret: think in shortcuts",
+    "stop chasing “perfect”, chase meaning",
+    "stop translating, start retelling",
+    "never fear your accent, use it"
   ],
-  "last_updated": "2026-07-02T21:57:10.552648"
+  "last_updated": "2026-07-03T15:14:13.605454"
 }
