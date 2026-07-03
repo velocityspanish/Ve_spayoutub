@@ -11195,6 +11195,36 @@
       "spanish": "No temas tu acento, úsalo",
       "category": "Self Improvement",
       "generated_at": "2026-07-03T15:14:13.605452"
+    },
+    {
+      "english": "Stop apologizing, say “perdón”",
+      "spanish": "Deja de disculparte, di “perdón”",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T16:24:43.533144"
+    },
+    {
+      "english": "The secret? Use “tengo” first",
+      "spanish": "El secreto, usa “tengo” primero",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T16:24:43.533171"
+    },
+    {
+      "english": "Stop “I’m fine”, say how",
+      "spanish": "No digas “estoy bien”, di cómo",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T16:24:43.533188"
+    },
+    {
+      "english": "Stop translating, steal their sentence",
+      "spanish": "Deja de traducir, copia su frase",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T16:24:43.533206"
+    },
+    {
+      "english": "The secret? Ask with “qué tal”",
+      "spanish": "El secreto, pregunta con “¿qué tal?”",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-03T16:24:43.533224"
     }
   ],
   "used_english": [
@@ -13063,7 +13093,12 @@
     "the secret: think in shortcuts",
     "stop chasing “perfect”, chase meaning",
     "stop translating, start retelling",
-    "never fear your accent, use it"
+    "never fear your accent, use it",
+    "stop apologizing, say “perdón”",
+    "the secret? use “tengo” first",
+    "stop “i’m fine”, say how",
+    "stop translating, steal their sentence",
+    "the secret? ask with “qué tal”"
   ],
-  "last_updated": "2026-07-03T15:14:13.605454"
+  "last_updated": "2026-07-03T16:24:43.533226"
 }
