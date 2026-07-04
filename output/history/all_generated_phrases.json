@@ -11405,6 +11405,36 @@
       "spanish": "No abandones, aunque sea difícil",
       "category": "Purpose",
       "generated_at": "2026-07-04T18:00:55.057871"
+    },
+    {
+      "english": "Never let fear pick your words",
+      "spanish": "Nunca dejes que el miedo decida",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T20:12:03.042566"
+    },
+    {
+      "english": "This is why confidence grows fast",
+      "spanish": "Por eso crece la confianza rápido",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T20:12:03.042594"
+    },
+    {
+      "english": "The secret? Smile, then continue speaking",
+      "spanish": "El secreto, sonríe, sigue hablando",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T20:12:03.042611"
+    },
+    {
+      "english": "Stop overthinking, trust simple joy",
+      "spanish": "No pienses tanto, confía en la alegría",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T20:12:03.042630"
+    },
+    {
+      "english": "Stop translating, say it like a song",
+      "spanish": "Deja traducir, dilo como canción",
+      "category": "Happiness",
+      "generated_at": "2026-07-04T20:12:03.042647"
     }
   ],
   "used_english": [
@@ -13308,7 +13338,12 @@
     "never get stuck, ask 'why not?'",
     "this one habit fixes your fear",
     "the secret is small, repeat",
-    "stop quitting when it feels hard"
+    "stop quitting when it feels hard",
+    "never let fear pick your words",
+    "this is why confidence grows fast",
+    "the secret? smile, then continue speaking",
+    "stop overthinking, trust simple joy",
+    "stop translating, say it like a song"
   ],
-  "last_updated": "2026-07-04T18:00:55.057872"
+  "last_updated": "2026-07-04T20:12:03.042649"
 }
