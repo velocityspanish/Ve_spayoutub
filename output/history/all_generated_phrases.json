@@ -11345,6 +11345,36 @@
       "spanish": "No te detengas, di lo siguiente",
       "category": "Success",
       "generated_at": "2026-07-04T14:39:43.395308"
+    },
+    {
+      "english": "Stop saying “soon,” speak today",
+      "spanish": "Deja de decir “pronto”, habla hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-07-04T16:02:53.738420"
+    },
+    {
+      "english": "Never quit mid-sentence, continue",
+      "spanish": "Nunca pares a mitad, continúa",
+      "category": "Perseverance",
+      "generated_at": "2026-07-04T16:02:53.738446"
+    },
+    {
+      "english": "The secret is reps, not vibes",
+      "spanish": "El secreto son repeticiones, no vibra",
+      "category": "Perseverance",
+      "generated_at": "2026-07-04T16:02:53.738464"
+    },
+    {
+      "english": "Stop comparing, you’re building speed",
+      "spanish": "Deja de comparar, construyes velocidad",
+      "category": "Perseverance",
+      "generated_at": "2026-07-04T16:02:53.738481"
+    },
+    {
+      "english": "Stop “perfect”, say “better” today",
+      "spanish": "Deja “perfecto”, di “mejor” hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-07-04T16:02:53.738500"
     }
   ],
   "used_english": [
@@ -13238,7 +13268,12 @@
     "never wait for “easy” conversations",
     "stop studying, start greeting daily",
     "this one phrase makes you memorable",
-    "stop pausing, say the next thing"
+    "stop pausing, say the next thing",
+    "stop saying “soon,” speak today",
+    "never quit mid-sentence, continue",
+    "the secret is reps, not vibes",
+    "stop comparing, you’re building speed",
+    "stop “perfect”, say “better” today"
   ],
-  "last_updated": "2026-07-04T14:39:43.395310"
+  "last_updated": "2026-07-04T16:02:53.738502"
 }
