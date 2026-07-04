@@ -11375,6 +11375,36 @@
       "spanish": "Deja “perfecto”, di “mejor” hoy",
       "category": "Perseverance",
       "generated_at": "2026-07-04T16:02:53.738500"
+    },
+    {
+      "english": "Stop studying, start ordering food",
+      "spanish": "Deja estudiar, pide comida",
+      "category": "Purpose",
+      "generated_at": "2026-07-04T18:00:55.057792"
+    },
+    {
+      "english": "Never get stuck, ask 'why not?'",
+      "spanish": "Nunca te atas, '¿por qué no?'",
+      "category": "Purpose",
+      "generated_at": "2026-07-04T18:00:55.057818"
+    },
+    {
+      "english": "This one habit fixes your fear",
+      "spanish": "Este hábito cura tu miedo",
+      "category": "Purpose",
+      "generated_at": "2026-07-04T18:00:55.057836"
+    },
+    {
+      "english": "The secret is small, repeat",
+      "spanish": "El secreto es poco, repite",
+      "category": "Purpose",
+      "generated_at": "2026-07-04T18:00:55.057852"
+    },
+    {
+      "english": "Stop quitting when it feels hard",
+      "spanish": "No abandones, aunque sea difícil",
+      "category": "Purpose",
+      "generated_at": "2026-07-04T18:00:55.057871"
     }
   ],
   "used_english": [
@@ -13273,7 +13303,12 @@
     "never quit mid-sentence, continue",
     "the secret is reps, not vibes",
     "stop comparing, you’re building speed",
-    "stop “perfect”, say “better” today"
+    "stop “perfect”, say “better” today",
+    "stop studying, start ordering food",
+    "never get stuck, ask 'why not?'",
+    "this one habit fixes your fear",
+    "the secret is small, repeat",
+    "stop quitting when it feels hard"
   ],
-  "last_updated": "2026-07-04T16:02:53.738502"
+  "last_updated": "2026-07-04T18:00:55.057872"
 }
