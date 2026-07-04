@@ -11435,6 +11435,36 @@
       "spanish": "Deja traducir, dilo como canción",
       "category": "Happiness",
       "generated_at": "2026-07-04T20:12:03.042647"
+    },
+    {
+      "english": "Stop hunting perfect words, speak.",
+      "spanish": "Deja de buscar palabras perfectas, habla.",
+      "category": "Love",
+      "generated_at": "2026-07-04T21:45:27.117668"
+    },
+    {
+      "english": "Never fear a bad sentence.",
+      "spanish": "Nunca tengas miedo a una frase mala.",
+      "category": "Love",
+      "generated_at": "2026-07-04T21:45:27.117694"
+    },
+    {
+      "english": "This is why you’re understood faster.",
+      "spanish": "Esto es por qué te entienden más rápido.",
+      "category": "Love",
+      "generated_at": "2026-07-04T21:45:27.117714"
+    },
+    {
+      "english": "What nobody tells you, smile first.",
+      "spanish": "Lo que nadie te dice, sonríe primero.",
+      "category": "Love",
+      "generated_at": "2026-07-04T21:45:27.117733"
+    },
+    {
+      "english": "Never translate, steal their rhythm.",
+      "spanish": "Nunca traduzcas, roba su ritmo.",
+      "category": "Love",
+      "generated_at": "2026-07-04T21:45:27.117751"
     }
   ],
   "used_english": [
@@ -13343,7 +13373,12 @@
     "this is why confidence grows fast",
     "the secret? smile, then continue speaking",
     "stop overthinking, trust simple joy",
-    "stop translating, say it like a song"
+    "stop translating, say it like a song",
+    "stop hunting perfect words, speak.",
+    "never fear a bad sentence.",
+    "this is why you’re understood faster.",
+    "what nobody tells you, smile first.",
+    "never translate, steal their rhythm."
   ],
-  "last_updated": "2026-07-04T20:12:03.042649"
+  "last_updated": "2026-07-04T21:45:27.117753"
 }
