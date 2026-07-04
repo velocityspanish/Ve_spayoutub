@@ -11315,6 +11315,36 @@
       "spanish": "Esta pausa te hace más valiente.",
       "category": "Inner Peace",
       "generated_at": "2026-07-03T21:54:23.139437"
+    },
+    {
+      "english": "Never say “I’m stuck,” ask anyway",
+      "spanish": "Nunca digas “estoy atascado”, pregunta igual",
+      "category": "Success",
+      "generated_at": "2026-07-04T14:39:43.395226"
+    },
+    {
+      "english": "Never wait for “easy” conversations",
+      "spanish": "No esperes conversaciones “fáciles”",
+      "category": "Success",
+      "generated_at": "2026-07-04T14:39:43.395253"
+    },
+    {
+      "english": "Stop studying, start greeting daily",
+      "spanish": "Deja de estudiar, empieza a saludar",
+      "category": "Success",
+      "generated_at": "2026-07-04T14:39:43.395272"
+    },
+    {
+      "english": "This one phrase makes you memorable",
+      "spanish": "Esta frase te hace memorable",
+      "category": "Success",
+      "generated_at": "2026-07-04T14:39:43.395290"
+    },
+    {
+      "english": "Stop pausing, say the next thing",
+      "spanish": "No te detengas, di lo siguiente",
+      "category": "Success",
+      "generated_at": "2026-07-04T14:39:43.395308"
     }
   ],
   "used_english": [
@@ -13203,7 +13233,12 @@
     "this is why “respira” works.",
     "the secret? speak like you're human.",
     "stop asking, start noticing feelings.",
-    "this one pause makes you braver."
+    "this one pause makes you braver.",
+    "never say “i’m stuck,” ask anyway",
+    "never wait for “easy” conversations",
+    "stop studying, start greeting daily",
+    "this one phrase makes you memorable",
+    "stop pausing, say the next thing"
   ],
-  "last_updated": "2026-07-03T21:54:23.139439"
+  "last_updated": "2026-07-04T14:39:43.395310"
 }
