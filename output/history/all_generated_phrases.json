@@ -11495,6 +11495,36 @@
       "spanish": "Deja de preguntar, “¿dónde está?”",
       "category": "Patience",
       "generated_at": "2026-07-05T14:45:52.078206"
+    },
+    {
+      "english": "Stop guessing, use “quiero” now",
+      "spanish": "Deja de adivinar, usa “quiero” ahora",
+      "category": "Love",
+      "generated_at": "2026-07-05T16:09:48.561220"
+    },
+    {
+      "english": "Never rush, but don’t stop moving",
+      "spanish": "Nunca corras, pero no pares",
+      "category": "Love",
+      "generated_at": "2026-07-05T16:09:48.561247"
+    },
+    {
+      "english": "Stop translating, start storytelling, one detail",
+      "spanish": "Deja de traducir, empieza a contar",
+      "category": "Love",
+      "generated_at": "2026-07-05T16:09:48.561263"
+    },
+    {
+      "english": "Stop over-explaining, ask what they want",
+      "spanish": "Deja de explicar, pregunta qué quiere",
+      "category": "Love",
+      "generated_at": "2026-07-05T16:09:48.561280"
+    },
+    {
+      "english": "Never fear silence, say “dime”",
+      "spanish": "No temas al silencio, di “dime”",
+      "category": "Love",
+      "generated_at": "2026-07-05T16:09:48.561297"
     }
   ],
   "used_english": [
@@ -13413,7 +13443,12 @@
     "never wait, just start small",
     "stop hunting words, describe it",
     "never translate, speak the situation",
-    "stop asking “where is it?”"
+    "stop asking “where is it?”",
+    "stop guessing, use “quiero” now",
+    "never rush, but don’t stop moving",
+    "stop translating, start storytelling, one detail",
+    "stop over-explaining, ask what they want",
+    "never fear silence, say “dime”"
   ],
-  "last_updated": "2026-07-05T14:45:52.078208"
+  "last_updated": "2026-07-05T16:09:48.561299"
 }
