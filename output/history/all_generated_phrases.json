@@ -11555,6 +11555,36 @@
       "spanish": "Nunca tengas miedo a “no,” di seguro",
       "category": "Joy",
       "generated_at": "2026-07-05T18:02:30.125703"
+    },
+    {
+      "english": "Stop quitting at day three",
+      "spanish": "No abandones, ni en el día tres",
+      "category": "Hope",
+      "generated_at": "2026-07-05T20:16:59.068074"
+    },
+    {
+      "english": "Never fear speed, just flow",
+      "spanish": "Nunca temas la velocidad, solo fluye",
+      "category": "Hope",
+      "generated_at": "2026-07-05T20:16:59.068100"
+    },
+    {
+      "english": "Never memorize, just reuse",
+      "spanish": "Nunca memorices, reutiliza",
+      "category": "Hope",
+      "generated_at": "2026-07-05T20:16:59.068117"
+    },
+    {
+      "english": "This saves you, when words vanish",
+      "spanish": "Esto te salva, si desaparecen palabras",
+      "category": "Hope",
+      "generated_at": "2026-07-05T20:16:59.068135"
+    },
+    {
+      "english": "The fastest win, say yes",
+      "spanish": "La victoria rápida, di que sí",
+      "category": "Hope",
+      "generated_at": "2026-07-05T20:16:59.068150"
     }
   ],
   "used_english": [
@@ -13483,7 +13513,12 @@
     "the secret, copy their pauses",
     "never memorize, react like it’s real",
     "never wait, say one true feeling",
-    "never fear “no,” say it confidently"
+    "never fear “no,” say it confidently",
+    "stop quitting at day three",
+    "never fear speed, just flow",
+    "never memorize, just reuse",
+    "this saves you, when words vanish",
+    "the fastest win, say yes"
   ],
-  "last_updated": "2026-07-05T18:02:30.125705"
+  "last_updated": "2026-07-05T20:16:59.068152"
 }
