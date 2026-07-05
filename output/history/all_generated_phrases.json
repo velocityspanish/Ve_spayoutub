@@ -11525,6 +11525,36 @@
       "spanish": "No temas al silencio, di “dime”",
       "category": "Love",
       "generated_at": "2026-07-05T16:09:48.561297"
+    },
+    {
+      "english": "Never say “I’m learning,” say hello",
+      "spanish": "Nunca digas “estoy aprendiendo,” di hola",
+      "category": "Joy",
+      "generated_at": "2026-07-05T18:02:30.125616"
+    },
+    {
+      "english": "The secret, copy their pauses",
+      "spanish": "El secreto, copia sus pausas",
+      "category": "Joy",
+      "generated_at": "2026-07-05T18:02:30.125645"
+    },
+    {
+      "english": "Never memorize, react like it’s real",
+      "spanish": "Nunca memorices, reacciona como real",
+      "category": "Joy",
+      "generated_at": "2026-07-05T18:02:30.125665"
+    },
+    {
+      "english": "Never wait, say one true feeling",
+      "spanish": "Nunca esperes, di una emoción real",
+      "category": "Joy",
+      "generated_at": "2026-07-05T18:02:30.125684"
+    },
+    {
+      "english": "Never fear “no,” say it confidently",
+      "spanish": "Nunca tengas miedo a “no,” di seguro",
+      "category": "Joy",
+      "generated_at": "2026-07-05T18:02:30.125703"
     }
   ],
   "used_english": [
@@ -13448,7 +13478,12 @@
     "never rush, but don’t stop moving",
     "stop translating, start storytelling, one detail",
     "stop over-explaining, ask what they want",
-    "never fear silence, say “dime”"
+    "never fear silence, say “dime”",
+    "never say “i’m learning,” say hello",
+    "the secret, copy their pauses",
+    "never memorize, react like it’s real",
+    "never wait, say one true feeling",
+    "never fear “no,” say it confidently"
   ],
-  "last_updated": "2026-07-05T16:09:48.561299"
+  "last_updated": "2026-07-05T18:02:30.125705"
 }
