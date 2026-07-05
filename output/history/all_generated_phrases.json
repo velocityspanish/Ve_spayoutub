@@ -11585,6 +11585,36 @@
       "spanish": "La victoria rápida, di que sí",
       "category": "Hope",
       "generated_at": "2026-07-05T20:16:59.068150"
+    },
+    {
+      "english": "Never say “someday”, speak today",
+      "spanish": "Nunca digas “algún día”, habla hoy",
+      "category": "Success",
+      "generated_at": "2026-07-05T21:48:34.861123"
+    },
+    {
+      "english": "The secret? Answer out loud",
+      "spanish": "El secreto, responde en voz alta",
+      "category": "Success",
+      "generated_at": "2026-07-05T21:48:34.861146"
+    },
+    {
+      "english": "Never rehearse, just respond quickly",
+      "spanish": "Nunca ensayes, responde rápido",
+      "category": "Success",
+      "generated_at": "2026-07-05T21:48:34.861165"
+    },
+    {
+      "english": "Stop studying, start asking “Why?”",
+      "spanish": "Deja de estudiar, pregunta “¿Por qué?”",
+      "category": "Success",
+      "generated_at": "2026-07-05T21:48:34.861184"
+    },
+    {
+      "english": "Never ask permission, just join",
+      "spanish": "Nunca pidas permiso, únete y listo",
+      "category": "Success",
+      "generated_at": "2026-07-05T21:48:34.861202"
     }
   ],
   "used_english": [
@@ -13518,7 +13548,12 @@
     "never fear speed, just flow",
     "never memorize, just reuse",
     "this saves you, when words vanish",
-    "the fastest win, say yes"
+    "the fastest win, say yes",
+    "never say “someday”, speak today",
+    "the secret? answer out loud",
+    "never rehearse, just respond quickly",
+    "stop studying, start asking “why?”",
+    "never ask permission, just join"
   ],
-  "last_updated": "2026-07-05T20:16:59.068152"
+  "last_updated": "2026-07-05T21:48:34.861204"
 }
