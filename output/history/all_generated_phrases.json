@@ -11465,6 +11465,36 @@
       "spanish": "Nunca traduzcas, roba su ritmo.",
       "category": "Love",
       "generated_at": "2026-07-04T21:45:27.117751"
+    },
+    {
+      "english": "Stop dreading mistakes, smile anyway",
+      "spanish": "Deja de temer errores, sonríe igual",
+      "category": "Patience",
+      "generated_at": "2026-07-05T14:45:52.078122"
+    },
+    {
+      "english": "Never wait, just start small",
+      "spanish": "No esperes, empieza con poco",
+      "category": "Patience",
+      "generated_at": "2026-07-05T14:45:52.078151"
+    },
+    {
+      "english": "Stop hunting words, describe it",
+      "spanish": "Deja de buscar palabras, descríbelo",
+      "category": "Patience",
+      "generated_at": "2026-07-05T14:45:52.078171"
+    },
+    {
+      "english": "Never translate, speak the situation",
+      "spanish": "No traduzcas, habla la situación",
+      "category": "Patience",
+      "generated_at": "2026-07-05T14:45:52.078189"
+    },
+    {
+      "english": "Stop asking “where is it?”",
+      "spanish": "Deja de preguntar, “¿dónde está?”",
+      "category": "Patience",
+      "generated_at": "2026-07-05T14:45:52.078206"
     }
   ],
   "used_english": [
@@ -13378,7 +13408,12 @@
     "never fear a bad sentence.",
     "this is why you’re understood faster.",
     "what nobody tells you, smile first.",
-    "never translate, steal their rhythm."
+    "never translate, steal their rhythm.",
+    "stop dreading mistakes, smile anyway",
+    "never wait, just start small",
+    "stop hunting words, describe it",
+    "never translate, speak the situation",
+    "stop asking “where is it?”"
   ],
-  "last_updated": "2026-07-04T21:45:27.117753"
+  "last_updated": "2026-07-05T14:45:52.078208"
 }
