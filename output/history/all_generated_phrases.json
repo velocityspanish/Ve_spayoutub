@@ -11735,6 +11735,36 @@
       "spanish": "Nunca pares para ganar, respira",
       "category": "Inner Peace",
       "generated_at": "2026-07-06T20:54:12.363201"
+    },
+    {
+      "english": "Never freeze, just start humming Spanish",
+      "spanish": "Nunca te quedes, empieza silbando español",
+      "category": "Patience",
+      "generated_at": "2026-07-06T22:05:17.611721"
+    },
+    {
+      "english": "This is why you’re stuck, breathe",
+      "spanish": "Por eso estás trabado, respira",
+      "category": "Patience",
+      "generated_at": "2026-07-06T22:05:17.611750"
+    },
+    {
+      "english": "Never overthink, speak the next need",
+      "spanish": "No pienses de más, di lo que necesitas",
+      "category": "Patience",
+      "generated_at": "2026-07-06T22:05:17.611768"
+    },
+    {
+      "english": "Stop fear, borrow their exact rhythm",
+      "spanish": "Deja el miedo, copia su ritmo exacto",
+      "category": "Patience",
+      "generated_at": "2026-07-06T22:05:17.611787"
+    },
+    {
+      "english": "This changes everything, ask with smiles",
+      "spanish": "Esto lo cambia todo, pregunta con sonrisa",
+      "category": "Patience",
+      "generated_at": "2026-07-06T22:05:17.611804"
     }
   ],
   "used_english": [
@@ -13693,7 +13723,12 @@
     "this one sentence calms your brain",
     "the secret is gentleness, speak slower",
     "stop chasing words, chase sensations",
-    "never pause to win, breathe instead"
+    "never pause to win, breathe instead",
+    "never freeze, just start humming spanish",
+    "this is why you’re stuck, breathe",
+    "never overthink, speak the next need",
+    "stop fear, borrow their exact rhythm",
+    "this changes everything, ask with smiles"
   ],
-  "last_updated": "2026-07-06T20:54:12.363203"
+  "last_updated": "2026-07-06T22:05:17.611805"
 }
