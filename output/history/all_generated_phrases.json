@@ -11705,6 +11705,36 @@
       "spanish": "No temas sonar básico hoy",
       "category": "Strength",
       "generated_at": "2026-07-06T18:54:57.948779"
+    },
+    {
+      "english": "The secret... use verbs, not thoughts",
+      "spanish": "El secreto... usa verbos, no ideas",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T20:54:12.363123"
+    },
+    {
+      "english": "This one sentence calms your brain",
+      "spanish": "Esta frase calma tu mente",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T20:54:12.363148"
+    },
+    {
+      "english": "The secret is gentleness, speak slower",
+      "spanish": "El secreto es suavidad, habla más lento",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T20:54:12.363166"
+    },
+    {
+      "english": "Stop chasing words, chase sensations",
+      "spanish": "Deja de buscar palabras, busca sensaciones",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T20:54:12.363183"
+    },
+    {
+      "english": "Never pause to win, breathe instead",
+      "spanish": "Nunca pares para ganar, respira",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-06T20:54:12.363201"
     }
   ],
   "used_english": [
@@ -13658,7 +13688,12 @@
     "the secret? say it imperfect, now",
     "stop waiting, request the next thing",
     "stop hunting rules, learn patterns",
-    "never fear sounding basic today"
+    "never fear sounding basic today",
+    "the secret... use verbs, not thoughts",
+    "this one sentence calms your brain",
+    "the secret is gentleness, speak slower",
+    "stop chasing words, chase sensations",
+    "never pause to win, breathe instead"
   ],
-  "last_updated": "2026-07-06T18:54:57.948781"
+  "last_updated": "2026-07-06T20:54:12.363203"
 }
