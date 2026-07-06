@@ -11645,6 +11645,36 @@
       "spanish": "No persigas rapidez, persigue claridad",
       "category": "Balance",
       "generated_at": "2026-07-06T16:22:28.139547"
+    },
+    {
+      "english": "Never wait, request the next word",
+      "spanish": "Nunca esperes, pide la siguiente",
+      "category": "Hope",
+      "generated_at": "2026-07-06T17:44:18.894887"
+    },
+    {
+      "english": "The secret, narrate your day out loud",
+      "spanish": "El secreto, narra tu día",
+      "category": "Hope",
+      "generated_at": "2026-07-06T17:44:18.894916"
+    },
+    {
+      "english": "This one habit boosts Spanish faster",
+      "spanish": "Este hábito acelera tu español",
+      "category": "Hope",
+      "generated_at": "2026-07-06T17:44:18.894934"
+    },
+    {
+      "english": "This is your confidence, one sentence",
+      "spanish": "Tu confianza, una frase",
+      "category": "Hope",
+      "generated_at": "2026-07-06T17:44:18.894952"
+    },
+    {
+      "english": "What if you just reply fast?",
+      "spanish": "¿Y si respondes rápido?",
+      "category": "Hope",
+      "generated_at": "2026-07-06T17:44:18.894969"
     }
   ],
   "used_english": [
@@ -13588,7 +13618,12 @@
     "stop waiting, greet with 'hola'",
     "what if spanish is fun first?",
     "never apologize, keep speaking forward",
-    "stop chasing speed, chase clarity"
+    "stop chasing speed, chase clarity",
+    "never wait, request the next word",
+    "the secret, narrate your day out loud",
+    "this one habit boosts spanish faster",
+    "this is your confidence, one sentence",
+    "what if you just reply fast?"
   ],
-  "last_updated": "2026-07-06T16:22:28.139548"
+  "last_updated": "2026-07-06T17:44:18.894971"
 }
