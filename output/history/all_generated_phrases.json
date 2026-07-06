@@ -11675,6 +11675,36 @@
       "spanish": "¿Y si respondes rápido?",
       "category": "Hope",
       "generated_at": "2026-07-06T17:44:18.894969"
+    },
+    {
+      "english": "Stop overexplaining, just add feelings",
+      "spanish": "Deja de explicarlo, añade sentimientos",
+      "category": "Strength",
+      "generated_at": "2026-07-06T18:54:57.948697"
+    },
+    {
+      "english": "The secret? say it imperfect, now",
+      "spanish": "El secreto, dilo imperfecto, ya",
+      "category": "Strength",
+      "generated_at": "2026-07-06T18:54:57.948727"
+    },
+    {
+      "english": "Stop waiting, request the next thing",
+      "spanish": "No esperes, pide lo siguiente",
+      "category": "Strength",
+      "generated_at": "2026-07-06T18:54:57.948744"
+    },
+    {
+      "english": "Stop hunting rules, learn patterns",
+      "spanish": "Deja de buscar reglas, aprende patrones",
+      "category": "Strength",
+      "generated_at": "2026-07-06T18:54:57.948762"
+    },
+    {
+      "english": "Never fear sounding basic today",
+      "spanish": "No temas sonar básico hoy",
+      "category": "Strength",
+      "generated_at": "2026-07-06T18:54:57.948779"
     }
   ],
   "used_english": [
@@ -13623,7 +13653,12 @@
     "the secret, narrate your day out loud",
     "this one habit boosts spanish faster",
     "this is your confidence, one sentence",
-    "what if you just reply fast?"
+    "what if you just reply fast?",
+    "stop overexplaining, just add feelings",
+    "the secret? say it imperfect, now",
+    "stop waiting, request the next thing",
+    "stop hunting rules, learn patterns",
+    "never fear sounding basic today"
   ],
-  "last_updated": "2026-07-06T17:44:18.894971"
+  "last_updated": "2026-07-06T18:54:57.948781"
 }
