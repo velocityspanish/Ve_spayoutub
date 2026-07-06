@@ -11615,6 +11615,36 @@
       "spanish": "Nunca pidas permiso, únete y listo",
       "category": "Success",
       "generated_at": "2026-07-05T21:48:34.861202"
+    },
+    {
+      "english": "The secret, talk through real moments",
+      "spanish": "El secreto, habla de momentos reales",
+      "category": "Balance",
+      "generated_at": "2026-07-06T16:22:28.139482"
+    },
+    {
+      "english": "Stop waiting, greet with 'Hola'",
+      "spanish": "No esperes, saluda con 'Hola'",
+      "category": "Balance",
+      "generated_at": "2026-07-06T16:22:28.139504"
+    },
+    {
+      "english": "What if Spanish is fun first?",
+      "spanish": "¿Y si el español es divertido primero?",
+      "category": "Balance",
+      "generated_at": "2026-07-06T16:22:28.139519"
+    },
+    {
+      "english": "Never apologize, keep speaking forward",
+      "spanish": "Nunca pidas perdón, sigue hablando",
+      "category": "Balance",
+      "generated_at": "2026-07-06T16:22:28.139532"
+    },
+    {
+      "english": "Stop chasing speed, chase clarity",
+      "spanish": "No persigas rapidez, persigue claridad",
+      "category": "Balance",
+      "generated_at": "2026-07-06T16:22:28.139547"
     }
   ],
   "used_english": [
@@ -13553,7 +13583,12 @@
     "the secret? answer out loud",
     "never rehearse, just respond quickly",
     "stop studying, start asking “why?”",
-    "never ask permission, just join"
+    "never ask permission, just join",
+    "the secret, talk through real moments",
+    "stop waiting, greet with 'hola'",
+    "what if spanish is fun first?",
+    "never apologize, keep speaking forward",
+    "stop chasing speed, chase clarity"
   ],
-  "last_updated": "2026-07-05T21:48:34.861204"
+  "last_updated": "2026-07-06T16:22:28.139548"
 }
