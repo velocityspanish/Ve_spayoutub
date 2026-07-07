@@ -11807,6 +11807,36 @@
       "spanish": "Encuentra centro. Todo demás alinea.",
       "category": "Balance",
       "generated_at": "2026-07-07T19:01:43.968288"
+    },
+    {
+      "english": "Stop rehearsing, speak your honest need",
+      "spanish": "Deja de ensayar, di tu necesidad",
+      "category": "Motivation",
+      "generated_at": "2026-07-07T22:03:31.281323"
+    },
+    {
+      "english": "Never wait, ask for seconds—now",
+      "spanish": "Nunca esperes, pide otra vez",
+      "category": "Motivation",
+      "generated_at": "2026-07-07T22:03:31.281351"
+    },
+    {
+      "english": "Never explain, just respond with emotion",
+      "spanish": "Nunca expliques, responde con emoción",
+      "category": "Motivation",
+      "generated_at": "2026-07-07T22:03:31.281369"
+    },
+    {
+      "english": "Stop asking, start describing one thing",
+      "spanish": "Deja de preguntar, describe una cosa",
+      "category": "Motivation",
+      "generated_at": "2026-07-07T22:03:31.281387"
+    },
+    {
+      "english": "This is your emergency Spanish phrase",
+      "spanish": "Esta es tu frase de emergencia",
+      "category": "Motivation",
+      "generated_at": "2026-07-07T22:03:31.281405"
     }
   ],
   "used_english": [
@@ -13777,7 +13807,12 @@
     "present called gift reason.",
     "what mindfulness does brain.",
     "breathe. this only moment exists.",
-    "find center. everything else aligns."
+    "find center. everything else aligns.",
+    "stop rehearsing, speak your honest need",
+    "never wait, ask for seconds—now",
+    "never explain, just respond with emotion",
+    "stop asking, start describing one thing",
+    "this is your emergency spanish phrase"
   ],
-  "last_updated": "2026-07-07T19:01:43.968298"
+  "last_updated": "2026-07-07T22:03:31.281407"
 }
