@@ -11771,6 +11771,36 @@
       "spanish": "Sé persona que necesitabas cuando joven.",
       "category": "Inspiration",
       "generated_at": "2026-07-07T15:44:08.424755"
+    },
+    {
+      "english": "Stop living autopilot. Wake now.",
+      "spanish": "Deja vivir piloto automático. Despierta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-07T17:14:19.632889"
+    },
+    {
+      "english": "This moment all truly have.",
+      "spanish": "Momento todo realmente tienes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-07T17:14:19.632914"
+    },
+    {
+      "english": "Present called gift reason.",
+      "spanish": "Presente llama regalo razón.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-07T17:14:19.632932"
+    },
+    {
+      "english": "What mindfulness does brain.",
+      "spanish": "Atención plena hace cerebro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-07T17:14:19.632949"
+    },
+    {
+      "english": "Breathe. This only moment exists.",
+      "spanish": "Respira. Este único momento existe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-07T17:14:19.632967"
     }
   ],
   "used_english": [
@@ -13735,7 +13765,12 @@
     "never overthink, speak the next need",
     "stop fear, borrow their exact rhythm",
     "this changes everything, ask with smiles",
-    "be the person you needed younger."
+    "be the person you needed younger.",
+    "stop living autopilot. wake now.",
+    "this moment all truly have.",
+    "present called gift reason.",
+    "what mindfulness does brain.",
+    "breathe. this only moment exists."
   ],
-  "last_updated": "2026-07-07T15:44:08.424770"
+  "last_updated": "2026-07-07T17:14:19.632969"
 }
