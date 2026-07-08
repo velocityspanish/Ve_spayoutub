@@ -11867,6 +11867,36 @@
       "spanish": "No practiques solo, agradece ya",
       "category": "Gratitude",
       "generated_at": "2026-07-08T15:23:48.029295"
+    },
+    {
+      "english": "Stop guessing, choose one verb now.",
+      "spanish": "No adivines, elige un verbo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-08T16:40:54.382592"
+    },
+    {
+      "english": "This is why locals respond faster.",
+      "spanish": "Por eso responden más rápido.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-08T16:40:54.382621"
+    },
+    {
+      "english": "Never say 'maybe', say it boldly.",
+      "spanish": "No digas «quizás», dilo con valor.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-08T16:40:54.382641"
+    },
+    {
+      "english": "Stop overthinking, speak in short bursts.",
+      "spanish": "No pienses tanto, habla en ráfagas.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-08T16:40:54.382658"
+    },
+    {
+      "english": "The fastest way, say it while walking.",
+      "spanish": "La forma más rápida, dilo caminando.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-08T16:40:54.382689"
     }
   ],
   "used_english": [
@@ -13847,7 +13877,12 @@
     "stop rushing, gratitude slows you",
     "never skip 'por favor', it opens doors",
     "this is why 'me ayudas' wins",
-    "stop practicing alone, thank someone now"
+    "stop practicing alone, thank someone now",
+    "stop guessing, choose one verb now.",
+    "this is why locals respond faster.",
+    "never say 'maybe', say it boldly.",
+    "stop overthinking, speak in short bursts.",
+    "the fastest way, say it while walking."
   ],
-  "last_updated": "2026-07-08T15:23:48.029297"
+  "last_updated": "2026-07-08T16:40:54.382691"
 }
