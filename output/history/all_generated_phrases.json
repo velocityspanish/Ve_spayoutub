@@ -11957,6 +11957,36 @@
       "spanish": "El secreto... habla antes, sin estar listo",
       "category": "Perseverance",
       "generated_at": "2026-07-08T20:24:29.688088"
+    },
+    {
+      "english": "Never quit, even with wrong words",
+      "spanish": "Nunca pares, aunque digas palabras mal",
+      "category": "Patience",
+      "generated_at": "2026-07-08T21:57:16.125151"
+    },
+    {
+      "english": "This is why practice feels slow",
+      "spanish": "Por eso la práctica parece lenta",
+      "category": "Patience",
+      "generated_at": "2026-07-08T21:57:16.125180"
+    },
+    {
+      "english": "The secret? Your mistake is data",
+      "spanish": "El secreto, tu error es dato",
+      "category": "Patience",
+      "generated_at": "2026-07-08T21:57:16.125200"
+    },
+    {
+      "english": "Stop panicking, say it in chunks",
+      "spanish": "No entres en pánico, dilo en partes",
+      "category": "Patience",
+      "generated_at": "2026-07-08T21:57:16.125218"
+    },
+    {
+      "english": "Never demand perfection, just progress",
+      "spanish": "No exijas perfección, solo avance",
+      "category": "Patience",
+      "generated_at": "2026-07-08T21:57:16.125250"
     }
   ],
   "used_english": [
@@ -13952,7 +13982,12 @@
     "never say 'later', say 'right now'",
     "stop scrolling, study with emotion",
     "stop hunting, use one simple phrase",
-    "the secret... speak before you’re ready"
+    "the secret... speak before you’re ready",
+    "never quit, even with wrong words",
+    "this is why practice feels slow",
+    "the secret? your mistake is data",
+    "stop panicking, say it in chunks",
+    "never demand perfection, just progress"
   ],
-  "last_updated": "2026-07-08T20:24:29.688090"
+  "last_updated": "2026-07-08T21:57:16.125252"
 }
