@@ -11927,6 +11927,36 @@
       "spanish": "Deja de ensayar, reacciona de verdad",
       "category": "Mindfulness",
       "generated_at": "2026-07-08T18:17:03.275303"
+    },
+    {
+      "english": "Stop freezing, speak through the word",
+      "spanish": "Deja de congelarte, di la palabra",
+      "category": "Perseverance",
+      "generated_at": "2026-07-08T20:24:29.688010"
+    },
+    {
+      "english": "Never say 'later', say 'right now'",
+      "spanish": "Nunca digas 'más tarde', ahora",
+      "category": "Perseverance",
+      "generated_at": "2026-07-08T20:24:29.688037"
+    },
+    {
+      "english": "Stop scrolling, study with emotion",
+      "spanish": "Deja el scroll, estudia con emoción",
+      "category": "Perseverance",
+      "generated_at": "2026-07-08T20:24:29.688055"
+    },
+    {
+      "english": "Stop hunting, use one simple phrase",
+      "spanish": "Deja buscar, usa una frase simple",
+      "category": "Perseverance",
+      "generated_at": "2026-07-08T20:24:29.688072"
+    },
+    {
+      "english": "The secret... speak before you’re ready",
+      "spanish": "El secreto... habla antes, sin estar listo",
+      "category": "Perseverance",
+      "generated_at": "2026-07-08T20:24:29.688088"
     }
   ],
   "used_english": [
@@ -13917,7 +13947,12 @@
     "the secret, ask with your body",
     "stop checking, answer with a nod",
     "the secret? say it while exhaling",
-    "stop rehearsing, react like you mean"
+    "stop rehearsing, react like you mean",
+    "stop freezing, speak through the word",
+    "never say 'later', say 'right now'",
+    "stop scrolling, study with emotion",
+    "stop hunting, use one simple phrase",
+    "the secret... speak before you’re ready"
   ],
-  "last_updated": "2026-07-08T18:17:03.275305"
+  "last_updated": "2026-07-08T20:24:29.688090"
 }
