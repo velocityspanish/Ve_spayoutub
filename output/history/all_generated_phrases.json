@@ -11897,6 +11897,36 @@
       "spanish": "La forma más rápida, dilo caminando.",
       "category": "Wisdom",
       "generated_at": "2026-07-08T16:40:54.382689"
+    },
+    {
+      "english": "Never chase words, feel the pause",
+      "spanish": "Nunca busques palabras, siente la pausa",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-08T18:17:03.275213"
+    },
+    {
+      "english": "The secret, ask with your body",
+      "spanish": "El secreto, pregunta con tu cuerpo",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-08T18:17:03.275244"
+    },
+    {
+      "english": "Stop checking, answer with a nod",
+      "spanish": "Deja de revisar, responde con una seña",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-08T18:17:03.275265"
+    },
+    {
+      "english": "The secret? Say it while exhaling",
+      "spanish": "El secreto, di eso al exhalar",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-08T18:17:03.275285"
+    },
+    {
+      "english": "Stop rehearsing, react like you mean",
+      "spanish": "Deja de ensayar, reacciona de verdad",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-08T18:17:03.275303"
     }
   ],
   "used_english": [
@@ -13882,7 +13912,12 @@
     "this is why locals respond faster.",
     "never say 'maybe', say it boldly.",
     "stop overthinking, speak in short bursts.",
-    "the fastest way, say it while walking."
+    "the fastest way, say it while walking.",
+    "never chase words, feel the pause",
+    "the secret, ask with your body",
+    "stop checking, answer with a nod",
+    "the secret? say it while exhaling",
+    "stop rehearsing, react like you mean"
   ],
-  "last_updated": "2026-07-08T16:40:54.382691"
+  "last_updated": "2026-07-08T18:17:03.275305"
 }
