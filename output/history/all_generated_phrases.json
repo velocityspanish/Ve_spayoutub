@@ -11837,6 +11837,36 @@
       "spanish": "Esta es tu frase de emergencia",
       "category": "Motivation",
       "generated_at": "2026-07-07T22:03:31.281405"
+    },
+    {
+      "english": "Never say 'thanks' only, add feelings",
+      "spanish": "Nunca digas 'gracias' solo, agrega emoción",
+      "category": "Gratitude",
+      "generated_at": "2026-07-08T15:23:48.029216"
+    },
+    {
+      "english": "Stop rushing, gratitude slows you",
+      "spanish": "No corras, la gratitud te frena",
+      "category": "Gratitude",
+      "generated_at": "2026-07-08T15:23:48.029243"
+    },
+    {
+      "english": "Never skip 'por favor', it opens doors",
+      "spanish": "Nunca omitas 'por favor', abre puertas",
+      "category": "Gratitude",
+      "generated_at": "2026-07-08T15:23:48.029261"
+    },
+    {
+      "english": "This is why 'me ayudas' wins",
+      "spanish": "Por eso 'me ayudas' gana",
+      "category": "Gratitude",
+      "generated_at": "2026-07-08T15:23:48.029278"
+    },
+    {
+      "english": "Stop practicing alone, thank someone now",
+      "spanish": "No practiques solo, agradece ya",
+      "category": "Gratitude",
+      "generated_at": "2026-07-08T15:23:48.029295"
     }
   ],
   "used_english": [
@@ -13812,7 +13842,12 @@
     "never wait, ask for seconds—now",
     "never explain, just respond with emotion",
     "stop asking, start describing one thing",
-    "this is your emergency spanish phrase"
+    "this is your emergency spanish phrase",
+    "never say 'thanks' only, add feelings",
+    "stop rushing, gratitude slows you",
+    "never skip 'por favor', it opens doors",
+    "this is why 'me ayudas' wins",
+    "stop practicing alone, thank someone now"
   ],
-  "last_updated": "2026-07-07T22:03:31.281407"
+  "last_updated": "2026-07-08T15:23:48.029297"
 }
