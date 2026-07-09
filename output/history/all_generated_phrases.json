@@ -12017,6 +12017,36 @@
       "spanish": "El secreto es emoción, dilo",
       "category": "Hope",
       "generated_at": "2026-07-09T15:57:59.495422"
+    },
+    {
+      "english": "Stop waiting, say “te gusta” now",
+      "spanish": "Para de esperar, di “te gusta”",
+      "category": "Courage",
+      "generated_at": "2026-07-09T17:22:57.394865"
+    },
+    {
+      "english": "Never start with translation, start with intent",
+      "spanish": "Nunca empieces traduciendo, empieza con intención",
+      "category": "Courage",
+      "generated_at": "2026-07-09T17:22:57.394892"
+    },
+    {
+      "english": "Never freeze, speak the verb first",
+      "spanish": "No te quedes, di el verbo primero",
+      "category": "Courage",
+      "generated_at": "2026-07-09T17:22:57.394913"
+    },
+    {
+      "english": "Stop chasing perfect, choose clear",
+      "spanish": "Deja lo perfecto, elige claridad",
+      "category": "Courage",
+      "generated_at": "2026-07-09T17:22:57.394947"
+    },
+    {
+      "english": "Never say “no entiendo”, just ask “cómo”",
+      "spanish": "No digas “no entiendo”, pregunta “cómo”",
+      "category": "Courage",
+      "generated_at": "2026-07-09T17:22:57.394966"
     }
   ],
   "used_english": [
@@ -14022,7 +14052,12 @@
     "the secret? ask, not explain",
     "stop apologizing, just speak",
     "never practice alone, talk today",
-    "the secret is emotion, say it"
+    "the secret is emotion, say it",
+    "stop waiting, say “te gusta” now",
+    "never start with translation, start with intent",
+    "never freeze, speak the verb first",
+    "stop chasing perfect, choose clear",
+    "never say “no entiendo”, just ask “cómo”"
   ],
-  "last_updated": "2026-07-09T15:57:59.495424"
+  "last_updated": "2026-07-09T17:22:57.394968"
 }
