@@ -12077,6 +12077,36 @@
       "spanish": "Deja de repetir, di la nueva versión",
       "category": "Inspiration",
       "generated_at": "2026-07-09T18:50:27.117536"
+    },
+    {
+      "english": "Never say “I forgot,” say it",
+      "spanish": "Nunca digas “lo olvidé”, di eso",
+      "category": "Love",
+      "generated_at": "2026-07-09T20:49:50.693554"
+    },
+    {
+      "english": "The secret… ask with one word",
+      "spanish": "El secreto… pregunta con una sola palabra",
+      "category": "Love",
+      "generated_at": "2026-07-09T20:49:50.693580"
+    },
+    {
+      "english": "Never chase “perfect,” just sound alive",
+      "spanish": "Nunca persigas “perfecto”, suena vivo",
+      "category": "Love",
+      "generated_at": "2026-07-09T20:49:50.693594"
+    },
+    {
+      "english": "Stop translating, reply with a feeling",
+      "spanish": "Deja de traducir, responde con emoción",
+      "category": "Love",
+      "generated_at": "2026-07-09T20:49:50.693608"
+    },
+    {
+      "english": "This one phrase unlocks every convo",
+      "spanish": "Esta frase desbloquea cualquier conversación",
+      "category": "Love",
+      "generated_at": "2026-07-09T20:49:50.693624"
     }
   ],
   "used_english": [
@@ -14092,7 +14122,12 @@
     "never study alone, text in spanish",
     "the secret, use 'me too' instantly",
     "never fear sounding wrong, say it",
-    "stop replaying, speak the new version"
+    "stop replaying, speak the new version",
+    "never say “i forgot,” say it",
+    "the secret… ask with one word",
+    "never chase “perfect,” just sound alive",
+    "stop translating, reply with a feeling",
+    "this one phrase unlocks every convo"
   ],
-  "last_updated": "2026-07-09T18:50:27.117538"
+  "last_updated": "2026-07-09T20:49:50.693626"
 }
