@@ -12107,6 +12107,36 @@
       "spanish": "Esta frase desbloquea cualquier conversación",
       "category": "Love",
       "generated_at": "2026-07-09T20:49:50.693624"
+    },
+    {
+      "english": "Stop overthinking, say the first verb",
+      "spanish": "Deja de pensar, di el primer verbo",
+      "category": "Joy",
+      "generated_at": "2026-07-09T22:13:00.145726"
+    },
+    {
+      "english": "Never chase fluency, chase one question",
+      "spanish": "Nunca persigas fluidez, persigue una pregunta",
+      "category": "Joy",
+      "generated_at": "2026-07-09T22:13:00.145753"
+    },
+    {
+      "english": "Never fear 'ustedes', speak it clearly",
+      "spanish": "No tengas miedo de 'ustedes', dilo claro",
+      "category": "Joy",
+      "generated_at": "2026-07-09T22:13:00.145769"
+    },
+    {
+      "english": "Never explain, just react, 'sí' or 'no'",
+      "spanish": "No expliques, solo reacciona, 'sí' o 'no'",
+      "category": "Joy",
+      "generated_at": "2026-07-09T22:13:00.145785"
+    },
+    {
+      "english": "Never say 'later', say 'ahora necesito'",
+      "spanish": "Nunca digas 'luego', di 'ahora necesito'",
+      "category": "Joy",
+      "generated_at": "2026-07-09T22:13:00.145801"
     }
   ],
   "used_english": [
@@ -14127,7 +14157,12 @@
     "the secret… ask with one word",
     "never chase “perfect,” just sound alive",
     "stop translating, reply with a feeling",
-    "this one phrase unlocks every convo"
+    "this one phrase unlocks every convo",
+    "stop overthinking, say the first verb",
+    "never chase fluency, chase one question",
+    "never fear 'ustedes', speak it clearly",
+    "never explain, just react, 'sí' or 'no'",
+    "never say 'later', say 'ahora necesito'"
   ],
-  "last_updated": "2026-07-09T20:49:50.693626"
+  "last_updated": "2026-07-09T22:13:00.145803"
 }
