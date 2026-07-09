@@ -12047,6 +12047,36 @@
       "spanish": "No digas “no entiendo”, pregunta “cómo”",
       "category": "Courage",
       "generated_at": "2026-07-09T17:22:57.394966"
+    },
+    {
+      "english": "Stop waiting, say what you see",
+      "spanish": "Deja de esperar, di lo que ves",
+      "category": "Inspiration",
+      "generated_at": "2026-07-09T18:50:27.117450"
+    },
+    {
+      "english": "Never study alone, text in Spanish",
+      "spanish": "Nunca estudies solo, escribe en español",
+      "category": "Inspiration",
+      "generated_at": "2026-07-09T18:50:27.117480"
+    },
+    {
+      "english": "The secret, use 'me too' instantly",
+      "spanish": "El secreto, usa 'yo también' ya",
+      "category": "Inspiration",
+      "generated_at": "2026-07-09T18:50:27.117499"
+    },
+    {
+      "english": "Never fear sounding wrong, say it",
+      "spanish": "Nunca temas sonar mal, dilo",
+      "category": "Inspiration",
+      "generated_at": "2026-07-09T18:50:27.117518"
+    },
+    {
+      "english": "Stop replaying, speak the new version",
+      "spanish": "Deja de repetir, di la nueva versión",
+      "category": "Inspiration",
+      "generated_at": "2026-07-09T18:50:27.117536"
     }
   ],
   "used_english": [
@@ -14057,7 +14087,12 @@
     "never start with translation, start with intent",
     "never freeze, speak the verb first",
     "stop chasing perfect, choose clear",
-    "never say “no entiendo”, just ask “cómo”"
+    "never say “no entiendo”, just ask “cómo”",
+    "stop waiting, say what you see",
+    "never study alone, text in spanish",
+    "the secret, use 'me too' instantly",
+    "never fear sounding wrong, say it",
+    "stop replaying, speak the new version"
   ],
-  "last_updated": "2026-07-09T17:22:57.394968"
+  "last_updated": "2026-07-09T18:50:27.117538"
 }
