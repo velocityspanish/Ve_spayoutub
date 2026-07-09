@@ -11987,6 +11987,36 @@
       "spanish": "No exijas perfección, solo avance",
       "category": "Patience",
       "generated_at": "2026-07-08T21:57:16.125250"
+    },
+    {
+      "english": "Never sound polite, be clear",
+      "spanish": "Nunca seas educado, sé claro",
+      "category": "Hope",
+      "generated_at": "2026-07-09T15:57:59.495335"
+    },
+    {
+      "english": "The secret? Ask, not explain",
+      "spanish": "El secreto, pregunta, no expliques",
+      "category": "Hope",
+      "generated_at": "2026-07-09T15:57:59.495365"
+    },
+    {
+      "english": "Stop apologizing, just speak",
+      "spanish": "Deja de disculparte, habla",
+      "category": "Hope",
+      "generated_at": "2026-07-09T15:57:59.495383"
+    },
+    {
+      "english": "Never practice alone, talk today",
+      "spanish": "Nunca practiques solo, habla hoy",
+      "category": "Hope",
+      "generated_at": "2026-07-09T15:57:59.495403"
+    },
+    {
+      "english": "The secret is emotion, say it",
+      "spanish": "El secreto es emoción, dilo",
+      "category": "Hope",
+      "generated_at": "2026-07-09T15:57:59.495422"
     }
   ],
   "used_english": [
@@ -13987,7 +14017,12 @@
     "this is why practice feels slow",
     "the secret? your mistake is data",
     "stop panicking, say it in chunks",
-    "never demand perfection, just progress"
+    "never demand perfection, just progress",
+    "never sound polite, be clear",
+    "the secret? ask, not explain",
+    "stop apologizing, just speak",
+    "never practice alone, talk today",
+    "the secret is emotion, say it"
   ],
-  "last_updated": "2026-07-08T21:57:16.125252"
+  "last_updated": "2026-07-09T15:57:59.495424"
 }
