@@ -12197,6 +12197,36 @@
       "spanish": "No traduzcas, comparte un sentimiento",
       "category": "Friendship",
       "generated_at": "2026-07-10T16:57:01.801799"
+    },
+    {
+      "english": "Stop hiding, show one feeling",
+      "spanish": "Deja de esconderte, muestra un sentimiento",
+      "category": "Kindness",
+      "generated_at": "2026-07-10T18:22:37.837374"
+    },
+    {
+      "english": "Never wait, say “¿cuánto cuesta?”",
+      "spanish": "Nunca esperes, di “¿cuánto cuesta?”",
+      "category": "Kindness",
+      "generated_at": "2026-07-10T18:22:37.837404"
+    },
+    {
+      "english": "This one sentence gets you invites",
+      "spanish": "Esta frase te trae invitaciones",
+      "category": "Kindness",
+      "generated_at": "2026-07-10T18:22:37.837424"
+    },
+    {
+      "english": "Stop explaining, share one story",
+      "spanish": "Deja de explicar, cuenta una historia",
+      "category": "Kindness",
+      "generated_at": "2026-07-10T18:22:37.837444"
+    },
+    {
+      "english": "Never freeze, say “todavía”",
+      "spanish": "Nunca te congelas, di “todavía”",
+      "category": "Kindness",
+      "generated_at": "2026-07-10T18:22:37.837461"
     }
   ],
   "used_english": [
@@ -14232,7 +14262,12 @@
     "stop clapping back, just smile first",
     "never ghost in spanish, reply",
     "this tiny habit builds instant connection",
-    "stop translating, share a real feeling"
+    "stop translating, share a real feeling",
+    "stop hiding, show one feeling",
+    "never wait, say “¿cuánto cuesta?”",
+    "this one sentence gets you invites",
+    "stop explaining, share one story",
+    "never freeze, say “todavía”"
   ],
-  "last_updated": "2026-07-10T16:57:01.801800"
+  "last_updated": "2026-07-10T18:22:37.837463"
 }
