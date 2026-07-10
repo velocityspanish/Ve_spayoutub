@@ -12257,6 +12257,36 @@
       "spanish": "Deja lo formal, di '¿qué onda?'",
       "category": "Friendship",
       "generated_at": "2026-07-10T20:26:57.174774"
+    },
+    {
+      "english": "Stop saying “thanks,” say “gracias”",
+      "spanish": "Stop saying “thanks,” say “gracias”",
+      "category": "Gratitude",
+      "generated_at": "2026-07-10T21:49:32.521994"
+    },
+    {
+      "english": "Never skip heartfelt “muchas gracias”",
+      "spanish": "Nunca omitas “muchas gracias” de corazón",
+      "category": "Gratitude",
+      "generated_at": "2026-07-10T21:49:32.522022"
+    },
+    {
+      "english": "The secret is saying “lo aprecio”",
+      "spanish": "El secreto es decir “lo aprecio”",
+      "category": "Gratitude",
+      "generated_at": "2026-07-10T21:49:32.522043"
+    },
+    {
+      "english": "Stop freezing, thank them immediately",
+      "spanish": "Deja de bloquearte, agradece ya",
+      "category": "Gratitude",
+      "generated_at": "2026-07-10T21:49:32.522063"
+    },
+    {
+      "english": "Never wait, bless them with words",
+      "spanish": "Nunca esperes, bendece con palabras",
+      "category": "Gratitude",
+      "generated_at": "2026-07-10T21:49:32.522082"
     }
   ],
   "used_english": [
@@ -14302,7 +14332,12 @@
     "stop texting, say 'te extraño' now",
     "never ask 'how are you?', ask this",
     "the secret, invite them, not lessons",
-    "stop being formal, say '¿qué onda?'"
+    "stop being formal, say '¿qué onda?'",
+    "stop saying “thanks,” say “gracias”",
+    "never skip heartfelt “muchas gracias”",
+    "the secret is saying “lo aprecio”",
+    "stop freezing, thank them immediately",
+    "never wait, bless them with words"
   ],
-  "last_updated": "2026-07-10T20:26:57.174776"
+  "last_updated": "2026-07-10T21:49:32.522084"
 }
