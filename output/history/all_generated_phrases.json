@@ -12227,6 +12227,36 @@
       "spanish": "Nunca te congelas, di “todavía”",
       "category": "Kindness",
       "generated_at": "2026-07-10T18:22:37.837461"
+    },
+    {
+      "english": "Never say goodbye, say 'nos vemos'",
+      "spanish": "Nunca digas adiós, di 'nos vemos'",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T20:26:57.174685"
+    },
+    {
+      "english": "Stop texting, say 'te extraño' now",
+      "spanish": "Deja de escribir, di 'te extraño' ya",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T20:26:57.174717"
+    },
+    {
+      "english": "Never ask 'how are you?', ask this",
+      "spanish": "No preguntes '¿cómo estás?', pregunta esto",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T20:26:57.174737"
+    },
+    {
+      "english": "The secret, invite them, not lessons",
+      "spanish": "El secreto, invítalos, no clases",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T20:26:57.174754"
+    },
+    {
+      "english": "Stop being formal, say '¿qué onda?'",
+      "spanish": "Deja lo formal, di '¿qué onda?'",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T20:26:57.174774"
     }
   ],
   "used_english": [
@@ -14267,7 +14297,12 @@
     "never wait, say “¿cuánto cuesta?”",
     "this one sentence gets you invites",
     "stop explaining, share one story",
-    "never freeze, say “todavía”"
+    "never freeze, say “todavía”",
+    "never say goodbye, say 'nos vemos'",
+    "stop texting, say 'te extraño' now",
+    "never ask 'how are you?', ask this",
+    "the secret, invite them, not lessons",
+    "stop being formal, say '¿qué onda?'"
   ],
-  "last_updated": "2026-07-10T18:22:37.837463"
+  "last_updated": "2026-07-10T20:26:57.174776"
 }
