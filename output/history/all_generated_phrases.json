@@ -12137,6 +12137,36 @@
       "spanish": "Nunca digas 'luego', di 'ahora necesito'",
       "category": "Joy",
       "generated_at": "2026-07-09T22:13:00.145801"
+    },
+    {
+      "english": "The secret, speak like a tourist",
+      "spanish": "El secreto, habla como turista",
+      "category": "Courage",
+      "generated_at": "2026-07-10T15:34:14.182144"
+    },
+    {
+      "english": "Never wait for perfect, start small",
+      "spanish": "Nunca esperes lo perfecto, empieza pequeño",
+      "category": "Courage",
+      "generated_at": "2026-07-10T15:34:14.182173"
+    },
+    {
+      "english": "This changes your confidence, call names",
+      "spanish": "Esto cambia tu confianza, di nombres",
+      "category": "Courage",
+      "generated_at": "2026-07-10T15:34:14.182191"
+    },
+    {
+      "english": "The secret? Listen, then repeat immediately",
+      "spanish": "El secreto, escucha, repite al instante",
+      "category": "Courage",
+      "generated_at": "2026-07-10T15:34:14.182208"
+    },
+    {
+      "english": "Stop scrolling, speak before you forget",
+      "spanish": "Deja de scrollear, habla antes de olvidar",
+      "category": "Courage",
+      "generated_at": "2026-07-10T15:34:14.182226"
     }
   ],
   "used_english": [
@@ -14162,7 +14192,12 @@
     "never chase fluency, chase one question",
     "never fear 'ustedes', speak it clearly",
     "never explain, just react, 'sí' or 'no'",
-    "never say 'later', say 'ahora necesito'"
+    "never say 'later', say 'ahora necesito'",
+    "the secret, speak like a tourist",
+    "never wait for perfect, start small",
+    "this changes your confidence, call names",
+    "the secret? listen, then repeat immediately",
+    "stop scrolling, speak before you forget"
   ],
-  "last_updated": "2026-07-09T22:13:00.145803"
+  "last_updated": "2026-07-10T15:34:14.182228"
 }
