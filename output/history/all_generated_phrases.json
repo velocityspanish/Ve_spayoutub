@@ -12167,6 +12167,36 @@
       "spanish": "Deja de scrollear, habla antes de olvidar",
       "category": "Courage",
       "generated_at": "2026-07-10T15:34:14.182226"
+    },
+    {
+      "english": "Never study silently, ask one thing",
+      "spanish": "Nunca estudies en silencio, pregunta una",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T16:57:01.801749"
+    },
+    {
+      "english": "Stop clapping back, just smile first",
+      "spanish": "Deja de discutir, sonríe primero",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T16:57:01.801769"
+    },
+    {
+      "english": "Never ghost in Spanish, reply",
+      "spanish": "Nunca desaparezcas, responde",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T16:57:01.801780"
+    },
+    {
+      "english": "This tiny habit builds instant connection",
+      "spanish": "Este hábito crea conexión rápido",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T16:57:01.801789"
+    },
+    {
+      "english": "Stop translating, share a real feeling",
+      "spanish": "No traduzcas, comparte un sentimiento",
+      "category": "Friendship",
+      "generated_at": "2026-07-10T16:57:01.801799"
     }
   ],
   "used_english": [
@@ -14197,7 +14227,12 @@
     "never wait for perfect, start small",
     "this changes your confidence, call names",
     "the secret? listen, then repeat immediately",
-    "stop scrolling, speak before you forget"
+    "stop scrolling, speak before you forget",
+    "never study silently, ask one thing",
+    "stop clapping back, just smile first",
+    "never ghost in spanish, reply",
+    "this tiny habit builds instant connection",
+    "stop translating, share a real feeling"
   ],
-  "last_updated": "2026-07-10T15:34:14.182228"
+  "last_updated": "2026-07-10T16:57:01.801800"
 }
