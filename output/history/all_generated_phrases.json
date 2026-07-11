@@ -12377,6 +12377,36 @@
       "spanish": "Esto cambia el amor, “ya pasó”",
       "category": "Forgiveness",
       "generated_at": "2026-07-11T17:54:55.459645"
+    },
+    {
+      "english": "Never memorize, use this one question",
+      "spanish": "Nunca memorices, usa esta pregunta",
+      "category": "Joy",
+      "generated_at": "2026-07-11T20:07:08.057372"
+    },
+    {
+      "english": "Never hide, ask again with улыбка",
+      "spanish": "No te escondas, pregunta otra vez",
+      "category": "Joy",
+      "generated_at": "2026-07-11T20:07:08.057400"
+    },
+    {
+      "english": "Stop overcorrecting, just keep going",
+      "spanish": "Deja de corregir, sigue",
+      "category": "Joy",
+      "generated_at": "2026-07-11T20:07:08.057419"
+    },
+    {
+      "english": "Never panic, breathe, then answer",
+      "spanish": "No entres en pánico, respira, responde",
+      "category": "Joy",
+      "generated_at": "2026-07-11T20:07:08.057439"
+    },
+    {
+      "english": "This changes everything, say 'sí, pero'",
+      "spanish": "Cambia todo, di 'sí, pero'",
+      "category": "Joy",
+      "generated_at": "2026-07-11T20:07:08.057457"
     }
   ],
   "used_english": [
@@ -14442,7 +14472,12 @@
     "never beg, just offer forgiveness",
     "never say sorry, say why it mattered",
     "stop spiraling, release this one word",
-    "this changes love, say 'ya pasó'"
+    "this changes love, say 'ya pasó'",
+    "never memorize, use this one question",
+    "never hide, ask again with улыбка",
+    "stop overcorrecting, just keep going",
+    "never panic, breathe, then answer",
+    "this changes everything, say 'sí, pero'"
   ],
-  "last_updated": "2026-07-11T17:54:55.459647"
+  "last_updated": "2026-07-11T20:07:08.057460"
 }
