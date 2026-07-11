@@ -12407,6 +12407,36 @@
       "spanish": "Cambia todo, di 'sí, pero'",
       "category": "Joy",
       "generated_at": "2026-07-11T20:07:08.057457"
+    },
+    {
+      "english": "Stop scrolling, say me too",
+      "spanish": "Deja de scrollear, di «yo también»",
+      "category": "Kindness",
+      "generated_at": "2026-07-11T21:38:44.724424"
+    },
+    {
+      "english": "Never be silent, offer help",
+      "spanish": "Nunca te calles, ofrece ayuda",
+      "category": "Kindness",
+      "generated_at": "2026-07-11T21:38:44.724449"
+    },
+    {
+      "english": "This is why, you feel safe",
+      "spanish": "Por eso, te sientes seguro",
+      "category": "Kindness",
+      "generated_at": "2026-07-11T21:38:44.724463"
+    },
+    {
+      "english": "The secret? Make kindness automatic",
+      "spanish": "El secreto, haz la amabilidad",
+      "category": "Kindness",
+      "generated_at": "2026-07-11T21:38:44.724479"
+    },
+    {
+      "english": "Never interrupt, let them finish",
+      "spanish": "Nunca interrumpas, déjalos terminar",
+      "category": "Kindness",
+      "generated_at": "2026-07-11T21:38:44.724494"
     }
   ],
   "used_english": [
@@ -14477,7 +14507,12 @@
     "never hide, ask again with улыбка",
     "stop overcorrecting, just keep going",
     "never panic, breathe, then answer",
-    "this changes everything, say 'sí, pero'"
+    "this changes everything, say 'sí, pero'",
+    "stop scrolling, say me too",
+    "never be silent, offer help",
+    "this is why, you feel safe",
+    "the secret? make kindness automatic",
+    "never interrupt, let them finish"
   ],
-  "last_updated": "2026-07-11T20:07:08.057460"
+  "last_updated": "2026-07-11T21:38:44.724496"
 }
