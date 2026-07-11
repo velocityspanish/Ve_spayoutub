@@ -12317,6 +12317,36 @@
       "spanish": "No temas acentos, traen vida",
       "category": "Positive Life",
       "generated_at": "2026-07-11T14:23:16.643186"
+    },
+    {
+      "english": "Stop practicing, start requesting help",
+      "spanish": "Deja de practicar, pide ayuda",
+      "category": "Motivation",
+      "generated_at": "2026-07-11T15:57:45.554473"
+    },
+    {
+      "english": "Never say “I’m shy”, speak anyway",
+      "spanish": "Nunca digas “soy tímido”, habla",
+      "category": "Motivation",
+      "generated_at": "2026-07-11T15:57:45.554498"
+    },
+    {
+      "english": "Never wait for “perfect”, say “now”",
+      "spanish": "Nunca esperes “perfecto”, di “ahora”",
+      "category": "Motivation",
+      "generated_at": "2026-07-11T15:57:45.554515"
+    },
+    {
+      "english": "This small phrase makes you unforgettable",
+      "spanish": "Esta frase te hace inolvidable",
+      "category": "Motivation",
+      "generated_at": "2026-07-11T15:57:45.554529"
+    },
+    {
+      "english": "Stop hiding, ask with eye contact",
+      "spanish": "No te escondas, pregunta con mirada",
+      "category": "Motivation",
+      "generated_at": "2026-07-11T15:57:45.554544"
     }
   ],
   "used_english": [
@@ -14372,7 +14402,12 @@
     "never ramble, just ask one thing",
     "the secret? smile, then slow down",
     "stop apologizing, start telling truth",
-    "never fear accents, they mean life"
+    "never fear accents, they mean life",
+    "stop practicing, start requesting help",
+    "never say “i’m shy”, speak anyway",
+    "never wait for “perfect”, say “now”",
+    "this small phrase makes you unforgettable",
+    "stop hiding, ask with eye contact"
   ],
-  "last_updated": "2026-07-11T14:23:16.643188"
+  "last_updated": "2026-07-11T15:57:45.554548"
 }
