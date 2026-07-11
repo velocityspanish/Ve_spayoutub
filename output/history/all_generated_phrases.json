@@ -12287,6 +12287,36 @@
       "spanish": "Nunca esperes, bendece con palabras",
       "category": "Gratitude",
       "generated_at": "2026-07-10T21:49:32.522082"
+    },
+    {
+      "english": "Stop saying “okay”, say “claro”",
+      "spanish": "Deja de decir “vale”, di “claro”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-11T14:23:16.643097"
+    },
+    {
+      "english": "Never ramble, just ask one thing",
+      "spanish": "Nunca te extiendas, pregunta solo una",
+      "category": "Positive Life",
+      "generated_at": "2026-07-11T14:23:16.643127"
+    },
+    {
+      "english": "The secret? Smile, then slow down",
+      "spanish": "El secreto, sonríe, luego despacio",
+      "category": "Positive Life",
+      "generated_at": "2026-07-11T14:23:16.643147"
+    },
+    {
+      "english": "Stop apologizing, start telling truth",
+      "spanish": "Deja de disculparte, di la verdad",
+      "category": "Positive Life",
+      "generated_at": "2026-07-11T14:23:16.643166"
+    },
+    {
+      "english": "Never fear accents, they mean life",
+      "spanish": "No temas acentos, traen vida",
+      "category": "Positive Life",
+      "generated_at": "2026-07-11T14:23:16.643186"
     }
   ],
   "used_english": [
@@ -14337,7 +14367,12 @@
     "never skip heartfelt “muchas gracias”",
     "the secret is saying “lo aprecio”",
     "stop freezing, thank them immediately",
-    "never wait, bless them with words"
+    "never wait, bless them with words",
+    "stop saying “okay”, say “claro”",
+    "never ramble, just ask one thing",
+    "the secret? smile, then slow down",
+    "stop apologizing, start telling truth",
+    "never fear accents, they mean life"
   ],
-  "last_updated": "2026-07-10T21:49:32.522084"
+  "last_updated": "2026-07-11T14:23:16.643188"
 }
