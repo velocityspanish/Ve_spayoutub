@@ -12347,6 +12347,36 @@
       "spanish": "No te escondas, pregunta con mirada",
       "category": "Motivation",
       "generated_at": "2026-07-11T15:57:45.554544"
+    },
+    {
+      "english": "Stop carrying guilt, say 'te perdono'",
+      "spanish": "Deja la culpa, di “te perdono”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T17:54:55.459558"
+    },
+    {
+      "english": "Never beg, just offer forgiveness",
+      "spanish": "Nunca ruegues, ofrece perdón",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T17:54:55.459587"
+    },
+    {
+      "english": "Never say sorry, say why it mattered",
+      "spanish": "No digas perdón, di lo importante",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T17:54:55.459606"
+    },
+    {
+      "english": "Stop spiraling, release this one word",
+      "spanish": "Corta la espiral, suelta “perdón”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T17:54:55.459625"
+    },
+    {
+      "english": "This changes love, say 'ya pasó'",
+      "spanish": "Esto cambia el amor, “ya pasó”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T17:54:55.459645"
     }
   ],
   "used_english": [
@@ -14407,7 +14437,12 @@
     "never say “i’m shy”, speak anyway",
     "never wait for “perfect”, say “now”",
     "this small phrase makes you unforgettable",
-    "stop hiding, ask with eye contact"
+    "stop hiding, ask with eye contact",
+    "stop carrying guilt, say 'te perdono'",
+    "never beg, just offer forgiveness",
+    "never say sorry, say why it mattered",
+    "stop spiraling, release this one word",
+    "this changes love, say 'ya pasó'"
   ],
-  "last_updated": "2026-07-11T15:57:45.554548"
+  "last_updated": "2026-07-11T17:54:55.459647"
 }
