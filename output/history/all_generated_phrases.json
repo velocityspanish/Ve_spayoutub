@@ -12557,6 +12557,36 @@
       "spanish": "No juzgues, di la versión malita.",
       "category": "Mindfulness",
       "generated_at": "2026-07-12T20:07:33.478696"
+    },
+    {
+      "english": "Stop texting, say it face-to-face",
+      "spanish": "Deja de teclear, dilo frente a frente",
+      "category": "Love",
+      "generated_at": "2026-07-12T21:38:06.366416"
+    },
+    {
+      "english": "Never say “hello”, say “missing you”",
+      "spanish": "Nunca digas “hola”, di “te extraño”",
+      "category": "Love",
+      "generated_at": "2026-07-12T21:38:06.366448"
+    },
+    {
+      "english": "Stop guessing feelings, just say this",
+      "spanish": "Deja de adivinar, di esto",
+      "category": "Love",
+      "generated_at": "2026-07-12T21:38:06.366469"
+    },
+    {
+      "english": "This one word melts awkwardness",
+      "spanish": "Una palabra derrite la incomodidad",
+      "category": "Love",
+      "generated_at": "2026-07-12T21:38:06.366489"
+    },
+    {
+      "english": "This phrase turns strangers into sparks",
+      "spanish": "Esta frase vuelve chispas a extraños",
+      "category": "Love",
+      "generated_at": "2026-07-12T21:38:06.366508"
     }
   ],
   "used_english": [
@@ -14652,7 +14682,12 @@
     "never study facts, chase feelings instead.",
     "the secret... breathe, then say it.",
     "this phrase calms your tongue instantly.",
-    "stop judging, say the messy version."
+    "stop judging, say the messy version.",
+    "stop texting, say it face-to-face",
+    "never say “hello”, say “missing you”",
+    "stop guessing feelings, just say this",
+    "this one word melts awkwardness",
+    "this phrase turns strangers into sparks"
   ],
-  "last_updated": "2026-07-12T20:07:33.478698"
+  "last_updated": "2026-07-12T21:38:06.366510"
 }
