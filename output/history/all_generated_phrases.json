@@ -12497,6 +12497,36 @@
       "spanish": "Deja la pausa, di “ya mismo”",
       "category": "Success",
       "generated_at": "2026-07-12T16:00:24.835202"
+    },
+    {
+      "english": "Never guess, say what you feel",
+      "spanish": "Nunca adivines, di lo que sientes",
+      "category": "Patience",
+      "generated_at": "2026-07-12T17:58:23.384916"
+    },
+    {
+      "english": "Stop thinking, start with one 'why?'",
+      "spanish": "Para de pensar, empieza con un 'por qué?'",
+      "category": "Patience",
+      "generated_at": "2026-07-12T17:58:23.384941"
+    },
+    {
+      "english": "The secret? Use short, warm replies",
+      "spanish": "El secreto, usa respuestas cortas",
+      "category": "Patience",
+      "generated_at": "2026-07-12T17:58:23.384958"
+    },
+    {
+      "english": "Never overthink, just point and ask",
+      "spanish": "No sobrepienses, señala y pregunta",
+      "category": "Patience",
+      "generated_at": "2026-07-12T17:58:23.384972"
+    },
+    {
+      "english": "Stop freezing, say it, then correct",
+      "spanish": "Deja de congelarte, dilo y luego corriges",
+      "category": "Patience",
+      "generated_at": "2026-07-12T17:58:23.384986"
     }
   ],
   "used_english": [
@@ -14582,7 +14612,12 @@
     "stop rewriting, speak the first version",
     "never fear questions, start with “cuándo”",
     "this changes your tone, add “por favor”",
-    "stop stalling, say “ya mismo”"
+    "stop stalling, say “ya mismo”",
+    "never guess, say what you feel",
+    "stop thinking, start with one 'why?'",
+    "the secret? use short, warm replies",
+    "never overthink, just point and ask",
+    "stop freezing, say it, then correct"
   ],
-  "last_updated": "2026-07-12T16:00:24.835204"
+  "last_updated": "2026-07-12T17:58:23.384987"
 }
