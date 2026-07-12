@@ -12437,6 +12437,36 @@
       "spanish": "Nunca interrumpas, déjalos terminar",
       "category": "Kindness",
       "generated_at": "2026-07-11T21:38:44.724494"
+    },
+    {
+      "english": "Stop saying “good”, say “brilliant” instead",
+      "spanish": "Deja de decir “bien”, di “¡genial!”",
+      "category": "Balance",
+      "generated_at": "2026-07-12T14:27:10.470506"
+    },
+    {
+      "english": "Never guess, ask “How much?”",
+      "spanish": "Nunca adivines, pregunta “¿Cuánto cuesta?”",
+      "category": "Balance",
+      "generated_at": "2026-07-12T14:27:10.470533"
+    },
+    {
+      "english": "Stop perfecting, just ask one more",
+      "spanish": "Deja de perfeccionar, solo pregunta otra vez",
+      "category": "Balance",
+      "generated_at": "2026-07-12T14:27:10.470553"
+    },
+    {
+      "english": "This phrase gets you instant trust",
+      "spanish": "Esta frase da confianza enseguida",
+      "category": "Balance",
+      "generated_at": "2026-07-12T14:27:10.470571"
+    },
+    {
+      "english": "Never say “why?”, say “how come?”",
+      "spanish": "No digas “¿por qué?”, di “¿cómo es?”",
+      "category": "Balance",
+      "generated_at": "2026-07-12T14:27:10.470589"
     }
   ],
   "used_english": [
@@ -14512,7 +14542,12 @@
     "never be silent, offer help",
     "this is why, you feel safe",
     "the secret? make kindness automatic",
-    "never interrupt, let them finish"
+    "never interrupt, let them finish",
+    "stop saying “good”, say “brilliant” instead",
+    "never guess, ask “how much?”",
+    "stop perfecting, just ask one more",
+    "this phrase gets you instant trust",
+    "never say “why?”, say “how come?”"
   ],
-  "last_updated": "2026-07-11T21:38:44.724496"
+  "last_updated": "2026-07-12T14:27:10.470591"
 }
