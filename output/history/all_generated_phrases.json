@@ -12467,6 +12467,36 @@
       "spanish": "No digas “¿por qué?”, di “¿cómo es?”",
       "category": "Balance",
       "generated_at": "2026-07-12T14:27:10.470589"
+    },
+    {
+      "english": "The secret? Say “me encanta” fast",
+      "spanish": "El secreto, di “me encanta” rápido",
+      "category": "Success",
+      "generated_at": "2026-07-12T16:00:24.835120"
+    },
+    {
+      "english": "Stop rewriting, speak the first version",
+      "spanish": "No rehagas, di la primera versión",
+      "category": "Success",
+      "generated_at": "2026-07-12T16:00:24.835146"
+    },
+    {
+      "english": "Never fear questions, start with “cuándo”",
+      "spanish": "No temas preguntas, empieza con “cuándo”",
+      "category": "Success",
+      "generated_at": "2026-07-12T16:00:24.835165"
+    },
+    {
+      "english": "This changes your tone, add “por favor”",
+      "spanish": "Cambia tu tono, agrega “por favor”",
+      "category": "Success",
+      "generated_at": "2026-07-12T16:00:24.835183"
+    },
+    {
+      "english": "Stop stalling, say “ya mismo”",
+      "spanish": "Deja la pausa, di “ya mismo”",
+      "category": "Success",
+      "generated_at": "2026-07-12T16:00:24.835202"
     }
   ],
   "used_english": [
@@ -14547,7 +14577,12 @@
     "never guess, ask “how much?”",
     "stop perfecting, just ask one more",
     "this phrase gets you instant trust",
-    "never say “why?”, say “how come?”"
+    "never say “why?”, say “how come?”",
+    "the secret? say “me encanta” fast",
+    "stop rewriting, speak the first version",
+    "never fear questions, start with “cuándo”",
+    "this changes your tone, add “por favor”",
+    "stop stalling, say “ya mismo”"
   ],
-  "last_updated": "2026-07-12T14:27:10.470591"
+  "last_updated": "2026-07-12T16:00:24.835204"
 }
