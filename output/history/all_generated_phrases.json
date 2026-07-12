@@ -12527,6 +12527,36 @@
       "spanish": "Deja de congelarte, dilo y luego corriges",
       "category": "Patience",
       "generated_at": "2026-07-12T17:58:23.384986"
+    },
+    {
+      "english": "Stop practicing, record yourself saying one.",
+      "spanish": "Deja practicar, grábate diciendo uno.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-12T20:07:33.478610"
+    },
+    {
+      "english": "Never study facts, chase feelings instead.",
+      "spanish": "Nunca estudies hechos, persigue sentimientos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-12T20:07:33.478638"
+    },
+    {
+      "english": "The secret... breathe, then say it.",
+      "spanish": "El secreto... respira, y dilo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-12T20:07:33.478659"
+    },
+    {
+      "english": "This phrase calms your tongue instantly.",
+      "spanish": "Esta frase calma tu lengua ya.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-12T20:07:33.478677"
+    },
+    {
+      "english": "Stop judging, say the messy version.",
+      "spanish": "No juzgues, di la versión malita.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-12T20:07:33.478696"
     }
   ],
   "used_english": [
@@ -14617,7 +14647,12 @@
     "stop thinking, start with one 'why?'",
     "the secret? use short, warm replies",
     "never overthink, just point and ask",
-    "stop freezing, say it, then correct"
+    "stop freezing, say it, then correct",
+    "stop practicing, record yourself saying one.",
+    "never study facts, chase feelings instead.",
+    "the secret... breathe, then say it.",
+    "this phrase calms your tongue instantly.",
+    "stop judging, say the messy version."
   ],
-  "last_updated": "2026-07-12T17:58:23.384987"
+  "last_updated": "2026-07-12T20:07:33.478698"
 }
