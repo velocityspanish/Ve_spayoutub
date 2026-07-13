@@ -12617,6 +12617,36 @@
       "spanish": "No traduzcas, siéntelo, y di",
       "category": "Wisdom",
       "generated_at": "2026-07-13T15:43:44.770549"
+    },
+    {
+      "english": "Stop texting, say my heart",
+      "spanish": "Deja el chat, di mi corazón",
+      "category": "Love",
+      "generated_at": "2026-07-13T17:13:03.219026"
+    },
+    {
+      "english": "Never be cool, be honest",
+      "spanish": "Nunca seas frío, sé sincero",
+      "category": "Love",
+      "generated_at": "2026-07-13T17:13:03.219050"
+    },
+    {
+      "english": "Stop hiding, confess in Spanish",
+      "spanish": "Deja de ocultar, confiesa",
+      "category": "Love",
+      "generated_at": "2026-07-13T17:13:03.219070"
+    },
+    {
+      "english": "Never rush, invite them closer",
+      "spanish": "No corras, invítale más cerca",
+      "category": "Love",
+      "generated_at": "2026-07-13T17:13:03.219089"
+    },
+    {
+      "english": "This one line melts defenses",
+      "spanish": "Esta frase derrite defensas",
+      "category": "Love",
+      "generated_at": "2026-07-13T17:13:03.219107"
     }
   ],
   "used_english": [
@@ -14722,7 +14752,12 @@
     "the secret? make your verb loud",
     "stop rehearsing, reply in one breath",
     "never fear mistakes, ask again",
-    "stop translating, feel it, then say"
+    "stop translating, feel it, then say",
+    "stop texting, say my heart",
+    "never be cool, be honest",
+    "stop hiding, confess in spanish",
+    "never rush, invite them closer",
+    "this one line melts defenses"
   ],
-  "last_updated": "2026-07-13T15:43:44.770551"
+  "last_updated": "2026-07-13T17:13:03.219109"
 }
