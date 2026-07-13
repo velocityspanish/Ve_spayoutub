@@ -12707,6 +12707,36 @@
       "spanish": "Esta frase te devuelve confianza",
       "category": "Perseverance",
       "generated_at": "2026-07-13T20:18:42.070041"
+    },
+    {
+      "english": "Never say \"I don't know\", say this",
+      "spanish": "Nunca digas \"no sé\", di esto",
+      "category": "Inspiration",
+      "generated_at": "2026-07-13T21:42:50.596403"
+    },
+    {
+      "english": "The secret, talk while you walk",
+      "spanish": "El secreto, habla mientras caminas",
+      "category": "Inspiration",
+      "generated_at": "2026-07-13T21:42:50.596433"
+    },
+    {
+      "english": "Stop waiting for classes, start today",
+      "spanish": "No esperes clases, empieza hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-07-13T21:42:50.596453"
+    },
+    {
+      "english": "Never practice alone, do this daily",
+      "spanish": "No practiques solo, haz esto cada día",
+      "category": "Inspiration",
+      "generated_at": "2026-07-13T21:42:50.596474"
+    },
+    {
+      "english": "This tiny win boosts your Spanish today",
+      "spanish": "Este mini logro impulsa tu español",
+      "category": "Inspiration",
+      "generated_at": "2026-07-13T21:42:50.596492"
     }
   ],
   "used_english": [
@@ -14827,7 +14857,12 @@
     "what keeps you stuck, silence",
     "the secret? fail fast, repeat",
     "never miss a day, even 1",
-    "this phrase rebuilds your confidence"
+    "this phrase rebuilds your confidence",
+    "never say \"i don't know\", say this",
+    "the secret, talk while you walk",
+    "stop waiting for classes, start today",
+    "never practice alone, do this daily",
+    "this tiny win boosts your spanish today"
   ],
-  "last_updated": "2026-07-13T20:18:42.070043"
+  "last_updated": "2026-07-13T21:42:50.596494"
 }
