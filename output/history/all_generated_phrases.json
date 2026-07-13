@@ -12647,6 +12647,36 @@
       "spanish": "Esta frase derrite defensas",
       "category": "Love",
       "generated_at": "2026-07-13T17:13:03.219107"
+    },
+    {
+      "english": "The secret? Ask “¿Qué quieres?”",
+      "spanish": "El secreto, pregunta “¿Qué quieres?”",
+      "category": "Joy",
+      "generated_at": "2026-07-13T18:43:20.333177"
+    },
+    {
+      "english": "Stop translating, say “voy a”",
+      "spanish": "Deja de traducir, di “voy a”",
+      "category": "Joy",
+      "generated_at": "2026-07-13T18:43:20.333204"
+    },
+    {
+      "english": "This one question gets smiles fast",
+      "spanish": "Una pregunta, ¡sonrisas al instante!",
+      "category": "Joy",
+      "generated_at": "2026-07-13T18:43:20.333225"
+    },
+    {
+      "english": "Never memorize, react with “me gusta”",
+      "spanish": "No memorices, reacciona con “me gusta”",
+      "category": "Joy",
+      "generated_at": "2026-07-13T18:43:20.333245"
+    },
+    {
+      "english": "Stop guessing, say “necesito”",
+      "spanish": "Deja de adivinar, di “necesito”",
+      "category": "Joy",
+      "generated_at": "2026-07-13T18:43:20.333263"
     }
   ],
   "used_english": [
@@ -14757,7 +14787,12 @@
     "never be cool, be honest",
     "stop hiding, confess in spanish",
     "never rush, invite them closer",
-    "this one line melts defenses"
+    "this one line melts defenses",
+    "the secret? ask “¿qué quieres?”",
+    "stop translating, say “voy a”",
+    "this one question gets smiles fast",
+    "never memorize, react with “me gusta”",
+    "stop guessing, say “necesito”"
   ],
-  "last_updated": "2026-07-13T17:13:03.219109"
+  "last_updated": "2026-07-13T18:43:20.333285"
 }
