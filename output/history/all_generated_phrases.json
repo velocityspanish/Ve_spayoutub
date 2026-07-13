@@ -12587,6 +12587,36 @@
       "spanish": "Esta frase vuelve chispas a extraños",
       "category": "Love",
       "generated_at": "2026-07-12T21:38:06.366508"
+    },
+    {
+      "english": "Stop waiting, use 'quiero' now",
+      "spanish": "Deja de esperar, usa 'quiero' ya",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T15:43:44.770479"
+    },
+    {
+      "english": "The secret? Make your verb loud",
+      "spanish": "El secreto… haz el verbo fuerte",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T15:43:44.770503"
+    },
+    {
+      "english": "Stop rehearsing, reply in one breath",
+      "spanish": "Deja de ensayar, responde en un soplo",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T15:43:44.770519"
+    },
+    {
+      "english": "Never fear mistakes, ask again",
+      "spanish": "Nunca temas errores, vuelve a preguntar",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T15:43:44.770533"
+    },
+    {
+      "english": "Stop translating, feel it, then say",
+      "spanish": "No traduzcas, siéntelo, y di",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T15:43:44.770549"
     }
   ],
   "used_english": [
@@ -14687,7 +14717,12 @@
     "never say “hello”, say “missing you”",
     "stop guessing feelings, just say this",
     "this one word melts awkwardness",
-    "this phrase turns strangers into sparks"
+    "this phrase turns strangers into sparks",
+    "stop waiting, use 'quiero' now",
+    "the secret? make your verb loud",
+    "stop rehearsing, reply in one breath",
+    "never fear mistakes, ask again",
+    "stop translating, feel it, then say"
   ],
-  "last_updated": "2026-07-12T21:38:06.366510"
+  "last_updated": "2026-07-13T15:43:44.770551"
 }
