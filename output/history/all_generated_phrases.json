@@ -12677,6 +12677,36 @@
       "spanish": "Deja de adivinar, di “necesito”",
       "category": "Joy",
       "generated_at": "2026-07-13T18:43:20.333263"
+    },
+    {
+      "english": "This is your comeback, start now",
+      "spanish": "Este es tu regreso, empieza",
+      "category": "Perseverance",
+      "generated_at": "2026-07-13T20:18:42.069953"
+    },
+    {
+      "english": "What keeps you stuck, silence",
+      "spanish": "Lo que te traba, quedarte callado",
+      "category": "Perseverance",
+      "generated_at": "2026-07-13T20:18:42.069984"
+    },
+    {
+      "english": "The secret? Fail fast, repeat",
+      "spanish": "El secreto, falla rápido, repite",
+      "category": "Perseverance",
+      "generated_at": "2026-07-13T20:18:42.070004"
+    },
+    {
+      "english": "Never miss a day, even 1",
+      "spanish": "Nunca faltes un día, aunque sea uno",
+      "category": "Perseverance",
+      "generated_at": "2026-07-13T20:18:42.070022"
+    },
+    {
+      "english": "This phrase rebuilds your confidence",
+      "spanish": "Esta frase te devuelve confianza",
+      "category": "Perseverance",
+      "generated_at": "2026-07-13T20:18:42.070041"
     }
   ],
   "used_english": [
@@ -14792,7 +14822,12 @@
     "stop translating, say “voy a”",
     "this one question gets smiles fast",
     "never memorize, react with “me gusta”",
-    "stop guessing, say “necesito”"
+    "stop guessing, say “necesito”",
+    "this is your comeback, start now",
+    "what keeps you stuck, silence",
+    "the secret? fail fast, repeat",
+    "never miss a day, even 1",
+    "this phrase rebuilds your confidence"
   ],
-  "last_updated": "2026-07-13T18:43:20.333285"
+  "last_updated": "2026-07-13T20:18:42.070043"
 }
