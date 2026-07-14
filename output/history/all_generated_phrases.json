@@ -12737,6 +12737,36 @@
       "spanish": "Este mini logro impulsa tu español",
       "category": "Inspiration",
       "generated_at": "2026-07-13T21:42:50.596492"
+    },
+    {
+      "english": "Stop judging, compliment their effort",
+      "spanish": "Deja de juzgar, elogia su esfuerzo",
+      "category": "Kindness",
+      "generated_at": "2026-07-14T14:53:57.839550"
+    },
+    {
+      "english": "This is why, your smile works",
+      "spanish": "Esto es por qué, tu sonrisa funciona",
+      "category": "Kindness",
+      "generated_at": "2026-07-14T14:53:57.839578"
+    },
+    {
+      "english": "The secret? Be warm, not perfect",
+      "spanish": "El secreto, sé cálido, no perfecto",
+      "category": "Kindness",
+      "generated_at": "2026-07-14T14:53:57.839598"
+    },
+    {
+      "english": "Never wait, share one kind phrase",
+      "spanish": "Nunca esperes, comparte una frase amable",
+      "category": "Kindness",
+      "generated_at": "2026-07-14T14:53:57.839618"
+    },
+    {
+      "english": "Stop apologizing, help them instead",
+      "spanish": "No te disculpes, ayúdale ahora",
+      "category": "Kindness",
+      "generated_at": "2026-07-14T14:53:57.839638"
     }
   ],
   "used_english": [
@@ -14862,7 +14892,12 @@
     "the secret, talk while you walk",
     "stop waiting for classes, start today",
     "never practice alone, do this daily",
-    "this tiny win boosts your spanish today"
+    "this tiny win boosts your spanish today",
+    "stop judging, compliment their effort",
+    "this is why, your smile works",
+    "the secret? be warm, not perfect",
+    "never wait, share one kind phrase",
+    "stop apologizing, help them instead"
   ],
-  "last_updated": "2026-07-13T21:42:50.596494"
+  "last_updated": "2026-07-14T14:53:57.839640"
 }
