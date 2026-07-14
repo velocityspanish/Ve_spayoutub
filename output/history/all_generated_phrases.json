@@ -12767,6 +12767,36 @@
       "spanish": "No te disculpes, ayúdale ahora",
       "category": "Kindness",
       "generated_at": "2026-07-14T14:53:57.839638"
+    },
+    {
+      "english": "The secret, use shorter phrases",
+      "spanish": "El secreto, usa frases cortas",
+      "category": "Joy",
+      "generated_at": "2026-07-14T16:15:58.465931"
+    },
+    {
+      "english": "Stop chasing perfect, aim warm",
+      "spanish": "Deja la perfección, ve por calidez",
+      "category": "Joy",
+      "generated_at": "2026-07-14T16:15:58.465964"
+    },
+    {
+      "english": "Never panic, restart with “otra vez”",
+      "spanish": "Nunca entres en pánico, otra vez",
+      "category": "Joy",
+      "generated_at": "2026-07-14T16:15:58.465989"
+    },
+    {
+      "english": "This tiny word buys time",
+      "spanish": "Esta palabra compra tiempo",
+      "category": "Joy",
+      "generated_at": "2026-07-14T16:15:58.466011"
+    },
+    {
+      "english": "The fastest progress? Ask for help",
+      "spanish": "¿Progreso rápido? Pide ayuda",
+      "category": "Joy",
+      "generated_at": "2026-07-14T16:15:58.466035"
     }
   ],
   "used_english": [
@@ -14897,7 +14927,12 @@
     "this is why, your smile works",
     "the secret? be warm, not perfect",
     "never wait, share one kind phrase",
-    "stop apologizing, help them instead"
+    "stop apologizing, help them instead",
+    "the secret, use shorter phrases",
+    "stop chasing perfect, aim warm",
+    "never panic, restart with “otra vez”",
+    "this tiny word buys time",
+    "the fastest progress? ask for help"
   ],
-  "last_updated": "2026-07-14T14:53:57.839640"
+  "last_updated": "2026-07-14T16:15:58.466037"
 }
