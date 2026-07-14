@@ -12827,6 +12827,36 @@
       "spanish": "Así es como consigues respuestas",
       "category": "Confidence",
       "generated_at": "2026-07-14T18:02:31.605410"
+    },
+    {
+      "english": "Stop “I understand”, say “entiendo” now",
+      "spanish": "Deja “entiendo” en tu boca",
+      "category": "Joy",
+      "generated_at": "2026-07-14T20:16:36.985758"
+    },
+    {
+      "english": "Never panic, just say “perdón” once",
+      "spanish": "No entres en pánico, di “perdón”",
+      "category": "Joy",
+      "generated_at": "2026-07-14T20:16:36.985789"
+    },
+    {
+      "english": "Stop overthinking, say “lo siento” softly",
+      "spanish": "Deja de pensar tanto, di “lo siento”",
+      "category": "Joy",
+      "generated_at": "2026-07-14T20:16:36.985809"
+    },
+    {
+      "english": "Never be boring, say “qué chido”",
+      "spanish": "Nunca seas aburrido, di “qué chido”",
+      "category": "Joy",
+      "generated_at": "2026-07-14T20:16:36.985830"
+    },
+    {
+      "english": "The secret... reply with “me da igual”",
+      "spanish": "El secreto... responde “me da igual”",
+      "category": "Joy",
+      "generated_at": "2026-07-14T20:16:36.985850"
     }
   ],
   "used_english": [
@@ -14967,7 +14997,12 @@
     "never wait, use “aquí” today",
     "the fastest confidence, practice out loud",
     "never freeze, say “dime” first",
-    "this is how you get replies"
+    "this is how you get replies",
+    "stop “i understand”, say “entiendo” now",
+    "never panic, just say “perdón” once",
+    "stop overthinking, say “lo siento” softly",
+    "never be boring, say “qué chido”",
+    "the secret... reply with “me da igual”"
   ],
-  "last_updated": "2026-07-14T18:02:31.605412"
+  "last_updated": "2026-07-14T20:16:36.985852"
 }
