@@ -12797,6 +12797,36 @@
       "spanish": "¿Progreso rápido? Pide ayuda",
       "category": "Joy",
       "generated_at": "2026-07-14T16:15:58.466035"
+    },
+    {
+      "english": "Never overthink, start with “quiero”",
+      "spanish": "Nunca pienses mucho, empieza con “quiero”",
+      "category": "Confidence",
+      "generated_at": "2026-07-14T18:02:31.605324"
+    },
+    {
+      "english": "Never wait, use “aquí” today",
+      "spanish": "Nunca esperes, usa “aquí” hoy",
+      "category": "Confidence",
+      "generated_at": "2026-07-14T18:02:31.605350"
+    },
+    {
+      "english": "The fastest confidence, practice out loud",
+      "spanish": "La confianza rápida, practica en voz alta",
+      "category": "Confidence",
+      "generated_at": "2026-07-14T18:02:31.605372"
+    },
+    {
+      "english": "Never freeze, say “dime” first",
+      "spanish": "Nunca te congeles, di “dime” primero",
+      "category": "Confidence",
+      "generated_at": "2026-07-14T18:02:31.605392"
+    },
+    {
+      "english": "This is how you get replies",
+      "spanish": "Así es como consigues respuestas",
+      "category": "Confidence",
+      "generated_at": "2026-07-14T18:02:31.605410"
     }
   ],
   "used_english": [
@@ -14932,7 +14962,12 @@
     "stop chasing perfect, aim warm",
     "never panic, restart with “otra vez”",
     "this tiny word buys time",
-    "the fastest progress? ask for help"
+    "the fastest progress? ask for help",
+    "never overthink, start with “quiero”",
+    "never wait, use “aquí” today",
+    "the fastest confidence, practice out loud",
+    "never freeze, say “dime” first",
+    "this is how you get replies"
   ],
-  "last_updated": "2026-07-14T16:15:58.466037"
+  "last_updated": "2026-07-14T18:02:31.605412"
 }
