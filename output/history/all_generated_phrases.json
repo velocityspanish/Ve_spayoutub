@@ -12857,6 +12857,36 @@
       "spanish": "El secreto... responde “me da igual”",
       "category": "Joy",
       "generated_at": "2026-07-14T20:16:36.985850"
+    },
+    {
+      "english": "Stop doing “thanks later”",
+      "spanish": "Deja “gracias después”",
+      "category": "Gratitude",
+      "generated_at": "2026-07-14T21:44:54.844596"
+    },
+    {
+      "english": "The secret... thank them simply",
+      "spanish": "El secreto... da gracias simple",
+      "category": "Gratitude",
+      "generated_at": "2026-07-14T21:44:54.844625"
+    },
+    {
+      "english": "Urgent tip, say “te agradezco”",
+      "spanish": "Consejo urgente, di “te agradezco”",
+      "category": "Gratitude",
+      "generated_at": "2026-07-14T21:44:54.844645"
+    },
+    {
+      "english": "Your Spanish sounds warmer, instantly",
+      "spanish": "Tu español suena más cálido",
+      "category": "Gratitude",
+      "generated_at": "2026-07-14T21:44:54.844665"
+    },
+    {
+      "english": "Stop hesitating, say “mucho”",
+      "spanish": "No dudes, di “mucho”",
+      "category": "Gratitude",
+      "generated_at": "2026-07-14T21:44:54.844683"
     }
   ],
   "used_english": [
@@ -15002,7 +15032,12 @@
     "never panic, just say “perdón” once",
     "stop overthinking, say “lo siento” softly",
     "never be boring, say “qué chido”",
-    "the secret... reply with “me da igual”"
+    "the secret... reply with “me da igual”",
+    "stop doing “thanks later”",
+    "the secret... thank them simply",
+    "urgent tip, say “te agradezco”",
+    "your spanish sounds warmer, instantly",
+    "stop hesitating, say “mucho”"
   ],
-  "last_updated": "2026-07-14T20:16:36.985852"
+  "last_updated": "2026-07-14T21:44:54.844685"
 }
