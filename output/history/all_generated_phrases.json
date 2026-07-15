@@ -12977,6 +12977,36 @@
       "spanish": "Esta frase suena seguro, di “claro”",
       "category": "Success",
       "generated_at": "2026-07-15T18:07:06.259730"
+    },
+    {
+      "english": "Stop translating, say it your way",
+      "spanish": "No traduzcas, dilo a tu manera",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T20:13:31.311740"
+    },
+    {
+      "english": "Never fear awkward, say “perdón”",
+      "spanish": "No le tengas miedo, di “perdón”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T20:13:31.311778"
+    },
+    {
+      "english": "Stop waiting, say “hoy puedo”",
+      "spanish": "No esperes, di “hoy puedo”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T20:13:31.311799"
+    },
+    {
+      "english": "Never argue, say “tienes razón”",
+      "spanish": "No discutas, di “tienes razón”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T20:13:31.311820"
+    },
+    {
+      "english": "Stop blaming, say “no fue mi intención”",
+      "spanish": "Deja de culpar, “no fue mi intención”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-15T20:13:31.311839"
     }
   ],
   "used_english": [
@@ -15142,7 +15172,12 @@
     "the secret? swap 'i think' for 'i feel'",
     "stop overthinking tense, use 'ayer'",
     "never ask 'why?', ask 'what happened?'",
-    "this phrase sounds confident, try “claro”"
+    "this phrase sounds confident, try “claro”",
+    "stop translating, say it your way",
+    "never fear awkward, say “perdón”",
+    "stop waiting, say “hoy puedo”",
+    "never argue, say “tienes razón”",
+    "stop blaming, say “no fue mi intención”"
   ],
-  "last_updated": "2026-07-15T18:07:06.259732"
+  "last_updated": "2026-07-15T20:13:31.311841"
 }
