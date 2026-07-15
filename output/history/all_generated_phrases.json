@@ -12947,6 +12947,36 @@
       "spanish": "Una respiración cambia tu ánimo",
       "category": "Inner Peace",
       "generated_at": "2026-07-15T16:23:43.650123"
+    },
+    {
+      "english": "Stop pausing, keep the rhythm",
+      "spanish": "Deja de pausar, sigue el ritmo",
+      "category": "Success",
+      "generated_at": "2026-07-15T18:07:06.259639"
+    },
+    {
+      "english": "The secret? Swap 'I think' for 'I feel'",
+      "spanish": "El secreto, cambia “creo” por “siento”",
+      "category": "Success",
+      "generated_at": "2026-07-15T18:07:06.259670"
+    },
+    {
+      "english": "Stop overthinking tense, use 'ayer'",
+      "spanish": "No sobrepienses el tiempo, usa “ayer”",
+      "category": "Success",
+      "generated_at": "2026-07-15T18:07:06.259691"
+    },
+    {
+      "english": "Never ask 'why?', ask 'what happened?'",
+      "spanish": "Nunca digas “¿por qué?”, di “¿qué pasó?”",
+      "category": "Success",
+      "generated_at": "2026-07-15T18:07:06.259711"
+    },
+    {
+      "english": "This phrase sounds confident, try “claro”",
+      "spanish": "Esta frase suena seguro, di “claro”",
+      "category": "Success",
+      "generated_at": "2026-07-15T18:07:06.259730"
     }
   ],
   "used_english": [
@@ -15107,7 +15137,12 @@
     "never negotiate with negative thoughts",
     "never rush, your mind will follow",
     "stop arguing inside, breathe once",
-    "this one breath changes your mood"
+    "this one breath changes your mood",
+    "stop pausing, keep the rhythm",
+    "the secret? swap 'i think' for 'i feel'",
+    "stop overthinking tense, use 'ayer'",
+    "never ask 'why?', ask 'what happened?'",
+    "this phrase sounds confident, try “claro”"
   ],
-  "last_updated": "2026-07-15T16:23:43.650125"
+  "last_updated": "2026-07-15T18:07:06.259732"
 }
