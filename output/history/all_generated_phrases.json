@@ -12917,6 +12917,36 @@
       "spanish": "Nunca escondas tu esfuerzo, di “qué bien”",
       "category": "Growth",
       "generated_at": "2026-07-15T14:53:12.560685"
+    },
+    {
+      "english": "Stop hunting perfection, choose peace",
+      "spanish": "Deja la perfección, elige paz",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-15T16:23:43.650032"
+    },
+    {
+      "english": "Never negotiate with negative thoughts",
+      "spanish": "Nunca negocies con pensamientos negativos",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-15T16:23:43.650061"
+    },
+    {
+      "english": "Never rush, your mind will follow",
+      "spanish": "No te apresures, tu mente sigue",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-15T16:23:43.650081"
+    },
+    {
+      "english": "Stop arguing inside, breathe once",
+      "spanish": "Deja la pelea interna, respira",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-15T16:23:43.650104"
+    },
+    {
+      "english": "This one breath changes your mood",
+      "spanish": "Una respiración cambia tu ánimo",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-15T16:23:43.650123"
     }
   ],
   "used_english": [
@@ -15072,7 +15102,12 @@
     "stop overthinking, just use “¿me?”",
     "urgent boost: add “a mí me”",
     "stop asking for rules, ask for examples",
-    "never hide your effort, say “qué bien”"
+    "never hide your effort, say “qué bien”",
+    "stop hunting perfection, choose peace",
+    "never negotiate with negative thoughts",
+    "never rush, your mind will follow",
+    "stop arguing inside, breathe once",
+    "this one breath changes your mood"
   ],
-  "last_updated": "2026-07-15T14:53:12.560687"
+  "last_updated": "2026-07-15T16:23:43.650125"
 }
