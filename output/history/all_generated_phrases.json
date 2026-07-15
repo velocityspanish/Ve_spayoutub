@@ -13007,6 +13007,36 @@
       "spanish": "Deja de culpar, “no fue mi intención”",
       "category": "Forgiveness",
       "generated_at": "2026-07-15T20:13:31.311839"
+    },
+    {
+      "english": "Stop memorizing, start noticing patterns",
+      "spanish": "Deja de memorizar, empieza a notar",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T21:45:23.560168"
+    },
+    {
+      "english": "Never say 'lol', say this instead",
+      "spanish": "Nunca digas 'lol', di esto",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T21:45:23.560201"
+    },
+    {
+      "english": "Stop over-explaining, just add 'así'",
+      "spanish": "No expliques tanto, solo 'así'",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T21:45:23.560223"
+    },
+    {
+      "english": "Stop doubting, start with '¡claro!'",
+      "spanish": "Deja la duda, empieza con '¡claro!'",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T21:45:23.560245"
+    },
+    {
+      "english": "Never translate, just respond naturally",
+      "spanish": "No traduzcas, responde natural",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T21:45:23.560264"
     }
   ],
   "used_english": [
@@ -15177,7 +15207,12 @@
     "never fear awkward, say “perdón”",
     "stop waiting, say “hoy puedo”",
     "never argue, say “tienes razón”",
-    "stop blaming, say “no fue mi intención”"
+    "stop blaming, say “no fue mi intención”",
+    "stop memorizing, start noticing patterns",
+    "never say 'lol', say this instead",
+    "stop over-explaining, just add 'así'",
+    "stop doubting, start with '¡claro!'",
+    "never translate, just respond naturally"
   ],
-  "last_updated": "2026-07-15T20:13:31.311841"
+  "last_updated": "2026-07-15T21:45:23.560266"
 }
