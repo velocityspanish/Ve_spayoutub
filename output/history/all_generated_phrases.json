@@ -12887,6 +12887,36 @@
       "spanish": "No dudes, di “mucho”",
       "category": "Gratitude",
       "generated_at": "2026-07-14T21:44:54.844683"
+    },
+    {
+      "english": "Never start with “Hello”, start warm",
+      "spanish": "Nunca empieces con “hola”, empieza cariñoso",
+      "category": "Growth",
+      "generated_at": "2026-07-15T14:53:12.560592"
+    },
+    {
+      "english": "Stop overthinking, just use “¿Me?”",
+      "spanish": "Para de pensar, usa “¿Me?”",
+      "category": "Growth",
+      "generated_at": "2026-07-15T14:53:12.560626"
+    },
+    {
+      "english": "Urgent boost: add “a mí me”",
+      "spanish": "Impulso urgente: di “a mí me”",
+      "category": "Growth",
+      "generated_at": "2026-07-15T14:53:12.560646"
+    },
+    {
+      "english": "Stop asking for rules, ask for examples",
+      "spanish": "Deja reglas, pide ejemplos",
+      "category": "Growth",
+      "generated_at": "2026-07-15T14:53:12.560665"
+    },
+    {
+      "english": "Never hide your effort, say “qué bien”",
+      "spanish": "Nunca escondas tu esfuerzo, di “qué bien”",
+      "category": "Growth",
+      "generated_at": "2026-07-15T14:53:12.560685"
     }
   ],
   "used_english": [
@@ -15037,7 +15067,12 @@
     "the secret... thank them simply",
     "urgent tip, say “te agradezco”",
     "your spanish sounds warmer, instantly",
-    "stop hesitating, say “mucho”"
+    "stop hesitating, say “mucho”",
+    "never start with “hello”, start warm",
+    "stop overthinking, just use “¿me?”",
+    "urgent boost: add “a mí me”",
+    "stop asking for rules, ask for examples",
+    "never hide your effort, say “qué bien”"
   ],
-  "last_updated": "2026-07-14T21:44:54.844685"
+  "last_updated": "2026-07-15T14:53:12.560687"
 }
