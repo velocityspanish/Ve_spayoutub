@@ -13097,6 +13097,36 @@
       "spanish": "No tengas miedo, admite",
       "category": "Inner Peace",
       "generated_at": "2026-07-16T16:18:35.521578"
+    },
+    {
+      "english": "Stop circling, say the plain truth",
+      "spanish": "Deja de dar vueltas, di la verdad",
+      "category": "Success",
+      "generated_at": "2026-07-16T18:06:58.853804"
+    },
+    {
+      "english": "Stop explaining, just add “así”",
+      "spanish": "Deja de explicar, solo di “así”",
+      "category": "Success",
+      "generated_at": "2026-07-16T18:06:58.853836"
+    },
+    {
+      "english": "Never wait, answer with “me encanta”",
+      "spanish": "Nunca esperes, responde “me encanta”",
+      "category": "Success",
+      "generated_at": "2026-07-16T18:06:58.853856"
+    },
+    {
+      "english": "Stop guessing, ask “¿cuándo?” now",
+      "spanish": "Deja de adivinar, pregunta “¿cuándo?”",
+      "category": "Success",
+      "generated_at": "2026-07-16T18:06:58.853876"
+    },
+    {
+      "english": "This is why your tongue hesitates",
+      "spanish": "Por eso tu lengua duda",
+      "category": "Success",
+      "generated_at": "2026-07-16T18:06:58.853895"
     }
   ],
   "used_english": [
@@ -15282,7 +15312,12 @@
     "this tiny word brings peace",
     "stop rehearsing, speak from now",
     "what if you’re right, say it",
-    "never fear awkward, just admit"
+    "never fear awkward, just admit",
+    "stop circling, say the plain truth",
+    "stop explaining, just add “así”",
+    "never wait, answer with “me encanta”",
+    "stop guessing, ask “¿cuándo?” now",
+    "this is why your tongue hesitates"
   ],
-  "last_updated": "2026-07-16T16:18:35.521580"
+  "last_updated": "2026-07-16T18:06:58.853897"
 }
