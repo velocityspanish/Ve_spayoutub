@@ -13067,6 +13067,36 @@
       "spanish": "Deja copiar, responde a tu modo",
       "category": "Balance",
       "generated_at": "2026-07-16T15:04:18.906324"
+    },
+    {
+      "english": "Stop defending, just try “ok”",
+      "spanish": "Deja de defenderte, di “vale”",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-16T16:18:35.521451"
+    },
+    {
+      "english": "This tiny word brings peace",
+      "spanish": "Esta palabra trae paz",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-16T16:18:35.521480"
+    },
+    {
+      "english": "Stop rehearsing, speak from now",
+      "spanish": "Deja de ensayar, habla ahora",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-16T16:18:35.521524"
+    },
+    {
+      "english": "What if you’re right, say it",
+      "spanish": "¿Y si tienes razón? díselo",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-16T16:18:35.521557"
+    },
+    {
+      "english": "Never fear awkward, just admit",
+      "spanish": "No tengas miedo, admite",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-16T16:18:35.521578"
     }
   ],
   "used_english": [
@@ -15247,7 +15277,12 @@
     "never freeze, finish your sentence",
     "the secret? ask with “¿te parece?”",
     "stop waiting, text “¿puedes?” right now",
-    "stop copying, answer in your way"
+    "stop copying, answer in your way",
+    "stop defending, just try “ok”",
+    "this tiny word brings peace",
+    "stop rehearsing, speak from now",
+    "what if you’re right, say it",
+    "never fear awkward, just admit"
   ],
-  "last_updated": "2026-07-16T15:04:18.906326"
+  "last_updated": "2026-07-16T16:18:35.521580"
 }
