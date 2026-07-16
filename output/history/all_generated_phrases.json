@@ -13037,6 +13037,36 @@
       "spanish": "No traduzcas, responde natural",
       "category": "Purpose",
       "generated_at": "2026-07-15T21:45:23.560264"
+    },
+    {
+      "english": "Stop saying “sorry”, say “thanks”",
+      "spanish": "Deja “perdón”, di “gracias”",
+      "category": "Balance",
+      "generated_at": "2026-07-16T15:04:18.906232"
+    },
+    {
+      "english": "Never freeze, finish your sentence",
+      "spanish": "Nunca te bloquees, termina tu frase",
+      "category": "Balance",
+      "generated_at": "2026-07-16T15:04:18.906263"
+    },
+    {
+      "english": "The secret? Ask with “¿Te parece?”",
+      "spanish": "El secreto, pregunta con “¿Te parece?”",
+      "category": "Balance",
+      "generated_at": "2026-07-16T15:04:18.906284"
+    },
+    {
+      "english": "Stop waiting, text “¿Puedes?” right now",
+      "spanish": "No esperes, manda “¿Puedes?” ya",
+      "category": "Balance",
+      "generated_at": "2026-07-16T15:04:18.906303"
+    },
+    {
+      "english": "Stop copying, answer in your way",
+      "spanish": "Deja copiar, responde a tu modo",
+      "category": "Balance",
+      "generated_at": "2026-07-16T15:04:18.906324"
     }
   ],
   "used_english": [
@@ -15212,7 +15242,12 @@
     "never say 'lol', say this instead",
     "stop over-explaining, just add 'así'",
     "stop doubting, start with '¡claro!'",
-    "never translate, just respond naturally"
+    "never translate, just respond naturally",
+    "stop saying “sorry”, say “thanks”",
+    "never freeze, finish your sentence",
+    "the secret? ask with “¿te parece?”",
+    "stop waiting, text “¿puedes?” right now",
+    "stop copying, answer in your way"
   ],
-  "last_updated": "2026-07-15T21:45:23.560266"
+  "last_updated": "2026-07-16T15:04:18.906326"
 }
