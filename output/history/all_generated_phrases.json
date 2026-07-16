@@ -13157,6 +13157,36 @@
       "spanish": "Tu zona de confort te mata.",
       "category": "Self Improvement",
       "generated_at": "2026-07-16T20:06:43.481484"
+    },
+    {
+      "english": "Never say exact words, just vibe",
+      "spanish": "No digas exacto, solo vibra",
+      "category": "Balance",
+      "generated_at": "2026-07-16T21:53:59.761024"
+    },
+    {
+      "english": "Stop sounding robotic, add emotion",
+      "spanish": "Deja sonar robótico, pon emoción",
+      "category": "Balance",
+      "generated_at": "2026-07-16T21:53:59.761056"
+    },
+    {
+      "english": "Urgent: say 'me interesa' today",
+      "spanish": "Urgente: di 'me interesa' hoy",
+      "category": "Balance",
+      "generated_at": "2026-07-16T21:53:59.761077"
+    },
+    {
+      "english": "This reply saves awkward silence",
+      "spanish": "Esta respuesta rompe el silencio",
+      "category": "Balance",
+      "generated_at": "2026-07-16T21:53:59.761097"
+    },
+    {
+      "english": "Never waste chances, use 'de verdad'",
+      "spanish": "No pierdas chances, usa 'de verdad'",
+      "category": "Balance",
+      "generated_at": "2026-07-16T21:53:59.761117"
     }
   ],
   "used_english": [
@@ -15352,7 +15382,12 @@
     "stop wasting time on this.",
     "the 1% rule that changes lives.",
     "what i do every morning.",
-    "your comfort zone is killing you."
+    "your comfort zone is killing you.",
+    "never say exact words, just vibe",
+    "stop sounding robotic, add emotion",
+    "urgent: say 'me interesa' today",
+    "this reply saves awkward silence",
+    "never waste chances, use 'de verdad'"
   ],
-  "last_updated": "2026-07-16T20:06:43.481485"
+  "last_updated": "2026-07-16T21:53:59.761119"
 }
