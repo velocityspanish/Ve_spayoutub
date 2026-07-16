@@ -13127,6 +13127,36 @@
       "spanish": "Por eso tu lengua duda",
       "category": "Success",
       "generated_at": "2026-07-16T18:06:58.853895"
+    },
+    {
+      "english": "This one change transformed me.",
+      "spanish": "Este único cambio me transformó.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T20:06:43.481416"
+    },
+    {
+      "english": "Stop wasting time on this.",
+      "spanish": "Deja de perder tiempo en esto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T20:06:43.481438"
+    },
+    {
+      "english": "The 1% rule that changes lives.",
+      "spanish": "La regla del 1% cambia vidas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T20:06:43.481454"
+    },
+    {
+      "english": "What I do every morning.",
+      "spanish": "Lo que hago cada mañana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T20:06:43.481468"
+    },
+    {
+      "english": "Your comfort zone is killing you.",
+      "spanish": "Tu zona de confort te mata.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T20:06:43.481484"
     }
   ],
   "used_english": [
@@ -15317,7 +15347,12 @@
     "stop explaining, just add “así”",
     "never wait, answer with “me encanta”",
     "stop guessing, ask “¿cuándo?” now",
-    "this is why your tongue hesitates"
+    "this is why your tongue hesitates",
+    "this one change transformed me.",
+    "stop wasting time on this.",
+    "the 1% rule that changes lives.",
+    "what i do every morning.",
+    "your comfort zone is killing you."
   ],
-  "last_updated": "2026-07-16T18:06:58.853897"
+  "last_updated": "2026-07-16T20:06:43.481485"
 }
