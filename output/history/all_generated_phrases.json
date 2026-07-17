@@ -13247,6 +13247,36 @@
       "spanish": "No escondas tu acento, es tuyo",
       "category": "Motivation",
       "generated_at": "2026-07-17T16:16:26.923313"
+    },
+    {
+      "english": "Stop blocking yourself, say “voy” first",
+      "spanish": "No te frenes, di “voy” primero",
+      "category": "Strength",
+      "generated_at": "2026-07-17T18:05:28.711563"
+    },
+    {
+      "english": "Never memorize, learn with mini stories",
+      "spanish": "No memorices, aprende con mini historias",
+      "category": "Strength",
+      "generated_at": "2026-07-17T18:05:28.711589"
+    },
+    {
+      "english": "Urgent: add “por favor”, instantly polite",
+      "spanish": "Urgente: agrega “por favor”, ya educado",
+      "category": "Strength",
+      "generated_at": "2026-07-17T18:05:28.711603"
+    },
+    {
+      "english": "The secret? Use present, not perfect",
+      "spanish": "El secreto: usa presente, no perfecto",
+      "category": "Strength",
+      "generated_at": "2026-07-17T18:05:28.711619"
+    },
+    {
+      "english": "Never sound dull, say “qué bueno”",
+      "spanish": "Nunca suenes aburrido, di “qué bueno”",
+      "category": "Strength",
+      "generated_at": "2026-07-17T18:05:28.711636"
     }
   ],
   "used_english": [
@@ -15457,7 +15487,12 @@
     "this tiny phrase earns respect fast",
     "stop repeating, swap in one verb",
     "the fastest win, speak before meaning",
-    "never hide your accent, own it"
+    "never hide your accent, own it",
+    "stop blocking yourself, say “voy” first",
+    "never memorize, learn with mini stories",
+    "urgent: add “por favor”, instantly polite",
+    "the secret? use present, not perfect",
+    "never sound dull, say “qué bueno”"
   ],
-  "last_updated": "2026-07-17T16:16:26.923315"
+  "last_updated": "2026-07-17T18:05:28.711637"
 }
