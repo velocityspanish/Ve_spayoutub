@@ -13217,6 +13217,36 @@
       "spanish": "Suelta lo que no puedes controlar.",
       "category": "Inner Peace",
       "generated_at": "2026-07-17T14:48:01.029273"
+    },
+    {
+      "english": "Stop being perfect, say this",
+      "spanish": "No seas perfecto, di esto",
+      "category": "Motivation",
+      "generated_at": "2026-07-17T16:16:26.923216"
+    },
+    {
+      "english": "This tiny phrase earns respect fast",
+      "spanish": "Esta frase te respeta rápido",
+      "category": "Motivation",
+      "generated_at": "2026-07-17T16:16:26.923249"
+    },
+    {
+      "english": "Stop repeating, swap in one verb",
+      "spanish": "Deja de repetir, cambia un verbo",
+      "category": "Motivation",
+      "generated_at": "2026-07-17T16:16:26.923272"
+    },
+    {
+      "english": "The fastest win, speak before meaning",
+      "spanish": "La victoria rápida, habla antes",
+      "category": "Motivation",
+      "generated_at": "2026-07-17T16:16:26.923293"
+    },
+    {
+      "english": "Never hide your accent, own it",
+      "spanish": "No escondas tu acento, es tuyo",
+      "category": "Motivation",
+      "generated_at": "2026-07-17T16:16:26.923313"
     }
   ],
   "used_english": [
@@ -15422,7 +15452,12 @@
     "this breathing trick calms anxiety.",
     "what i do when mind races.",
     "the price of inner peace.",
-    "let go of what you can't control."
+    "let go of what you can't control.",
+    "stop being perfect, say this",
+    "this tiny phrase earns respect fast",
+    "stop repeating, swap in one verb",
+    "the fastest win, speak before meaning",
+    "never hide your accent, own it"
   ],
-  "last_updated": "2026-07-17T14:48:01.029275"
+  "last_updated": "2026-07-17T16:16:26.923315"
 }
