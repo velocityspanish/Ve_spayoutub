@@ -13307,6 +13307,36 @@
       "spanish": "No aprendas solo, copia una frase",
       "category": "Joy",
       "generated_at": "2026-07-17T20:08:45.503557"
+    },
+    {
+      "english": "Stop searching. Purpose already here.",
+      "spanish": "Deja buscar. Propósito ya aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T21:42:19.248854"
+    },
+    {
+      "english": "Intersection joy service purpose.",
+      "spanish": "Intersección alegría servicio propósito.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T21:42:19.248885"
+    },
+    {
+      "english": "What meant do find you.",
+      "spanish": "Lo destinado hacer encontrará.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T21:42:19.248900"
+    },
+    {
+      "english": "Live intention live regret.",
+      "spanish": "Vive intención vive arrepentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T21:42:19.248916"
+    },
+    {
+      "english": "Legacy starts today's choices.",
+      "spanish": "Legado comienza elecciones hoy.",
+      "category": "Purpose",
+      "generated_at": "2026-07-17T21:42:19.248933"
     }
   ],
   "used_english": [
@@ -15527,7 +15557,12 @@
     "never apologize, say “gracias, listo.”",
     "never say “maybe”, use “tal vez”",
     "urgent: reply with “sin problema”",
-    "never learn alone, copy one sentence"
+    "never learn alone, copy one sentence",
+    "stop searching. purpose already here.",
+    "intersection joy service purpose.",
+    "what meant do find you.",
+    "live intention live regret.",
+    "legacy starts today's choices."
   ],
-  "last_updated": "2026-07-17T20:08:45.503559"
+  "last_updated": "2026-07-17T21:42:19.248935"
 }
