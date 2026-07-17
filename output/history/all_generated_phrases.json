@@ -13187,6 +13187,36 @@
       "spanish": "No pierdas chances, usa 'de verdad'",
       "category": "Balance",
       "generated_at": "2026-07-16T21:53:59.761117"
+    },
+    {
+      "english": "Stop letting them steal your peace.",
+      "spanish": "Deja de dejarles robar tu paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T14:48:01.029185"
+    },
+    {
+      "english": "This breathing trick calms anxiety.",
+      "spanish": "Este truco respiración calma ansiedad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T14:48:01.029215"
+    },
+    {
+      "english": "What I do when mind races.",
+      "spanish": "Lo que hago cuando mente corre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T14:48:01.029234"
+    },
+    {
+      "english": "The price of inner peace.",
+      "spanish": "El precio de la paz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T14:48:01.029253"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "spanish": "Suelta lo que no puedes controlar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-17T14:48:01.029273"
     }
   ],
   "used_english": [
@@ -15387,7 +15417,12 @@
     "stop sounding robotic, add emotion",
     "urgent: say 'me interesa' today",
     "this reply saves awkward silence",
-    "never waste chances, use 'de verdad'"
+    "never waste chances, use 'de verdad'",
+    "stop letting them steal your peace.",
+    "this breathing trick calms anxiety.",
+    "what i do when mind races.",
+    "the price of inner peace.",
+    "let go of what you can't control."
   ],
-  "last_updated": "2026-07-16T21:53:59.761119"
+  "last_updated": "2026-07-17T14:48:01.029275"
 }
