@@ -13277,6 +13277,36 @@
       "spanish": "Nunca suenes aburrido, di “qué bueno”",
       "category": "Strength",
       "generated_at": "2026-07-17T18:05:28.711636"
+    },
+    {
+      "english": "Stop freezing, use “¿cómo?”",
+      "spanish": "No te bloquees, usa “¿cómo?”",
+      "category": "Joy",
+      "generated_at": "2026-07-17T20:08:45.503459"
+    },
+    {
+      "english": "Never apologize, say “gracias, listo.”",
+      "spanish": "Nunca pidas perdón, di “gracias, listo.”",
+      "category": "Joy",
+      "generated_at": "2026-07-17T20:08:45.503491"
+    },
+    {
+      "english": "Never say “maybe”, use “tal vez”",
+      "spanish": "No digas “quizás”, di “tal vez”",
+      "category": "Joy",
+      "generated_at": "2026-07-17T20:08:45.503513"
+    },
+    {
+      "english": "Urgent: reply with “sin problema”",
+      "spanish": "Urgente, responde con “sin problema”",
+      "category": "Joy",
+      "generated_at": "2026-07-17T20:08:45.503535"
+    },
+    {
+      "english": "Never learn alone, copy one sentence",
+      "spanish": "No aprendas solo, copia una frase",
+      "category": "Joy",
+      "generated_at": "2026-07-17T20:08:45.503557"
     }
   ],
   "used_english": [
@@ -15492,7 +15522,12 @@
     "never memorize, learn with mini stories",
     "urgent: add “por favor”, instantly polite",
     "the secret? use present, not perfect",
-    "never sound dull, say “qué bueno”"
+    "never sound dull, say “qué bueno”",
+    "stop freezing, use “¿cómo?”",
+    "never apologize, say “gracias, listo.”",
+    "never say “maybe”, use “tal vez”",
+    "urgent: reply with “sin problema”",
+    "never learn alone, copy one sentence"
   ],
-  "last_updated": "2026-07-17T18:05:28.711637"
+  "last_updated": "2026-07-17T20:08:45.503559"
 }
