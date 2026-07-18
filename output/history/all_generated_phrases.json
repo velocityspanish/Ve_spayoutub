@@ -13337,6 +13337,36 @@
       "spanish": "Legado comienza elecciones hoy.",
       "category": "Purpose",
       "generated_at": "2026-07-17T21:42:19.248933"
+    },
+    {
+      "english": "Never carry pain, release now",
+      "spanish": "Nunca cargues dolor, suelta ya",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T14:20:56.654637"
+    },
+    {
+      "english": "The secret? Say “Te perdono” gently",
+      "spanish": "El secreto, di “Te perdono” suave",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T14:20:56.654672"
+    },
+    {
+      "english": "Never wait, reset with one line",
+      "spanish": "Nunca esperes, reinicia con una frase",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T14:20:56.654694"
+    },
+    {
+      "english": "Stop revenge thoughts, choose compassion",
+      "spanish": "Deja pensamientos de venganza, elige compasión",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T14:20:56.654714"
+    },
+    {
+      "english": "Never blame them, just say “Entiendo”",
+      "spanish": "No culpes, solo di “Entiendo”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T14:20:56.654735"
     }
   ],
   "used_english": [
@@ -15562,7 +15592,12 @@
     "intersection joy service purpose.",
     "what meant do find you.",
     "live intention live regret.",
-    "legacy starts today's choices."
+    "legacy starts today's choices.",
+    "never carry pain, release now",
+    "the secret? say “te perdono” gently",
+    "never wait, reset with one line",
+    "stop revenge thoughts, choose compassion",
+    "never blame them, just say “entiendo”"
   ],
-  "last_updated": "2026-07-17T21:42:19.248935"
+  "last_updated": "2026-07-18T14:20:56.654737"
 }
