@@ -13397,6 +13397,36 @@
       "spanish": "¿Y si la confianza es práctica?",
       "category": "Hope",
       "generated_at": "2026-07-18T15:58:12.118141"
+    },
+    {
+      "english": "Stop waiting, speak your fear, slowly",
+      "spanish": "No esperes, di tu miedo, despacio",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T17:55:31.554440"
+    },
+    {
+      "english": "The secret? Say it wrong, practice",
+      "spanish": "El secreto, dilo mal, practica",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T17:55:31.554473"
+    },
+    {
+      "english": "Never underestimate tiny daily practice",
+      "spanish": "Nunca subestimes practicar diario",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T17:55:31.554494"
+    },
+    {
+      "english": "Never fear repetition, it builds you",
+      "spanish": "Nunca temas repetir, te construye",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T17:55:31.554515"
+    },
+    {
+      "english": "Stop judging your accent, just speak",
+      "spanish": "No juzgues tu acento, habla",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T17:55:31.554534"
     }
   ],
   "used_english": [
@@ -15632,7 +15662,12 @@
     "stop doomscrolling, learn one phrase",
     "never fear mistakes, say “me sale”",
     "this message gives you courage",
-    "what if confidence is practice?"
+    "what if confidence is practice?",
+    "stop waiting, speak your fear, slowly",
+    "the secret? say it wrong, practice",
+    "never underestimate tiny daily practice",
+    "never fear repetition, it builds you",
+    "stop judging your accent, just speak"
   ],
-  "last_updated": "2026-07-18T15:58:12.118144"
+  "last_updated": "2026-07-18T17:55:31.554536"
 }
