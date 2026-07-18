@@ -13457,6 +13457,36 @@
       "spanish": "Nunca digas “está bien”, di «gracias»",
       "category": "Forgiveness",
       "generated_at": "2026-07-18T20:05:32.373891"
+    },
+    {
+      "english": "Stop translating, breathe, speak",
+      "spanish": "Deja traducir, respira, habla",
+      "category": "Patience",
+      "generated_at": "2026-07-18T21:38:50.870388"
+    },
+    {
+      "english": "The secret... slow is powerful",
+      "spanish": "El secreto... lento es poderoso",
+      "category": "Patience",
+      "generated_at": "2026-07-18T21:38:50.870418"
+    },
+    {
+      "english": "Never start over, finish strong",
+      "spanish": "No empieces de nuevo, termina",
+      "category": "Patience",
+      "generated_at": "2026-07-18T21:38:50.870440"
+    },
+    {
+      "english": "Stop overexplaining, say 'claro'",
+      "spanish": "No expliques tanto, di 'claro'",
+      "category": "Patience",
+      "generated_at": "2026-07-18T21:38:50.870461"
+    },
+    {
+      "english": "What if you’re already fluent?",
+      "spanish": "¿Y si ya eres fluido?",
+      "category": "Patience",
+      "generated_at": "2026-07-18T21:38:50.870482"
     }
   ],
   "used_english": [
@@ -15702,7 +15732,12 @@
     "never delete this sentence, save it",
     "this is why “perdón” feels hard",
     "stop defending, say “tienes razón”",
-    "never say “it’s fine”, say “gracias”"
+    "never say “it’s fine”, say “gracias”",
+    "stop translating, breathe, speak",
+    "the secret... slow is powerful",
+    "never start over, finish strong",
+    "stop overexplaining, say 'claro'",
+    "what if you’re already fluent?"
   ],
-  "last_updated": "2026-07-18T20:05:32.373892"
+  "last_updated": "2026-07-18T21:38:50.870484"
 }
