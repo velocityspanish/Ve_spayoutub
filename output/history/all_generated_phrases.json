@@ -13427,6 +13427,36 @@
       "spanish": "No juzgues tu acento, habla",
       "category": "Perseverance",
       "generated_at": "2026-07-18T17:55:31.554534"
+    },
+    {
+      "english": "Stop rehearsing apologies, say “no pasa”",
+      "spanish": "Deja ensayar disculpas, di «no pasa»",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T20:05:32.373811"
+    },
+    {
+      "english": "Never delete this sentence, save it",
+      "spanish": "Nunca borres esta frase, guárdala",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T20:05:32.373839"
+    },
+    {
+      "english": "This is why “perdón” feels hard",
+      "spanish": "Esto es por qué «perdón» cuesta",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T20:05:32.373857"
+    },
+    {
+      "english": "Stop defending, say “tienes razón”",
+      "spanish": "Deja defenderte, di «tienes razón»",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T20:05:32.373874"
+    },
+    {
+      "english": "Never say “it’s fine”, say “gracias”",
+      "spanish": "Nunca digas “está bien”, di «gracias»",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-18T20:05:32.373891"
     }
   ],
   "used_english": [
@@ -15667,7 +15697,12 @@
     "the secret? say it wrong, practice",
     "never underestimate tiny daily practice",
     "never fear repetition, it builds you",
-    "stop judging your accent, just speak"
+    "stop judging your accent, just speak",
+    "stop rehearsing apologies, say “no pasa”",
+    "never delete this sentence, save it",
+    "this is why “perdón” feels hard",
+    "stop defending, say “tienes razón”",
+    "never say “it’s fine”, say “gracias”"
   ],
-  "last_updated": "2026-07-18T17:55:31.554536"
+  "last_updated": "2026-07-18T20:05:32.373892"
 }
