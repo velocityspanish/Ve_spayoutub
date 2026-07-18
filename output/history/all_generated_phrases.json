@@ -13367,6 +13367,36 @@
       "spanish": "No culpes, solo di “Entiendo”",
       "category": "Forgiveness",
       "generated_at": "2026-07-18T14:20:56.654735"
+    },
+    {
+      "english": "Never quit, start with “todavía”",
+      "spanish": "Nunca rindas, empieza con “todavía”",
+      "category": "Hope",
+      "generated_at": "2026-07-18T15:58:12.118047"
+    },
+    {
+      "english": "Stop doomscrolling, learn one phrase",
+      "spanish": "Deja el doomscrolling, aprende una frase",
+      "category": "Hope",
+      "generated_at": "2026-07-18T15:58:12.118077"
+    },
+    {
+      "english": "Never fear mistakes, say “me sale”",
+      "spanish": "No temas errores, di “me sale”",
+      "category": "Hope",
+      "generated_at": "2026-07-18T15:58:12.118099"
+    },
+    {
+      "english": "This message gives you courage",
+      "spanish": "Este mensaje da valor",
+      "category": "Hope",
+      "generated_at": "2026-07-18T15:58:12.118120"
+    },
+    {
+      "english": "What if confidence is practice?",
+      "spanish": "¿Y si la confianza es práctica?",
+      "category": "Hope",
+      "generated_at": "2026-07-18T15:58:12.118141"
     }
   ],
   "used_english": [
@@ -15597,7 +15627,12 @@
     "the secret? say “te perdono” gently",
     "never wait, reset with one line",
     "stop revenge thoughts, choose compassion",
-    "never blame them, just say “entiendo”"
+    "never blame them, just say “entiendo”",
+    "never quit, start with “todavía”",
+    "stop doomscrolling, learn one phrase",
+    "never fear mistakes, say “me sale”",
+    "this message gives you courage",
+    "what if confidence is practice?"
   ],
-  "last_updated": "2026-07-18T14:20:56.654737"
+  "last_updated": "2026-07-18T15:58:12.118144"
 }
