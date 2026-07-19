@@ -13517,6 +13517,36 @@
       "spanish": "Este es tu atajo de amor, “estoy aquí”",
       "category": "Love",
       "generated_at": "2026-07-19T14:24:32.212371"
+    },
+    {
+      "english": "Stop apologizing, say “disculpa” once",
+      "spanish": "Deja de disculparte, di “disculpa” una vez",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T15:59:03.713588"
+    },
+    {
+      "english": "Never run away, say “vale”",
+      "spanish": "Nunca huyas, di “vale”",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T15:59:03.713613"
+    },
+    {
+      "english": "Never memorize, learn with one question",
+      "spanish": "Nunca memorices, aprende con una pregunta",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T15:59:03.713630"
+    },
+    {
+      "english": "Stop “maybe”, say “me conviene”",
+      "spanish": "Deja “quizás”, di “me conviene”",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T15:59:03.713647"
+    },
+    {
+      "english": "Never fear silence, finish strong",
+      "spanish": "Nunca temas el silencio, termina fuerte",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T15:59:03.713664"
     }
   ],
   "used_english": [
@@ -15772,7 +15802,12 @@
     "never chase, just say “te elijo”",
     "this phrase melts hearts, “bésame”",
     "never panic, whisper “tranquilo, amor”",
-    "this is your love shortcut, “estoy aquí”"
+    "this is your love shortcut, “estoy aquí”",
+    "stop apologizing, say “disculpa” once",
+    "never run away, say “vale”",
+    "never memorize, learn with one question",
+    "stop “maybe”, say “me conviene”",
+    "never fear silence, finish strong"
   ],
-  "last_updated": "2026-07-19T14:24:32.212373"
+  "last_updated": "2026-07-19T15:59:03.713666"
 }
