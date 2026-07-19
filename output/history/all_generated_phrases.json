@@ -13487,6 +13487,36 @@
       "spanish": "¿Y si ya eres fluido?",
       "category": "Patience",
       "generated_at": "2026-07-18T21:38:50.870482"
+    },
+    {
+      "english": "Never let love be silent, dilo",
+      "spanish": "Nunca dejes el amor en silencio, dilo",
+      "category": "Love",
+      "generated_at": "2026-07-19T14:24:32.212269"
+    },
+    {
+      "english": "Never chase, just say “te elijo”",
+      "spanish": "Nunca persigas, solo di “te elijo”",
+      "category": "Love",
+      "generated_at": "2026-07-19T14:24:32.212304"
+    },
+    {
+      "english": "This phrase melts hearts, “bésame”",
+      "spanish": "Esta frase derrite corazones, “bésame”",
+      "category": "Love",
+      "generated_at": "2026-07-19T14:24:32.212328"
+    },
+    {
+      "english": "Never panic, whisper “tranquilo, amor”",
+      "spanish": "Nunca entres en pánico, susurra “tranquilo, amor”",
+      "category": "Love",
+      "generated_at": "2026-07-19T14:24:32.212350"
+    },
+    {
+      "english": "This is your love shortcut, “estoy aquí”",
+      "spanish": "Este es tu atajo de amor, “estoy aquí”",
+      "category": "Love",
+      "generated_at": "2026-07-19T14:24:32.212371"
     }
   ],
   "used_english": [
@@ -15737,7 +15767,12 @@
     "the secret... slow is powerful",
     "never start over, finish strong",
     "stop overexplaining, say 'claro'",
-    "what if you’re already fluent?"
+    "what if you’re already fluent?",
+    "never let love be silent, dilo",
+    "never chase, just say “te elijo”",
+    "this phrase melts hearts, “bésame”",
+    "never panic, whisper “tranquilo, amor”",
+    "this is your love shortcut, “estoy aquí”"
   ],
-  "last_updated": "2026-07-18T21:38:50.870484"
+  "last_updated": "2026-07-19T14:24:32.212373"
 }
