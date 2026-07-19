@@ -13577,6 +13577,36 @@
       "spanish": "No abandones tras un mal día",
       "category": "Purpose",
       "generated_at": "2026-07-19T17:58:39.070335"
+    },
+    {
+      "english": "Never underestimate “de verdad,” use it",
+      "spanish": "No subestimes “de verdad”, úsalo",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T20:08:42.151317"
+    },
+    {
+      "english": "Stop translating verbs, think in chunks",
+      "spanish": "Deja de traducir verbos, piensa en bloques",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T20:08:42.151347"
+    },
+    {
+      "english": "Your accent improves when you pause",
+      "spanish": "Tu acento mejora al pausar",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T20:08:42.151369"
+    },
+    {
+      "english": "Never say “maybe,” choose “claro”",
+      "spanish": "Nunca digas “tal vez”, elige “claro”",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T20:08:42.151391"
+    },
+    {
+      "english": "This tiny habit builds real confidence",
+      "spanish": "Este hábito pequeño crea confianza real",
+      "category": "Inspiration",
+      "generated_at": "2026-07-19T20:08:42.151411"
     }
   ],
   "used_english": [
@@ -15842,7 +15872,12 @@
     "never say 'i need', try 'i want'",
     "stop starting sentences, start verbs",
     "urgent: swap excuses for intentions",
-    "stop quitting after one bad day"
+    "stop quitting after one bad day",
+    "never underestimate “de verdad,” use it",
+    "stop translating verbs, think in chunks",
+    "your accent improves when you pause",
+    "never say “maybe,” choose “claro”",
+    "this tiny habit builds real confidence"
   ],
-  "last_updated": "2026-07-19T17:58:39.070337"
+  "last_updated": "2026-07-19T20:08:42.151413"
 }
