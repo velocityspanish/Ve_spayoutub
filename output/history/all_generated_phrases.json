@@ -13607,6 +13607,36 @@
       "spanish": "Este hábito pequeño crea confianza real",
       "category": "Inspiration",
       "generated_at": "2026-07-19T20:08:42.151411"
+    },
+    {
+      "english": "Stop rushing, breathe before you speak",
+      "spanish": "Deja de apurarte, respira antes",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T21:40:24.664606"
+    },
+    {
+      "english": "Never panic, notice your breath",
+      "spanish": "No entres en pánico, nota tu respiración",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T21:40:24.664632"
+    },
+    {
+      "english": "Stop judging, let mistakes teach",
+      "spanish": "No juzgues, deja que enseñen",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T21:40:24.664650"
+    },
+    {
+      "english": "The fastest calm is slow attention",
+      "spanish": "La calma rápida es atención lenta",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T21:40:24.664668"
+    },
+    {
+      "english": "Never freeze, whisper “voy aprendiendo”",
+      "spanish": "No te quedes, susurra “voy aprendiendo”",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-19T21:40:24.664684"
     }
   ],
   "used_english": [
@@ -15877,7 +15907,12 @@
     "stop translating verbs, think in chunks",
     "your accent improves when you pause",
     "never say “maybe,” choose “claro”",
-    "this tiny habit builds real confidence"
+    "this tiny habit builds real confidence",
+    "stop rushing, breathe before you speak",
+    "never panic, notice your breath",
+    "stop judging, let mistakes teach",
+    "the fastest calm is slow attention",
+    "never freeze, whisper “voy aprendiendo”"
   ],
-  "last_updated": "2026-07-19T20:08:42.151413"
+  "last_updated": "2026-07-19T21:40:24.664687"
 }
