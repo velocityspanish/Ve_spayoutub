@@ -13547,6 +13547,36 @@
       "spanish": "Nunca temas el silencio, termina fuerte",
       "category": "Purpose",
       "generated_at": "2026-07-19T15:59:03.713664"
+    },
+    {
+      "english": "Stop memorizing, use mini answers",
+      "spanish": "Deja memorizar, usa respuestas cortas",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T17:58:39.070225"
+    },
+    {
+      "english": "Never say 'I need', try 'I want'",
+      "spanish": "Nunca digas 'necesito', di 'quiero'",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T17:58:39.070259"
+    },
+    {
+      "english": "Stop starting sentences, start verbs",
+      "spanish": "Deja empezar frases, empieza con verbos",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T17:58:39.070280"
+    },
+    {
+      "english": "Urgent: swap excuses for intentions",
+      "spanish": "Urgente: cambia excusas por intenciones",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T17:58:39.070313"
+    },
+    {
+      "english": "Stop quitting after one bad day",
+      "spanish": "No abandones tras un mal día",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T17:58:39.070335"
     }
   ],
   "used_english": [
@@ -15807,7 +15837,12 @@
     "never run away, say “vale”",
     "never memorize, learn with one question",
     "stop “maybe”, say “me conviene”",
-    "never fear silence, finish strong"
+    "never fear silence, finish strong",
+    "stop memorizing, use mini answers",
+    "never say 'i need', try 'i want'",
+    "stop starting sentences, start verbs",
+    "urgent: swap excuses for intentions",
+    "stop quitting after one bad day"
   ],
-  "last_updated": "2026-07-19T15:59:03.713666"
+  "last_updated": "2026-07-19T17:58:39.070337"
 }
