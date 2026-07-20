@@ -13637,6 +13637,36 @@
       "spanish": "No te quedes, susurra “voy aprendiendo”",
       "category": "Mindfulness",
       "generated_at": "2026-07-19T21:40:24.664684"
+    },
+    {
+      "english": "Stop saying “I understand”, use this",
+      "spanish": "No digas “Entiendo”, di esto",
+      "category": "Success",
+      "generated_at": "2026-07-20T15:13:26.028556"
+    },
+    {
+      "english": "Never answer with “whatever”, try this",
+      "spanish": "Nunca digas “como sea”, usa esto",
+      "category": "Success",
+      "generated_at": "2026-07-20T15:13:26.028585"
+    },
+    {
+      "english": "Don’t explain, just ask one question",
+      "spanish": "No expliques, solo pregunta una cosa",
+      "category": "Success",
+      "generated_at": "2026-07-20T15:13:26.028606"
+    },
+    {
+      "english": "Urgent: learn this everyday shortcut",
+      "spanish": "Urgente, aprende este atajo diario",
+      "category": "Success",
+      "generated_at": "2026-07-20T15:13:26.028627"
+    },
+    {
+      "english": "Never say “no sé”, replace with this",
+      "spanish": "No digas “no sé”, usa “no estoy seguro”",
+      "category": "Success",
+      "generated_at": "2026-07-20T15:13:26.028647"
     }
   ],
   "used_english": [
@@ -15912,7 +15942,12 @@
     "never panic, notice your breath",
     "stop judging, let mistakes teach",
     "the fastest calm is slow attention",
-    "never freeze, whisper “voy aprendiendo”"
+    "never freeze, whisper “voy aprendiendo”",
+    "stop saying “i understand”, use this",
+    "never answer with “whatever”, try this",
+    "don’t explain, just ask one question",
+    "urgent: learn this everyday shortcut",
+    "never say “no sé”, replace with this"
   ],
-  "last_updated": "2026-07-19T21:40:24.664687"
+  "last_updated": "2026-07-20T15:13:26.028649"
 }
