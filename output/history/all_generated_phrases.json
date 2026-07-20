@@ -13757,6 +13757,36 @@
       "spanish": "Esta frase corta el espiral",
       "category": "Forgiveness",
       "generated_at": "2026-07-20T20:24:35.398334"
+    },
+    {
+      "english": "Stop quitting, say “voy” today",
+      "spanish": "Deja de rendirte, di “voy” hoy",
+      "category": "Courage",
+      "generated_at": "2026-07-20T21:54:44.308814"
+    },
+    {
+      "english": "Never say “sorry”, say “gracias”",
+      "spanish": "Nunca digas “perdón”, di “gracias”",
+      "category": "Courage",
+      "generated_at": "2026-07-20T21:54:44.308848"
+    },
+    {
+      "english": "This boosts courage, say “lo intento”",
+      "spanish": "Esto da valor, digo “lo intento”",
+      "category": "Courage",
+      "generated_at": "2026-07-20T21:54:44.308870"
+    },
+    {
+      "english": "Stop translating, think “ya” answers",
+      "spanish": "Deja de traducir, piensa “ya”",
+      "category": "Courage",
+      "generated_at": "2026-07-20T21:54:44.308891"
+    },
+    {
+      "english": "What changes everything, say “porque sí”",
+      "spanish": "Lo que cambia todo, di “porque sí”",
+      "category": "Courage",
+      "generated_at": "2026-07-20T21:54:44.308911"
     }
   ],
   "used_english": [
@@ -16052,7 +16082,12 @@
     "the secret? change “me dolió”, ahora",
     "stop replaying, release with “ya está”",
     "never carry anger, say “lo suelto”",
-    "this one phrase ends the spiral"
+    "this one phrase ends the spiral",
+    "stop quitting, say “voy” today",
+    "never say “sorry”, say “gracias”",
+    "this boosts courage, say “lo intento”",
+    "stop translating, think “ya” answers",
+    "what changes everything, say “porque sí”"
   ],
-  "last_updated": "2026-07-20T20:24:35.398336"
+  "last_updated": "2026-07-20T21:54:44.308913"
 }
