@@ -13697,6 +13697,36 @@
       "spanish": "No temas 'gustar', cambia 'me gusta'",
       "category": "Inspiration",
       "generated_at": "2026-07-20T16:24:55.545335"
+    },
+    {
+      "english": "Stop texting, say «te extraño» now",
+      "spanish": "Deja de escribir, di «te extraño»",
+      "category": "Love",
+      "generated_at": "2026-07-20T18:52:41.973889"
+    },
+    {
+      "english": "Never say «hello» like that, try this",
+      "spanish": "Nunca digas «hola» así, usa esto",
+      "category": "Love",
+      "generated_at": "2026-07-20T18:52:41.973922"
+    },
+    {
+      "english": "This is why «perdón» sounds colder",
+      "spanish": "Por eso «perdón» suena más frío",
+      "category": "Love",
+      "generated_at": "2026-07-20T18:52:41.973945"
+    },
+    {
+      "english": "The secret is one soft word",
+      "spanish": "El secreto es una palabra suave",
+      "category": "Love",
+      "generated_at": "2026-07-20T18:52:41.973996"
+    },
+    {
+      "english": "Never rush love, slow down, «lento»",
+      "spanish": "No corras el amor, lento, respira",
+      "category": "Love",
+      "generated_at": "2026-07-20T18:52:41.974033"
     }
   ],
   "used_english": [
@@ -15982,7 +16012,12 @@
     "never study, speak after one breath",
     "never repeat sentences, remix them",
     "this phrase wins fast, 'lo siento'",
-    "never fear 'gustar', just swap"
+    "never fear 'gustar', just swap",
+    "stop texting, say «te extraño» now",
+    "never say «hello» like that, try this",
+    "this is why «perdón» sounds colder",
+    "the secret is one soft word",
+    "never rush love, slow down, «lento»"
   ],
-  "last_updated": "2026-07-20T16:24:55.545337"
+  "last_updated": "2026-07-20T18:52:41.974036"
 }
