@@ -13727,6 +13727,36 @@
       "spanish": "No corras el amor, lento, respira",
       "category": "Love",
       "generated_at": "2026-07-20T18:52:41.974033"
+    },
+    {
+      "english": "Stop clinging, forgive in one breath",
+      "spanish": "Deja soltar, perdona en un respiro",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T20:24:35.398233"
+    },
+    {
+      "english": "The secret? Change “me dolió”, ahora",
+      "spanish": "El secreto, cambia “me dolió” ahora",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T20:24:35.398266"
+    },
+    {
+      "english": "Stop replaying, release with “ya está”",
+      "spanish": "Deja de repetir, suelta “ya está”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T20:24:35.398288"
+    },
+    {
+      "english": "Never carry anger, say “lo suelto”",
+      "spanish": "No guardes enojo, “lo suelto”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T20:24:35.398311"
+    },
+    {
+      "english": "This one phrase ends the spiral",
+      "spanish": "Esta frase corta el espiral",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T20:24:35.398334"
     }
   ],
   "used_english": [
@@ -16017,7 +16047,12 @@
     "never say «hello» like that, try this",
     "this is why «perdón» sounds colder",
     "the secret is one soft word",
-    "never rush love, slow down, «lento»"
+    "never rush love, slow down, «lento»",
+    "stop clinging, forgive in one breath",
+    "the secret? change “me dolió”, ahora",
+    "stop replaying, release with “ya está”",
+    "never carry anger, say “lo suelto”",
+    "this one phrase ends the spiral"
   ],
-  "last_updated": "2026-07-20T18:52:41.974036"
+  "last_updated": "2026-07-20T20:24:35.398336"
 }
