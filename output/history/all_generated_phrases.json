@@ -13667,6 +13667,36 @@
       "spanish": "No digas “no sé”, usa “no estoy seguro”",
       "category": "Success",
       "generated_at": "2026-07-20T15:13:26.028647"
+    },
+    {
+      "english": "Stop cramming, practice one story",
+      "spanish": "Deja el estudio, practica una historia",
+      "category": "Inspiration",
+      "generated_at": "2026-07-20T16:24:55.545242"
+    },
+    {
+      "english": "Never study, speak after one breath",
+      "spanish": "Nunca estudies, habla tras un respiro",
+      "category": "Inspiration",
+      "generated_at": "2026-07-20T16:24:55.545271"
+    },
+    {
+      "english": "Never repeat sentences, remix them",
+      "spanish": "Nunca repitas, remixtéalas",
+      "category": "Inspiration",
+      "generated_at": "2026-07-20T16:24:55.545294"
+    },
+    {
+      "english": "This phrase wins fast, 'lo siento'",
+      "spanish": "Esta frase gana rápido, 'lo siento'",
+      "category": "Inspiration",
+      "generated_at": "2026-07-20T16:24:55.545315"
+    },
+    {
+      "english": "Never fear 'gustar', just swap",
+      "spanish": "No temas 'gustar', cambia 'me gusta'",
+      "category": "Inspiration",
+      "generated_at": "2026-07-20T16:24:55.545335"
     }
   ],
   "used_english": [
@@ -15947,7 +15977,12 @@
     "never answer with “whatever”, try this",
     "don’t explain, just ask one question",
     "urgent: learn this everyday shortcut",
-    "never say “no sé”, replace with this"
+    "never say “no sé”, replace with this",
+    "stop cramming, practice one story",
+    "never study, speak after one breath",
+    "never repeat sentences, remix them",
+    "this phrase wins fast, 'lo siento'",
+    "never fear 'gustar', just swap"
   ],
-  "last_updated": "2026-07-20T15:13:26.028649"
+  "last_updated": "2026-07-20T16:24:55.545337"
 }
