@@ -13817,6 +13817,36 @@
       "spanish": "Nunca estudies listas, aprende diálogos reales",
       "category": "Purpose",
       "generated_at": "2026-07-21T15:05:15.508626"
+    },
+    {
+      "english": "Never fear blanks, use “espera”",
+      "spanish": "Nunca temas pausas, usa “espera”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T16:23:36.822368"
+    },
+    {
+      "english": "The secret? Say it small, daily",
+      "spanish": "El secreto, dilo pequeño, cada día",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T16:23:36.822395"
+    },
+    {
+      "english": "Never quit joy, practice “gracias”",
+      "spanish": "No abandones la alegría, “gracias”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T16:23:36.822413"
+    },
+    {
+      "english": "The fastest confidence, speak “de verdad”",
+      "spanish": "La confianza rápida, di “de verdad”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T16:23:36.822429"
+    },
+    {
+      "english": "Stop searching, copy this attitude",
+      "spanish": "Deja de buscar, copia esta actitud",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T16:23:36.822446"
     }
   ],
   "used_english": [
@@ -16122,7 +16152,12 @@
     "this is why “ser” beats “estar”",
     "stop translating, steal one useful chunk",
     "this phrase makes you sound confident",
-    "never study lists, learn real dialogues"
+    "never study lists, learn real dialogues",
+    "never fear blanks, use “espera”",
+    "the secret? say it small, daily",
+    "never quit joy, practice “gracias”",
+    "the fastest confidence, speak “de verdad”",
+    "stop searching, copy this attitude"
   ],
-  "last_updated": "2026-07-21T15:05:15.508628"
+  "last_updated": "2026-07-21T16:23:36.822448"
 }
