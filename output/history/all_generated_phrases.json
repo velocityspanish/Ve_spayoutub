@@ -13877,6 +13877,36 @@
       "spanish": "Esa pausa pequeña sana más rápido",
       "category": "Inner Peace",
       "generated_at": "2026-07-21T18:15:40.104332"
+    },
+    {
+      "english": "Stop explaining, start confessing feelings",
+      "spanish": "Deja de explicar, confiesa sentimientos",
+      "category": "Strength",
+      "generated_at": "2026-07-21T20:20:16.167472"
+    },
+    {
+      "english": "This is why 'porque' unlocks fluency",
+      "spanish": "Por eso 'porque' abre fluidez",
+      "category": "Strength",
+      "generated_at": "2026-07-21T20:20:16.167506"
+    },
+    {
+      "english": "Never freeze, greet with '¿Cómo estás?'",
+      "spanish": "No te paralices, saluda '¿Cómo estás?'",
+      "category": "Strength",
+      "generated_at": "2026-07-21T20:20:16.167529"
+    },
+    {
+      "english": "Stop translating, use the first idea",
+      "spanish": "Deja traducir, usa la primera idea",
+      "category": "Strength",
+      "generated_at": "2026-07-21T20:20:16.167550"
+    },
+    {
+      "english": "The secret, answer with 'sí, claro'",
+      "spanish": "El secreto, responde con 'sí, claro'",
+      "category": "Strength",
+      "generated_at": "2026-07-21T20:20:16.167572"
     }
   ],
   "used_english": [
@@ -16192,7 +16222,12 @@
     "the secret, unclench your jaw now",
     "urgent: soften your tone, instant peace",
     "never chase control, choose acceptance",
-    "this tiny pause heals faster"
+    "this tiny pause heals faster",
+    "stop explaining, start confessing feelings",
+    "this is why 'porque' unlocks fluency",
+    "never freeze, greet with '¿cómo estás?'",
+    "stop translating, use the first idea",
+    "the secret, answer with 'sí, claro'"
   ],
-  "last_updated": "2026-07-21T18:15:40.104334"
+  "last_updated": "2026-07-21T20:20:16.167575"
 }
