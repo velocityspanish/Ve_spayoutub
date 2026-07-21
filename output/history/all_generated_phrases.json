@@ -13787,6 +13787,36 @@
       "spanish": "Lo que cambia todo, di “porque sí”",
       "category": "Courage",
       "generated_at": "2026-07-20T21:54:44.308911"
+    },
+    {
+      "english": "Never say “perfectly”, say “así”",
+      "spanish": "Nunca digas “perfectamente”, di “así”",
+      "category": "Purpose",
+      "generated_at": "2026-07-21T15:05:15.508540"
+    },
+    {
+      "english": "This is why “ser” beats “estar”",
+      "spanish": "Esto es por qué “ser” gana a “estar”",
+      "category": "Purpose",
+      "generated_at": "2026-07-21T15:05:15.508571"
+    },
+    {
+      "english": "Stop translating, steal one useful chunk",
+      "spanish": "Deja de traducir, roba una frase útil",
+      "category": "Purpose",
+      "generated_at": "2026-07-21T15:05:15.508589"
+    },
+    {
+      "english": "This phrase makes you sound confident",
+      "spanish": "Esta frase te hace sonar confiado",
+      "category": "Purpose",
+      "generated_at": "2026-07-21T15:05:15.508608"
+    },
+    {
+      "english": "Never study lists, learn real dialogues",
+      "spanish": "Nunca estudies listas, aprende diálogos reales",
+      "category": "Purpose",
+      "generated_at": "2026-07-21T15:05:15.508626"
     }
   ],
   "used_english": [
@@ -16087,7 +16117,12 @@
     "never say “sorry”, say “gracias”",
     "this boosts courage, say “lo intento”",
     "stop translating, think “ya” answers",
-    "what changes everything, say “porque sí”"
+    "what changes everything, say “porque sí”",
+    "never say “perfectly”, say “así”",
+    "this is why “ser” beats “estar”",
+    "stop translating, steal one useful chunk",
+    "this phrase makes you sound confident",
+    "never study lists, learn real dialogues"
   ],
-  "last_updated": "2026-07-20T21:54:44.308913"
+  "last_updated": "2026-07-21T15:05:15.508628"
 }
