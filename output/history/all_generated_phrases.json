@@ -13847,6 +13847,36 @@
       "spanish": "Deja de buscar, copia esta actitud",
       "category": "Positive Life",
       "generated_at": "2026-07-21T16:23:36.822446"
+    },
+    {
+      "english": "Stop spiraling, breathe, say calma",
+      "spanish": "Deja el espiral, respira, di calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-21T18:15:40.104243"
+    },
+    {
+      "english": "The secret, unclench your jaw now",
+      "spanish": "El secreto, suelta tu mandíbula ahora",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-21T18:15:40.104272"
+    },
+    {
+      "english": "Urgent: soften your tone, instant peace",
+      "spanish": "Urgente, suaviza tu tono, paz al instante",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-21T18:15:40.104293"
+    },
+    {
+      "english": "Never chase control, choose acceptance",
+      "spanish": "Nunca persigas el control, elige aceptación",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-21T18:15:40.104312"
+    },
+    {
+      "english": "This tiny pause heals faster",
+      "spanish": "Esa pausa pequeña sana más rápido",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-21T18:15:40.104332"
     }
   ],
   "used_english": [
@@ -16157,7 +16187,12 @@
     "the secret? say it small, daily",
     "never quit joy, practice “gracias”",
     "the fastest confidence, speak “de verdad”",
-    "stop searching, copy this attitude"
+    "stop searching, copy this attitude",
+    "stop spiraling, breathe, say calma",
+    "the secret, unclench your jaw now",
+    "urgent: soften your tone, instant peace",
+    "never chase control, choose acceptance",
+    "this tiny pause heals faster"
   ],
-  "last_updated": "2026-07-21T16:23:36.822448"
+  "last_updated": "2026-07-21T18:15:40.104334"
 }
