@@ -13907,6 +13907,36 @@
       "spanish": "El secreto, responde con 'sí, claro'",
       "category": "Strength",
       "generated_at": "2026-07-21T20:20:16.167572"
+    },
+    {
+      "english": "Stop apologizing, use “me sirve”",
+      "spanish": "Deja de disculparte, usa “me sirve”",
+      "category": "Courage",
+      "generated_at": "2026-07-21T21:52:50.884270"
+    },
+    {
+      "english": "The secret? Say it imperfectly, move",
+      "spanish": "El secreto, dilo imperfecto, sigue",
+      "category": "Courage",
+      "generated_at": "2026-07-21T21:52:50.884302"
+    },
+    {
+      "english": "Never fear rude silence, just “espera”",
+      "spanish": "No temas al silencio, di “espera”",
+      "category": "Courage",
+      "generated_at": "2026-07-21T21:52:50.884324"
+    },
+    {
+      "english": "The secret? Keep the sentence going",
+      "spanish": "El secreto, sigue la frase",
+      "category": "Courage",
+      "generated_at": "2026-07-21T21:52:50.884347"
+    },
+    {
+      "english": "Never hide your needs, say “quiero”",
+      "spanish": "No escondas necesidades, di “quiero”",
+      "category": "Courage",
+      "generated_at": "2026-07-21T21:52:50.884370"
     }
   ],
   "used_english": [
@@ -16227,7 +16257,12 @@
     "this is why 'porque' unlocks fluency",
     "never freeze, greet with '¿cómo estás?'",
     "stop translating, use the first idea",
-    "the secret, answer with 'sí, claro'"
+    "the secret, answer with 'sí, claro'",
+    "stop apologizing, use “me sirve”",
+    "the secret? say it imperfectly, move",
+    "never fear rude silence, just “espera”",
+    "the secret? keep the sentence going",
+    "never hide your needs, say “quiero”"
   ],
-  "last_updated": "2026-07-21T20:20:16.167575"
+  "last_updated": "2026-07-21T21:52:50.884372"
 }
