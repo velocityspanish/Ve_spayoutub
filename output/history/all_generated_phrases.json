@@ -13937,6 +13937,36 @@
       "spanish": "No escondas necesidades, di “quiero”",
       "category": "Courage",
       "generated_at": "2026-07-21T21:52:50.884370"
+    },
+    {
+      "english": "Never be rude, use kind words",
+      "spanish": "Nunca seas grosero, usa palabras",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T15:05:24.313192"
+    },
+    {
+      "english": "The secret? Compliment one thing",
+      "spanish": "El secreto, felicita una cosa",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T15:05:24.313227"
+    },
+    {
+      "english": "Stop sharing hate, send one help",
+      "spanish": "Deja el odio, manda un apoyo",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T15:05:24.313250"
+    },
+    {
+      "english": "Never ignore their effort, say 'bien'",
+      "spanish": "Nunca ignores su esfuerzo, di 'bien'",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T15:05:24.313273"
+    },
+    {
+      "english": "This one message turns days around",
+      "spanish": "Este mensaje cambia el día",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T15:05:24.313296"
     }
   ],
   "used_english": [
@@ -16262,7 +16292,12 @@
     "the secret? say it imperfectly, move",
     "never fear rude silence, just “espera”",
     "the secret? keep the sentence going",
-    "never hide your needs, say “quiero”"
+    "never hide your needs, say “quiero”",
+    "never be rude, use kind words",
+    "the secret? compliment one thing",
+    "stop sharing hate, send one help",
+    "never ignore their effort, say 'bien'",
+    "this one message turns days around"
   ],
-  "last_updated": "2026-07-21T21:52:50.884372"
+  "last_updated": "2026-07-22T15:05:24.313299"
 }
