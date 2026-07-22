@@ -13997,6 +13997,36 @@
       "spanish": "No te rindas, sigue la conversación",
       "category": "Perseverance",
       "generated_at": "2026-07-22T16:20:07.041516"
+    },
+    {
+      "english": "Never say nothing, ask forgiveness",
+      "spanish": "Nunca calles, pide perdón",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-22T18:07:36.157511"
+    },
+    {
+      "english": "The secret phrase starts with 'pero'",
+      "spanish": "La frase secreta empieza con 'pero'",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-22T18:07:36.157545"
+    },
+    {
+      "english": "Never blame them, own your part",
+      "spanish": "No culpes, asume tu parte",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-22T18:07:36.157570"
+    },
+    {
+      "english": "This one word softens everything",
+      "spanish": "Una sola palabra lo cambia",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-22T18:07:36.157594"
+    },
+    {
+      "english": "Stop replaying, replace with 'perdono'",
+      "spanish": "Corta el bucle, di 'perdono'",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-22T18:07:36.157617"
     }
   ],
   "used_english": [
@@ -16332,7 +16362,12 @@
     "stop overthinking, say the simplest version",
     "the secret? finish even when tired",
     "never start with perfection, start with sound",
-    "stop quitting mid-conversation, continue"
+    "stop quitting mid-conversation, continue",
+    "never say nothing, ask forgiveness",
+    "the secret phrase starts with 'pero'",
+    "never blame them, own your part",
+    "this one word softens everything",
+    "stop replaying, replace with 'perdono'"
   ],
-  "last_updated": "2026-07-22T16:20:07.041518"
+  "last_updated": "2026-07-22T18:07:36.157619"
 }
