@@ -14057,6 +14057,36 @@
       "spanish": "Esta frase suaviza lo incómodo",
       "category": "Kindness",
       "generated_at": "2026-07-22T20:12:51.953439"
+    },
+    {
+      "english": "Stop losing days to 'later'",
+      "spanish": "Deja de perder días, \"luego\"",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-22T21:54:16.904158"
+    },
+    {
+      "english": "Never memorize, practice one reaction",
+      "spanish": "Nunca memorices, practica una reacción",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-22T21:54:16.904188"
+    },
+    {
+      "english": "Stop translating, listen for meaning",
+      "spanish": "No traduzcas, escucha el sentido",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-22T21:54:16.904210"
+    },
+    {
+      "english": "Your brain learns faster with stories",
+      "spanish": "Tu mente aprende con historias",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-22T21:54:16.904231"
+    },
+    {
+      "english": "The secret phrase? \"¿Cómo se dice?\"",
+      "spanish": "La frase secreta, \"¿Cómo se dice?\"",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-22T21:54:16.904254"
     }
   ],
   "used_english": [
@@ -16402,7 +16432,12 @@
     "never forget, kindness is active",
     "stop being harsh, try “con gusto”",
     "never ignore, send one kind message",
-    "this phrase softens any awkward moment"
+    "this phrase softens any awkward moment",
+    "stop losing days to 'later'",
+    "never memorize, practice one reaction",
+    "stop translating, listen for meaning",
+    "your brain learns faster with stories",
+    "the secret phrase? \"¿cómo se dice?\""
   ],
-  "last_updated": "2026-07-22T20:12:51.953442"
+  "last_updated": "2026-07-22T21:54:16.904256"
 }
