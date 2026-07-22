@@ -13967,6 +13967,36 @@
       "spanish": "Este mensaje cambia el día",
       "category": "Kindness",
       "generated_at": "2026-07-22T15:05:24.313296"
+    },
+    {
+      "english": "Never wait, text the first sentence",
+      "spanish": "Nunca esperes, manda la primera frase",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T16:20:07.041423"
+    },
+    {
+      "english": "Stop overthinking, say the simplest version",
+      "spanish": "Deja de pensar, di la versión simple",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T16:20:07.041454"
+    },
+    {
+      "english": "The secret? Finish even when tired",
+      "spanish": "El secreto, termina aunque estés cansado",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T16:20:07.041478"
+    },
+    {
+      "english": "Never start with perfection, start with sound",
+      "spanish": "Nunca empieces perfecto, empieza con sonido",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T16:20:07.041497"
+    },
+    {
+      "english": "Stop quitting mid-conversation, continue",
+      "spanish": "No te rindas, sigue la conversación",
+      "category": "Perseverance",
+      "generated_at": "2026-07-22T16:20:07.041516"
     }
   ],
   "used_english": [
@@ -16297,7 +16327,12 @@
     "the secret? compliment one thing",
     "stop sharing hate, send one help",
     "never ignore their effort, say 'bien'",
-    "this one message turns days around"
+    "this one message turns days around",
+    "never wait, text the first sentence",
+    "stop overthinking, say the simplest version",
+    "the secret? finish even when tired",
+    "never start with perfection, start with sound",
+    "stop quitting mid-conversation, continue"
   ],
-  "last_updated": "2026-07-22T15:05:24.313299"
+  "last_updated": "2026-07-22T16:20:07.041518"
 }
