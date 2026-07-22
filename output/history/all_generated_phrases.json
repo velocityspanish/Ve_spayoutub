@@ -14027,6 +14027,36 @@
       "spanish": "Corta el bucle, di 'perdono'",
       "category": "Forgiveness",
       "generated_at": "2026-07-22T18:07:36.157617"
+    },
+    {
+      "english": "Stop scrolling, say “te deseo”",
+      "spanish": "Deja el scroll, di “te deseo”",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T20:12:51.953325"
+    },
+    {
+      "english": "Never forget, kindness is active",
+      "spanish": "Nunca olvides, la bondad actúa",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T20:12:51.953357"
+    },
+    {
+      "english": "Stop being harsh, try “con gusto”",
+      "spanish": "Deja la dureza, di “con gusto”",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T20:12:51.953381"
+    },
+    {
+      "english": "Never ignore, send one kind message",
+      "spanish": "Nunca ignores, manda un mensaje",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T20:12:51.953404"
+    },
+    {
+      "english": "This phrase softens any awkward moment",
+      "spanish": "Esta frase suaviza lo incómodo",
+      "category": "Kindness",
+      "generated_at": "2026-07-22T20:12:51.953439"
     }
   ],
   "used_english": [
@@ -16367,7 +16397,12 @@
     "the secret phrase starts with 'pero'",
     "never blame them, own your part",
     "this one word softens everything",
-    "stop replaying, replace with 'perdono'"
+    "stop replaying, replace with 'perdono'",
+    "stop scrolling, say “te deseo”",
+    "never forget, kindness is active",
+    "stop being harsh, try “con gusto”",
+    "never ignore, send one kind message",
+    "this phrase softens any awkward moment"
   ],
-  "last_updated": "2026-07-22T18:07:36.157619"
+  "last_updated": "2026-07-22T20:12:51.953442"
 }
