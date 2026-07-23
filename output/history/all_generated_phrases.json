@@ -14207,6 +14207,36 @@
       "spanish": "Para de memorizar, roba esta estructura",
       "category": "Creativity",
       "generated_at": "2026-07-23T16:26:38.044522"
+    },
+    {
+      "english": "Stop freezing, say “estoy intentando”",
+      "spanish": "No te paralices, di “estoy intentando”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T18:21:34.596928"
+    },
+    {
+      "english": "Never apologize, just use “va bien”",
+      "spanish": "No pidas perdón, usa “va bien”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T18:21:34.596962"
+    },
+    {
+      "english": "This is why fluency starts tonight",
+      "spanish": "Por eso, la fluidez empieza hoy",
+      "category": "Hope",
+      "generated_at": "2026-07-23T18:21:34.596987"
+    },
+    {
+      "english": "Never wait, say “ahora mismo”",
+      "spanish": "Nunca esperes, di “ahora mismo”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T18:21:34.597009"
+    },
+    {
+      "english": "Never quit, practice “te entiendo” daily",
+      "spanish": "No te rindas, practica “te entiendo”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T18:21:34.597030"
     }
   ],
   "used_english": [
@@ -16577,7 +16607,12 @@
     "never quit verbs, practice “hacer”",
     "never rush endings, soften “-ito”",
     "the secret, repeat the same phrase",
-    "stop memorizing, steal this structure"
+    "stop memorizing, steal this structure",
+    "stop freezing, say “estoy intentando”",
+    "never apologize, just use “va bien”",
+    "this is why fluency starts tonight",
+    "never wait, say “ahora mismo”",
+    "never quit, practice “te entiendo” daily"
   ],
-  "last_updated": "2026-07-23T16:26:38.044525"
+  "last_updated": "2026-07-23T18:21:34.597032"
 }
