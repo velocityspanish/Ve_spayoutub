@@ -14117,6 +14117,36 @@
       "spanish": "La disculpa más rápida es simple.",
       "category": "Forgiveness",
       "generated_at": "2026-07-23T13:29:36.731446"
+    },
+    {
+      "english": "The secret, ask one “¿por qué?”",
+      "spanish": "El secreto, pregunta “¿por qué?”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T13:35:59.877372"
+    },
+    {
+      "english": "Never go silent, say “tranquilo”",
+      "spanish": "No te quedes en silencio, “tranquilo”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T13:35:59.877406"
+    },
+    {
+      "english": "Stop memorizing, build one mini story",
+      "spanish": "No memorices, crea una mini historia",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T13:35:59.877429"
+    },
+    {
+      "english": "This is why “me gusta” lands",
+      "spanish": "Por eso “me gusta” pega",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T13:35:59.877451"
+    },
+    {
+      "english": "The secret, replace “sí” with “claro”",
+      "spanish": "El secreto, cambia “sí” por “claro”",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T13:35:59.877473"
     }
   ],
   "used_english": [
@@ -16472,7 +16502,12 @@
     "never punish, say 'no pasa nada'",
     "this one reply ends fights",
     "stop blaming, claim your feeling",
-    "the fastest apology is simple"
+    "the fastest apology is simple",
+    "the secret, ask one “¿por qué?”",
+    "never go silent, say “tranquilo”",
+    "stop memorizing, build one mini story",
+    "this is why “me gusta” lands",
+    "the secret, replace “sí” with “claro”"
   ],
-  "last_updated": "2026-07-23T13:29:36.731447"
+  "last_updated": "2026-07-23T13:35:59.877475"
 }
