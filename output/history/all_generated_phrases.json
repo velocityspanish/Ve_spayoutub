@@ -14177,6 +14177,36 @@
       "spanish": "No subestimes “me importas”, úsalo",
       "category": "Kindness",
       "generated_at": "2026-07-23T15:10:26.808917"
+    },
+    {
+      "english": "Stop translating, grab the verb",
+      "spanish": "Para de traducir, toma el verbo",
+      "category": "Creativity",
+      "generated_at": "2026-07-23T16:26:38.044420"
+    },
+    {
+      "english": "Never quit verbs, practice “hacer”",
+      "spanish": "Nunca dejes los verbos, practica “hacer”",
+      "category": "Creativity",
+      "generated_at": "2026-07-23T16:26:38.044455"
+    },
+    {
+      "english": "Never rush endings, soften “-ito”",
+      "spanish": "Nunca corras finales, suaviza “-ito”",
+      "category": "Creativity",
+      "generated_at": "2026-07-23T16:26:38.044478"
+    },
+    {
+      "english": "The secret, repeat the same phrase",
+      "spanish": "El secreto, repite la misma frase",
+      "category": "Creativity",
+      "generated_at": "2026-07-23T16:26:38.044501"
+    },
+    {
+      "english": "Stop memorizing, steal this structure",
+      "spanish": "Para de memorizar, roba esta estructura",
+      "category": "Creativity",
+      "generated_at": "2026-07-23T16:26:38.044522"
     }
   ],
   "used_english": [
@@ -16542,7 +16572,12 @@
     "never let kindness wait, act now",
     "this is why “perdón” saves friendships",
     "the secret? tell them “te apoyo”",
-    "never underestimate “me importas,” use it"
+    "never underestimate “me importas,” use it",
+    "stop translating, grab the verb",
+    "never quit verbs, practice “hacer”",
+    "never rush endings, soften “-ito”",
+    "the secret, repeat the same phrase",
+    "stop memorizing, steal this structure"
   ],
-  "last_updated": "2026-07-23T15:10:26.808919"
+  "last_updated": "2026-07-23T16:26:38.044525"
 }
