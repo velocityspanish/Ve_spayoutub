@@ -14267,6 +14267,36 @@
       "spanish": "Tu fluidez futura empieza con “voy”",
       "category": "Hope",
       "generated_at": "2026-07-23T20:16:39.040833"
+    },
+    {
+      "english": "Stop fearing mistakes, try anyway",
+      "spanish": "Deja de temer errores, prueba igual",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T21:54:57.031827"
+    },
+    {
+      "english": "Never wait, speak one sentence",
+      "spanish": "Nunca esperes, di una frase",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T21:54:57.031856"
+    },
+    {
+      "english": "Never overthink, just repeat softly",
+      "spanish": "No pienses de más, repite suave",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T21:54:57.031880"
+    },
+    {
+      "english": "This tiny habit builds fluency fast",
+      "spanish": "Este hábito, crea fluidez rápido",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T21:54:57.031902"
+    },
+    {
+      "english": "The secret? Use real everyday words",
+      "spanish": "El secreto: usa palabras reales",
+      "category": "Positive Life",
+      "generated_at": "2026-07-23T21:54:57.031923"
     }
   ],
   "used_english": [
@@ -16647,7 +16677,12 @@
     "the secret? ask “qué tal”, repeat",
     "stop being shy, just say “hola”",
     "this tiny swap boosts your confidence",
-    "your future fluency starts with “voy”"
+    "your future fluency starts with “voy”",
+    "stop fearing mistakes, try anyway",
+    "never wait, speak one sentence",
+    "never overthink, just repeat softly",
+    "this tiny habit builds fluency fast",
+    "the secret? use real everyday words"
   ],
-  "last_updated": "2026-07-23T20:16:39.040835"
+  "last_updated": "2026-07-23T21:54:57.031924"
 }
