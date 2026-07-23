@@ -14237,6 +14237,36 @@
       "spanish": "No te rindas, practica “te entiendo”",
       "category": "Hope",
       "generated_at": "2026-07-23T18:21:34.597030"
+    },
+    {
+      "english": "Never chase perfection, say “asi va”",
+      "spanish": "No persigas perfección, di “así va”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T20:16:39.040730"
+    },
+    {
+      "english": "The secret? Ask “qué tal”, repeat",
+      "spanish": "El secreto, pregunta “¿qué tal?”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T20:16:39.040764"
+    },
+    {
+      "english": "Stop being shy, just say “hola”",
+      "spanish": "Deja la vergüenza, solo di “hola”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T20:16:39.040788"
+    },
+    {
+      "english": "This tiny swap boosts your confidence",
+      "spanish": "Este cambio sube tu confianza",
+      "category": "Hope",
+      "generated_at": "2026-07-23T20:16:39.040811"
+    },
+    {
+      "english": "Your future fluency starts with “voy”",
+      "spanish": "Tu fluidez futura empieza con “voy”",
+      "category": "Hope",
+      "generated_at": "2026-07-23T20:16:39.040833"
     }
   ],
   "used_english": [
@@ -16612,7 +16642,12 @@
     "never apologize, just use “va bien”",
     "this is why fluency starts tonight",
     "never wait, say “ahora mismo”",
-    "never quit, practice “te entiendo” daily"
+    "never quit, practice “te entiendo” daily",
+    "never chase perfection, say “asi va”",
+    "the secret? ask “qué tal”, repeat",
+    "stop being shy, just say “hola”",
+    "this tiny swap boosts your confidence",
+    "your future fluency starts with “voy”"
   ],
-  "last_updated": "2026-07-23T18:21:34.597032"
+  "last_updated": "2026-07-23T20:16:39.040835"
 }
