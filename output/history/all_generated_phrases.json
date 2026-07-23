@@ -14147,6 +14147,36 @@
       "spanish": "El secreto, cambia “sí” por “claro”",
       "category": "Positive Life",
       "generated_at": "2026-07-23T13:35:59.877473"
+    },
+    {
+      "english": "Stop saying thank you, do this",
+      "spanish": "Deja de decir gracias, haz esto",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T15:10:26.808806"
+    },
+    {
+      "english": "Never let kindness wait, act now",
+      "spanish": "No dejes para mañana, hazlo ya",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T15:10:26.808850"
+    },
+    {
+      "english": "This is why “perdón” saves friendships",
+      "spanish": "Por eso, “perdón” salva amistades",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T15:10:26.808874"
+    },
+    {
+      "english": "The secret? Tell them “te apoyo”",
+      "spanish": "El secreto, diles “te apoyo”",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T15:10:26.808897"
+    },
+    {
+      "english": "Never underestimate “me importas,” use it",
+      "spanish": "No subestimes “me importas”, úsalo",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T15:10:26.808917"
     }
   ],
   "used_english": [
@@ -16507,7 +16537,12 @@
     "never go silent, say “tranquilo”",
     "stop memorizing, build one mini story",
     "this is why “me gusta” lands",
-    "the secret, replace “sí” with “claro”"
+    "the secret, replace “sí” with “claro”",
+    "stop saying thank you, do this",
+    "never let kindness wait, act now",
+    "this is why “perdón” saves friendships",
+    "the secret? tell them “te apoyo”",
+    "never underestimate “me importas,” use it"
   ],
-  "last_updated": "2026-07-23T13:35:59.877475"
+  "last_updated": "2026-07-23T15:10:26.808919"
 }
