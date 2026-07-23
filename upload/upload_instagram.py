@@ -205,31 +205,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         delete_github_temp_file(repo, token, remote_path, branch)
         
         
-    # Auto-upload as Story too (same video)
-    if not is_story:
-        try:
-            print("[instagram] Also uploading as Story...")
-            story_params = {'media_type': 'STORIES', 'video_url': video_url, 'access_token': access_token}
-            sr = requests.post(f"{api_base}/{ig_user_id}/media", params=story_params, timeout=60)
-            if sr.status_code == 200:
-                sc_id = sr.json().get('id')
-                time.sleep(5)
-                # Check story status
-                for _ in range(6):
-                    ssr = requests.get(f"{api_base}/{sc_id}", params={'fields': 'status_code,status', 'access_token': access_token}, timeout=30)
-                    ssc = ssr.json().get('status_code') or ssr.json().get('status', 'UNKNOWN')
-                    if ssc == 'FINISHED':
-                        sp = requests.post(f"{api_base}/{ig_user_id}/media_publish", params={'creation_id': sc_id, 'access_token': access_token}, timeout=60)
-                        if sp.status_code == 200:
-                            print(f"[instagram] Story published! Media ID: {sp.json().get('id')}")
-                        break
-                    elif ssc == 'ERROR':
-                        break
-                    time.sleep(10)
-        except Exception as e:
-            print(f"[instagram] Story upload skipped: {e}")
-
-        return {'id': media_id, 'platform': 'instagram', 'status': 'success'}
+    
         
     except Exception as e:
         print(f"[instagram] Error: {e}")
