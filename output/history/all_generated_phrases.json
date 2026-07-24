@@ -14387,6 +14387,36 @@
       "spanish": "La frase secreta es “está bien”",
       "category": "Confidence",
       "generated_at": "2026-07-24T16:42:51.861374"
+    },
+    {
+      "english": "Never say 'fine', try 'I feel'",
+      "spanish": "Nunca digas 'bien', di 'me siento'",
+      "category": "Joy",
+      "generated_at": "2026-07-24T18:17:23.690383"
+    },
+    {
+      "english": "This tiny word unlocks warmth",
+      "spanish": "Esta palabra abre cariño",
+      "category": "Joy",
+      "generated_at": "2026-07-24T18:17:23.690433"
+    },
+    {
+      "english": "Never start with long sentences",
+      "spanish": "Nunca empieces con frases largas",
+      "category": "Joy",
+      "generated_at": "2026-07-24T18:17:23.690456"
+    },
+    {
+      "english": "This is why 'aquí' helps fast",
+      "spanish": "Por eso, 'aquí' te salva",
+      "category": "Joy",
+      "generated_at": "2026-07-24T18:17:23.690478"
+    },
+    {
+      "english": "The secret? Swap doubt for 'voy'",
+      "spanish": "El secreto, cambia duda por 'voy'",
+      "category": "Joy",
+      "generated_at": "2026-07-24T18:17:23.690501"
     }
   ],
   "used_english": [
@@ -16787,7 +16817,12 @@
     "stop apologizing, say “dime” first",
     "this fixes confidence, ask “cuánto cuesta”",
     "stop guessing words, use one verb",
-    "the secret phrase is “está bien”"
+    "the secret phrase is “está bien”",
+    "never say 'fine', try 'i feel'",
+    "this tiny word unlocks warmth",
+    "never start with long sentences",
+    "this is why 'aquí' helps fast",
+    "the secret? swap doubt for 'voy'"
   ],
-  "last_updated": "2026-07-24T16:42:51.861377"
+  "last_updated": "2026-07-24T18:17:23.690503"
 }
