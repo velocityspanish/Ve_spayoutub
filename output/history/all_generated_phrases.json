@@ -14417,6 +14417,12 @@
       "spanish": "El secreto, cambia duda por 'voy'",
       "category": "Joy",
       "generated_at": "2026-07-24T18:17:23.690501"
+    },
+    {
+      "english": "Why wise people stay quiet.",
+      "spanish": "Por qué la gente sabia calla.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-24T21:05:47.231491"
     }
   ],
   "used_english": [
@@ -16822,7 +16828,8 @@
     "this tiny word unlocks warmth",
     "never start with long sentences",
     "this is why 'aquí' helps fast",
-    "the secret? swap doubt for 'voy'"
+    "the secret? swap doubt for 'voy'",
+    "why wise people stay quiet."
   ],
-  "last_updated": "2026-07-24T18:17:23.690503"
+  "last_updated": "2026-07-24T21:05:47.231500"
 }
