@@ -14357,6 +14357,36 @@
       "spanish": "Este mini triunfo crea confianza rápido",
       "category": "Success",
       "generated_at": "2026-07-24T14:57:54.149243"
+    },
+    {
+      "english": "Never say “I’m lost”, try “estoy aquí”",
+      "spanish": "Nunca digas “estoy perdido”, prueba “estoy aquí”",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T16:42:51.861271"
+    },
+    {
+      "english": "Stop apologizing, say “dime” first",
+      "spanish": "Deja de pedir perdón, di “dime” primero",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T16:42:51.861306"
+    },
+    {
+      "english": "This fixes confidence, ask “cuánto cuesta”",
+      "spanish": "Esto arregla tu seguridad, “¿cuánto cuesta?”",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T16:42:51.861327"
+    },
+    {
+      "english": "Stop guessing words, use one verb",
+      "spanish": "Deja de adivinar, usa un verbo",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T16:42:51.861351"
+    },
+    {
+      "english": "The secret phrase is “está bien”",
+      "spanish": "La frase secreta es “está bien”",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T16:42:51.861374"
     }
   ],
   "used_english": [
@@ -16752,7 +16782,12 @@
     "the secret, add 'please' softly",
     "stop overexplaining, say one fact",
     "never fear 'no', it frees you",
-    "this tiny win builds confidence fast"
+    "this tiny win builds confidence fast",
+    "never say “i’m lost”, try “estoy aquí”",
+    "stop apologizing, say “dime” first",
+    "this fixes confidence, ask “cuánto cuesta”",
+    "stop guessing words, use one verb",
+    "the secret phrase is “está bien”"
   ],
-  "last_updated": "2026-07-24T14:57:54.149245"
+  "last_updated": "2026-07-24T16:42:51.861377"
 }
