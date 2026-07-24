@@ -14327,6 +14327,36 @@
       "spanish": "Por eso, 'voy a' gana",
       "category": "Strength",
       "generated_at": "2026-07-24T07:18:45.291619"
+    },
+    {
+      "english": "Stop memorizing, use real questions",
+      "spanish": "Deja memorizar, usa preguntas reales",
+      "category": "Success",
+      "generated_at": "2026-07-24T14:57:54.149146"
+    },
+    {
+      "english": "The secret, add 'please' softly",
+      "spanish": "El secreto, agrega 'por favor' suave",
+      "category": "Success",
+      "generated_at": "2026-07-24T14:57:54.149178"
+    },
+    {
+      "english": "Stop overexplaining, say one fact",
+      "spanish": "No expliques tanto, di un hecho",
+      "category": "Success",
+      "generated_at": "2026-07-24T14:57:54.149201"
+    },
+    {
+      "english": "Never fear 'no', it frees you",
+      "spanish": "No temas el 'no', te libera",
+      "category": "Success",
+      "generated_at": "2026-07-24T14:57:54.149222"
+    },
+    {
+      "english": "This tiny win builds confidence fast",
+      "spanish": "Este mini triunfo crea confianza rápido",
+      "category": "Success",
+      "generated_at": "2026-07-24T14:57:54.149243"
     }
   ],
   "used_english": [
@@ -16717,7 +16747,12 @@
     "the secret? add 'me' to everything",
     "stop freezing, say 'lo sé'",
     "never rush verbs, pause, then go",
-    "this is why 'voy a' wins"
+    "this is why 'voy a' wins",
+    "stop memorizing, use real questions",
+    "the secret, add 'please' softly",
+    "stop overexplaining, say one fact",
+    "never fear 'no', it frees you",
+    "this tiny win builds confidence fast"
   ],
-  "last_updated": "2026-07-24T07:18:45.291624"
+  "last_updated": "2026-07-24T14:57:54.149245"
 }
