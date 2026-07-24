@@ -14297,6 +14297,36 @@
       "spanish": "El secreto: usa palabras reales",
       "category": "Positive Life",
       "generated_at": "2026-07-23T21:54:57.031923"
+    },
+    {
+      "english": "Never say 'tengo', use 'traigo'",
+      "spanish": "Nunca digas 'tengo', di 'traigo'",
+      "category": "Strength",
+      "generated_at": "2026-07-24T07:18:45.291525"
+    },
+    {
+      "english": "The secret? Add 'me' to everything",
+      "spanish": "El secreto, pon 'me' en todo",
+      "category": "Strength",
+      "generated_at": "2026-07-24T07:18:45.291556"
+    },
+    {
+      "english": "Stop freezing, say 'lo sé'",
+      "spanish": "Deja el bloqueo, di 'lo sé'",
+      "category": "Strength",
+      "generated_at": "2026-07-24T07:18:45.291577"
+    },
+    {
+      "english": "Never rush verbs, pause, then go",
+      "spanish": "No corras, pausa, y sigue",
+      "category": "Strength",
+      "generated_at": "2026-07-24T07:18:45.291600"
+    },
+    {
+      "english": "This is why 'voy a' wins",
+      "spanish": "Por eso, 'voy a' gana",
+      "category": "Strength",
+      "generated_at": "2026-07-24T07:18:45.291619"
     }
   ],
   "used_english": [
@@ -16682,7 +16712,12 @@
     "never wait, speak one sentence",
     "never overthink, just repeat softly",
     "this tiny habit builds fluency fast",
-    "the secret? use real everyday words"
+    "the secret? use real everyday words",
+    "never say 'tengo', use 'traigo'",
+    "the secret? add 'me' to everything",
+    "stop freezing, say 'lo sé'",
+    "never rush verbs, pause, then go",
+    "this is why 'voy a' wins"
   ],
-  "last_updated": "2026-07-23T21:54:57.031924"
+  "last_updated": "2026-07-24T07:18:45.291624"
 }
