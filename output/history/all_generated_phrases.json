@@ -14453,6 +14453,36 @@
       "spanish": "Nunca te quedes, di “no entiendo”",
       "category": "Balance",
       "generated_at": "2026-07-25T14:38:56.832657"
+    },
+    {
+      "english": "The secret? Start with 'voy' daily",
+      "spanish": "El secreto, empieza con 'voy' diario",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T16:04:48.158515"
+    },
+    {
+      "english": "Stop perfecting, sound it out fast",
+      "spanish": "No perfecciones, suéltalo ya",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T16:04:48.158549"
+    },
+    {
+      "english": "Never translate, borrow their rhythm",
+      "spanish": "No traduzcas, copia su ritmo",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T16:04:48.158571"
+    },
+    {
+      "english": "This one question builds real fluency",
+      "spanish": "Esta pregunta crea fluidez real",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T16:04:48.158593"
+    },
+    {
+      "english": "Never quit verbs, use today’s one",
+      "spanish": "No dejes los verbos, usa uno hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-07-25T16:04:48.158616"
     }
   ],
   "used_english": [
@@ -16864,7 +16894,12 @@
     "the secret, use “¿puedes?” today",
     "this question instantly improves your spanish",
     "stop translating, start copying intonation",
-    "never freeze, say “no entiendo”"
+    "never freeze, say “no entiendo”",
+    "the secret? start with 'voy' daily",
+    "stop perfecting, sound it out fast",
+    "never translate, borrow their rhythm",
+    "this one question builds real fluency",
+    "never quit verbs, use today’s one"
   ],
-  "last_updated": "2026-07-25T14:38:56.832659"
+  "last_updated": "2026-07-25T16:04:48.158618"
 }
