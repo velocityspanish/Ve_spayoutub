@@ -14543,6 +14543,36 @@
       "spanish": "No te rindas, cambia el verbo.",
       "category": "Motivation",
       "generated_at": "2026-07-25T20:12:47.685639"
+    },
+    {
+      "english": "Never be silent, say you care",
+      "spanish": "Nunca te quedes callado, di que te importa",
+      "category": "Kindness",
+      "generated_at": "2026-07-25T21:42:39.514418"
+    },
+    {
+      "english": "Stop scrolling, brighten their day",
+      "spanish": "Deja de scrollear, alegra su día",
+      "category": "Kindness",
+      "generated_at": "2026-07-25T21:42:39.514469"
+    },
+    {
+      "english": "The secret, ask, 'how can I help?'",
+      "spanish": "El secreto, pregunta: «¿en qué ayudo?»",
+      "category": "Kindness",
+      "generated_at": "2026-07-25T21:42:39.514493"
+    },
+    {
+      "english": "Never wait, send a warm 'gracias'",
+      "spanish": "Nunca esperes, manda un «gracias» cálido",
+      "category": "Kindness",
+      "generated_at": "2026-07-25T21:42:39.514516"
+    },
+    {
+      "english": "What nobody tells you, compliment effort",
+      "spanish": "Lo que nadie dice, valora su esfuerzo",
+      "category": "Kindness",
+      "generated_at": "2026-07-25T21:42:39.514536"
     }
   ],
   "used_english": [
@@ -16969,7 +16999,12 @@
     "the secret? copy real pauses.",
     "stop asking “how do i say”.",
     "this one habit builds courage fast.",
-    "never quit, just change the verb."
+    "never quit, just change the verb.",
+    "never be silent, say you care",
+    "stop scrolling, brighten their day",
+    "the secret, ask, 'how can i help?'",
+    "never wait, send a warm 'gracias'",
+    "what nobody tells you, compliment effort"
   ],
-  "last_updated": "2026-07-25T20:12:47.685641"
+  "last_updated": "2026-07-25T21:42:39.514538"
 }
