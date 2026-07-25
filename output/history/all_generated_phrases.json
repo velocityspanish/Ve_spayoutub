@@ -14513,6 +14513,36 @@
       "spanish": "Por eso tu “perdón” desaparece",
       "category": "Confidence",
       "generated_at": "2026-07-25T17:58:34.906943"
+    },
+    {
+      "english": "Never say “later” in Spanish.",
+      "spanish": "Nunca digas “luego” en español.",
+      "category": "Motivation",
+      "generated_at": "2026-07-25T20:12:47.685540"
+    },
+    {
+      "english": "The secret? Copy real pauses.",
+      "spanish": "El secreto, copia pausas reales.",
+      "category": "Motivation",
+      "generated_at": "2026-07-25T20:12:47.685572"
+    },
+    {
+      "english": "Stop asking “how do I say”.",
+      "spanish": "Deja de preguntar “cómo lo digo”.",
+      "category": "Motivation",
+      "generated_at": "2026-07-25T20:12:47.685593"
+    },
+    {
+      "english": "This one habit builds courage fast.",
+      "spanish": "Este hábito crea valor, rápido.",
+      "category": "Motivation",
+      "generated_at": "2026-07-25T20:12:47.685616"
+    },
+    {
+      "english": "Never quit, just change the verb.",
+      "spanish": "No te rindas, cambia el verbo.",
+      "category": "Motivation",
+      "generated_at": "2026-07-25T20:12:47.685639"
     }
   ],
   "used_english": [
@@ -16934,7 +16964,12 @@
     "this one question unlocks fast answers",
     "never freeze, say “¿cómo funciona?”",
     "stop translating, repeat their last word",
-    "this is why your “sorry” disappears"
+    "this is why your “sorry” disappears",
+    "never say “later” in spanish.",
+    "the secret? copy real pauses.",
+    "stop asking “how do i say”.",
+    "this one habit builds courage fast.",
+    "never quit, just change the verb."
   ],
-  "last_updated": "2026-07-25T17:58:34.906945"
+  "last_updated": "2026-07-25T20:12:47.685641"
 }
