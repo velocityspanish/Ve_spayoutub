@@ -14483,6 +14483,36 @@
       "spanish": "No dejes los verbos, usa uno hoy",
       "category": "Inspiration",
       "generated_at": "2026-07-25T16:04:48.158616"
+    },
+    {
+      "english": "Never hide, use “me interesa”",
+      "spanish": "Nunca te escondas, di “me interesa”",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T17:58:34.906863"
+    },
+    {
+      "english": "This one question unlocks fast answers",
+      "spanish": "Esta pregunta abre respuestas rápidas",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T17:58:34.906889"
+    },
+    {
+      "english": "Never freeze, say “¿cómo funciona?”",
+      "spanish": "Nunca te quedes, “¿cómo funciona?”",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T17:58:34.906909"
+    },
+    {
+      "english": "Stop translating, repeat their last word",
+      "spanish": "No traduzcas, repite su última palabra",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T17:58:34.906925"
+    },
+    {
+      "english": "This is why your “sorry” disappears",
+      "spanish": "Por eso tu “perdón” desaparece",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T17:58:34.906943"
     }
   ],
   "used_english": [
@@ -16899,7 +16929,12 @@
     "stop perfecting, sound it out fast",
     "never translate, borrow their rhythm",
     "this one question builds real fluency",
-    "never quit verbs, use today’s one"
+    "never quit verbs, use today’s one",
+    "never hide, use “me interesa”",
+    "this one question unlocks fast answers",
+    "never freeze, say “¿cómo funciona?”",
+    "stop translating, repeat their last word",
+    "this is why your “sorry” disappears"
   ],
-  "last_updated": "2026-07-25T16:04:48.158618"
+  "last_updated": "2026-07-25T17:58:34.906945"
 }
