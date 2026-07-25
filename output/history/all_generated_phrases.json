@@ -14423,6 +14423,36 @@
       "spanish": "Por qué la gente sabia calla.",
       "category": "Wisdom",
       "generated_at": "2026-07-24T21:05:47.231491"
+    },
+    {
+      "english": "Never panic, ask for the word",
+      "spanish": "Nunca entres en pánico, pide la palabra",
+      "category": "Balance",
+      "generated_at": "2026-07-25T14:38:56.832561"
+    },
+    {
+      "english": "The secret, use “¿puedes?” today",
+      "spanish": "El secreto, usa “¿puedes?” hoy",
+      "category": "Balance",
+      "generated_at": "2026-07-25T14:38:56.832594"
+    },
+    {
+      "english": "This question instantly improves your Spanish",
+      "spanish": "Esta pregunta mejora tu español",
+      "category": "Balance",
+      "generated_at": "2026-07-25T14:38:56.832615"
+    },
+    {
+      "english": "Stop translating, start copying intonation",
+      "spanish": "No traduzcas, copia la entonación",
+      "category": "Balance",
+      "generated_at": "2026-07-25T14:38:56.832635"
+    },
+    {
+      "english": "Never freeze, say “no entiendo”",
+      "spanish": "Nunca te quedes, di “no entiendo”",
+      "category": "Balance",
+      "generated_at": "2026-07-25T14:38:56.832657"
     }
   ],
   "used_english": [
@@ -16829,7 +16859,12 @@
     "never start with long sentences",
     "this is why 'aquí' helps fast",
     "the secret? swap doubt for 'voy'",
-    "why wise people stay quiet."
+    "why wise people stay quiet.",
+    "never panic, ask for the word",
+    "the secret, use “¿puedes?” today",
+    "this question instantly improves your spanish",
+    "stop translating, start copying intonation",
+    "never freeze, say “no entiendo”"
   ],
-  "last_updated": "2026-07-24T21:05:47.231500"
+  "last_updated": "2026-07-25T14:38:56.832659"
 }
