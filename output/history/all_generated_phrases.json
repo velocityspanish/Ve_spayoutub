@@ -14639,6 +14639,36 @@
       "spanish": "Deja de traducir, copia su velocidad",
       "category": "Strength",
       "generated_at": "2026-07-26T18:00:58.104189"
+    },
+    {
+      "english": "Stop asking, say “¿vale?”",
+      "spanish": "Deja de preguntar, di “¿vale?”",
+      "category": "Wisdom",
+      "generated_at": "2026-07-26T20:11:33.227506"
+    },
+    {
+      "english": "Stop quitting, repeat one word",
+      "spanish": "No te rindas, repite una palabra",
+      "category": "Wisdom",
+      "generated_at": "2026-07-26T20:11:33.227542"
+    },
+    {
+      "english": "Never fear silence, add “sí”",
+      "spanish": "No temas el silencio, pon “sí”",
+      "category": "Wisdom",
+      "generated_at": "2026-07-26T20:11:33.227564"
+    },
+    {
+      "english": "Never guess verbs, grab the subject",
+      "spanish": "No adivines verbos, agarra el sujeto",
+      "category": "Wisdom",
+      "generated_at": "2026-07-26T20:11:33.227588"
+    },
+    {
+      "english": "The secret phrase, “te entiendo”",
+      "spanish": "La frase clave, “te entiendo”",
+      "category": "Wisdom",
+      "generated_at": "2026-07-26T20:11:33.227612"
     }
   ],
   "used_english": [
@@ -17081,7 +17111,12 @@
     "never overthink, speak one line",
     "the secret, tag questions in spanish",
     "stop searching, answer right away",
-    "stop translating, copy their speed"
+    "stop translating, copy their speed",
+    "stop asking, say “¿vale?”",
+    "stop quitting, repeat one word",
+    "never fear silence, add “sí”",
+    "never guess verbs, grab the subject",
+    "the secret phrase, “te entiendo”"
   ],
-  "last_updated": "2026-07-26T18:00:58.104191"
+  "last_updated": "2026-07-26T20:11:33.227614"
 }
