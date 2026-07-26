@@ -14669,6 +14669,36 @@
       "spanish": "La frase clave, “te entiendo”",
       "category": "Wisdom",
       "generated_at": "2026-07-26T20:11:33.227612"
+    },
+    {
+      "english": "Never ask for grammar, ask meaning",
+      "spanish": "Nunca pidas gramática, pide significado",
+      "category": "Hope",
+      "generated_at": "2026-07-26T21:46:16.554023"
+    },
+    {
+      "english": "Stop chasing perfection, sound human",
+      "spanish": "Deja la perfección, suena humano",
+      "category": "Hope",
+      "generated_at": "2026-07-26T21:46:16.554068"
+    },
+    {
+      "english": "This tiny phrase gets instant respect",
+      "spanish": "Esta frase pequeña gana respeto",
+      "category": "Hope",
+      "generated_at": "2026-07-26T21:46:16.554092"
+    },
+    {
+      "english": "The secret is one word: 'oye'",
+      "spanish": "El secreto es una palabra: 'oye'",
+      "category": "Hope",
+      "generated_at": "2026-07-26T21:46:16.554115"
+    },
+    {
+      "english": "Stop studying alone, ask real questions",
+      "spanish": "Deja de estudiar solo, pregunta real",
+      "category": "Hope",
+      "generated_at": "2026-07-26T21:46:16.554138"
     }
   ],
   "used_english": [
@@ -17116,7 +17146,12 @@
     "stop quitting, repeat one word",
     "never fear silence, add “sí”",
     "never guess verbs, grab the subject",
-    "the secret phrase, “te entiendo”"
+    "the secret phrase, “te entiendo”",
+    "never ask for grammar, ask meaning",
+    "stop chasing perfection, sound human",
+    "this tiny phrase gets instant respect",
+    "the secret is one word: 'oye'",
+    "stop studying alone, ask real questions"
   ],
-  "last_updated": "2026-07-26T20:11:33.227614"
+  "last_updated": "2026-07-26T21:46:16.554141"
 }
