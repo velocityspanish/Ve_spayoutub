@@ -14603,6 +14603,12 @@
       "spanish": "La frase secreta, \"lo intento\"",
       "category": "Perseverance",
       "generated_at": "2026-07-26T14:39:35.934510"
+    },
+    {
+      "english": "Mind tool. Master it.",
+      "spanish": "Mente herramienta. Domínala.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-26T16:04:14.215720"
     }
   ],
   "used_english": [
@@ -17039,7 +17045,8 @@
     "stop chasing perfect accents, be clear",
     "never study tonight, speak for one",
     "this tiny script saves your convo",
-    "the secret phrase? \"lo intento\""
+    "the secret phrase? \"lo intento\"",
+    "mind tool. master it."
   ],
-  "last_updated": "2026-07-26T14:39:35.934512"
+  "last_updated": "2026-07-26T16:04:14.215731"
 }
