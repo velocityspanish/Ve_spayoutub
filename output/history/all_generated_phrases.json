@@ -14573,6 +14573,36 @@
       "spanish": "Lo que nadie dice, valora su esfuerzo",
       "category": "Kindness",
       "generated_at": "2026-07-25T21:42:39.514536"
+    },
+    {
+      "english": "Stop saying \"maybe\", say \"sí\"",
+      "spanish": "Deja de decir \"quizás\", di \"sí\"",
+      "category": "Perseverance",
+      "generated_at": "2026-07-26T14:39:35.934429"
+    },
+    {
+      "english": "Stop chasing perfect accents, be clear",
+      "spanish": "Deja de perseguir acentos perfectos, sé claro",
+      "category": "Perseverance",
+      "generated_at": "2026-07-26T14:39:35.934455"
+    },
+    {
+      "english": "Never study tonight, speak for one",
+      "spanish": "Nunca estudies esta noche, habla uno",
+      "category": "Perseverance",
+      "generated_at": "2026-07-26T14:39:35.934474"
+    },
+    {
+      "english": "This tiny script saves your convo",
+      "spanish": "Este guion salva tu conversación",
+      "category": "Perseverance",
+      "generated_at": "2026-07-26T14:39:35.934492"
+    },
+    {
+      "english": "The secret phrase? \"Lo intento\"",
+      "spanish": "La frase secreta, \"lo intento\"",
+      "category": "Perseverance",
+      "generated_at": "2026-07-26T14:39:35.934510"
     }
   ],
   "used_english": [
@@ -17004,7 +17034,12 @@
     "stop scrolling, brighten their day",
     "the secret, ask, 'how can i help?'",
     "never wait, send a warm 'gracias'",
-    "what nobody tells you, compliment effort"
+    "what nobody tells you, compliment effort",
+    "stop saying \"maybe\", say \"sí\"",
+    "stop chasing perfect accents, be clear",
+    "never study tonight, speak for one",
+    "this tiny script saves your convo",
+    "the secret phrase? \"lo intento\""
   ],
-  "last_updated": "2026-07-25T21:42:39.514538"
+  "last_updated": "2026-07-26T14:39:35.934512"
 }
