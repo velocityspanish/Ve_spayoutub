@@ -14609,6 +14609,36 @@
       "spanish": "Mente herramienta. Domínala.",
       "category": "Mindfulness",
       "generated_at": "2026-07-26T16:04:14.215720"
+    },
+    {
+      "english": "Never say 'I want', say 'I need'",
+      "spanish": "Nunca digas 'quiero', di 'necesito'",
+      "category": "Strength",
+      "generated_at": "2026-07-26T18:00:58.104088"
+    },
+    {
+      "english": "Never overthink, speak one line",
+      "spanish": "No pienses tanto, di una línea",
+      "category": "Strength",
+      "generated_at": "2026-07-26T18:00:58.104121"
+    },
+    {
+      "english": "The secret, tag questions in Spanish",
+      "spanish": "El secreto, pon etiquetas de pregunta",
+      "category": "Strength",
+      "generated_at": "2026-07-26T18:00:58.104144"
+    },
+    {
+      "english": "Stop searching, answer right away",
+      "spanish": "Para de buscar, responde ya",
+      "category": "Strength",
+      "generated_at": "2026-07-26T18:00:58.104166"
+    },
+    {
+      "english": "Stop translating, copy their speed",
+      "spanish": "Deja de traducir, copia su velocidad",
+      "category": "Strength",
+      "generated_at": "2026-07-26T18:00:58.104189"
     }
   ],
   "used_english": [
@@ -17046,7 +17076,12 @@
     "never study tonight, speak for one",
     "this tiny script saves your convo",
     "the secret phrase? \"lo intento\"",
-    "mind tool. master it."
+    "mind tool. master it.",
+    "never say 'i want', say 'i need'",
+    "never overthink, speak one line",
+    "the secret, tag questions in spanish",
+    "stop searching, answer right away",
+    "stop translating, copy their speed"
   ],
-  "last_updated": "2026-07-26T16:04:14.215731"
+  "last_updated": "2026-07-26T18:00:58.104191"
 }
