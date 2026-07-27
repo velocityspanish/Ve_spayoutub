@@ -14699,6 +14699,36 @@
       "spanish": "Deja de estudiar solo, pregunta real",
       "category": "Hope",
       "generated_at": "2026-07-26T21:46:16.554138"
+    },
+    {
+      "english": "Never fear compliments, take them",
+      "spanish": "Nunca temas halagos, recíbelos",
+      "category": "Positive Life",
+      "generated_at": "2026-07-27T15:43:28.831863"
+    },
+    {
+      "english": "Never quit verbs, use them daily",
+      "spanish": "No dejes verbos, úsalos diario",
+      "category": "Positive Life",
+      "generated_at": "2026-07-27T15:43:28.831897"
+    },
+    {
+      "english": "This is your fastest Spanish upgrade",
+      "spanish": "Este es tu atajo para mejorar",
+      "category": "Positive Life",
+      "generated_at": "2026-07-27T15:43:28.831921"
+    },
+    {
+      "english": "Never say 'someday', say 'hoy'",
+      "spanish": "Nunca digas 'algún día', di 'hoy'",
+      "category": "Positive Life",
+      "generated_at": "2026-07-27T15:43:28.831944"
+    },
+    {
+      "english": "Stop hiding, use 'estoy aquí'",
+      "spanish": "Deja esconderte, usa 'estoy aquí'",
+      "category": "Positive Life",
+      "generated_at": "2026-07-27T15:43:28.831967"
     }
   ],
   "used_english": [
@@ -17151,7 +17181,12 @@
     "stop chasing perfection, sound human",
     "this tiny phrase gets instant respect",
     "the secret is one word: 'oye'",
-    "stop studying alone, ask real questions"
+    "stop studying alone, ask real questions",
+    "never fear compliments, take them",
+    "never quit verbs, use them daily",
+    "this is your fastest spanish upgrade",
+    "never say 'someday', say 'hoy'",
+    "stop hiding, use 'estoy aquí'"
   ],
-  "last_updated": "2026-07-26T21:46:16.554141"
+  "last_updated": "2026-07-27T15:43:28.831969"
 }
