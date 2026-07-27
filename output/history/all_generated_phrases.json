@@ -14789,6 +14789,36 @@
       "spanish": "Rompe estas reglas para ser creativo.",
       "category": "Creativity",
       "generated_at": "2026-07-27T18:24:04.637966"
+    },
+    {
+      "english": "This practice changed my life.",
+      "spanish": "Esta práctica cambió mi vida.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-27T20:26:15.574756"
+    },
+    {
+      "english": "Stop scrolling. Count your blessings.",
+      "spanish": "Deja de desplazarte. Cuenta bendiciones.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-27T20:26:15.574805"
+    },
+    {
+      "english": "What grateful people do daily.",
+      "spanish": "Lo que hace la gente agradecida diariamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-27T20:26:15.574833"
+    },
+    {
+      "english": "The fastest way to feel abundant.",
+      "spanish": "La forma más rápida de sentirse abundante.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-27T20:26:15.574860"
+    },
+    {
+      "english": "Say this every morning for 30 days.",
+      "spanish": "Di esto cada mañana por 30 días.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-27T20:26:15.574887"
     }
   ],
   "used_english": [
@@ -17256,7 +17286,12 @@
     "the secret to endless creative ideas.",
     "what artists know that others don't.",
     "your creativity is hiding here.",
-    "break these rules to be creative."
+    "break these rules to be creative.",
+    "this practice changed my life.",
+    "stop scrolling. count your blessings.",
+    "what grateful people do daily.",
+    "the fastest way to feel abundant.",
+    "say this every morning for 30 days."
   ],
-  "last_updated": "2026-07-27T18:24:04.637969"
+  "last_updated": "2026-07-27T20:26:15.574889"
 }
