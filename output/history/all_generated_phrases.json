@@ -14729,6 +14729,36 @@
       "spanish": "Deja esconderte, usa 'estoy aquí'",
       "category": "Positive Life",
       "generated_at": "2026-07-27T15:43:28.831967"
+    },
+    {
+      "english": "Never say nothing, use “eh”",
+      "spanish": "Nunca digas nada, usa “eh”",
+      "category": "Joy",
+      "generated_at": "2026-07-27T16:57:37.350519"
+    },
+    {
+      "english": "The secret? Add a tiny smile",
+      "spanish": "El secreto, pon una sonrisa",
+      "category": "Joy",
+      "generated_at": "2026-07-27T16:57:37.350547"
+    },
+    {
+      "english": "Stop “maybe”, choose “claro que sí”",
+      "spanish": "No “a lo mejor”, di “claro que sí”",
+      "category": "Joy",
+      "generated_at": "2026-07-27T16:57:37.350572"
+    },
+    {
+      "english": "This one word saves your sentence",
+      "spanish": "Una palabra salva tu frase",
+      "category": "Joy",
+      "generated_at": "2026-07-27T16:57:37.350595"
+    },
+    {
+      "english": "The secret, make it a question",
+      "spanish": "El secreto, conviértelo en pregunta",
+      "category": "Joy",
+      "generated_at": "2026-07-27T16:57:37.350617"
     }
   ],
   "used_english": [
@@ -17186,7 +17216,12 @@
     "never quit verbs, use them daily",
     "this is your fastest spanish upgrade",
     "never say 'someday', say 'hoy'",
-    "stop hiding, use 'estoy aquí'"
+    "stop hiding, use 'estoy aquí'",
+    "never say nothing, use “eh”",
+    "the secret? add a tiny smile",
+    "stop “maybe”, choose “claro que sí”",
+    "this one word saves your sentence",
+    "the secret, make it a question"
   ],
-  "last_updated": "2026-07-27T15:43:28.831969"
+  "last_updated": "2026-07-27T16:57:37.350619"
 }
