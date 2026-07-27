@@ -14759,6 +14759,36 @@
       "spanish": "El secreto, conviértelo en pregunta",
       "category": "Joy",
       "generated_at": "2026-07-27T16:57:37.350617"
+    },
+    {
+      "english": "Stop waiting for inspiration. Do.",
+      "spanish": "Deja de esperar inspiración. Haz.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T18:24:04.637869"
+    },
+    {
+      "english": "The secret to endless creative ideas.",
+      "spanish": "El secreto para ideas creativas infinitas.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T18:24:04.637897"
+    },
+    {
+      "english": "What artists know that others don't.",
+      "spanish": "Lo que los artistas saben otros no.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T18:24:04.637920"
+    },
+    {
+      "english": "Your creativity is hiding here.",
+      "spanish": "Tu creatividad se está escondiendo aquí.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T18:24:04.637943"
+    },
+    {
+      "english": "Break these rules to be creative.",
+      "spanish": "Rompe estas reglas para ser creativo.",
+      "category": "Creativity",
+      "generated_at": "2026-07-27T18:24:04.637966"
     }
   ],
   "used_english": [
@@ -17221,7 +17251,12 @@
     "the secret? add a tiny smile",
     "stop “maybe”, choose “claro que sí”",
     "this one word saves your sentence",
-    "the secret, make it a question"
+    "the secret, make it a question",
+    "stop waiting for inspiration. do.",
+    "the secret to endless creative ideas.",
+    "what artists know that others don't.",
+    "your creativity is hiding here.",
+    "break these rules to be creative."
   ],
-  "last_updated": "2026-07-27T16:57:37.350619"
+  "last_updated": "2026-07-27T18:24:04.637969"
 }
