@@ -14909,6 +14909,36 @@
       "spanish": "Urgente: di una frase hoy",
       "category": "Inspiration",
       "generated_at": "2026-07-28T20:17:59.736760"
+    },
+    {
+      "english": "Never say “I understand”, just respond",
+      "spanish": "Nunca digas “entiendo”, responde ya",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T21:54:06.996581"
+    },
+    {
+      "english": "This is why natives avoid “muy”",
+      "spanish": "Esto es por qué evitan “muy”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T21:54:06.996611"
+    },
+    {
+      "english": "The secret, ask with “para qué”",
+      "spanish": "El secreto, pregunta con “para qué”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T21:54:06.996634"
+    },
+    {
+      "english": "Never freeze, say “tengo una idea”",
+      "spanish": "No te congelas, di “tengo una idea”",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T21:54:06.996658"
+    },
+    {
+      "english": "This fixes small talk, instantly",
+      "spanish": "Esto arregla el small talk, ya",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T21:54:06.996682"
     }
   ],
   "used_english": [
@@ -17396,7 +17426,12 @@
     "your brain loves shortcuts, use chunks",
     "stop waiting for confidence, act first",
     "the secret is repetition, but alive",
-    "urgent: say one sentence today"
+    "urgent: say one sentence today",
+    "never say “i understand”, just respond",
+    "this is why natives avoid “muy”",
+    "the secret, ask with “para qué”",
+    "never freeze, say “tengo una idea”",
+    "this fixes small talk, instantly"
   ],
-  "last_updated": "2026-07-28T20:17:59.736762"
+  "last_updated": "2026-07-28T21:54:06.996684"
 }
