@@ -14879,6 +14879,36 @@
       "spanish": "Por qué no ves resultados.",
       "category": "Success",
       "generated_at": "2026-07-28T16:40:46.460853"
+    },
+    {
+      "english": "Never explain, just pause, breathe",
+      "spanish": "Nunca expliques, solo pausa, respira",
+      "category": "Inspiration",
+      "generated_at": "2026-07-28T20:17:59.736658"
+    },
+    {
+      "english": "Your brain loves shortcuts, use chunks",
+      "spanish": "Tu mente ama atajos, usa frases",
+      "category": "Inspiration",
+      "generated_at": "2026-07-28T20:17:59.736691"
+    },
+    {
+      "english": "Stop waiting for confidence, act first",
+      "spanish": "No esperes confianza, actúa primero",
+      "category": "Inspiration",
+      "generated_at": "2026-07-28T20:17:59.736713"
+    },
+    {
+      "english": "The secret is repetition, but alive",
+      "spanish": "El secreto es repetir, pero con vida",
+      "category": "Inspiration",
+      "generated_at": "2026-07-28T20:17:59.736737"
+    },
+    {
+      "english": "Urgent: say one sentence today",
+      "spanish": "Urgente: di una frase hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-07-28T20:17:59.736760"
     }
   ],
   "used_english": [
@@ -17361,7 +17391,12 @@
     "the one habit that changes everything.",
     "what successful people do before 8am.",
     "this mindset shift changes lives.",
-    "why you're not seeing results."
+    "why you're not seeing results.",
+    "never explain, just pause, breathe",
+    "your brain loves shortcuts, use chunks",
+    "stop waiting for confidence, act first",
+    "the secret is repetition, but alive",
+    "urgent: say one sentence today"
   ],
-  "last_updated": "2026-07-28T16:40:46.460855"
+  "last_updated": "2026-07-28T20:17:59.736762"
 }
