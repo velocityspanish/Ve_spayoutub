@@ -14849,6 +14849,36 @@
       "spanish": "Cicatrices prueba supervivencia. Lleva orgullo.",
       "category": "Strength",
       "generated_at": "2026-07-28T15:23:45.537502"
+    },
+    {
+      "english": "Stop this if you want success.",
+      "spanish": "Deja esto si quieres éxito.",
+      "category": "Success",
+      "generated_at": "2026-07-28T16:40:46.460764"
+    },
+    {
+      "english": "The one habit that changes everything.",
+      "spanish": "El hábito que lo cambia todo.",
+      "category": "Success",
+      "generated_at": "2026-07-28T16:40:46.460794"
+    },
+    {
+      "english": "What successful people do before 8am.",
+      "spanish": "Lo que hace la gente exitosa temprano.",
+      "category": "Success",
+      "generated_at": "2026-07-28T16:40:46.460814"
+    },
+    {
+      "english": "This mindset shift changes lives.",
+      "spanish": "Este cambio mental cambia vidas.",
+      "category": "Success",
+      "generated_at": "2026-07-28T16:40:46.460834"
+    },
+    {
+      "english": "Why you're not seeing results.",
+      "spanish": "Por qué no ves resultados.",
+      "category": "Success",
+      "generated_at": "2026-07-28T16:40:46.460853"
     }
   ],
   "used_english": [
@@ -17326,7 +17356,12 @@
     "this is how warriors made.",
     "stop apologizing for being powerful.",
     "the storm didn't break. refined.",
-    "your scars proof survival. wear proudly."
+    "your scars proof survival. wear proudly.",
+    "stop this if you want success.",
+    "the one habit that changes everything.",
+    "what successful people do before 8am.",
+    "this mindset shift changes lives.",
+    "why you're not seeing results."
   ],
-  "last_updated": "2026-07-28T15:23:45.537503"
+  "last_updated": "2026-07-28T16:40:46.460855"
 }
