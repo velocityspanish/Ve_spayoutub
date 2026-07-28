@@ -14819,6 +14819,36 @@
       "spanish": "Di esto cada mañana por 30 días.",
       "category": "Gratitude",
       "generated_at": "2026-07-27T20:26:15.574887"
+    },
+    {
+      "english": "You're stronger than realize. Here's proof.",
+      "spanish": "Eres más fuerte das cuenta. Prueba.",
+      "category": "Strength",
+      "generated_at": "2026-07-28T15:23:45.537421"
+    },
+    {
+      "english": "This is how warriors made.",
+      "spanish": "Así es como hacen guerreros.",
+      "category": "Strength",
+      "generated_at": "2026-07-28T15:23:45.537448"
+    },
+    {
+      "english": "Stop apologizing for being powerful.",
+      "spanish": "Deja disculparte por ser poderoso.",
+      "category": "Strength",
+      "generated_at": "2026-07-28T15:23:45.537467"
+    },
+    {
+      "english": "The storm didn't break. Refined.",
+      "spanish": "Tormenta no rompió. Refinó.",
+      "category": "Strength",
+      "generated_at": "2026-07-28T15:23:45.537485"
+    },
+    {
+      "english": "Your scars proof survival. Wear proudly.",
+      "spanish": "Cicatrices prueba supervivencia. Lleva orgullo.",
+      "category": "Strength",
+      "generated_at": "2026-07-28T15:23:45.537502"
     }
   ],
   "used_english": [
@@ -17291,7 +17321,12 @@
     "stop scrolling. count your blessings.",
     "what grateful people do daily.",
     "the fastest way to feel abundant.",
-    "say this every morning for 30 days."
+    "say this every morning for 30 days.",
+    "you're stronger than realize. here's proof.",
+    "this is how warriors made.",
+    "stop apologizing for being powerful.",
+    "the storm didn't break. refined.",
+    "your scars proof survival. wear proudly."
   ],
-  "last_updated": "2026-07-27T20:26:15.574889"
+  "last_updated": "2026-07-28T15:23:45.537503"
 }
