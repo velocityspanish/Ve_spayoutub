@@ -14969,6 +14969,36 @@
       "spanish": "Deja la perfección, comparte tu frase",
       "category": "Positive Life",
       "generated_at": "2026-07-29T15:09:27.968219"
+    },
+    {
+      "english": "Stop asking, say \"me too\"",
+      "spanish": "Deja de preguntar, di \"yo también\"",
+      "category": "Growth",
+      "generated_at": "2026-07-29T16:22:13.348224"
+    },
+    {
+      "english": "Never freeze, ask \"why?\"",
+      "spanish": "Nunca te bloquees, di \"¿por qué?\"",
+      "category": "Growth",
+      "generated_at": "2026-07-29T16:22:13.348255"
+    },
+    {
+      "english": "The secret, replace doubt with \"claro\"",
+      "spanish": "El secreto, cambia duda por \"claro\"",
+      "category": "Growth",
+      "generated_at": "2026-07-29T16:22:13.348278"
+    },
+    {
+      "english": "Stop scrolling, speak one word",
+      "spanish": "Deja de scrollear, di una palabra",
+      "category": "Growth",
+      "generated_at": "2026-07-29T16:22:13.348301"
+    },
+    {
+      "english": "Never apologize, say \"gracias\" instead",
+      "spanish": "No te disculpes, di \"gracias\"",
+      "category": "Growth",
+      "generated_at": "2026-07-29T16:22:13.348322"
     }
   ],
   "used_english": [
@@ -17466,7 +17496,12 @@
     "stop waiting, send one voice note",
     "this is why 'porque' boosts confidence",
     "the secret to calm conversations, slow down",
-    "stop perfection, share your imperfect sentence"
+    "stop perfection, share your imperfect sentence",
+    "stop asking, say \"me too\"",
+    "never freeze, ask \"why?\"",
+    "the secret, replace doubt with \"claro\"",
+    "stop scrolling, speak one word",
+    "never apologize, say \"gracias\" instead"
   ],
-  "last_updated": "2026-07-29T15:09:27.968221"
+  "last_updated": "2026-07-29T16:22:13.348324"
 }
