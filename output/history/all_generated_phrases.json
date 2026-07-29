@@ -15059,6 +15059,36 @@
       "spanish": "Urgente, arregla tu “perdón”",
       "category": "Friendship",
       "generated_at": "2026-07-29T20:14:46.322529"
+    },
+    {
+      "english": "Stop fearing mistakes, say it",
+      "spanish": "Deja el miedo, dilo",
+      "category": "Hope",
+      "generated_at": "2026-07-29T21:44:52.337333"
+    },
+    {
+      "english": "Stop overthinking, just start simple",
+      "spanish": "Deja de pensar, empieza simple",
+      "category": "Hope",
+      "generated_at": "2026-07-29T21:44:52.337368"
+    },
+    {
+      "english": "Never wait, ask one question",
+      "spanish": "Nunca esperes, pregunta una",
+      "category": "Hope",
+      "generated_at": "2026-07-29T21:44:52.337391"
+    },
+    {
+      "english": "The secret? Answer, don’t translate",
+      "spanish": "El secreto, responde, no traduzcas",
+      "category": "Hope",
+      "generated_at": "2026-07-29T21:44:52.337416"
+    },
+    {
+      "english": "This fixes your “umm” instantly",
+      "spanish": "Esto arregla tu “ehm” al instante",
+      "category": "Hope",
+      "generated_at": "2026-07-29T21:44:52.337440"
     }
   ],
   "used_english": [
@@ -17571,7 +17601,12 @@
     "this is why “¿qué tal?” wins",
     "never say “i guess”, say “claro”",
     "the secret? share, not translate",
-    "urgent: fix your “sorry” with “perdón”"
+    "urgent: fix your “sorry” with “perdón”",
+    "stop fearing mistakes, say it",
+    "stop overthinking, just start simple",
+    "never wait, ask one question",
+    "the secret? answer, don’t translate",
+    "this fixes your “umm” instantly"
   ],
-  "last_updated": "2026-07-29T20:14:46.322531"
+  "last_updated": "2026-07-29T21:44:52.337443"
 }
