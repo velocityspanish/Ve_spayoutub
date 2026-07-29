@@ -15029,6 +15029,36 @@
       "spanish": "No pelees con la ansiedad, nómbrala ya",
       "category": "Inner Peace",
       "generated_at": "2026-07-29T18:07:01.980024"
+    },
+    {
+      "english": "Never underestimate, “oye” does it",
+      "spanish": "Nunca subestimes, “oye” lo hace",
+      "category": "Friendship",
+      "generated_at": "2026-07-29T20:14:46.322429"
+    },
+    {
+      "english": "This is why “¿qué tal?” wins",
+      "spanish": "Por eso, “¿qué tal?” gana",
+      "category": "Friendship",
+      "generated_at": "2026-07-29T20:14:46.322459"
+    },
+    {
+      "english": "Never say “I guess”, say “claro”",
+      "spanish": "No digas “supongo”, di “claro”",
+      "category": "Friendship",
+      "generated_at": "2026-07-29T20:14:46.322483"
+    },
+    {
+      "english": "The secret? Share, not translate",
+      "spanish": "El secreto, comparte, no traduzcas",
+      "category": "Friendship",
+      "generated_at": "2026-07-29T20:14:46.322507"
+    },
+    {
+      "english": "Urgent: fix your “sorry” with “perdón”",
+      "spanish": "Urgente, arregla tu “perdón”",
+      "category": "Friendship",
+      "generated_at": "2026-07-29T20:14:46.322529"
     }
   ],
   "used_english": [
@@ -17536,7 +17566,12 @@
     "the secret? say it gently, slow",
     "your inner peace starts with one phrase",
     "this is why 'respirar' changes everything",
-    "stop fighting anxiety, name it now"
+    "stop fighting anxiety, name it now",
+    "never underestimate, “oye” does it",
+    "this is why “¿qué tal?” wins",
+    "never say “i guess”, say “claro”",
+    "the secret? share, not translate",
+    "urgent: fix your “sorry” with “perdón”"
   ],
-  "last_updated": "2026-07-29T18:07:01.980027"
+  "last_updated": "2026-07-29T20:14:46.322531"
 }
