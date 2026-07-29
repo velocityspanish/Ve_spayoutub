@@ -14939,6 +14939,36 @@
       "spanish": "Esto arregla el small talk, ya",
       "category": "Forgiveness",
       "generated_at": "2026-07-28T21:54:06.996682"
+    },
+    {
+      "english": "The fastest progress, talk to strangers",
+      "spanish": "Progreso rápido, habla con extraños",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T15:09:27.968123"
+    },
+    {
+      "english": "Stop waiting, send one voice note",
+      "spanish": "No esperes, manda una nota de voz",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T15:09:27.968156"
+    },
+    {
+      "english": "This is why 'porque' boosts confidence",
+      "spanish": "Por eso 'porque' da confianza",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T15:09:27.968178"
+    },
+    {
+      "english": "The secret to calm conversations, slow down",
+      "spanish": "El secreto: conversa lento, respira",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T15:09:27.968199"
+    },
+    {
+      "english": "Stop perfection, share your imperfect sentence",
+      "spanish": "Deja la perfección, comparte tu frase",
+      "category": "Positive Life",
+      "generated_at": "2026-07-29T15:09:27.968219"
     }
   ],
   "used_english": [
@@ -17431,7 +17461,12 @@
     "this is why natives avoid “muy”",
     "the secret, ask with “para qué”",
     "never freeze, say “tengo una idea”",
-    "this fixes small talk, instantly"
+    "this fixes small talk, instantly",
+    "the fastest progress, talk to strangers",
+    "stop waiting, send one voice note",
+    "this is why 'porque' boosts confidence",
+    "the secret to calm conversations, slow down",
+    "stop perfection, share your imperfect sentence"
   ],
-  "last_updated": "2026-07-28T21:54:06.996684"
+  "last_updated": "2026-07-29T15:09:27.968221"
 }
