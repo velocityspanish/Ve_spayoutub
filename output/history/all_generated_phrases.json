@@ -14999,6 +14999,36 @@
       "spanish": "No te disculpes, di \"gracias\"",
       "category": "Growth",
       "generated_at": "2026-07-29T16:22:13.348322"
+    },
+    {
+      "english": "Never rush words, let silence land",
+      "spanish": "Nunca apures palabras, deja silencio caer",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-29T18:07:01.979924"
+    },
+    {
+      "english": "The secret? Say it gently, slow",
+      "spanish": "El secreto, dilo suave, despacio",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-29T18:07:01.979958"
+    },
+    {
+      "english": "Your inner peace starts with one phrase",
+      "spanish": "Tu paz empieza con una sola frase",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-29T18:07:01.979981"
+    },
+    {
+      "english": "This is why 'respirar' changes everything",
+      "spanish": "Por eso, 'respirar' cambia todo",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-29T18:07:01.980001"
+    },
+    {
+      "english": "Stop fighting anxiety, name it now",
+      "spanish": "No pelees con la ansiedad, nómbrala ya",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-29T18:07:01.980024"
     }
   ],
   "used_english": [
@@ -17501,7 +17531,12 @@
     "never freeze, ask \"why?\"",
     "the secret, replace doubt with \"claro\"",
     "stop scrolling, speak one word",
-    "never apologize, say \"gracias\" instead"
+    "never apologize, say \"gracias\" instead",
+    "never rush words, let silence land",
+    "the secret? say it gently, slow",
+    "your inner peace starts with one phrase",
+    "this is why 'respirar' changes everything",
+    "stop fighting anxiety, name it now"
   ],
-  "last_updated": "2026-07-29T16:22:13.348324"
+  "last_updated": "2026-07-29T18:07:01.980027"
 }
