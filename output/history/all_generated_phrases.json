@@ -15209,6 +15209,36 @@
       "spanish": "El secreto para escuchar, reacciona",
       "category": "Joy",
       "generated_at": "2026-07-30T20:17:18.785199"
+    },
+    {
+      "english": "Never fear questions, ask for clarity",
+      "spanish": "Nunca tengas miedo, pregunta claridad",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T21:56:46.575740"
+    },
+    {
+      "english": "The secret is emotion, not vocab",
+      "spanish": "El secreto es emoción, no vocabulario",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T21:56:46.575774"
+    },
+    {
+      "english": "Stop chasing perfect accents, use rhythm",
+      "spanish": "No persigas acentos perfectos, usa ritmo",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T21:56:46.575797"
+    },
+    {
+      "english": "Urgent: add one “because” sentence",
+      "spanish": "Urgente: agrega una frase con “porque”",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T21:56:46.575821"
+    },
+    {
+      "english": "Stop studying alone, build a habit",
+      "spanish": "Deja de estudiar solo, crea un hábito",
+      "category": "Wisdom",
+      "generated_at": "2026-07-30T21:56:46.575846"
     }
   ],
   "used_english": [
@@ -17746,7 +17776,12 @@
     "this is why “tengo” wins daily",
     "the secret to fluency, ask back",
     "this simple phrase unlocks instant warmth",
-    "the secret to real listening, react"
+    "the secret to real listening, react",
+    "never fear questions, ask for clarity",
+    "the secret is emotion, not vocab",
+    "stop chasing perfect accents, use rhythm",
+    "urgent: add one “because” sentence",
+    "stop studying alone, build a habit"
   ],
-  "last_updated": "2026-07-30T20:17:18.785201"
+  "last_updated": "2026-07-30T21:56:46.575848"
 }
