@@ -15119,6 +15119,36 @@
       "spanish": "Urgente, cambia duda por “seguro”",
       "category": "Inspiration",
       "generated_at": "2026-07-30T15:11:49.156716"
+    },
+    {
+      "english": "Never memorize lists, practice chunks",
+      "spanish": "Nunca memorices listas, practica bloques",
+      "category": "Strength",
+      "generated_at": "2026-07-30T16:26:39.600008"
+    },
+    {
+      "english": "Urgent: replace pauses with “wait, sí”",
+      "spanish": "Urgente, cambia pausas por “espera, sí”",
+      "category": "Strength",
+      "generated_at": "2026-07-30T16:26:39.600043"
+    },
+    {
+      "english": "Stop practicing silently, talk back",
+      "spanish": "Deja practicar en silencio, responde",
+      "category": "Strength",
+      "generated_at": "2026-07-30T16:26:39.600069"
+    },
+    {
+      "english": "Never fear mistakes, earn confidence",
+      "spanish": "Nunca temas errores, gana confianza",
+      "category": "Strength",
+      "generated_at": "2026-07-30T16:26:39.600092"
+    },
+    {
+      "english": "This is why “otra vez” helps",
+      "spanish": "Por eso “otra vez” ayuda",
+      "category": "Strength",
+      "generated_at": "2026-07-30T16:26:39.600115"
     }
   ],
   "used_english": [
@@ -17641,7 +17671,12 @@
     "never fear “wrong”, use “again”",
     "this habit makes spanish come alive",
     "the secret phrase, say “es verdad”",
-    "urgent: replace doubt with “seguro”"
+    "urgent: replace doubt with “seguro”",
+    "never memorize lists, practice chunks",
+    "urgent: replace pauses with “wait, sí”",
+    "stop practicing silently, talk back",
+    "never fear mistakes, earn confidence",
+    "this is why “otra vez” helps"
   ],
-  "last_updated": "2026-07-30T15:11:49.156718"
+  "last_updated": "2026-07-30T16:26:39.600117"
 }
