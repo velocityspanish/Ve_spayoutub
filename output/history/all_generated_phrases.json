@@ -15149,6 +15149,36 @@
       "spanish": "Por eso “otra vez” ayuda",
       "category": "Strength",
       "generated_at": "2026-07-30T16:26:39.600115"
+    },
+    {
+      "english": "Stop overthinking, say your feelings",
+      "spanish": "Deja de sobrepensar, di lo que sientes",
+      "category": "Happiness",
+      "generated_at": "2026-07-30T18:15:13.774342"
+    },
+    {
+      "english": "Never wait, share one small win",
+      "spanish": "Nunca esperes, comparte un mini logro",
+      "category": "Happiness",
+      "generated_at": "2026-07-30T18:15:13.774396"
+    },
+    {
+      "english": "The secret: use 'por favor' fast",
+      "spanish": "El secreto, usa \"por favor\" rápido",
+      "category": "Happiness",
+      "generated_at": "2026-07-30T18:15:13.774439"
+    },
+    {
+      "english": "Stop forcing smiles, say 'qué bueno!'",
+      "spanish": "Deja de forzar sonrisas, di \"¡qué bueno!\"",
+      "category": "Happiness",
+      "generated_at": "2026-07-30T18:15:13.774482"
+    },
+    {
+      "english": "Never fear awkward, add laughter",
+      "spanish": "No temas lo raro, agrega risa",
+      "category": "Happiness",
+      "generated_at": "2026-07-30T18:15:13.774523"
     }
   ],
   "used_english": [
@@ -17676,7 +17706,12 @@
     "urgent: replace pauses with “wait, sí”",
     "stop practicing silently, talk back",
     "never fear mistakes, earn confidence",
-    "this is why “otra vez” helps"
+    "this is why “otra vez” helps",
+    "stop overthinking, say your feelings",
+    "never wait, share one small win",
+    "the secret: use 'por favor' fast",
+    "stop forcing smiles, say 'qué bueno!'",
+    "never fear awkward, add laughter"
   ],
-  "last_updated": "2026-07-30T16:26:39.600117"
+  "last_updated": "2026-07-30T18:15:13.774526"
 }
