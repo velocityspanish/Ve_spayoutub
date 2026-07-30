@@ -15179,6 +15179,36 @@
       "spanish": "No temas lo raro, agrega risa",
       "category": "Happiness",
       "generated_at": "2026-07-30T18:15:13.774523"
+    },
+    {
+      "english": "Stop apologizing, say “lo siento”, mean it",
+      "spanish": "Deja de disculparte, di “lo siento”, de verdad",
+      "category": "Joy",
+      "generated_at": "2026-07-30T20:17:18.785098"
+    },
+    {
+      "english": "This is why “tengo” wins daily",
+      "spanish": "Esto es por qué “tengo” gana diario",
+      "category": "Joy",
+      "generated_at": "2026-07-30T20:17:18.785134"
+    },
+    {
+      "english": "The secret to fluency, ask back",
+      "spanish": "El secreto de fluidez, pregunta de vuelta",
+      "category": "Joy",
+      "generated_at": "2026-07-30T20:17:18.785157"
+    },
+    {
+      "english": "This simple phrase unlocks instant warmth",
+      "spanish": "Esta frase simple abre calidez al instante",
+      "category": "Joy",
+      "generated_at": "2026-07-30T20:17:18.785176"
+    },
+    {
+      "english": "The secret to real listening, react",
+      "spanish": "El secreto para escuchar, reacciona",
+      "category": "Joy",
+      "generated_at": "2026-07-30T20:17:18.785199"
     }
   ],
   "used_english": [
@@ -17711,7 +17741,12 @@
     "never wait, share one small win",
     "the secret: use 'por favor' fast",
     "stop forcing smiles, say 'qué bueno!'",
-    "never fear awkward, add laughter"
+    "never fear awkward, add laughter",
+    "stop apologizing, say “lo siento”, mean it",
+    "this is why “tengo” wins daily",
+    "the secret to fluency, ask back",
+    "this simple phrase unlocks instant warmth",
+    "the secret to real listening, react"
   ],
-  "last_updated": "2026-07-30T18:15:13.774526"
+  "last_updated": "2026-07-30T20:17:18.785201"
 }
