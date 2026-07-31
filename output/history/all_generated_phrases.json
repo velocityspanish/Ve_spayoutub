@@ -15299,6 +15299,36 @@
       "spanish": "El secreto, reacciona, no corrijas",
       "category": "Positive Life",
       "generated_at": "2026-07-31T16:46:36.578919"
+    },
+    {
+      "english": "Never panic, use 'voy a...'",
+      "spanish": "Nunca entres en pánico, usa 'voy a...'",
+      "category": "Patience",
+      "generated_at": "2026-07-31T18:20:28.339473"
+    },
+    {
+      "english": "The secret? Make pauses useful",
+      "spanish": "El secreto, haz pausas útiles",
+      "category": "Patience",
+      "generated_at": "2026-07-31T18:20:28.339517"
+    },
+    {
+      "english": "This phrase melts awkwardness, 'tranquilo'",
+      "spanish": "Esta frase derrite nervios, 'tranquilo'",
+      "category": "Patience",
+      "generated_at": "2026-07-31T18:20:28.339537"
+    },
+    {
+      "english": "Never quit, repeat the same sentence",
+      "spanish": "No te rindas, repite la misma frase",
+      "category": "Patience",
+      "generated_at": "2026-07-31T18:20:28.339558"
+    },
+    {
+      "english": "Never translate, shadow the emotion",
+      "spanish": "No traduzcas, imita la emoción",
+      "category": "Patience",
+      "generated_at": "2026-07-31T18:20:28.339581"
     }
   ],
   "used_english": [
@@ -17851,7 +17881,12 @@
     "never say 'later', say 'ya'",
     "stop fearing 'i don't know'—say",
     "never mute yourself, add one 'pero'",
-    "the secret? react, don't correct"
+    "the secret? react, don't correct",
+    "never panic, use 'voy a...'",
+    "the secret? make pauses useful",
+    "this phrase melts awkwardness, 'tranquilo'",
+    "never quit, repeat the same sentence",
+    "never translate, shadow the emotion"
   ],
-  "last_updated": "2026-07-31T16:46:36.578921"
+  "last_updated": "2026-07-31T18:20:28.339583"
 }
