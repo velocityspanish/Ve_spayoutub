@@ -15359,6 +15359,36 @@
       "spanish": "Esta frase vuelve las clases vida real",
       "category": "Positive Life",
       "generated_at": "2026-07-31T20:22:14.606912"
+    },
+    {
+      "english": "Never freeze, say '¡dime!' now",
+      "spanish": "Nunca te congeles, di '¡dime!' ahora",
+      "category": "Inspiration",
+      "generated_at": "2026-07-31T21:55:16.391916"
+    },
+    {
+      "english": "This is why Spanish clicks, fast",
+      "spanish": "Esto es por qué el español encaja, rápido",
+      "category": "Inspiration",
+      "generated_at": "2026-07-31T21:55:16.391967"
+    },
+    {
+      "english": "The secret, practice 10 seconds daily",
+      "spanish": "El secreto, practica 10 segundos al día",
+      "category": "Inspiration",
+      "generated_at": "2026-07-31T21:55:16.391992"
+    },
+    {
+      "english": "Never memorize verbs, use them today",
+      "spanish": "No memorices verbos, úsalo hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-07-31T21:55:16.392015"
+    },
+    {
+      "english": "Never be perfect, be understood",
+      "spanish": "No seas perfecto, sé entendido",
+      "category": "Inspiration",
+      "generated_at": "2026-07-31T21:55:16.392039"
     }
   ],
   "used_english": [
@@ -17921,7 +17951,12 @@
     "never freeze, add one 'así'",
     "stop overcorrecting, reply with confidence",
     "never quit, repeat one perfect sentence",
-    "this phrase turns lessons into real life"
+    "this phrase turns lessons into real life",
+    "never freeze, say '¡dime!' now",
+    "this is why spanish clicks, fast",
+    "the secret, practice 10 seconds daily",
+    "never memorize verbs, use them today",
+    "never be perfect, be understood"
   ],
-  "last_updated": "2026-07-31T20:22:14.606914"
+  "last_updated": "2026-07-31T21:55:16.392041"
 }
