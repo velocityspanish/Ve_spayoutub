@@ -15239,6 +15239,36 @@
       "spanish": "Deja de estudiar solo, crea un hábito",
       "category": "Wisdom",
       "generated_at": "2026-07-30T21:56:46.575846"
+    },
+    {
+      "english": "The secret, answer fast, then refine",
+      "spanish": "El secreto, responde rápido, luego mejora",
+      "category": "Strength",
+      "generated_at": "2026-07-31T15:21:20.277515"
+    },
+    {
+      "english": "Never study alone, shadow natives",
+      "spanish": "Nunca estudies solo, imita a nativos",
+      "category": "Strength",
+      "generated_at": "2026-07-31T15:21:20.277547"
+    },
+    {
+      "english": "Urgent: swap “sorry” for “perdón”",
+      "spanish": "Urgente: cambia “lo siento” por “perdón”",
+      "category": "Strength",
+      "generated_at": "2026-07-31T15:21:20.277572"
+    },
+    {
+      "english": "Never learn words, learn chunks",
+      "spanish": "No aprendas palabras, aprende frases",
+      "category": "Strength",
+      "generated_at": "2026-07-31T15:21:20.277596"
+    },
+    {
+      "english": "The secret, ask “¿y tú?” today",
+      "spanish": "El secreto, pregunta “¿y tú?” hoy",
+      "category": "Strength",
+      "generated_at": "2026-07-31T15:21:20.277619"
     }
   ],
   "used_english": [
@@ -17781,7 +17811,12 @@
     "the secret is emotion, not vocab",
     "stop chasing perfect accents, use rhythm",
     "urgent: add one “because” sentence",
-    "stop studying alone, build a habit"
+    "stop studying alone, build a habit",
+    "the secret, answer fast, then refine",
+    "never study alone, shadow natives",
+    "urgent: swap “sorry” for “perdón”",
+    "never learn words, learn chunks",
+    "the secret, ask “¿y tú?” today"
   ],
-  "last_updated": "2026-07-30T21:56:46.575848"
+  "last_updated": "2026-07-31T15:21:20.277621"
 }
