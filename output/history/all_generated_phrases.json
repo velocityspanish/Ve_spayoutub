@@ -15329,6 +15329,36 @@
       "spanish": "No traduzcas, imita la emoción",
       "category": "Patience",
       "generated_at": "2026-07-31T18:20:28.339581"
+    },
+    {
+      "english": "Never fear silence, keep going, please",
+      "spanish": "Nunca temas el silencio, sigue, por favor",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T20:22:14.606812"
+    },
+    {
+      "english": "Never freeze, add one 'así'",
+      "spanish": "No te quedes, agrega un 'así'",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T20:22:14.606846"
+    },
+    {
+      "english": "Stop overcorrecting, reply with confidence",
+      "spanish": "Deja la corrección, responde con confianza",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T20:22:14.606868"
+    },
+    {
+      "english": "Never quit, repeat one perfect sentence",
+      "spanish": "No te rindas, repite una frase perfecta",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T20:22:14.606891"
+    },
+    {
+      "english": "This phrase turns lessons into real life",
+      "spanish": "Esta frase vuelve las clases vida real",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T20:22:14.606912"
     }
   ],
   "used_english": [
@@ -17886,7 +17916,12 @@
     "the secret? make pauses useful",
     "this phrase melts awkwardness, 'tranquilo'",
     "never quit, repeat the same sentence",
-    "never translate, shadow the emotion"
+    "never translate, shadow the emotion",
+    "never fear silence, keep going, please",
+    "never freeze, add one 'así'",
+    "stop overcorrecting, reply with confidence",
+    "never quit, repeat one perfect sentence",
+    "this phrase turns lessons into real life"
   ],
-  "last_updated": "2026-07-31T18:20:28.339583"
+  "last_updated": "2026-07-31T20:22:14.606914"
 }
