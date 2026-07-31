@@ -15269,6 +15269,36 @@
       "spanish": "El secreto, pregunta “¿y tú?” hoy",
       "category": "Strength",
       "generated_at": "2026-07-31T15:21:20.277619"
+    },
+    {
+      "english": "Stop translating, start speaking feelings",
+      "spanish": "Deja de traducir, habla sentimientos",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T16:46:36.578811"
+    },
+    {
+      "english": "Never say 'later', say 'ya'",
+      "spanish": "Nunca digas 'más tarde', di 'ya'",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T16:46:36.578844"
+    },
+    {
+      "english": "Stop fearing 'I don't know'—say",
+      "spanish": "Deja el miedo a 'no sé', dilo",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T16:46:36.578870"
+    },
+    {
+      "english": "Never mute yourself, add one 'pero'",
+      "spanish": "Nunca te calles, pon un 'pero'",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T16:46:36.578895"
+    },
+    {
+      "english": "The secret? React, don't correct",
+      "spanish": "El secreto, reacciona, no corrijas",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T16:46:36.578919"
     }
   ],
   "used_english": [
@@ -17816,7 +17846,12 @@
     "never study alone, shadow natives",
     "urgent: swap “sorry” for “perdón”",
     "never learn words, learn chunks",
-    "the secret, ask “¿y tú?” today"
+    "the secret, ask “¿y tú?” today",
+    "stop translating, start speaking feelings",
+    "never say 'later', say 'ya'",
+    "stop fearing 'i don't know'—say",
+    "never mute yourself, add one 'pero'",
+    "the secret? react, don't correct"
   ],
-  "last_updated": "2026-07-31T15:21:20.277621"
+  "last_updated": "2026-07-31T16:46:36.578921"
 }
