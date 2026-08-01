@@ -15509,6 +15509,36 @@
       "spanish": "Esto es por qué escuchar te activa",
       "category": "Motivation",
       "generated_at": "2026-08-01T20:11:36.146363"
+    },
+    {
+      "english": "Never sound bored, use 'qué bien!'",
+      "spanish": "Nunca suenes aburrido, ¡qué bien!",
+      "category": "Confidence",
+      "generated_at": "2026-08-01T21:42:27.597656"
+    },
+    {
+      "english": "Stop guessing, choose 'seguro que sí'",
+      "spanish": "Deja de dudar, elige 'seguro que sí'",
+      "category": "Confidence",
+      "generated_at": "2026-08-01T21:42:27.597689"
+    },
+    {
+      "english": "Stop fear, add 'claro, exacto'",
+      "spanish": "Deja el miedo, añade 'claro, exacto'",
+      "category": "Confidence",
+      "generated_at": "2026-08-01T21:42:27.597713"
+    },
+    {
+      "english": "Urgent: use 'me gusta' more today",
+      "spanish": "Urgente: usa 'me gusta' hoy",
+      "category": "Confidence",
+      "generated_at": "2026-08-01T21:42:27.597737"
+    },
+    {
+      "english": "Never quit, repeat it, then change",
+      "spanish": "No te rindas, repítelo y cambia",
+      "category": "Confidence",
+      "generated_at": "2026-08-01T21:42:27.597762"
     }
   ],
   "used_english": [
@@ -18096,7 +18126,12 @@
     "never say perfect, say right now",
     "stop fear, ask, then react",
     "stop scrolling, study one tiny moment",
-    "this is why listening boosts speaking"
+    "this is why listening boosts speaking",
+    "never sound bored, use 'qué bien!'",
+    "stop guessing, choose 'seguro que sí'",
+    "stop fear, add 'claro, exacto'",
+    "urgent: use 'me gusta' more today",
+    "never quit, repeat it, then change"
   ],
-  "last_updated": "2026-08-01T20:11:36.146365"
+  "last_updated": "2026-08-01T21:42:27.597764"
 }
