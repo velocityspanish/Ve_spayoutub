@@ -15479,6 +15479,36 @@
       "spanish": "Deja la gramática, aprende reacciones",
       "category": "Hope",
       "generated_at": "2026-08-01T17:59:38.551073"
+    },
+    {
+      "english": "Never learn alone, build momentum",
+      "spanish": "Nunca aprendas solo, gana impulso",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T20:11:36.146257"
+    },
+    {
+      "english": "Never say perfect, say right now",
+      "spanish": "Nunca digas perfecto, di ahora",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T20:11:36.146295"
+    },
+    {
+      "english": "Stop fear, ask, then react",
+      "spanish": "Deja el miedo, pregunta, y responde",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T20:11:36.146318"
+    },
+    {
+      "english": "Stop scrolling, study one tiny moment",
+      "spanish": "Deja de scrollear, estudia un momento",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T20:11:36.146342"
+    },
+    {
+      "english": "This is why listening boosts speaking",
+      "spanish": "Esto es por qué escuchar te activa",
+      "category": "Motivation",
+      "generated_at": "2026-08-01T20:11:36.146363"
     }
   ],
   "used_english": [
@@ -18061,7 +18091,12 @@
     "the secret, ask “where?” not “what?”",
     "the secret phrase, say “está bien?”",
     "the secret, swap “i am” for “estoy”",
-    "stop learning grammar first, learn reactions"
+    "stop learning grammar first, learn reactions",
+    "never learn alone, build momentum",
+    "never say perfect, say right now",
+    "stop fear, ask, then react",
+    "stop scrolling, study one tiny moment",
+    "this is why listening boosts speaking"
   ],
-  "last_updated": "2026-08-01T17:59:38.551074"
+  "last_updated": "2026-08-01T20:11:36.146365"
 }
