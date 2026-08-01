@@ -15449,6 +15449,36 @@
       "spanish": "Perdona no por ellos, por ti.",
       "category": "Forgiveness",
       "generated_at": "2026-08-01T16:03:58.753088"
+    },
+    {
+      "english": "Never say “too”, say “muy” smart",
+      "spanish": "Nunca digas “too”, di “muy” inteligente",
+      "category": "Hope",
+      "generated_at": "2026-08-01T17:59:38.550966"
+    },
+    {
+      "english": "The secret, ask “where?” not “what?”",
+      "spanish": "El secreto, pregunta “dónde”, no “qué”",
+      "category": "Hope",
+      "generated_at": "2026-08-01T17:59:38.551003"
+    },
+    {
+      "english": "The secret phrase, say “está bien?”",
+      "spanish": "La frase secreta, di “¿está bien?”",
+      "category": "Hope",
+      "generated_at": "2026-08-01T17:59:38.551029"
+    },
+    {
+      "english": "The secret, swap “I am” for “estoy”",
+      "spanish": "El secreto, cambia “I am” por “estoy”",
+      "category": "Hope",
+      "generated_at": "2026-08-01T17:59:38.551051"
+    },
+    {
+      "english": "Stop learning grammar first, learn reactions",
+      "spanish": "Deja la gramática, aprende reacciones",
+      "category": "Hope",
+      "generated_at": "2026-08-01T17:59:38.551073"
     }
   ],
   "used_english": [
@@ -18026,7 +18056,12 @@
     "this is what forgiveness really means.",
     "stop waiting apology won't come.",
     "the freedom feel after forgiving.",
-    "forgive them not for them, for you."
+    "forgive them not for them, for you.",
+    "never say “too”, say “muy” smart",
+    "the secret, ask “where?” not “what?”",
+    "the secret phrase, say “está bien?”",
+    "the secret, swap “i am” for “estoy”",
+    "stop learning grammar first, learn reactions"
   ],
-  "last_updated": "2026-08-01T16:03:58.753090"
+  "last_updated": "2026-08-01T17:59:38.551074"
 }
