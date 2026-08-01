@@ -15419,6 +15419,36 @@
       "spanish": "Nunca ensayes, improvisa una línea",
       "category": "Inspiration",
       "generated_at": "2026-08-01T14:28:07.185106"
+    },
+    {
+      "english": "Holding grudges poisoning you. Let go.",
+      "spanish": "Guardar rencores envenena. Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T16:03:58.752983"
+    },
+    {
+      "english": "This is what forgiveness really means.",
+      "spanish": "Esto es lo significa perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T16:03:58.753014"
+    },
+    {
+      "english": "Stop waiting apology won't come.",
+      "spanish": "Deja esperar disculpa no vendrá.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T16:03:58.753040"
+    },
+    {
+      "english": "The freedom feel after forgiving.",
+      "spanish": "La libertad sientes después perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T16:03:58.753064"
+    },
+    {
+      "english": "Forgive them not for them, for you.",
+      "spanish": "Perdona no por ellos, por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T16:03:58.753088"
     }
   ],
   "used_english": [
@@ -17991,7 +18021,12 @@
     "never say zero, say instead",
     "the secret, learn with emotion daily",
     "stop pausing, use one connecting word",
-    "never rehearse, just improvise one line"
+    "never rehearse, just improvise one line",
+    "holding grudges poisoning you. let go.",
+    "this is what forgiveness really means.",
+    "stop waiting apology won't come.",
+    "the freedom feel after forgiving.",
+    "forgive them not for them, for you."
   ],
-  "last_updated": "2026-08-01T14:28:07.185109"
+  "last_updated": "2026-08-01T16:03:58.753090"
 }
