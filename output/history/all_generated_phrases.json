@@ -15389,6 +15389,36 @@
       "spanish": "No seas perfecto, sé entendido",
       "category": "Inspiration",
       "generated_at": "2026-07-31T21:55:16.392039"
+    },
+    {
+      "english": "Stop using one-word answers, try this",
+      "spanish": "Deja las respuestas de una palabra, prueba esto",
+      "category": "Inspiration",
+      "generated_at": "2026-08-01T14:28:07.185000"
+    },
+    {
+      "english": "Never say zero, say instead",
+      "spanish": "Nunca digas cero, di esto",
+      "category": "Inspiration",
+      "generated_at": "2026-08-01T14:28:07.185035"
+    },
+    {
+      "english": "The secret, learn with emotion daily",
+      "spanish": "El secreto, aprende con emoción diario",
+      "category": "Inspiration",
+      "generated_at": "2026-08-01T14:28:07.185060"
+    },
+    {
+      "english": "Stop pausing, use one connecting word",
+      "spanish": "Deja de pausar, usa una palabra puente",
+      "category": "Inspiration",
+      "generated_at": "2026-08-01T14:28:07.185083"
+    },
+    {
+      "english": "Never rehearse, just improvise one line",
+      "spanish": "Nunca ensayes, improvisa una línea",
+      "category": "Inspiration",
+      "generated_at": "2026-08-01T14:28:07.185106"
     }
   ],
   "used_english": [
@@ -17956,7 +17986,12 @@
     "this is why spanish clicks, fast",
     "the secret, practice 10 seconds daily",
     "never memorize verbs, use them today",
-    "never be perfect, be understood"
+    "never be perfect, be understood",
+    "stop using one-word answers, try this",
+    "never say zero, say instead",
+    "the secret, learn with emotion daily",
+    "stop pausing, use one connecting word",
+    "never rehearse, just improvise one line"
   ],
-  "last_updated": "2026-07-31T21:55:16.392041"
+  "last_updated": "2026-08-01T14:28:07.185109"
 }
