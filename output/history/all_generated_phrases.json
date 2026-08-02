@@ -15659,6 +15659,36 @@
       "spanish": "No te rindas, repite, mejora",
       "category": "Positive Life",
       "generated_at": "2026-08-02T20:12:21.077998"
+    },
+    {
+      "english": "Never blank, start with “sí”",
+      "spanish": "Nunca te quedes en blanco, empieza con “sí”",
+      "category": "Motivation",
+      "generated_at": "2026-08-02T21:42:50.811800"
+    },
+    {
+      "english": "Stop over-pronouncing, breathe and flow",
+      "spanish": "Deja de exagerar la pronunciación, respira y fluye",
+      "category": "Motivation",
+      "generated_at": "2026-08-02T21:42:50.811836"
+    },
+    {
+      "english": "Never explain, answer like you mean it",
+      "spanish": "Nunca expliques, responde como si fuera real",
+      "category": "Motivation",
+      "generated_at": "2026-08-02T21:42:50.811860"
+    },
+    {
+      "english": "Urgent: add one “porque” now",
+      "spanish": "Urgente, agrega un “porque” ahora",
+      "category": "Motivation",
+      "generated_at": "2026-08-02T21:42:50.811883"
+    },
+    {
+      "english": "This one question kills your fear",
+      "spanish": "Esta pregunta mata tu miedo",
+      "category": "Motivation",
+      "generated_at": "2026-08-02T21:42:50.811907"
     }
   ],
   "used_english": [
@@ -18271,7 +18301,12 @@
     "stop waiting “perfect”, celebrate progress",
     "this simple mindset makes spanish easier",
     "urgent, swap doubt for one “claro”",
-    "never quit, repeat, but upgrade"
+    "never quit, repeat, but upgrade",
+    "never blank, start with “sí”",
+    "stop over-pronouncing, breathe and flow",
+    "never explain, answer like you mean it",
+    "urgent: add one “porque” now",
+    "this one question kills your fear"
   ],
-  "last_updated": "2026-08-02T20:12:21.078001"
+  "last_updated": "2026-08-02T21:42:50.811910"
 }
