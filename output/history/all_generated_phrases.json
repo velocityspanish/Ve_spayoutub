@@ -15629,6 +15629,36 @@
       "spanish": "La frase clave, '¿Cómo es?'",
       "category": "Success",
       "generated_at": "2026-08-02T18:01:23.205541"
+    },
+    {
+      "english": "Stop hiding, add one heartfelt “de verdad”",
+      "spanish": "Deja de ocultarte, di “de verdad”",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T20:12:21.077896"
+    },
+    {
+      "english": "Stop waiting “perfect”, celebrate progress",
+      "spanish": "No esperes “perfecto”, celebra progreso",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T20:12:21.077926"
+    },
+    {
+      "english": "This simple mindset makes Spanish easier",
+      "spanish": "Este pensamiento hace el español más fácil",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T20:12:21.077949"
+    },
+    {
+      "english": "Urgent, swap doubt for one “claro”",
+      "spanish": "Urgente, cambia duda por “claro”",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T20:12:21.077974"
+    },
+    {
+      "english": "Never quit, repeat, but upgrade",
+      "spanish": "No te rindas, repite, mejora",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T20:12:21.077998"
     }
   ],
   "used_english": [
@@ -18236,7 +18266,12 @@
     "stop repeating, switch your sentence",
     "never learn alone, join one chat",
     "this is why natives answer quick",
-    "the secret phrase, '¿cómo es?'"
+    "the secret phrase, '¿cómo es?'",
+    "stop hiding, add one heartfelt “de verdad”",
+    "stop waiting “perfect”, celebrate progress",
+    "this simple mindset makes spanish easier",
+    "urgent, swap doubt for one “claro”",
+    "never quit, repeat, but upgrade"
   ],
-  "last_updated": "2026-08-02T18:01:23.205543"
+  "last_updated": "2026-08-02T20:12:21.078001"
 }
