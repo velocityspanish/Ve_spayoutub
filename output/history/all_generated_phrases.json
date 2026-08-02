@@ -15539,6 +15539,36 @@
       "spanish": "No te rindas, repítelo y cambia",
       "category": "Confidence",
       "generated_at": "2026-08-01T21:42:27.597762"
+    },
+    {
+      "english": "Never memorize, build instant sentences",
+      "spanish": "Nunca memorices, construye frases rápidas",
+      "category": "Strength",
+      "generated_at": "2026-08-02T14:37:14.600884"
+    },
+    {
+      "english": "Stop translating, use one filler word",
+      "spanish": "Deja traducir, usa una muletilla",
+      "category": "Strength",
+      "generated_at": "2026-08-02T14:37:14.600918"
+    },
+    {
+      "english": "Never wait, rehearse in public",
+      "spanish": "Nunca esperes, ensaya en público",
+      "category": "Strength",
+      "generated_at": "2026-08-02T14:37:14.600943"
+    },
+    {
+      "english": "This tiny question boosts confidence fast",
+      "spanish": "Esta pregunta sube confianza rápido",
+      "category": "Strength",
+      "generated_at": "2026-08-02T14:37:14.600964"
+    },
+    {
+      "english": "The secret phrase unlocks real speed",
+      "spanish": "Una frase clave da velocidad",
+      "category": "Strength",
+      "generated_at": "2026-08-02T14:37:14.600988"
     }
   ],
   "used_english": [
@@ -18131,7 +18161,12 @@
     "stop guessing, choose 'seguro que sí'",
     "stop fear, add 'claro, exacto'",
     "urgent: use 'me gusta' more today",
-    "never quit, repeat it, then change"
+    "never quit, repeat it, then change",
+    "never memorize, build instant sentences",
+    "stop translating, use one filler word",
+    "never wait, rehearse in public",
+    "this tiny question boosts confidence fast",
+    "the secret phrase unlocks real speed"
   ],
-  "last_updated": "2026-08-01T21:42:27.597764"
+  "last_updated": "2026-08-02T14:37:14.600990"
 }
