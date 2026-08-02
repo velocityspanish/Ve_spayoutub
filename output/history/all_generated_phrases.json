@@ -15569,6 +15569,36 @@
       "spanish": "Una frase clave da velocidad",
       "category": "Strength",
       "generated_at": "2026-08-02T14:37:14.600988"
+    },
+    {
+      "english": "Never say thank you, say this",
+      "spanish": "Nunca digas gracias, di esto",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T16:03:11.672741"
+    },
+    {
+      "english": "This is why “estar” loves gratitude",
+      "spanish": "Esto es por qué “estar” agradece",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T16:03:11.672776"
+    },
+    {
+      "english": "Never skip “muchas gracias”, use it",
+      "spanish": "Nunca saltes “muchas gracias”, úsalo",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T16:03:11.672801"
+    },
+    {
+      "english": "Stop! Gratitude boosts your Spanish speed",
+      "spanish": "¡Para! La gratitud acelera tu español",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T16:03:11.672829"
+    },
+    {
+      "english": "Never underestimate “te lo agradezco”",
+      "spanish": "Nunca subestimes “te lo agradezco”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T16:03:11.672853"
     }
   ],
   "used_english": [
@@ -18166,7 +18196,12 @@
     "stop translating, use one filler word",
     "never wait, rehearse in public",
     "this tiny question boosts confidence fast",
-    "the secret phrase unlocks real speed"
+    "the secret phrase unlocks real speed",
+    "never say thank you, say this",
+    "this is why “estar” loves gratitude",
+    "never skip “muchas gracias”, use it",
+    "stop! gratitude boosts your spanish speed",
+    "never underestimate “te lo agradezco”"
   ],
-  "last_updated": "2026-08-02T14:37:14.600990"
+  "last_updated": "2026-08-02T16:03:11.672856"
 }
