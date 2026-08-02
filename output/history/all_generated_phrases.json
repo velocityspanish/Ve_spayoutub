@@ -15599,6 +15599,36 @@
       "spanish": "Nunca subestimes “te lo agradezco”",
       "category": "Gratitude",
       "generated_at": "2026-08-02T16:03:11.672853"
+    },
+    {
+      "english": "Stop saying perfect, start saying it",
+      "spanish": "No digas perfecto, di eso ya",
+      "category": "Success",
+      "generated_at": "2026-08-02T18:01:23.205442"
+    },
+    {
+      "english": "Stop repeating, switch your sentence",
+      "spanish": "No repitas, cambia la frase",
+      "category": "Success",
+      "generated_at": "2026-08-02T18:01:23.205476"
+    },
+    {
+      "english": "Never learn alone, join one chat",
+      "spanish": "No aprendas solo, entra a un chat",
+      "category": "Success",
+      "generated_at": "2026-08-02T18:01:23.205498"
+    },
+    {
+      "english": "This is why natives answer quick",
+      "spanish": "Por eso responden rápido los nativos",
+      "category": "Success",
+      "generated_at": "2026-08-02T18:01:23.205520"
+    },
+    {
+      "english": "The secret phrase, '¿Cómo es?'",
+      "spanish": "La frase clave, '¿Cómo es?'",
+      "category": "Success",
+      "generated_at": "2026-08-02T18:01:23.205541"
     }
   ],
   "used_english": [
@@ -18201,7 +18231,12 @@
     "this is why “estar” loves gratitude",
     "never skip “muchas gracias”, use it",
     "stop! gratitude boosts your spanish speed",
-    "never underestimate “te lo agradezco”"
+    "never underestimate “te lo agradezco”",
+    "stop saying perfect, start saying it",
+    "stop repeating, switch your sentence",
+    "never learn alone, join one chat",
+    "this is why natives answer quick",
+    "the secret phrase, '¿cómo es?'"
   ],
-  "last_updated": "2026-08-02T16:03:11.672856"
+  "last_updated": "2026-08-02T18:01:23.205543"
 }
