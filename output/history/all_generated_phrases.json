@@ -15749,6 +15749,36 @@
       "spanish": "Deja el juicio de acento, respira ritmo",
       "category": "Mindfulness",
       "generated_at": "2026-08-03T17:09:40.257688"
+    },
+    {
+      "english": "Never be silent, add \"oye\"",
+      "spanish": "Nunca te calles, añade \"oye\"",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T18:50:39.089623"
+    },
+    {
+      "english": "Never translate, use the feeling",
+      "spanish": "No traduzcas, usa el sentimiento",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T18:50:39.089669"
+    },
+    {
+      "english": "Stop memorizing, learn one useful line",
+      "spanish": "Deja de memorizar, aprende una frase útil",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T18:50:39.089693"
+    },
+    {
+      "english": "Never ask for help, show effort",
+      "spanish": "No pidas ayuda, muestra esfuerzo",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T18:50:39.089718"
+    },
+    {
+      "english": "Urgent: practice this today, out loud",
+      "spanish": "Urgente, practica esto hoy, en voz alta",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T18:50:39.089742"
     }
   ],
   "used_english": [
@@ -18376,7 +18406,12 @@
     "the secret, soften your inner judge",
     "this changes your spanish, right now",
     "the secret phrase, i’m here, listen",
-    "stop judging accents, practice breath-music"
+    "stop judging accents, practice breath-music",
+    "never be silent, add \"oye\"",
+    "never translate, use the feeling",
+    "stop memorizing, learn one useful line",
+    "never ask for help, show effort",
+    "urgent: practice this today, out loud"
   ],
-  "last_updated": "2026-08-03T17:09:40.257690"
+  "last_updated": "2026-08-03T18:50:39.089744"
 }
