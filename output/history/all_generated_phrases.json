@@ -15809,6 +15809,36 @@
       "spanish": "No te rindas, haz un intento más",
       "category": "Purpose",
       "generated_at": "2026-08-03T20:28:14.943522"
+    },
+    {
+      "english": "Never apologize mid-sentence, just continue",
+      "spanish": "Nunca te disculpes, sigue hablando",
+      "category": "Patience",
+      "generated_at": "2026-08-03T21:57:10.359207"
+    },
+    {
+      "english": "The secret, speak one idea, not words",
+      "spanish": "El secreto, di una idea, no palabras",
+      "category": "Patience",
+      "generated_at": "2026-08-03T21:57:10.359239"
+    },
+    {
+      "english": "Never wait for perfect, hit record",
+      "spanish": "No esperes perfecto, graba ahora",
+      "category": "Patience",
+      "generated_at": "2026-08-03T21:57:10.359265"
+    },
+    {
+      "english": "Stop memorizing lists, start storytelling",
+      "spanish": "Deja de memorizar listas, cuenta historias",
+      "category": "Patience",
+      "generated_at": "2026-08-03T21:57:10.359286"
+    },
+    {
+      "english": "This tiny word boosts confidence: “oye”",
+      "spanish": "Esta palabra sube confianza: “oye”",
+      "category": "Patience",
+      "generated_at": "2026-08-03T21:57:10.359310"
     }
   ],
   "used_english": [
@@ -18446,7 +18476,12 @@
     "never wait, speak for ten seconds",
     "stop overthinking, use “tal vez”",
     "never chase perfect, chase real moments",
-    "stop quitting, do one more try"
+    "stop quitting, do one more try",
+    "never apologize mid-sentence, just continue",
+    "the secret, speak one idea, not words",
+    "never wait for perfect, hit record",
+    "stop memorizing lists, start storytelling",
+    "this tiny word boosts confidence: “oye”"
   ],
-  "last_updated": "2026-08-03T20:28:14.943524"
+  "last_updated": "2026-08-03T21:57:10.359312"
 }
