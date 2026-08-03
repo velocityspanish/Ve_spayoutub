@@ -15689,6 +15689,36 @@
       "spanish": "Esta pregunta mata tu miedo",
       "category": "Motivation",
       "generated_at": "2026-08-02T21:42:50.811907"
+    },
+    {
+      "english": "Never practice alone, voice-record",
+      "spanish": "Nunca practiques solo, graba voz",
+      "category": "Success",
+      "generated_at": "2026-08-03T15:44:33.540336"
+    },
+    {
+      "english": "The secret phrase? “Lo siento” less",
+      "spanish": "Frase secreta, “lo siento” menos",
+      "category": "Success",
+      "generated_at": "2026-08-03T15:44:33.540375"
+    },
+    {
+      "english": "Stop repeating, say it differently",
+      "spanish": "No repitas, dilo distinto",
+      "category": "Success",
+      "generated_at": "2026-08-03T15:44:33.540402"
+    },
+    {
+      "english": "Never quit on the tough sentence",
+      "spanish": "No abandones esa frase difícil",
+      "category": "Success",
+      "generated_at": "2026-08-03T15:44:33.540427"
+    },
+    {
+      "english": "This is your sign, speak now",
+      "spanish": "Esta es tu señal, habla ya",
+      "category": "Success",
+      "generated_at": "2026-08-03T15:44:33.540450"
     }
   ],
   "used_english": [
@@ -18306,7 +18336,12 @@
     "stop over-pronouncing, breathe and flow",
     "never explain, answer like you mean it",
     "urgent: add one “porque” now",
-    "this one question kills your fear"
+    "this one question kills your fear",
+    "never practice alone, voice-record",
+    "the secret phrase? “lo siento” less",
+    "stop repeating, say it differently",
+    "never quit on the tough sentence",
+    "this is your sign, speak now"
   ],
-  "last_updated": "2026-08-02T21:42:50.811910"
+  "last_updated": "2026-08-03T15:44:33.540452"
 }
