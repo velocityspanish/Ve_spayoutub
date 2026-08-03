@@ -15719,6 +15719,36 @@
       "spanish": "Esta es tu señal, habla ya",
       "category": "Success",
       "generated_at": "2026-08-03T15:44:33.540450"
+    },
+    {
+      "english": "Never chase speed, feel steady first",
+      "spanish": "Nunca persigas la prisa, sé firme",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:09:40.257584"
+    },
+    {
+      "english": "The secret, soften your inner judge",
+      "spanish": "El secreto, suaviza tu juez interno",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:09:40.257617"
+    },
+    {
+      "english": "This changes your Spanish, right now",
+      "spanish": "Esto cambia tu español, ahora mismo",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:09:40.257641"
+    },
+    {
+      "english": "The secret phrase, I’m here, listen",
+      "spanish": "La frase secreta, estoy aquí, escucha",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:09:40.257667"
+    },
+    {
+      "english": "Stop judging accents, practice breath-music",
+      "spanish": "Deja el juicio de acento, respira ritmo",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T17:09:40.257688"
     }
   ],
   "used_english": [
@@ -18341,7 +18371,12 @@
     "the secret phrase? “lo siento” less",
     "stop repeating, say it differently",
     "never quit on the tough sentence",
-    "this is your sign, speak now"
+    "this is your sign, speak now",
+    "never chase speed, feel steady first",
+    "the secret, soften your inner judge",
+    "this changes your spanish, right now",
+    "the secret phrase, i’m here, listen",
+    "stop judging accents, practice breath-music"
   ],
-  "last_updated": "2026-08-03T15:44:33.540452"
+  "last_updated": "2026-08-03T17:09:40.257690"
 }
