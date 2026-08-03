@@ -15779,6 +15779,36 @@
       "spanish": "Urgente, practica esto hoy, en voz alta",
       "category": "Purpose",
       "generated_at": "2026-08-03T18:50:39.089742"
+    },
+    {
+      "english": "Stop memorizing, steal ready phrases",
+      "spanish": "Deja de memorizar, roba frases listas",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T20:28:14.943411"
+    },
+    {
+      "english": "Never wait, speak for ten seconds",
+      "spanish": "Nunca esperes, habla diez segundos",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T20:28:14.943447"
+    },
+    {
+      "english": "Stop overthinking, use “tal vez”",
+      "spanish": "Deja de sobrepensar, usa “tal vez”",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T20:28:14.943474"
+    },
+    {
+      "english": "Never chase perfect, chase real moments",
+      "spanish": "No persigas perfecto, persigue momentos reales",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T20:28:14.943497"
+    },
+    {
+      "english": "Stop quitting, do one more try",
+      "spanish": "No te rindas, haz un intento más",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T20:28:14.943522"
     }
   ],
   "used_english": [
@@ -18411,7 +18441,12 @@
     "never translate, use the feeling",
     "stop memorizing, learn one useful line",
     "never ask for help, show effort",
-    "urgent: practice this today, out loud"
+    "urgent: practice this today, out loud",
+    "stop memorizing, steal ready phrases",
+    "never wait, speak for ten seconds",
+    "stop overthinking, use “tal vez”",
+    "never chase perfect, chase real moments",
+    "stop quitting, do one more try"
   ],
-  "last_updated": "2026-08-03T18:50:39.089744"
+  "last_updated": "2026-08-03T20:28:14.943524"
 }
