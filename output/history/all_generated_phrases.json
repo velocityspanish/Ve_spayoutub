@@ -15929,6 +15929,36 @@
       "spanish": "Por eso conectamos, “gracias por ti”",
       "category": "Friendship",
       "generated_at": "2026-08-04T18:26:50.285176"
+    },
+    {
+      "english": "This one pause earns fluent vibes",
+      "spanish": "Esta pausa crea vibra fluida",
+      "category": "Motivation",
+      "generated_at": "2026-08-04T20:27:47.558891"
+    },
+    {
+      "english": "Stop rehearing, start improvising",
+      "spanish": "Deja ensayar, empieza a improvisar",
+      "category": "Motivation",
+      "generated_at": "2026-08-04T20:27:47.558923"
+    },
+    {
+      "english": "Stop speed, build rhythm in seconds",
+      "spanish": "No corras, crea ritmo en segundos",
+      "category": "Motivation",
+      "generated_at": "2026-08-04T20:27:47.558950"
+    },
+    {
+      "english": "Never worry, small mistakes are fuel",
+      "spanish": "No te preocupes, errores son gasolina",
+      "category": "Motivation",
+      "generated_at": "2026-08-04T20:27:47.558974"
+    },
+    {
+      "english": "The secret phrase? “¿Me entiendes?”",
+      "spanish": "La frase secreta, “¿Me entiendes?”",
+      "category": "Motivation",
+      "generated_at": "2026-08-04T20:27:47.559000"
     }
   ],
   "used_english": [
@@ -18586,7 +18616,12 @@
     "what nobody tells you, compliments win",
     "the secret is this, ask “cómo estás?”",
     "never say goodbye too fast, say “vuelve”",
-    "this is why we connect, “gracias por ti”"
+    "this is why we connect, “gracias por ti”",
+    "this one pause earns fluent vibes",
+    "stop rehearing, start improvising",
+    "stop speed, build rhythm in seconds",
+    "never worry, small mistakes are fuel",
+    "the secret phrase? “¿me entiendes?”"
   ],
-  "last_updated": "2026-08-04T18:26:50.285178"
+  "last_updated": "2026-08-04T20:27:47.559003"
 }
