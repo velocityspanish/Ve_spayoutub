@@ -15869,6 +15869,36 @@
       "spanish": "Este sonido te hace más nativo.",
       "category": "Growth",
       "generated_at": "2026-08-04T15:25:42.202533"
+    },
+    {
+      "english": "The secret phrase for instant warmth",
+      "spanish": "La frase secreta de calidez",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T16:51:21.210813"
+    },
+    {
+      "english": "Don’t overthink, send this compliment",
+      "spanish": "No pienses más, manda este cumplido",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T16:51:21.210846"
+    },
+    {
+      "english": "This one word keeps friends close",
+      "spanish": "Una palabra une amigos",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T16:51:21.210872"
+    },
+    {
+      "english": "Stop “just friends”, say “de verdad”",
+      "spanish": "Deja “solo amigos”, di “de verdad”",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T16:51:21.210896"
+    },
+    {
+      "english": "This is your friendship cheat code",
+      "spanish": "Este es tu truco de amistad",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T16:51:21.210921"
     }
   ],
   "used_english": [
@@ -18516,7 +18546,12 @@
     "the secret, speak in one chunk.",
     "stop changing words, keep the pattern.",
     "never dodge questions, answer fast.",
-    "this tiny sound makes you native."
+    "this tiny sound makes you native.",
+    "the secret phrase for instant warmth",
+    "don’t overthink, send this compliment",
+    "this one word keeps friends close",
+    "stop “just friends”, say “de verdad”",
+    "this is your friendship cheat code"
   ],
-  "last_updated": "2026-08-04T15:25:42.202535"
+  "last_updated": "2026-08-04T16:51:21.210923"
 }
