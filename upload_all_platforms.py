@@ -267,6 +267,7 @@ def generate_caption(phrases, category, lang_field="native", words=None, metadat
         for i, p in enumerate(phrases[:3], 1):
             base.append(f"{i}. {p['english']}")
             base.append(f"   {p.get(lang_field, '')}")
+            base.append(f"   [{p.get('transliteration') or p.get('romaji') or p.get('pinyin') or p.get('romanization') or p.get('pronunciation') or ''}]")
             base.append("")
         base.extend(["Which phrase is your favorite? 👇", f"Follow for daily {lang_name} lessons!", ""])
         base.extend([f"#learn{lang_tag}", f"#{lang_tag}lessons", "#languagelearning", f"#velocity{lang_tag}", f"#daily{lang_tag}"])
@@ -275,7 +276,7 @@ def generate_caption(phrases, category, lang_field="native", words=None, metadat
     for i, p in enumerate(phrases[:5], 1):
         base.append(f"{i}. {p['english']}")
         base.append(f"   {p.get(lang_field, '')}")
-        base.append(f"   [{p.get('transliteration', '')}]")
+        base.append(f"   [{p.get('transliteration') or p.get('romaji') or p.get('pinyin') or p.get('romanization') or p.get('pronunciation') or ''}]")
         base.append("")
     base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", "Follow for daily lessons!", ""])
     base.extend([f"#learn{lang_tag}", f"#{lang_tag}lessons", f"#{lang_tag}forbeginners", "#languagelearning", f"#{lang_tag}vocabulary", f"#velocity{lang_tag}", f"#daily{lang_tag}", f"#{lang_tag}", "#learnlanguages"])
