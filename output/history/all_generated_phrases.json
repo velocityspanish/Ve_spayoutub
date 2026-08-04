@@ -15959,6 +15959,36 @@
       "spanish": "La frase secreta, “¿Me entiendes?”",
       "category": "Motivation",
       "generated_at": "2026-08-04T20:27:47.559000"
+    },
+    {
+      "english": "Stop overthinking, answer before doubt",
+      "spanish": "Deja de pensar, responde antes",
+      "category": "Growth",
+      "generated_at": "2026-08-04T22:03:32.892695"
+    },
+    {
+      "english": "Never run out, keep this phrase",
+      "spanish": "No te quedes, usa esta frase",
+      "category": "Growth",
+      "generated_at": "2026-08-04T22:03:32.892731"
+    },
+    {
+      "english": "The fastest boost? Speak with feeling",
+      "spanish": "El impulso rápido, habla con emoción",
+      "category": "Growth",
+      "generated_at": "2026-08-04T22:03:32.892756"
+    },
+    {
+      "english": "Stop quitting, repeat the question",
+      "spanish": "No te rindas, repite la pregunta",
+      "category": "Growth",
+      "generated_at": "2026-08-04T22:03:32.892781"
+    },
+    {
+      "english": "Never say 'okay', say something better",
+      "spanish": "No digas 'vale', di más",
+      "category": "Growth",
+      "generated_at": "2026-08-04T22:03:32.892808"
     }
   ],
   "used_english": [
@@ -18621,7 +18651,12 @@
     "stop rehearing, start improvising",
     "stop speed, build rhythm in seconds",
     "never worry, small mistakes are fuel",
-    "the secret phrase? “¿me entiendes?”"
+    "the secret phrase? “¿me entiendes?”",
+    "stop overthinking, answer before doubt",
+    "never run out, keep this phrase",
+    "the fastest boost? speak with feeling",
+    "stop quitting, repeat the question",
+    "never say 'okay', say something better"
   ],
-  "last_updated": "2026-08-04T20:27:47.559003"
+  "last_updated": "2026-08-04T22:03:32.892816"
 }
