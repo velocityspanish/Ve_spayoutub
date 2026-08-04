@@ -15839,6 +15839,36 @@
       "spanish": "Esta palabra sube confianza: “oye”",
       "category": "Patience",
       "generated_at": "2026-08-03T21:57:10.359310"
+    },
+    {
+      "english": "Never answer dry, add “¿y tú?”",
+      "spanish": "Nunca respondas seco, añade “¿y tú?”",
+      "category": "Growth",
+      "generated_at": "2026-08-04T15:25:42.202428"
+    },
+    {
+      "english": "The secret, speak in one chunk.",
+      "spanish": "El secreto, habla en un solo bloque.",
+      "category": "Growth",
+      "generated_at": "2026-08-04T15:25:42.202460"
+    },
+    {
+      "english": "Stop changing words, keep the pattern.",
+      "spanish": "Deja de cambiar palabras, usa el patrón.",
+      "category": "Growth",
+      "generated_at": "2026-08-04T15:25:42.202484"
+    },
+    {
+      "english": "Never dodge questions, answer fast.",
+      "spanish": "No esquives preguntas, responde rápido.",
+      "category": "Growth",
+      "generated_at": "2026-08-04T15:25:42.202509"
+    },
+    {
+      "english": "This tiny sound makes you native.",
+      "spanish": "Este sonido te hace más nativo.",
+      "category": "Growth",
+      "generated_at": "2026-08-04T15:25:42.202533"
     }
   ],
   "used_english": [
@@ -18481,7 +18511,12 @@
     "the secret, speak one idea, not words",
     "never wait for perfect, hit record",
     "stop memorizing lists, start storytelling",
-    "this tiny word boosts confidence: “oye”"
+    "this tiny word boosts confidence: “oye”",
+    "never answer dry, add “¿y tú?”",
+    "the secret, speak in one chunk.",
+    "stop changing words, keep the pattern.",
+    "never dodge questions, answer fast.",
+    "this tiny sound makes you native."
   ],
-  "last_updated": "2026-08-03T21:57:10.359312"
+  "last_updated": "2026-08-04T15:25:42.202535"
 }
