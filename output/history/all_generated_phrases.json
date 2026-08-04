@@ -15899,6 +15899,36 @@
       "spanish": "Este es tu truco de amistad",
       "category": "Friendship",
       "generated_at": "2026-08-04T16:51:21.210921"
+    },
+    {
+      "english": "Never lose the vibe, say “qué onda”",
+      "spanish": "Nunca pierdas la vibra, di “qué onda”",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T18:26:50.285060"
+    },
+    {
+      "english": "What nobody tells you, compliments win",
+      "spanish": "Lo que nadie te dice, halagos ganan",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T18:26:50.285095"
+    },
+    {
+      "english": "The secret is this, ask “cómo estás?”",
+      "spanish": "El secreto es esto, pregunta “cómo estás?”",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T18:26:50.285123"
+    },
+    {
+      "english": "Never say goodbye too fast, say “vuelve”",
+      "spanish": "No digas adiós tan rápido, di “vuelve”",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T18:26:50.285150"
+    },
+    {
+      "english": "This is why we connect, “gracias por ti”",
+      "spanish": "Por eso conectamos, “gracias por ti”",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T18:26:50.285176"
     }
   ],
   "used_english": [
@@ -18551,7 +18581,12 @@
     "don’t overthink, send this compliment",
     "this one word keeps friends close",
     "stop “just friends”, say “de verdad”",
-    "this is your friendship cheat code"
+    "this is your friendship cheat code",
+    "never lose the vibe, say “qué onda”",
+    "what nobody tells you, compliments win",
+    "the secret is this, ask “cómo estás?”",
+    "never say goodbye too fast, say “vuelve”",
+    "this is why we connect, “gracias por ti”"
   ],
-  "last_updated": "2026-08-04T16:51:21.210923"
+  "last_updated": "2026-08-04T18:26:50.285178"
 }
