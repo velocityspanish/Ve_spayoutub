@@ -16109,6 +16109,36 @@
       "spanish": "Lo que repites, se vuelve acento",
       "category": "Motivation",
       "generated_at": "2026-08-05T20:35:39.141266"
+    },
+    {
+      "english": "What nobody tells you, confess gently.",
+      "spanish": "Lo que nadie te dice, confiesa suave.",
+      "category": "Courage",
+      "generated_at": "2026-08-05T22:04:20.917715"
+    },
+    {
+      "english": "Never go blank, ask “¿y tú?”.",
+      "spanish": "No te quedes en blanco, “¿y tú?”.",
+      "category": "Courage",
+      "generated_at": "2026-08-05T22:04:20.917750"
+    },
+    {
+      "english": "What if you’re understood, already?",
+      "spanish": "¿Y si ya te entienden?",
+      "category": "Courage",
+      "generated_at": "2026-08-05T22:04:20.917777"
+    },
+    {
+      "english": "Never rush, let your words breathe.",
+      "spanish": "No corras, deja respirar tus palabras.",
+      "category": "Courage",
+      "generated_at": "2026-08-05T22:04:20.917803"
+    },
+    {
+      "english": "The secret phrase: “sin problema”.",
+      "spanish": "La frase secreta: “sin problema”.",
+      "category": "Courage",
+      "generated_at": "2026-08-05T22:04:20.917829"
     }
   ],
   "used_english": [
@@ -18796,7 +18826,12 @@
     "never chase perfection, aim for flow",
     "stop hiding, tell the truth slowly",
     "the secret phrase: “estoy intentando”",
-    "what you repeat becomes your accent"
+    "what you repeat becomes your accent",
+    "what nobody tells you, confess gently.",
+    "never go blank, ask “¿y tú?”.",
+    "what if you’re understood, already?",
+    "never rush, let your words breathe.",
+    "the secret phrase: “sin problema”."
   ],
-  "last_updated": "2026-08-05T20:35:39.141268"
+  "last_updated": "2026-08-05T22:04:20.917831"
 }
