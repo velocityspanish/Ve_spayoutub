@@ -16079,6 +16079,36 @@
       "spanish": "Esta micro-frase vende tu confianza",
       "category": "Strength",
       "generated_at": "2026-08-05T18:20:59.520470"
+    },
+    {
+      "english": "The secret? Reply before you think",
+      "spanish": "El secreto, responde antes",
+      "category": "Motivation",
+      "generated_at": "2026-08-05T20:35:39.141160"
+    },
+    {
+      "english": "Never chase perfection, aim for flow",
+      "spanish": "Nunca busques perfección, ve fluido",
+      "category": "Motivation",
+      "generated_at": "2026-08-05T20:35:39.141194"
+    },
+    {
+      "english": "Stop hiding, tell the truth slowly",
+      "spanish": "Deja de esconderte, di la verdad lento",
+      "category": "Motivation",
+      "generated_at": "2026-08-05T20:35:39.141219"
+    },
+    {
+      "english": "The secret phrase: “Estoy intentando”",
+      "spanish": "La frase secreta: “Estoy intentando”",
+      "category": "Motivation",
+      "generated_at": "2026-08-05T20:35:39.141242"
+    },
+    {
+      "english": "What you repeat becomes your accent",
+      "spanish": "Lo que repites, se vuelve acento",
+      "category": "Motivation",
+      "generated_at": "2026-08-05T20:35:39.141266"
     }
   ],
   "used_english": [
@@ -18761,7 +18791,12 @@
     "the secret is asking one “por qué”",
     "stop freezing, say “en seguida”",
     "never search words, start with “hoy”",
-    "this micro-phrase sells your confidence"
+    "this micro-phrase sells your confidence",
+    "the secret? reply before you think",
+    "never chase perfection, aim for flow",
+    "stop hiding, tell the truth slowly",
+    "the secret phrase: “estoy intentando”",
+    "what you repeat becomes your accent"
   ],
-  "last_updated": "2026-08-05T18:20:59.520472"
+  "last_updated": "2026-08-05T20:35:39.141268"
 }
