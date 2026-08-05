@@ -16019,6 +16019,36 @@
       "spanish": "No pienses tanto, di “así es”",
       "category": "Success",
       "generated_at": "2026-08-05T15:15:41.882664"
+    },
+    {
+      "english": "Stop translating mid-sentence, just feel it.",
+      "spanish": "Deja de traducir a mitad, siente.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:42:48.947968"
+    },
+    {
+      "english": "Never study wordlists, learn moments.",
+      "spanish": "Nunca estudies listas, aprende momentos.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:42:48.948003"
+    },
+    {
+      "english": "The secret, speak slower, sound safer.",
+      "spanish": "El secreto, habla más lento, suena seguro.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:42:48.948026"
+    },
+    {
+      "english": "Never panic, use 'no pasa nada'.",
+      "spanish": "Nunca entres en pánico, usa 'no pasa nada'.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:42:48.948051"
+    },
+    {
+      "english": "Stop guessing, match the rhythm.",
+      "spanish": "Deja de adivinar, iguala el ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-08-05T16:42:48.948075"
     }
   ],
   "used_english": [
@@ -18691,7 +18721,12 @@
     "never freeze, use “tranquilo”, then smile",
     "the secret, talk about today",
     "stop doubt, start with “claro, mira”",
-    "never overthink, say “así es”"
+    "never overthink, say “así es”",
+    "stop translating mid-sentence, just feel it.",
+    "never study wordlists, learn moments.",
+    "the secret, speak slower, sound safer.",
+    "never panic, use 'no pasa nada'.",
+    "stop guessing, match the rhythm."
   ],
-  "last_updated": "2026-08-05T15:15:41.882666"
+  "last_updated": "2026-08-05T16:42:48.948077"
 }
