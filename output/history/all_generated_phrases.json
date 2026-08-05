@@ -16049,6 +16049,36 @@
       "spanish": "Deja de adivinar, iguala el ritmo.",
       "category": "Balance",
       "generated_at": "2026-08-05T16:42:48.948075"
+    },
+    {
+      "english": "This is why natives say “oye”",
+      "spanish": "Esto es por qué dicen “oye”",
+      "category": "Strength",
+      "generated_at": "2026-08-05T18:20:59.520359"
+    },
+    {
+      "english": "The secret is asking one “por qué”",
+      "spanish": "El secreto es decir un “por qué”",
+      "category": "Strength",
+      "generated_at": "2026-08-05T18:20:59.520396"
+    },
+    {
+      "english": "Stop freezing, say “en seguida”",
+      "spanish": "Para, no te quedes, “en seguida”",
+      "category": "Strength",
+      "generated_at": "2026-08-05T18:20:59.520422"
+    },
+    {
+      "english": "Never search words, start with “hoy”",
+      "spanish": "Nunca busques palabras, empieza con “hoy”",
+      "category": "Strength",
+      "generated_at": "2026-08-05T18:20:59.520447"
+    },
+    {
+      "english": "This micro-phrase sells your confidence",
+      "spanish": "Esta micro-frase vende tu confianza",
+      "category": "Strength",
+      "generated_at": "2026-08-05T18:20:59.520470"
     }
   ],
   "used_english": [
@@ -18726,7 +18756,12 @@
     "never study wordlists, learn moments.",
     "the secret, speak slower, sound safer.",
     "never panic, use 'no pasa nada'.",
-    "stop guessing, match the rhythm."
+    "stop guessing, match the rhythm.",
+    "this is why natives say “oye”",
+    "the secret is asking one “por qué”",
+    "stop freezing, say “en seguida”",
+    "never search words, start with “hoy”",
+    "this micro-phrase sells your confidence"
   ],
-  "last_updated": "2026-08-05T16:42:48.948077"
+  "last_updated": "2026-08-05T18:20:59.520472"
 }
