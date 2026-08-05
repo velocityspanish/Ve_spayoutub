@@ -15989,6 +15989,36 @@
       "spanish": "No digas 'vale', di más",
       "category": "Growth",
       "generated_at": "2026-08-04T22:03:32.892808"
+    },
+    {
+      "english": "Stop speaking, start replying—fast",
+      "spanish": "Deja de hablar, contesta rápido",
+      "category": "Success",
+      "generated_at": "2026-08-05T15:15:41.882557"
+    },
+    {
+      "english": "Never freeze, use “tranquilo”, then smile",
+      "spanish": "Nunca te congeles, usa “tranquilo”, sonrie",
+      "category": "Success",
+      "generated_at": "2026-08-05T15:15:41.882588"
+    },
+    {
+      "english": "The secret, talk about today",
+      "spanish": "El secreto, habla de hoy",
+      "category": "Success",
+      "generated_at": "2026-08-05T15:15:41.882611"
+    },
+    {
+      "english": "Stop doubt, start with “claro, mira”",
+      "spanish": "Deja la duda, empieza con “claro, mira”",
+      "category": "Success",
+      "generated_at": "2026-08-05T15:15:41.882636"
+    },
+    {
+      "english": "Never overthink, say “así es”",
+      "spanish": "No pienses tanto, di “así es”",
+      "category": "Success",
+      "generated_at": "2026-08-05T15:15:41.882664"
     }
   ],
   "used_english": [
@@ -18656,7 +18686,12 @@
     "never run out, keep this phrase",
     "the fastest boost? speak with feeling",
     "stop quitting, repeat the question",
-    "never say 'okay', say something better"
+    "never say 'okay', say something better",
+    "stop speaking, start replying—fast",
+    "never freeze, use “tranquilo”, then smile",
+    "the secret, talk about today",
+    "stop doubt, start with “claro, mira”",
+    "never overthink, say “así es”"
   ],
-  "last_updated": "2026-08-04T22:03:32.892816"
+  "last_updated": "2026-08-05T15:15:41.882666"
 }
