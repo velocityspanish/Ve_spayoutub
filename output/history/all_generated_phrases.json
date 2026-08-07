@@ -16229,6 +16229,36 @@
       "spanish": "No dejes las preguntas, sigue la charla",
       "category": "Inspiration",
       "generated_at": "2026-08-07T14:13:45.570275"
+    },
+    {
+      "english": "Never freeze, say “tranquilo, mira”",
+      "spanish": "Nunca te congeles, di «tranquilo, mira»",
+      "category": "Joy",
+      "generated_at": "2026-08-07T15:56:18.888465"
+    },
+    {
+      "english": "Never say “I’m good”, say “estoy”",
+      "spanish": "No digas «estoy bien», di «estoy…»",
+      "category": "Joy",
+      "generated_at": "2026-08-07T15:56:18.888504"
+    },
+    {
+      "english": "This one word sells confidence",
+      "spanish": "Una palabra vende confianza",
+      "category": "Joy",
+      "generated_at": "2026-08-07T15:56:18.888530"
+    },
+    {
+      "english": "Never practice silently, speak daily",
+      "spanish": "Nunca practiques en silencio, habla diario",
+      "category": "Joy",
+      "generated_at": "2026-08-07T15:56:18.888556"
+    },
+    {
+      "english": "Never respond late, answer immediately",
+      "spanish": "No respondas tarde, responde ya",
+      "category": "Joy",
+      "generated_at": "2026-08-07T15:56:18.888580"
     }
   ],
   "used_english": [
@@ -18936,7 +18966,12 @@
     "stop overexplaining, use one simple yes",
     "this one word turns fear into speech",
     "stop waiting, answer with “i agree”",
-    "never quit questions, keep the talk moving"
+    "never quit questions, keep the talk moving",
+    "never freeze, say “tranquilo, mira”",
+    "never say “i’m good”, say “estoy”",
+    "this one word sells confidence",
+    "never practice silently, speak daily",
+    "never respond late, answer immediately"
   ],
-  "last_updated": "2026-08-07T14:13:45.570277"
+  "last_updated": "2026-08-07T15:56:18.888582"
 }
