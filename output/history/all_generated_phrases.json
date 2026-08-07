@@ -16259,6 +16259,36 @@
       "spanish": "No respondas tarde, responde ya",
       "category": "Joy",
       "generated_at": "2026-08-07T15:56:18.888580"
+    },
+    {
+      "english": "Never say \"I'm lost\", say \"¿Entiendes?\"",
+      "spanish": "Nunca digas \"estoy perdido\", di \"¿Entiendes?\"",
+      "category": "Balance",
+      "generated_at": "2026-08-07T17:48:55.191878"
+    },
+    {
+      "english": "Stop sounding robotic, say it softly",
+      "spanish": "Deja sonar robótico, dilo suave",
+      "category": "Balance",
+      "generated_at": "2026-08-07T17:48:55.191912"
+    },
+    {
+      "english": "The secret phrase, \"está bien\" always",
+      "spanish": "La frase secreta, \"está bien\" siempre",
+      "category": "Balance",
+      "generated_at": "2026-08-07T17:48:55.191938"
+    },
+    {
+      "english": "Stop overcorrecting, say one true thing",
+      "spanish": "Deja corregir de más, di una verdad",
+      "category": "Balance",
+      "generated_at": "2026-08-07T17:48:55.191963"
+    },
+    {
+      "english": "Never fear mistakes, they prove effort",
+      "spanish": "No tengas miedo, los errores muestran esfuerzo",
+      "category": "Balance",
+      "generated_at": "2026-08-07T17:48:55.191987"
     }
   ],
   "used_english": [
@@ -18971,7 +19001,12 @@
     "never say “i’m good”, say “estoy”",
     "this one word sells confidence",
     "never practice silently, speak daily",
-    "never respond late, answer immediately"
+    "never respond late, answer immediately",
+    "never say \"i'm lost\", say \"¿entiendes?\"",
+    "stop sounding robotic, say it softly",
+    "the secret phrase, \"está bien\" always",
+    "stop overcorrecting, say one true thing",
+    "never fear mistakes, they prove effort"
   ],
-  "last_updated": "2026-08-07T15:56:18.888582"
+  "last_updated": "2026-08-07T17:48:55.191989"
 }
