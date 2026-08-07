@@ -16139,6 +16139,36 @@
       "spanish": "La frase secreta: “sin problema”.",
       "category": "Courage",
       "generated_at": "2026-08-05T22:04:20.917829"
+    },
+    {
+      "english": "Never fear pauses, say “eh”",
+      "spanish": "Nunca temas pausas, di “eh”",
+      "category": "Patience",
+      "generated_at": "2026-08-07T00:42:43.615505"
+    },
+    {
+      "english": "Never force grammar, keep it simple",
+      "spanish": "No fuerces gramática, mantenlo simple",
+      "category": "Patience",
+      "generated_at": "2026-08-07T00:42:43.615549"
+    },
+    {
+      "english": "Stop blanking, look for one verb",
+      "spanish": "Deja de trabarte, busca un verbo",
+      "category": "Patience",
+      "generated_at": "2026-08-07T00:42:43.615576"
+    },
+    {
+      "english": "Urgent: practice patience, not speed",
+      "spanish": "Urgente: practica paciencia, no velocidad",
+      "category": "Patience",
+      "generated_at": "2026-08-07T00:42:43.615601"
+    },
+    {
+      "english": "Never give up, try again now",
+      "spanish": "No te rindas, inténtalo otra vez",
+      "category": "Patience",
+      "generated_at": "2026-08-07T00:42:43.615635"
     }
   ],
   "used_english": [
@@ -18831,7 +18861,12 @@
     "never go blank, ask “¿y tú?”.",
     "what if you’re understood, already?",
     "never rush, let your words breathe.",
-    "the secret phrase: “sin problema”."
+    "the secret phrase: “sin problema”.",
+    "never fear pauses, say “eh”",
+    "never force grammar, keep it simple",
+    "stop blanking, look for one verb",
+    "urgent: practice patience, not speed",
+    "never give up, try again now"
   ],
-  "last_updated": "2026-08-05T22:04:20.917831"
+  "last_updated": "2026-08-07T00:42:43.615637"
 }
