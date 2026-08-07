@@ -16319,6 +16319,36 @@
       "spanish": "Esta mini pregunta abre conversaciones",
       "category": "Wisdom",
       "generated_at": "2026-08-07T19:53:37.989213"
+    },
+    {
+      "english": "Stop sounding boring, use emotion",
+      "spanish": "Deja sonar aburrido, usa emoción",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T21:26:59.027609"
+    },
+    {
+      "english": "The secret, talk like texting",
+      "spanish": "El secreto, habla como mensaje",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T21:26:59.027641"
+    },
+    {
+      "english": "Stop freezing, say 'de una'",
+      "spanish": "Deja de congelarte, di 'de una'",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T21:26:59.027664"
+    },
+    {
+      "english": "Never overthink, speak your truth",
+      "spanish": "No sobrepienses, di tu verdad",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T21:26:59.027689"
+    },
+    {
+      "english": "Urgent: practice compliments, daily",
+      "spanish": "Urgente, practica cumplidos, diario",
+      "category": "Motivation",
+      "generated_at": "2026-08-07T21:26:59.027714"
     }
   ],
   "used_english": [
@@ -19041,7 +19071,12 @@
     "never say \"hello\" only, ask",
     "the secret, add emotion, not words",
     "never translate, shadow natives today",
-    "this tiny question unlocks conversations"
+    "this tiny question unlocks conversations",
+    "stop sounding boring, use emotion",
+    "the secret, talk like texting",
+    "stop freezing, say 'de una'",
+    "never overthink, speak your truth",
+    "urgent: practice compliments, daily"
   ],
-  "last_updated": "2026-08-07T19:53:37.989216"
+  "last_updated": "2026-08-07T21:26:59.027716"
 }
