@@ -16289,6 +16289,36 @@
       "spanish": "No tengas miedo, los errores muestran esfuerzo",
       "category": "Balance",
       "generated_at": "2026-08-07T17:48:55.191987"
+    },
+    {
+      "english": "Stop memorizing verbs, use chunks",
+      "spanish": "Deja de memorizar verbos, usa frases",
+      "category": "Wisdom",
+      "generated_at": "2026-08-07T19:53:37.989106"
+    },
+    {
+      "english": "Never say \"hello\" only, ask",
+      "spanish": "Nunca digas \"hola\" solo, pregunta",
+      "category": "Wisdom",
+      "generated_at": "2026-08-07T19:53:37.989139"
+    },
+    {
+      "english": "The secret, add emotion, not words",
+      "spanish": "El secreto, pon emoción, no palabras",
+      "category": "Wisdom",
+      "generated_at": "2026-08-07T19:53:37.989166"
+    },
+    {
+      "english": "Never translate, shadow natives today",
+      "spanish": "No traduzcas, imita nativos hoy",
+      "category": "Wisdom",
+      "generated_at": "2026-08-07T19:53:37.989191"
+    },
+    {
+      "english": "This tiny question unlocks conversations",
+      "spanish": "Esta mini pregunta abre conversaciones",
+      "category": "Wisdom",
+      "generated_at": "2026-08-07T19:53:37.989213"
     }
   ],
   "used_english": [
@@ -19006,7 +19036,12 @@
     "stop sounding robotic, say it softly",
     "the secret phrase, \"está bien\" always",
     "stop overcorrecting, say one true thing",
-    "never fear mistakes, they prove effort"
+    "never fear mistakes, they prove effort",
+    "stop memorizing verbs, use chunks",
+    "never say \"hello\" only, ask",
+    "the secret, add emotion, not words",
+    "never translate, shadow natives today",
+    "this tiny question unlocks conversations"
   ],
-  "last_updated": "2026-08-07T17:48:55.191989"
+  "last_updated": "2026-08-07T19:53:37.989216"
 }
