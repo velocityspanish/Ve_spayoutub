@@ -16169,6 +16169,36 @@
       "spanish": "No te rindas, inténtalo otra vez",
       "category": "Patience",
       "generated_at": "2026-08-07T00:42:43.615635"
+    },
+    {
+      "english": "The secret, add “ahora”, not “soon”",
+      "spanish": "El secreto, pon “ahora”, no “después”",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:59:39.995168"
+    },
+    {
+      "english": "Urgent: change one word, feel power",
+      "spanish": "Urgente: cambia una palabra, siente poder",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:59:39.995201"
+    },
+    {
+      "english": "This one habit builds instant fluency",
+      "spanish": "Este hábito crea fluidez al instante",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:59:39.995226"
+    },
+    {
+      "english": "Never rush endings, they carry meaning",
+      "spanish": "No corras el final, lleva sentido",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:59:39.995250"
+    },
+    {
+      "english": "The secret phrase, “qué raro” tonight",
+      "spanish": "La frase secreta, “qué raro” esta noche",
+      "category": "Strength",
+      "generated_at": "2026-08-07T00:59:39.995274"
     }
   ],
   "used_english": [
@@ -18866,7 +18896,12 @@
     "never force grammar, keep it simple",
     "stop blanking, look for one verb",
     "urgent: practice patience, not speed",
-    "never give up, try again now"
+    "never give up, try again now",
+    "the secret, add “ahora”, not “soon”",
+    "urgent: change one word, feel power",
+    "this one habit builds instant fluency",
+    "never rush endings, they carry meaning",
+    "the secret phrase, “qué raro” tonight"
   ],
-  "last_updated": "2026-08-07T00:42:43.615637"
+  "last_updated": "2026-08-07T00:59:39.995277"
 }
