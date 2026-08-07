@@ -16199,6 +16199,36 @@
       "spanish": "La frase secreta, “qué raro” esta noche",
       "category": "Strength",
       "generated_at": "2026-08-07T00:59:39.995274"
+    },
+    {
+      "english": "Stop translating, speak first, breathe after",
+      "spanish": "Deja de traducir, habla primero, respira después",
+      "category": "Inspiration",
+      "generated_at": "2026-08-07T14:13:45.570170"
+    },
+    {
+      "english": "Stop overexplaining, use one simple yes",
+      "spanish": "Deja de explicar, usa un simple “sí”",
+      "category": "Inspiration",
+      "generated_at": "2026-08-07T14:13:45.570203"
+    },
+    {
+      "english": "This one word turns fear into speech",
+      "spanish": "Una sola palabra convierte miedo en habla",
+      "category": "Inspiration",
+      "generated_at": "2026-08-07T14:13:45.570228"
+    },
+    {
+      "english": "Stop waiting, answer with “I agree”",
+      "spanish": "No esperes, responde con “yo también”",
+      "category": "Inspiration",
+      "generated_at": "2026-08-07T14:13:45.570253"
+    },
+    {
+      "english": "Never quit questions, keep the talk moving",
+      "spanish": "No dejes las preguntas, sigue la charla",
+      "category": "Inspiration",
+      "generated_at": "2026-08-07T14:13:45.570275"
     }
   ],
   "used_english": [
@@ -18901,7 +18931,12 @@
     "urgent: change one word, feel power",
     "this one habit builds instant fluency",
     "never rush endings, they carry meaning",
-    "the secret phrase, “qué raro” tonight"
+    "the secret phrase, “qué raro” tonight",
+    "stop translating, speak first, breathe after",
+    "stop overexplaining, use one simple yes",
+    "this one word turns fear into speech",
+    "stop waiting, answer with “i agree”",
+    "never quit questions, keep the talk moving"
   ],
-  "last_updated": "2026-08-07T00:59:39.995277"
+  "last_updated": "2026-08-07T14:13:45.570277"
 }
