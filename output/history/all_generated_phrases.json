@@ -16379,6 +16379,36 @@
       "spanish": "Deja “gracias”, di “gracias por ti”",
       "category": "Joy",
       "generated_at": "2026-08-08T13:48:11.067881"
+    },
+    {
+      "english": "Never ignore this grateful ending",
+      "spanish": "Nunca ignores este final agradecido",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T15:29:29.287799"
+    },
+    {
+      "english": "This is why gratitude sounds fluent",
+      "spanish": "Por eso, la gratitud suena fluida",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T15:29:29.287838"
+    },
+    {
+      "english": "The secret, start with “te debo”",
+      "spanish": "El secreto, empieza con “te debo”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T15:29:29.287866"
+    },
+    {
+      "english": "Stop being formal, say “gracias, de verdad”",
+      "spanish": "No seas tan formal, di “gracias, de verdad”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T15:29:29.287889"
+    },
+    {
+      "english": "This tiny word makes people smile",
+      "spanish": "Esta palabra te hace sonreír",
+      "category": "Gratitude",
+      "generated_at": "2026-08-08T15:29:29.287915"
     }
   ],
   "used_english": [
@@ -19111,7 +19141,12 @@
     "the secret, use “tú también”",
     "never rush, say “espérame”",
     "stop asking, just “lo mismo”",
-    "stop “thanks”, say “gracias por ti”"
+    "stop “thanks”, say “gracias por ti”",
+    "never ignore this grateful ending",
+    "this is why gratitude sounds fluent",
+    "the secret, start with “te debo”",
+    "stop being formal, say “gracias, de verdad”",
+    "this tiny word makes people smile"
   ],
-  "last_updated": "2026-08-08T13:48:11.067883"
+  "last_updated": "2026-08-08T15:29:29.287917"
 }
