@@ -16469,6 +16469,36 @@
       "spanish": "Cambia el acento, usa “o sea”",
       "category": "Hope",
       "generated_at": "2026-08-08T19:34:16.440612"
+    },
+    {
+      "english": "The secret is: reply with “de hecho”",
+      "spanish": "El secreto: responde “de hecho”",
+      "category": "Strength",
+      "generated_at": "2026-08-08T21:18:39.944292"
+    },
+    {
+      "english": "Stop overexplaining, just say “ok” no more",
+      "spanish": "Deja de explicar, di “vale”",
+      "category": "Strength",
+      "generated_at": "2026-08-08T21:18:39.944326"
+    },
+    {
+      "english": "This one question makes people respond",
+      "spanish": "Una pregunta, gente responde",
+      "category": "Strength",
+      "generated_at": "2026-08-08T21:18:39.944351"
+    },
+    {
+      "english": "Stop memorizing, steal useful chunks",
+      "spanish": "Deja memorizar, roba frases",
+      "category": "Strength",
+      "generated_at": "2026-08-08T21:18:39.944377"
+    },
+    {
+      "english": "Never pause too long, say “todavía”",
+      "spanish": "No te calles, di “todavía”",
+      "category": "Strength",
+      "generated_at": "2026-08-08T21:18:39.944404"
     }
   ],
   "used_english": [
@@ -19216,7 +19246,12 @@
     "the secret, ask “¿qué tal?”",
     "stop overthinking, just say “sí, claro”",
     "never freeze, reply with “de acuerdo”",
-    "this changes accents, use “o sea”"
+    "this changes accents, use “o sea”",
+    "the secret is: reply with “de hecho”",
+    "stop overexplaining, just say “ok” no more",
+    "this one question makes people respond",
+    "stop memorizing, steal useful chunks",
+    "never pause too long, say “todavía”"
   ],
-  "last_updated": "2026-08-08T19:34:16.440614"
+  "last_updated": "2026-08-08T21:18:39.944406"
 }
