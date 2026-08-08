@@ -16409,6 +16409,36 @@
       "spanish": "Esta palabra te hace sonreír",
       "category": "Gratitude",
       "generated_at": "2026-08-08T15:29:29.287915"
+    },
+    {
+      "english": "The secret, practice after you mess up",
+      "spanish": "La clave, practica tras equivocarte",
+      "category": "Perseverance",
+      "generated_at": "2026-08-08T17:28:57.202851"
+    },
+    {
+      "english": "Stop rewriting, keep the momentum",
+      "spanish": "Deja de reescribir, sigue el ritmo",
+      "category": "Perseverance",
+      "generated_at": "2026-08-08T17:28:57.202889"
+    },
+    {
+      "english": "Urgent: 10 minutes daily, no excuses",
+      "spanish": "Urgente: diez minutos al día, sin excusas",
+      "category": "Perseverance",
+      "generated_at": "2026-08-08T17:28:57.202916"
+    },
+    {
+      "english": "The secret phrase today: \"voy\"",
+      "spanish": "La frase secreta: \"voy\" hoy",
+      "category": "Perseverance",
+      "generated_at": "2026-08-08T17:28:57.202941"
+    },
+    {
+      "english": "Stop doom-scrolling, talk to someone",
+      "spanish": "Deja el doomscroll, habla con alguien",
+      "category": "Perseverance",
+      "generated_at": "2026-08-08T17:28:57.202964"
     }
   ],
   "used_english": [
@@ -19146,7 +19176,12 @@
     "this is why gratitude sounds fluent",
     "the secret, start with “te debo”",
     "stop being formal, say “gracias, de verdad”",
-    "this tiny word makes people smile"
+    "this tiny word makes people smile",
+    "the secret, practice after you mess up",
+    "stop rewriting, keep the momentum",
+    "urgent: 10 minutes daily, no excuses",
+    "the secret phrase today: \"voy\"",
+    "stop doom-scrolling, talk to someone"
   ],
-  "last_updated": "2026-08-08T15:29:29.287917"
+  "last_updated": "2026-08-08T17:28:57.202966"
 }
