@@ -16439,6 +16439,36 @@
       "spanish": "Deja el doomscroll, habla con alguien",
       "category": "Perseverance",
       "generated_at": "2026-08-08T17:28:57.202964"
+    },
+    {
+      "english": "Stop saying “please”, try “por favor”",
+      "spanish": "Deja “por favor”, di “por favor”",
+      "category": "Hope",
+      "generated_at": "2026-08-08T19:34:16.440533"
+    },
+    {
+      "english": "The secret, ask “¿Qué tal?”",
+      "spanish": "El secreto, pregunta “¿Qué tal?”",
+      "category": "Hope",
+      "generated_at": "2026-08-08T19:34:16.440561"
+    },
+    {
+      "english": "Stop overthinking, just say “sí, claro”",
+      "spanish": "Deja de dudar, di “sí, claro”",
+      "category": "Hope",
+      "generated_at": "2026-08-08T19:34:16.440578"
+    },
+    {
+      "english": "Never freeze, reply with “de acuerdo”",
+      "spanish": "Nunca te quedes, di “de acuerdo”",
+      "category": "Hope",
+      "generated_at": "2026-08-08T19:34:16.440595"
+    },
+    {
+      "english": "This changes accents, use “o sea”",
+      "spanish": "Cambia el acento, usa “o sea”",
+      "category": "Hope",
+      "generated_at": "2026-08-08T19:34:16.440612"
     }
   ],
   "used_english": [
@@ -19181,7 +19211,12 @@
     "stop rewriting, keep the momentum",
     "urgent: 10 minutes daily, no excuses",
     "the secret phrase today: \"voy\"",
-    "stop doom-scrolling, talk to someone"
+    "stop doom-scrolling, talk to someone",
+    "stop saying “please”, try “por favor”",
+    "the secret, ask “¿qué tal?”",
+    "stop overthinking, just say “sí, claro”",
+    "never freeze, reply with “de acuerdo”",
+    "this changes accents, use “o sea”"
   ],
-  "last_updated": "2026-08-08T17:28:57.202966"
+  "last_updated": "2026-08-08T19:34:16.440614"
 }
