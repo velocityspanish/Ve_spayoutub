@@ -16349,6 +16349,36 @@
       "spanish": "Urgente, practica cumplidos, diario",
       "category": "Motivation",
       "generated_at": "2026-08-07T21:26:59.027714"
+    },
+    {
+      "english": "Never say “I think” again",
+      "spanish": "Nunca digas “Creo”",
+      "category": "Joy",
+      "generated_at": "2026-08-08T13:48:11.067802"
+    },
+    {
+      "english": "The secret, use “tú también”",
+      "spanish": "El secreto, usa “tú también”",
+      "category": "Joy",
+      "generated_at": "2026-08-08T13:48:11.067829"
+    },
+    {
+      "english": "Never rush, say “espérame”",
+      "spanish": "No corras, di “espérame”",
+      "category": "Joy",
+      "generated_at": "2026-08-08T13:48:11.067845"
+    },
+    {
+      "english": "Stop asking, just “lo mismo”",
+      "spanish": "Deja preguntar, di “lo mismo”",
+      "category": "Joy",
+      "generated_at": "2026-08-08T13:48:11.067862"
+    },
+    {
+      "english": "Stop “thanks”, say “gracias por ti”",
+      "spanish": "Deja “gracias”, di “gracias por ti”",
+      "category": "Joy",
+      "generated_at": "2026-08-08T13:48:11.067881"
     }
   ],
   "used_english": [
@@ -19076,7 +19106,12 @@
     "the secret, talk like texting",
     "stop freezing, say 'de una'",
     "never overthink, speak your truth",
-    "urgent: practice compliments, daily"
+    "urgent: practice compliments, daily",
+    "never say “i think” again",
+    "the secret, use “tú también”",
+    "never rush, say “espérame”",
+    "stop asking, just “lo mismo”",
+    "stop “thanks”, say “gracias por ti”"
   ],
-  "last_updated": "2026-08-07T21:26:59.027716"
+  "last_updated": "2026-08-08T13:48:11.067883"
 }
