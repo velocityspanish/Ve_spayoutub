@@ -16589,6 +16589,36 @@
       "spanish": "El secreto, cambia solo una palabra",
       "category": "Purpose",
       "generated_at": "2026-08-09T17:30:28.808534"
+    },
+    {
+      "english": "Stop judging, say you’re okay",
+      "spanish": "Para de juzgar, di \"estoy bien\"",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:36:23.868177"
+    },
+    {
+      "english": "Never rush replies, use \"voy\"",
+      "spanish": "Nunca corras, usa \"voy\"",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:36:23.868211"
+    },
+    {
+      "english": "The secret, compliment first, always",
+      "spanish": "El secreto, felicita primero",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:36:23.868236"
+    },
+    {
+      "english": "Stop negativity, say \"cuéntame\"",
+      "spanish": "Deja lo negativo, di \"cuéntame\"",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:36:23.868263"
+    },
+    {
+      "english": "Never be shy, try one \"oye\"",
+      "spanish": "No seas tímido, prueba un \"oye\"",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T19:36:23.868286"
     }
   ],
   "used_english": [
@@ -19356,7 +19386,12 @@
     "stop replying with silence, smile",
     "the secret, ask for one example",
     "never quit the same topic, daily",
-    "the secret, swap one word only"
+    "the secret, swap one word only",
+    "stop judging, say you’re okay",
+    "never rush replies, use \"voy\"",
+    "the secret, compliment first, always",
+    "stop negativity, say \"cuéntame\"",
+    "never be shy, try one \"oye\""
   ],
-  "last_updated": "2026-08-09T17:30:28.808536"
+  "last_updated": "2026-08-09T19:36:23.868288"
 }
