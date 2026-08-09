@@ -16529,6 +16529,36 @@
       "spanish": "No entres en pánico, di “lo intento”",
       "category": "Joy",
       "generated_at": "2026-08-09T13:51:21.371119"
+    },
+    {
+      "english": "Stop answering with “yes” only",
+      "spanish": "No respondas solo con “sí”",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T15:32:08.756191"
+    },
+    {
+      "english": "Stop listing verbs, use stories",
+      "spanish": "Deja de listar verbos, usa historias",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T15:32:08.756225"
+    },
+    {
+      "english": "The fastest progress is copying",
+      "spanish": "El avance más rápido es imitar",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T15:32:08.756251"
+    },
+    {
+      "english": "Never quit one daily conversation",
+      "spanish": "No abandones una conversación diaria",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T15:32:08.756277"
+    },
+    {
+      "english": "Stop changing tense mid-sentence",
+      "spanish": "No cambies el tiempo en la frase",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T15:32:08.756303"
     }
   ],
   "used_english": [
@@ -19286,7 +19316,12 @@
     "this is why natives breathe between",
     "stop rehearsing, just tag the verb",
     "stop “perfect”, say “así funciona”",
-    "never panic, try “lo intento”"
+    "never panic, try “lo intento”",
+    "stop answering with “yes” only",
+    "stop listing verbs, use stories",
+    "the fastest progress is copying",
+    "never quit one daily conversation",
+    "stop changing tense mid-sentence"
   ],
-  "last_updated": "2026-08-09T13:51:21.371121"
+  "last_updated": "2026-08-09T15:32:08.756305"
 }
