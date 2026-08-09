@@ -16619,6 +16619,36 @@
       "spanish": "No seas tímido, prueba un \"oye\"",
       "category": "Kindness",
       "generated_at": "2026-08-09T19:36:23.868286"
+    },
+    {
+      "english": "Stop ignoring kindness words, use these.",
+      "spanish": "Deja de ignorar palabras de cariño, usa estas.",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T21:20:11.928928"
+    },
+    {
+      "english": "The secret, say 'perdón' with heart.",
+      "spanish": "El secreto, di \"perdón\" con corazón.",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T21:20:11.928980"
+    },
+    {
+      "english": "What nobody tells you, apologize fast.",
+      "spanish": "Lo que nadie te dice, pide perdón rápido.",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T21:20:11.929006"
+    },
+    {
+      "english": "Stop sounding tough, say you're sorry.",
+      "spanish": "Deja de sonar duro, di lo siento.",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T21:20:11.929030"
+    },
+    {
+      "english": "Never dismiss feelings, say 'estoy aquí'.",
+      "spanish": "Nunca ignores sentimientos, di \"estoy aquí\".",
+      "category": "Kindness",
+      "generated_at": "2026-08-09T21:20:11.929054"
     }
   ],
   "used_english": [
@@ -19391,7 +19421,12 @@
     "never rush replies, use \"voy\"",
     "the secret, compliment first, always",
     "stop negativity, say \"cuéntame\"",
-    "never be shy, try one \"oye\""
+    "never be shy, try one \"oye\"",
+    "stop ignoring kindness words, use these.",
+    "the secret, say 'perdón' with heart.",
+    "what nobody tells you, apologize fast.",
+    "stop sounding tough, say you're sorry.",
+    "never dismiss feelings, say 'estoy aquí'."
   ],
-  "last_updated": "2026-08-09T19:36:23.868288"
+  "last_updated": "2026-08-09T21:20:11.929056"
 }
