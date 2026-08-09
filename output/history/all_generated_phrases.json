@@ -16499,6 +16499,36 @@
       "spanish": "No te calles, di “todavía”",
       "category": "Strength",
       "generated_at": "2026-08-08T21:18:39.944404"
+    },
+    {
+      "english": "Never say “why”, ask “por qué”",
+      "spanish": "Nunca digas “por qué”, di “por qué”",
+      "category": "Joy",
+      "generated_at": "2026-08-09T13:51:21.371009"
+    },
+    {
+      "english": "This is why natives breathe between",
+      "spanish": "Por eso los nativos respiran, entre pausas",
+      "category": "Joy",
+      "generated_at": "2026-08-09T13:51:21.371043"
+    },
+    {
+      "english": "Stop rehearsing, just tag the verb",
+      "spanish": "Deja de ensayar, solo pega el verbo",
+      "category": "Joy",
+      "generated_at": "2026-08-09T13:51:21.371069"
+    },
+    {
+      "english": "Stop “perfect”, say “así funciona”",
+      "spanish": "Deja el “perfecto”, di “así funciona”",
+      "category": "Joy",
+      "generated_at": "2026-08-09T13:51:21.371095"
+    },
+    {
+      "english": "Never panic, try “lo intento”",
+      "spanish": "No entres en pánico, di “lo intento”",
+      "category": "Joy",
+      "generated_at": "2026-08-09T13:51:21.371119"
     }
   ],
   "used_english": [
@@ -19251,7 +19281,12 @@
     "stop overexplaining, just say “ok” no more",
     "this one question makes people respond",
     "stop memorizing, steal useful chunks",
-    "never pause too long, say “todavía”"
+    "never pause too long, say “todavía”",
+    "never say “why”, ask “por qué”",
+    "this is why natives breathe between",
+    "stop rehearsing, just tag the verb",
+    "stop “perfect”, say “así funciona”",
+    "never panic, try “lo intento”"
   ],
-  "last_updated": "2026-08-08T21:18:39.944406"
+  "last_updated": "2026-08-09T13:51:21.371121"
 }
