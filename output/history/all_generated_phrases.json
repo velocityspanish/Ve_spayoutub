@@ -16559,6 +16559,36 @@
       "spanish": "No cambies el tiempo en la frase",
       "category": "Creativity",
       "generated_at": "2026-08-09T15:32:08.756303"
+    },
+    {
+      "english": "Never memorize rules, use this",
+      "spanish": "Nunca memorices reglas, usa esto",
+      "category": "Purpose",
+      "generated_at": "2026-08-09T17:30:28.808427"
+    },
+    {
+      "english": "Stop replying with silence, smile",
+      "spanish": "Deja de responder con silencio, sonríe",
+      "category": "Purpose",
+      "generated_at": "2026-08-09T17:30:28.808466"
+    },
+    {
+      "english": "The secret, ask for one example",
+      "spanish": "El secreto, pide un ejemplo",
+      "category": "Purpose",
+      "generated_at": "2026-08-09T17:30:28.808489"
+    },
+    {
+      "english": "Never quit the same topic, daily",
+      "spanish": "No abandones el mismo tema, diario",
+      "category": "Purpose",
+      "generated_at": "2026-08-09T17:30:28.808512"
+    },
+    {
+      "english": "The secret, swap one word only",
+      "spanish": "El secreto, cambia solo una palabra",
+      "category": "Purpose",
+      "generated_at": "2026-08-09T17:30:28.808534"
     }
   ],
   "used_english": [
@@ -19321,7 +19351,12 @@
     "stop listing verbs, use stories",
     "the fastest progress is copying",
     "never quit one daily conversation",
-    "stop changing tense mid-sentence"
+    "stop changing tense mid-sentence",
+    "never memorize rules, use this",
+    "stop replying with silence, smile",
+    "the secret, ask for one example",
+    "never quit the same topic, daily",
+    "the secret, swap one word only"
   ],
-  "last_updated": "2026-08-09T15:32:08.756305"
+  "last_updated": "2026-08-09T17:30:28.808536"
 }
