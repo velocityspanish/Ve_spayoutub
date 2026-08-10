@@ -16739,6 +16739,36 @@
       "spanish": "La victoria rápida, una mini-historia diaria.",
       "category": "Wisdom",
       "generated_at": "2026-08-10T17:50:55.032808"
+    },
+    {
+      "english": "Stop clenching, speak slower, smoother",
+      "spanish": "Deja de tensar, habla más lento",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T19:56:12.865118"
+    },
+    {
+      "english": "Stop memorizing, steal whole sentences",
+      "spanish": "No memorices, roba frases completas",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T19:56:12.865153"
+    },
+    {
+      "english": "What if you talk, not study?",
+      "spanish": "¿Y si hablas, no estudias?",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T19:56:12.865178"
+    },
+    {
+      "english": "Never forget, emotion beats translation",
+      "spanish": "Nunca olvides, la emoción gana",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T19:56:12.865204"
+    },
+    {
+      "english": "Stop saying “later”, say “right now”",
+      "spanish": "Deja “luego”, di “ahora mismo”",
+      "category": "Creativity",
+      "generated_at": "2026-08-10T19:56:12.865230"
     }
   ],
   "used_english": [
@@ -19531,7 +19561,12 @@
     "stop overthinking, use “vale, ya”.",
     "never memorized—memorize feelings, instead.",
     "stop translating—shadow the whole chunk.",
-    "the fastest win? one mini-story daily."
+    "the fastest win? one mini-story daily.",
+    "stop clenching, speak slower, smoother",
+    "stop memorizing, steal whole sentences",
+    "what if you talk, not study?",
+    "never forget, emotion beats translation",
+    "stop saying “later”, say “right now”"
   ],
-  "last_updated": "2026-08-10T17:50:55.032811"
+  "last_updated": "2026-08-10T19:56:12.865232"
 }
