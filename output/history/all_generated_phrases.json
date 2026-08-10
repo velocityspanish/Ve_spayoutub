@@ -16649,6 +16649,36 @@
       "spanish": "Nunca ignores sentimientos, di \"estoy aquí\".",
       "category": "Kindness",
       "generated_at": "2026-08-09T21:20:11.929054"
+    },
+    {
+      "english": "Never say sorry, just explain",
+      "spanish": "No pidas perdón, explica",
+      "category": "Courage",
+      "generated_at": "2026-08-10T14:20:54.938179"
+    },
+    {
+      "english": "Urgent: learn one response, fast",
+      "spanish": "Urgente: aprende una respuesta",
+      "category": "Courage",
+      "generated_at": "2026-08-10T14:20:54.938229"
+    },
+    {
+      "english": "Stop ghosting practice, use voices",
+      "spanish": "No desaparezcas, habla en voz",
+      "category": "Courage",
+      "generated_at": "2026-08-10T14:20:54.938257"
+    },
+    {
+      "english": "Never fear “wrong”, it helps",
+      "spanish": "No temas “mal”, ayuda",
+      "category": "Courage",
+      "generated_at": "2026-08-10T14:20:54.938282"
+    },
+    {
+      "english": "Your accent grows when you relax",
+      "spanish": "Tu acento crece con calma",
+      "category": "Courage",
+      "generated_at": "2026-08-10T14:20:54.938309"
     }
   ],
   "used_english": [
@@ -19426,7 +19456,12 @@
     "the secret, say 'perdón' with heart.",
     "what nobody tells you, apologize fast.",
     "stop sounding tough, say you're sorry.",
-    "never dismiss feelings, say 'estoy aquí'."
+    "never dismiss feelings, say 'estoy aquí'.",
+    "never say sorry, just explain",
+    "urgent: learn one response, fast",
+    "stop ghosting practice, use voices",
+    "never fear “wrong”, it helps",
+    "your accent grows when you relax"
   ],
-  "last_updated": "2026-08-09T21:20:11.929056"
+  "last_updated": "2026-08-10T14:20:54.938311"
 }
