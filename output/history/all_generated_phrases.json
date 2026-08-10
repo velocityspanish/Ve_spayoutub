@@ -16769,6 +16769,36 @@
       "spanish": "Deja “luego”, di “ahora mismo”",
       "category": "Creativity",
       "generated_at": "2026-08-10T19:56:12.865230"
+    },
+    {
+      "english": "Never thank later, thank right away",
+      "spanish": "Nunca agradezcas después, agradece ya",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:30:42.092548"
+    },
+    {
+      "english": "This is why “gracias” hits deeper",
+      "spanish": "Por eso, “gracias” pega más hondo",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:30:42.092585"
+    },
+    {
+      "english": "The secret? Thank you with emotion",
+      "spanish": "El secreto, gracias con emoción",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:30:42.092610"
+    },
+    {
+      "english": "Stop “thanks” once, say it twice",
+      "spanish": "No digas “gracias” una vez",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:30:42.092634"
+    },
+    {
+      "english": "Never under-say, add “de verdad”",
+      "spanish": "Nunca lo diga poco, “de verdad”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T21:30:42.092658"
     }
   ],
   "used_english": [
@@ -19566,7 +19596,12 @@
     "stop memorizing, steal whole sentences",
     "what if you talk, not study?",
     "never forget, emotion beats translation",
-    "stop saying “later”, say “right now”"
+    "stop saying “later”, say “right now”",
+    "never thank later, thank right away",
+    "this is why “gracias” hits deeper",
+    "the secret? thank you with emotion",
+    "stop “thanks” once, say it twice",
+    "never under-say, add “de verdad”"
   ],
-  "last_updated": "2026-08-10T19:56:12.865232"
+  "last_updated": "2026-08-10T21:30:42.092660"
 }
