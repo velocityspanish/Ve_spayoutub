@@ -16679,6 +16679,36 @@
       "spanish": "Tu acento crece con calma",
       "category": "Courage",
       "generated_at": "2026-08-10T14:20:54.938309"
+    },
+    {
+      "english": "Never practice silence, practice breaths",
+      "spanish": "Nunca practiques silencio, practica respiraciones",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-10T16:00:24.453128"
+    },
+    {
+      "english": "What’s your body saying in Spanish?",
+      "spanish": "¿Qué dice tu cuerpo en español?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-10T16:00:24.453163"
+    },
+    {
+      "english": "Never rush, listen first, then answer",
+      "spanish": "No corras, escucha primero, responde",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-10T16:00:24.453188"
+    },
+    {
+      "english": "The secret? One sentence, present mind",
+      "spanish": "El secreto, una frase, mente presente",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-10T16:00:24.453213"
+    },
+    {
+      "english": "Never fear “no entiendo”, reset",
+      "spanish": "No temas “no entiendo”, reinicia",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-10T16:00:24.453239"
     }
   ],
   "used_english": [
@@ -19461,7 +19491,12 @@
     "urgent: learn one response, fast",
     "stop ghosting practice, use voices",
     "never fear “wrong”, it helps",
-    "your accent grows when you relax"
+    "your accent grows when you relax",
+    "never practice silence, practice breaths",
+    "what’s your body saying in spanish?",
+    "never rush, listen first, then answer",
+    "the secret? one sentence, present mind",
+    "never fear “no entiendo”, reset"
   ],
-  "last_updated": "2026-08-10T14:20:54.938311"
+  "last_updated": "2026-08-10T16:00:24.453240"
 }
