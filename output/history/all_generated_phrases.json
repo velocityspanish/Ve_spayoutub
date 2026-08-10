@@ -16709,6 +16709,36 @@
       "spanish": "No temas “no entiendo”, reinicia",
       "category": "Mindfulness",
       "generated_at": "2026-08-10T16:00:24.453239"
+    },
+    {
+      "english": "Never say “maybe”, say “por supuesto”.",
+      "spanish": "Nunca digas “tal vez”, di “por supuesto”.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-10T17:50:55.032666"
+    },
+    {
+      "english": "Stop overthinking, use “vale, ya”.",
+      "spanish": "Deja pensar tanto, usa “vale, ya”.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-10T17:50:55.032707"
+    },
+    {
+      "english": "Never memorized—memorize feelings, instead.",
+      "spanish": "No memorices, memoriza emociones.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-10T17:50:55.032731"
+    },
+    {
+      "english": "Stop translating—shadow the whole chunk.",
+      "spanish": "No traduzcas, repite el bloque.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-10T17:50:55.032781"
+    },
+    {
+      "english": "The fastest win? One mini-story daily.",
+      "spanish": "La victoria rápida, una mini-historia diaria.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-10T17:50:55.032808"
     }
   ],
   "used_english": [
@@ -19496,7 +19526,12 @@
     "what’s your body saying in spanish?",
     "never rush, listen first, then answer",
     "the secret? one sentence, present mind",
-    "never fear “no entiendo”, reset"
+    "never fear “no entiendo”, reset",
+    "never say “maybe”, say “por supuesto”.",
+    "stop overthinking, use “vale, ya”.",
+    "never memorized—memorize feelings, instead.",
+    "stop translating—shadow the whole chunk.",
+    "the fastest win? one mini-story daily."
   ],
-  "last_updated": "2026-08-10T16:00:24.453240"
+  "last_updated": "2026-08-10T17:50:55.032811"
 }
