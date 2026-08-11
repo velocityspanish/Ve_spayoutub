@@ -16919,6 +16919,36 @@
       "spanish": "Urgente: aprende una frase 'estoy orgulloso'",
       "category": "Friendship",
       "generated_at": "2026-08-11T20:01:09.126916"
+    },
+    {
+      "english": "Never wait to sound confident",
+      "spanish": "Nunca esperes, suena seguro",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T21:33:52.460270"
+    },
+    {
+      "english": "This tiny habit makes Spanish stick",
+      "spanish": "Este truco, repite al dormir",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T21:33:52.460302"
+    },
+    {
+      "english": "Stop saving Spanish for later",
+      "spanish": "No guardes español para luego",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T21:33:52.460323"
+    },
+    {
+      "english": "Never study, start chatting today",
+      "spanish": "No estudies, conversa hoy",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T21:33:52.460344"
+    },
+    {
+      "english": "Stop overthinking, just begin speaking",
+      "spanish": "Deja dudas, empieza a hablar",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T21:33:52.460363"
     }
   ],
   "used_english": [
@@ -19741,7 +19771,12 @@
     "this is why jokes sound fluent",
     "stop overthinking, say '¿cómo va?'",
     "this tiny pause makes listeners lean in",
-    "urgent: learn one 'i’m proud' line"
+    "urgent: learn one 'i’m proud' line",
+    "never wait to sound confident",
+    "this tiny habit makes spanish stick",
+    "stop saving spanish for later",
+    "never study, start chatting today",
+    "stop overthinking, just begin speaking"
   ],
-  "last_updated": "2026-08-11T20:01:09.126918"
+  "last_updated": "2026-08-11T21:33:52.460365"
 }
