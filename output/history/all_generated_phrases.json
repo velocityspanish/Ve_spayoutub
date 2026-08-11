@@ -16799,6 +16799,36 @@
       "spanish": "Nunca lo diga poco, “de verdad”",
       "category": "Gratitude",
       "generated_at": "2026-08-10T21:30:42.092658"
+    },
+    {
+      "english": "Never mute yourself, speak anyway",
+      "spanish": "Nunca te calles, habla igual",
+      "category": "Hope",
+      "generated_at": "2026-08-11T14:21:18.268447"
+    },
+    {
+      "english": "The secret, start with a smile",
+      "spanish": "El secreto, empieza con una sonrisa",
+      "category": "Hope",
+      "generated_at": "2026-08-11T14:21:18.268481"
+    },
+    {
+      "english": "The fastest hope is one question",
+      "spanish": "La esperanza más rápida, una pregunta",
+      "category": "Hope",
+      "generated_at": "2026-08-11T14:21:18.268508"
+    },
+    {
+      "english": "Your progress is louder than fear",
+      "spanish": "Tu avance grita más que el miedo",
+      "category": "Hope",
+      "generated_at": "2026-08-11T14:21:18.268533"
+    },
+    {
+      "english": "This is your lucky Spanish moment",
+      "spanish": "Este es tu momento español",
+      "category": "Hope",
+      "generated_at": "2026-08-11T14:21:18.268558"
     }
   ],
   "used_english": [
@@ -19601,7 +19631,12 @@
     "this is why “gracias” hits deeper",
     "the secret? thank you with emotion",
     "stop “thanks” once, say it twice",
-    "never under-say, add “de verdad”"
+    "never under-say, add “de verdad”",
+    "never mute yourself, speak anyway",
+    "the secret, start with a smile",
+    "the fastest hope is one question",
+    "your progress is louder than fear",
+    "this is your lucky spanish moment"
   ],
-  "last_updated": "2026-08-10T21:30:42.092660"
+  "last_updated": "2026-08-11T14:21:18.268560"
 }
