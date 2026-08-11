@@ -16889,6 +16889,36 @@
       "spanish": "Deja de perfeccionar, disfruta \"está rico\"",
       "category": "Happiness",
       "generated_at": "2026-08-11T17:55:29.597942"
+    },
+    {
+      "english": "Never say nothing, say 'te cuento'",
+      "spanish": "Nunca digas nada, di 'te cuento'",
+      "category": "Friendship",
+      "generated_at": "2026-08-11T20:01:09.126802"
+    },
+    {
+      "english": "This is why jokes sound fluent",
+      "spanish": "Por eso las bromas suenan fluidas",
+      "category": "Friendship",
+      "generated_at": "2026-08-11T20:01:09.126836"
+    },
+    {
+      "english": "Stop overthinking, say '¿cómo va?'",
+      "spanish": "Deja de pensar tanto, di '¿cómo va?'",
+      "category": "Friendship",
+      "generated_at": "2026-08-11T20:01:09.126865"
+    },
+    {
+      "english": "This tiny pause makes listeners lean in",
+      "spanish": "Esa pausa corta atrapa miradas",
+      "category": "Friendship",
+      "generated_at": "2026-08-11T20:01:09.126889"
+    },
+    {
+      "english": "Urgent: learn one 'I’m proud' line",
+      "spanish": "Urgente: aprende una frase 'estoy orgulloso'",
+      "category": "Friendship",
+      "generated_at": "2026-08-11T20:01:09.126916"
     }
   ],
   "used_english": [
@@ -19706,7 +19736,12 @@
     "never cold-start, begin with \"oye\"",
     "this is why calm feels fluent",
     "the secret? tell your heart, not facts",
-    "stop perfecting, enjoy \"está rico\""
+    "stop perfecting, enjoy \"está rico\"",
+    "never say nothing, say 'te cuento'",
+    "this is why jokes sound fluent",
+    "stop overthinking, say '¿cómo va?'",
+    "this tiny pause makes listeners lean in",
+    "urgent: learn one 'i’m proud' line"
   ],
-  "last_updated": "2026-08-11T17:55:29.597944"
+  "last_updated": "2026-08-11T20:01:09.126918"
 }
