@@ -16829,6 +16829,36 @@
       "spanish": "Este es tu momento español",
       "category": "Hope",
       "generated_at": "2026-08-11T14:21:18.268558"
+    },
+    {
+      "english": "Stop fearing Spanish, just breathe",
+      "spanish": "Deja de temer español, respira",
+      "category": "Courage",
+      "generated_at": "2026-08-11T16:01:32.120863"
+    },
+    {
+      "english": "The secret is, speak despite fear",
+      "spanish": "El secreto, habla aunque dé miedo",
+      "category": "Courage",
+      "generated_at": "2026-08-11T16:01:32.120898"
+    },
+    {
+      "english": "Your fear ends when you speak",
+      "spanish": "Tu miedo se acaba cuando hablas",
+      "category": "Courage",
+      "generated_at": "2026-08-11T16:01:32.120924"
+    },
+    {
+      "english": "This one “no” saves your courage",
+      "spanish": "Este “no” salva tu valentía",
+      "category": "Courage",
+      "generated_at": "2026-08-11T16:01:32.120951"
+    },
+    {
+      "english": "Stop overthinking, say “así” fast",
+      "spanish": "Deja de pensar, di “así” ya",
+      "category": "Courage",
+      "generated_at": "2026-08-11T16:01:32.120978"
     }
   ],
   "used_english": [
@@ -19636,7 +19666,12 @@
     "the secret, start with a smile",
     "the fastest hope is one question",
     "your progress is louder than fear",
-    "this is your lucky spanish moment"
+    "this is your lucky spanish moment",
+    "stop fearing spanish, just breathe",
+    "the secret is, speak despite fear",
+    "your fear ends when you speak",
+    "this one “no” saves your courage",
+    "stop overthinking, say “así” fast"
   ],
-  "last_updated": "2026-08-11T14:21:18.268560"
+  "last_updated": "2026-08-11T16:01:32.120980"
 }
