@@ -16859,6 +16859,36 @@
       "spanish": "Deja de pensar, di “así” ya",
       "category": "Courage",
       "generated_at": "2026-08-11T16:01:32.120978"
+    },
+    {
+      "english": "Stop hiding, say \"me encanta\"",
+      "spanish": "Deja de ocultarte, di \"me encanta\"",
+      "category": "Happiness",
+      "generated_at": "2026-08-11T17:55:29.597825"
+    },
+    {
+      "english": "Never cold-start, begin with \"oye\"",
+      "spanish": "Nunca entres frío, empieza con \"oye\"",
+      "category": "Happiness",
+      "generated_at": "2026-08-11T17:55:29.597863"
+    },
+    {
+      "english": "This is why calm feels fluent",
+      "spanish": "Por eso, la calma suena fluida",
+      "category": "Happiness",
+      "generated_at": "2026-08-11T17:55:29.597889"
+    },
+    {
+      "english": "The secret? Tell your heart, not facts",
+      "spanish": "El secreto, dile al corazón",
+      "category": "Happiness",
+      "generated_at": "2026-08-11T17:55:29.597914"
+    },
+    {
+      "english": "Stop perfecting, enjoy \"está rico\"",
+      "spanish": "Deja de perfeccionar, disfruta \"está rico\"",
+      "category": "Happiness",
+      "generated_at": "2026-08-11T17:55:29.597942"
     }
   ],
   "used_english": [
@@ -19671,7 +19701,12 @@
     "the secret is, speak despite fear",
     "your fear ends when you speak",
     "this one “no” saves your courage",
-    "stop overthinking, say “así” fast"
+    "stop overthinking, say “así” fast",
+    "stop hiding, say \"me encanta\"",
+    "never cold-start, begin with \"oye\"",
+    "this is why calm feels fluent",
+    "the secret? tell your heart, not facts",
+    "stop perfecting, enjoy \"está rico\""
   ],
-  "last_updated": "2026-08-11T16:01:32.120980"
+  "last_updated": "2026-08-11T17:55:29.597944"
 }
