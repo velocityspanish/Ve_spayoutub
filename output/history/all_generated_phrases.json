@@ -16949,6 +16949,36 @@
       "spanish": "Deja dudas, empieza a hablar",
       "category": "Motivation",
       "generated_at": "2026-08-11T21:33:52.460363"
+    },
+    {
+      "english": "Stop translating, sound it first",
+      "spanish": "Deja de traducir, suénalo primero",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T14:21:12.133498"
+    },
+    {
+      "english": "Never answer too fast, breathe",
+      "spanish": "Nunca respondas rápido, respira",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T14:21:12.133536"
+    },
+    {
+      "english": "The secret, learn reactions not sentences",
+      "spanish": "El secreto, aprende reacciones, no frases",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T14:21:12.133560"
+    },
+    {
+      "english": "Never memorize lists, use real talks",
+      "spanish": "Nunca memorices listas, usa charlas reales",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T14:21:12.133585"
+    },
+    {
+      "english": "This tiny word makes Spanish click",
+      "spanish": "Esta palabra hace click en español",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T14:21:12.133612"
     }
   ],
   "used_english": [
@@ -19776,7 +19806,12 @@
     "this tiny habit makes spanish stick",
     "stop saving spanish for later",
     "never study, start chatting today",
-    "stop overthinking, just begin speaking"
+    "stop overthinking, just begin speaking",
+    "stop translating, sound it first",
+    "never answer too fast, breathe",
+    "the secret, learn reactions not sentences",
+    "never memorize lists, use real talks",
+    "this tiny word makes spanish click"
   ],
-  "last_updated": "2026-08-11T21:33:52.460365"
+  "last_updated": "2026-08-12T14:21:12.133614"
 }
