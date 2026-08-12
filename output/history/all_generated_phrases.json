@@ -17009,6 +17009,36 @@
       "spanish": "El secreto de fluidez, habla hoy",
       "category": "Joy",
       "generated_at": "2026-08-12T15:59:17.946513"
+    },
+    {
+      "english": "Never practice alone, find a buddy",
+      "spanish": "Nunca practiques solo, busca un amigo",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T17:56:07.515878"
+    },
+    {
+      "english": "The secret is persistence, not talent",
+      "spanish": "El secreto es constancia, no talento",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T17:56:07.515917"
+    },
+    {
+      "english": "Urgent: say it messy, keep going",
+      "spanish": "Urgente, dilo feo, sigue",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T17:56:07.515947"
+    },
+    {
+      "english": "The secret, talk when it hurts",
+      "spanish": "El secreto, habla aunque duela",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T17:56:07.515973"
+    },
+    {
+      "english": "Never skip today, even 30 seconds",
+      "spanish": "No saltes hoy, ni treinta segundos",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T17:56:07.516000"
     }
   ],
   "used_english": [
@@ -19846,7 +19876,12 @@
     "stop perfect, start sounding friendly",
     "stop guessing, ask “¿cómo se dice?”",
     "this makes your spanish feel human",
-    "the secret to fluency, speak today"
+    "the secret to fluency, speak today",
+    "never practice alone, find a buddy",
+    "the secret is persistence, not talent",
+    "urgent: say it messy, keep going",
+    "the secret, talk when it hurts",
+    "never skip today, even 30 seconds"
   ],
-  "last_updated": "2026-08-12T15:59:17.946515"
+  "last_updated": "2026-08-12T17:56:07.516002"
 }
