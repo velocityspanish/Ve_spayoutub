@@ -17039,6 +17039,36 @@
       "spanish": "No saltes hoy, ni treinta segundos",
       "category": "Perseverance",
       "generated_at": "2026-08-12T17:56:07.516000"
+    },
+    {
+      "english": "Stop apologizing, start explaining feelings",
+      "spanish": "Deja de disculparte, explica sentimientos",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T20:02:26.962686"
+    },
+    {
+      "english": "Never say “hello”, say “I’m here”",
+      "spanish": "Nunca digas “hola”, di “aquí estoy”",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T20:02:26.962726"
+    },
+    {
+      "english": "Your brain loves chunks, steal them",
+      "spanish": "Tu cerebro ama frases, róbala",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T20:02:26.962756"
+    },
+    {
+      "english": "Stop practicing tomorrow, do it now",
+      "spanish": "Deja para mañana, hazlo ya",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T20:02:26.962782"
+    },
+    {
+      "english": "The fastest confidence? Speak one sentence",
+      "spanish": "Confianza rápida: di una frase",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T20:02:26.962808"
     }
   ],
   "used_english": [
@@ -19881,7 +19911,12 @@
     "the secret is persistence, not talent",
     "urgent: say it messy, keep going",
     "the secret, talk when it hurts",
-    "never skip today, even 30 seconds"
+    "never skip today, even 30 seconds",
+    "stop apologizing, start explaining feelings",
+    "never say “hello”, say “i’m here”",
+    "your brain loves chunks, steal them",
+    "stop practicing tomorrow, do it now",
+    "the fastest confidence? speak one sentence"
   ],
-  "last_updated": "2026-08-12T17:56:07.516002"
+  "last_updated": "2026-08-12T20:02:26.962810"
 }
