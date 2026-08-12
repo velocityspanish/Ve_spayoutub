@@ -17069,6 +17069,36 @@
       "spanish": "Confianza rápida: di una frase",
       "category": "Self Improvement",
       "generated_at": "2026-08-12T20:02:26.962808"
+    },
+    {
+      "english": "Stop chasing perfection, just flow",
+      "spanish": "Deja la perfección, solo fluye",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-12T21:33:45.941975"
+    },
+    {
+      "english": "Stop adding words, start with truth",
+      "spanish": "Deja de añadir, di verdad",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-12T21:33:45.942007"
+    },
+    {
+      "english": "This tiny habit kills nervousness",
+      "spanish": "Este truco mata nervios",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-12T21:33:45.942028"
+    },
+    {
+      "english": "Stop correcting, let the meaning land",
+      "spanish": "No corrijas, deja el sentido",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-12T21:33:45.942047"
+    },
+    {
+      "english": "What if silence is your teacher?",
+      "spanish": "¿Y si el silencio enseña?",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-12T21:33:45.942067"
     }
   ],
   "used_english": [
@@ -19916,7 +19946,12 @@
     "never say “hello”, say “i’m here”",
     "your brain loves chunks, steal them",
     "stop practicing tomorrow, do it now",
-    "the fastest confidence? speak one sentence"
+    "the fastest confidence? speak one sentence",
+    "stop chasing perfection, just flow",
+    "stop adding words, start with truth",
+    "this tiny habit kills nervousness",
+    "stop correcting, let the meaning land",
+    "what if silence is your teacher?"
   ],
-  "last_updated": "2026-08-12T20:02:26.962810"
+  "last_updated": "2026-08-12T21:33:45.942069"
 }
