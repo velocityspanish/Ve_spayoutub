@@ -16979,6 +16979,36 @@
       "spanish": "Esta palabra hace click en español",
       "category": "Self Improvement",
       "generated_at": "2026-08-12T14:21:12.133612"
+    },
+    {
+      "english": "Stop translating, start listening back",
+      "spanish": "Deja de traducir, escucha y responde",
+      "category": "Joy",
+      "generated_at": "2026-08-12T15:59:17.946386"
+    },
+    {
+      "english": "Stop perfect, start sounding friendly",
+      "spanish": "No busques perfecto, sé amable",
+      "category": "Joy",
+      "generated_at": "2026-08-12T15:59:17.946418"
+    },
+    {
+      "english": "Stop guessing, ask “¿cómo se dice?”",
+      "spanish": "Deja de adivinar, di “¿cómo se dice?”",
+      "category": "Joy",
+      "generated_at": "2026-08-12T15:59:17.946446"
+    },
+    {
+      "english": "This makes your Spanish feel human",
+      "spanish": "Esto hace tu español suene humano",
+      "category": "Joy",
+      "generated_at": "2026-08-12T15:59:17.946473"
+    },
+    {
+      "english": "The secret to fluency, speak today",
+      "spanish": "El secreto de fluidez, habla hoy",
+      "category": "Joy",
+      "generated_at": "2026-08-12T15:59:17.946513"
     }
   ],
   "used_english": [
@@ -19811,7 +19841,12 @@
     "never answer too fast, breathe",
     "the secret, learn reactions not sentences",
     "never memorize lists, use real talks",
-    "this tiny word makes spanish click"
+    "this tiny word makes spanish click",
+    "stop translating, start listening back",
+    "stop perfect, start sounding friendly",
+    "stop guessing, ask “¿cómo se dice?”",
+    "this makes your spanish feel human",
+    "the secret to fluency, speak today"
   ],
-  "last_updated": "2026-08-12T14:21:12.133614"
+  "last_updated": "2026-08-12T15:59:17.946515"
 }
