@@ -17219,6 +17219,36 @@
       "spanish": "El secreto es, pregunta con respeto",
       "category": "Courage",
       "generated_at": "2026-08-13T19:56:34.402177"
+    },
+    {
+      "english": "Stop rehearsing, just talk now.",
+      "spanish": "Deja de ensayar, habla ya.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-13T21:33:36.748839"
+    },
+    {
+      "english": "This is why natives correct less.",
+      "spanish": "Por eso te corrigen menos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-13T21:33:36.748873"
+    },
+    {
+      "english": "Stop “maybe”, use “claro” today.",
+      "spanish": "No digas “quizá”, usa “claro” hoy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-13T21:33:36.748901"
+    },
+    {
+      "english": "This tiny verb unlocks everything: “quiero”.",
+      "spanish": "Este verbo lo cambia todo: “quiero”.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-13T21:33:36.748925"
+    },
+    {
+      "english": "Stop studying alone, find a voice.",
+      "spanish": "Deja estudiar solo, busca una voz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-13T21:33:36.748952"
     }
   ],
   "used_english": [
@@ -20091,7 +20121,12 @@
     "the secret: use small spanish daily",
     "never apologize, try one more",
     "this phrase gets you unstuck fast",
-    "the secret is, ask politely first"
+    "the secret is, ask politely first",
+    "stop rehearsing, just talk now.",
+    "this is why natives correct less.",
+    "stop “maybe”, use “claro” today.",
+    "this tiny verb unlocks everything: “quiero”.",
+    "stop studying alone, find a voice."
   ],
-  "last_updated": "2026-08-13T19:56:34.402180"
+  "last_updated": "2026-08-13T21:33:36.748954"
 }
