@@ -17099,6 +17099,36 @@
       "spanish": "¿Y si el silencio enseña?",
       "category": "Inner Peace",
       "generated_at": "2026-08-12T21:33:45.942067"
+    },
+    {
+      "english": "Stop searching, use context",
+      "spanish": "Deja de buscar, usa contexto",
+      "category": "Balance",
+      "generated_at": "2026-08-13T14:23:12.862660"
+    },
+    {
+      "english": "Stop rewriting, reuse the same",
+      "spanish": "Deja de reescribir, reutiliza lo mismo",
+      "category": "Balance",
+      "generated_at": "2026-08-13T14:23:12.862693"
+    },
+    {
+      "english": "Never study verbs first, say",
+      "spanish": "No estudies verbos primero, di esto",
+      "category": "Balance",
+      "generated_at": "2026-08-13T14:23:12.862717"
+    },
+    {
+      "english": "Urgent, learn one dinner phrase",
+      "spanish": "Urgente, aprende una frase de cena",
+      "category": "Balance",
+      "generated_at": "2026-08-13T14:23:12.862743"
+    },
+    {
+      "english": "Stop fearing mistakes, ask again",
+      "spanish": "No tengas miedo, pregunta otra vez",
+      "category": "Balance",
+      "generated_at": "2026-08-13T14:23:12.862770"
     }
   ],
   "used_english": [
@@ -19951,7 +19981,12 @@
     "stop adding words, start with truth",
     "this tiny habit kills nervousness",
     "stop correcting, let the meaning land",
-    "what if silence is your teacher?"
+    "what if silence is your teacher?",
+    "stop searching, use context",
+    "stop rewriting, reuse the same",
+    "never study verbs first, say",
+    "urgent, learn one dinner phrase",
+    "stop fearing mistakes, ask again"
   ],
-  "last_updated": "2026-08-12T21:33:45.942069"
+  "last_updated": "2026-08-13T14:23:12.862772"
 }
