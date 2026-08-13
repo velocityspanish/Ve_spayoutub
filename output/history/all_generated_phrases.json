@@ -17129,6 +17129,36 @@
       "spanish": "No tengas miedo, pregunta otra vez",
       "category": "Balance",
       "generated_at": "2026-08-13T14:23:12.862770"
+    },
+    {
+      "english": "Never chase perfection, choose joy",
+      "spanish": "Nunca persigas perfección, elige alegría",
+      "category": "Happiness",
+      "generated_at": "2026-08-13T15:59:17.616554"
+    },
+    {
+      "english": "Stop spiraling, say one positive",
+      "spanish": "Deja de dar vueltas, di una positiva",
+      "category": "Happiness",
+      "generated_at": "2026-08-13T15:59:17.616603"
+    },
+    {
+      "english": "Stop comparing, tell your truth",
+      "spanish": "No te compares, di tu verdad",
+      "category": "Happiness",
+      "generated_at": "2026-08-13T15:59:17.616630"
+    },
+    {
+      "english": "The secret is warm connection",
+      "spanish": "El secreto es conexión cálida",
+      "category": "Happiness",
+      "generated_at": "2026-08-13T15:59:17.616656"
+    },
+    {
+      "english": "Never hide your excitement, say it",
+      "spanish": "No escondas tu emoción, dilo",
+      "category": "Happiness",
+      "generated_at": "2026-08-13T15:59:17.616683"
     }
   ],
   "used_english": [
@@ -19986,7 +20016,12 @@
     "stop rewriting, reuse the same",
     "never study verbs first, say",
     "urgent, learn one dinner phrase",
-    "stop fearing mistakes, ask again"
+    "stop fearing mistakes, ask again",
+    "never chase perfection, choose joy",
+    "stop spiraling, say one positive",
+    "stop comparing, tell your truth",
+    "the secret is warm connection",
+    "never hide your excitement, say it"
   ],
-  "last_updated": "2026-08-13T14:23:12.862772"
+  "last_updated": "2026-08-13T15:59:17.616685"
 }
