@@ -17189,6 +17189,36 @@
       "spanish": "¿Y si empiezas con una palabra?",
       "category": "Strength",
       "generated_at": "2026-08-13T17:56:49.451213"
+    },
+    {
+      "english": "Stop hiding your accent, say it",
+      "spanish": "Deja de esconder tu acento, dilo",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:56:34.402041"
+    },
+    {
+      "english": "The secret: use small Spanish daily",
+      "spanish": "El secreto, usa español pequeño diario",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:56:34.402078"
+    },
+    {
+      "english": "Never apologize, try one more",
+      "spanish": "Nunca te disculpes, prueba otra vez",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:56:34.402105"
+    },
+    {
+      "english": "This phrase gets you unstuck fast",
+      "spanish": "Esta frase te saca rápido",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:56:34.402132"
+    },
+    {
+      "english": "The secret is, ask politely first",
+      "spanish": "El secreto es, pregunta con respeto",
+      "category": "Courage",
+      "generated_at": "2026-08-13T19:56:34.402177"
     }
   ],
   "used_english": [
@@ -20056,7 +20086,12 @@
     "urgent: learn one “i’m trying” today",
     "stop apologizing, own your sentence",
     "never fear long words, chunk them",
-    "what if you start with one word?"
+    "what if you start with one word?",
+    "stop hiding your accent, say it",
+    "the secret: use small spanish daily",
+    "never apologize, try one more",
+    "this phrase gets you unstuck fast",
+    "the secret is, ask politely first"
   ],
-  "last_updated": "2026-08-13T17:56:49.451216"
+  "last_updated": "2026-08-13T19:56:34.402180"
 }
