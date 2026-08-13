@@ -17159,6 +17159,36 @@
       "spanish": "No escondas tu emoción, dilo",
       "category": "Happiness",
       "generated_at": "2026-08-13T15:59:17.616683"
+    },
+    {
+      "english": "Never study alone, find your duo",
+      "spanish": "Nunca estudies solo, busca tu dúo",
+      "category": "Strength",
+      "generated_at": "2026-08-13T17:56:49.451095"
+    },
+    {
+      "english": "Urgent: learn one “I’m trying” today",
+      "spanish": "Urgente, aprende “Estoy intentando” hoy",
+      "category": "Strength",
+      "generated_at": "2026-08-13T17:56:49.451133"
+    },
+    {
+      "english": "Stop apologizing, own your sentence",
+      "spanish": "Deja de pedir perdón, di tu frase",
+      "category": "Strength",
+      "generated_at": "2026-08-13T17:56:49.451161"
+    },
+    {
+      "english": "Never fear long words, chunk them",
+      "spanish": "No temas palabras largas, sepáralas",
+      "category": "Strength",
+      "generated_at": "2026-08-13T17:56:49.451187"
+    },
+    {
+      "english": "What if you start with one word?",
+      "spanish": "¿Y si empiezas con una palabra?",
+      "category": "Strength",
+      "generated_at": "2026-08-13T17:56:49.451213"
     }
   ],
   "used_english": [
@@ -20021,7 +20051,12 @@
     "stop spiraling, say one positive",
     "stop comparing, tell your truth",
     "the secret is warm connection",
-    "never hide your excitement, say it"
+    "never hide your excitement, say it",
+    "never study alone, find your duo",
+    "urgent: learn one “i’m trying” today",
+    "stop apologizing, own your sentence",
+    "never fear long words, chunk them",
+    "what if you start with one word?"
   ],
-  "last_updated": "2026-08-13T15:59:17.616685"
+  "last_updated": "2026-08-13T17:56:49.451216"
 }
