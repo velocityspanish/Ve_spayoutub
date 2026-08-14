@@ -17339,6 +17339,36 @@
       "spanish": "¿Y si tu boca va primero?",
       "category": "Inspiration",
       "generated_at": "2026-08-14T17:52:20.898884"
+    },
+    {
+      "english": "Stop saying “I’m learning” alone",
+      "spanish": "No digas “estoy aprendiendo” solo",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T19:51:01.419451"
+    },
+    {
+      "english": "This is why short answers win",
+      "spanish": "Por eso, las respuestas cortas ganan",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T19:51:01.419488"
+    },
+    {
+      "english": "Never wait, use “just one”",
+      "spanish": "Nunca esperes, usa “solo una”",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T19:51:01.419513"
+    },
+    {
+      "english": "What if mistakes are your ticket?",
+      "spanish": "¿Y si los errores son tu boleto?",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T19:51:01.419540"
+    },
+    {
+      "english": "Never say “maybe,” say “I mean”",
+      "spanish": "No digas “tal vez,” di “en serio”",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T19:51:01.419567"
     }
   ],
   "used_english": [
@@ -20231,7 +20261,12 @@
     "the secret? say it before thinking.",
     "this is why listening changes everything.",
     "the fastest way? speak, then repeat.",
-    "what if your mouth leads first?"
+    "what if your mouth leads first?",
+    "stop saying “i’m learning” alone",
+    "this is why short answers win",
+    "never wait, use “just one”",
+    "what if mistakes are your ticket?",
+    "never say “maybe,” say “i mean”"
   ],
-  "last_updated": "2026-08-14T17:52:20.898886"
+  "last_updated": "2026-08-14T19:51:01.419569"
 }
