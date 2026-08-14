@@ -17249,6 +17249,36 @@
       "spanish": "Deja estudiar solo, busca una voz.",
       "category": "Self Improvement",
       "generated_at": "2026-08-13T21:33:36.748952"
+    },
+    {
+      "english": "Stop blaming your brain, try this",
+      "spanish": "Deja de culpar a tu mente, prueba esto",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-14T14:16:26.435834"
+    },
+    {
+      "english": "Don’t wait—say “lo siento”",
+      "spanish": "No esperes, di “lo siento”",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-14T14:16:26.435866"
+    },
+    {
+      "english": "Stop spiraling, apologize once, move",
+      "spanish": "Deja la espiral, pide perdón, sigue",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-14T14:16:26.435893"
+    },
+    {
+      "english": "This one sentence opens hearts",
+      "spanish": "Esta frase abre corazones",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-14T14:16:26.435918"
+    },
+    {
+      "english": "The urgency: forgive before you lose",
+      "spanish": "La urgencia, perdona antes de perder",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-14T14:16:26.435945"
     }
   ],
   "used_english": [
@@ -20126,7 +20156,12 @@
     "this is why natives correct less.",
     "stop “maybe”, use “claro” today.",
     "this tiny verb unlocks everything: “quiero”.",
-    "stop studying alone, find a voice."
+    "stop studying alone, find a voice.",
+    "stop blaming your brain, try this",
+    "don’t wait—say “lo siento”",
+    "stop spiraling, apologize once, move",
+    "this one sentence opens hearts",
+    "the urgency: forgive before you lose"
   ],
-  "last_updated": "2026-08-13T21:33:36.748954"
+  "last_updated": "2026-08-14T14:16:26.435947"
 }
