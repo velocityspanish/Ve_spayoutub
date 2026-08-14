@@ -17369,6 +17369,36 @@
       "spanish": "No digas “tal vez,” di “en serio”",
       "category": "Purpose",
       "generated_at": "2026-08-14T19:51:01.419567"
+    },
+    {
+      "english": "Stop ghosting Spanish, text today",
+      "spanish": "Deja de ignorar el español, escribe hoy",
+      "category": "Strength",
+      "generated_at": "2026-08-14T21:14:20.552489"
+    },
+    {
+      "english": "Never learn alone, duet now",
+      "spanish": "Nunca practiques solo, haz dúo ya",
+      "category": "Strength",
+      "generated_at": "2026-08-14T21:14:20.552523"
+    },
+    {
+      "english": "Stop “maybe” panic, use “claro”",
+      "spanish": "Corta el pánico de “tal vez”, di “claro”",
+      "category": "Strength",
+      "generated_at": "2026-08-14T21:14:20.552551"
+    },
+    {
+      "english": "Urgent: borrow one useful verb",
+      "spanish": "Urgente, usa un verbo útil",
+      "category": "Strength",
+      "generated_at": "2026-08-14T21:14:20.552578"
+    },
+    {
+      "english": "This phrase breaks the silent fear",
+      "spanish": "Esta frase rompe el miedo callado",
+      "category": "Strength",
+      "generated_at": "2026-08-14T21:14:20.552605"
     }
   ],
   "used_english": [
@@ -20266,7 +20296,12 @@
     "this is why short answers win",
     "never wait, use “just one”",
     "what if mistakes are your ticket?",
-    "never say “maybe,” say “i mean”"
+    "never say “maybe,” say “i mean”",
+    "stop ghosting spanish, text today",
+    "never learn alone, duet now",
+    "stop “maybe” panic, use “claro”",
+    "urgent: borrow one useful verb",
+    "this phrase breaks the silent fear"
   ],
-  "last_updated": "2026-08-14T19:51:01.419569"
+  "last_updated": "2026-08-14T21:14:20.552607"
 }
