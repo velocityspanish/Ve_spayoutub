@@ -17279,6 +17279,36 @@
       "spanish": "La urgencia, perdona antes de perder",
       "category": "Forgiveness",
       "generated_at": "2026-08-14T14:16:26.435945"
+    },
+    {
+      "english": "Stop rushing, say “I’m grateful”",
+      "spanish": "No corras, di “estoy agradecido/a”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-14T15:52:34.241694"
+    },
+    {
+      "english": "Never thank blandly, add feeling",
+      "spanish": "Nunca des gracias frías, con emoción",
+      "category": "Gratitude",
+      "generated_at": "2026-08-14T15:52:34.241732"
+    },
+    {
+      "english": "The secret, gratitude makes you brave",
+      "spanish": "El secreto, la gratitud te da valor",
+      "category": "Gratitude",
+      "generated_at": "2026-08-14T15:52:34.241760"
+    },
+    {
+      "english": "Never wait, thank the moment",
+      "spanish": "No esperes, agradece en el momento",
+      "category": "Gratitude",
+      "generated_at": "2026-08-14T15:52:34.241784"
+    },
+    {
+      "english": "Stop forgetting, say “gracias de verdad”",
+      "spanish": "No lo olvides, di “gracias de verdad”",
+      "category": "Gratitude",
+      "generated_at": "2026-08-14T15:52:34.241809"
     }
   ],
   "used_english": [
@@ -20161,7 +20191,12 @@
     "don’t wait—say “lo siento”",
     "stop spiraling, apologize once, move",
     "this one sentence opens hearts",
-    "the urgency: forgive before you lose"
+    "the urgency: forgive before you lose",
+    "stop rushing, say “i’m grateful”",
+    "never thank blandly, add feeling",
+    "the secret, gratitude makes you brave",
+    "never wait, thank the moment",
+    "stop forgetting, say “gracias de verdad”"
   ],
-  "last_updated": "2026-08-14T14:16:26.435947"
+  "last_updated": "2026-08-14T15:52:34.241812"
 }
