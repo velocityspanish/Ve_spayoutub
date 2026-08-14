@@ -17309,6 +17309,36 @@
       "spanish": "No lo olvides, di “gracias de verdad”",
       "category": "Gratitude",
       "generated_at": "2026-08-14T15:52:34.241809"
+    },
+    {
+      "english": "Never fear accents, your ears learn.",
+      "spanish": "Nunca temas acentos, tus oídos aprenden.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-14T17:52:20.898764"
+    },
+    {
+      "english": "The secret? Say it before thinking.",
+      "spanish": "El secreto, dilo antes de pensar.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-14T17:52:20.898804"
+    },
+    {
+      "english": "This is why listening changes everything.",
+      "spanish": "Por eso escuchar cambia todo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-14T17:52:20.898829"
+    },
+    {
+      "english": "The fastest way? Speak, then repeat.",
+      "spanish": "La vía más rápida, habla, luego repite.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-14T17:52:20.898856"
+    },
+    {
+      "english": "What if your mouth leads first?",
+      "spanish": "¿Y si tu boca va primero?",
+      "category": "Inspiration",
+      "generated_at": "2026-08-14T17:52:20.898884"
     }
   ],
   "used_english": [
@@ -20196,7 +20226,12 @@
     "never thank blandly, add feeling",
     "the secret, gratitude makes you brave",
     "never wait, thank the moment",
-    "stop forgetting, say “gracias de verdad”"
+    "stop forgetting, say “gracias de verdad”",
+    "never fear accents, your ears learn.",
+    "the secret? say it before thinking.",
+    "this is why listening changes everything.",
+    "the fastest way? speak, then repeat.",
+    "what if your mouth leads first?"
   ],
-  "last_updated": "2026-08-14T15:52:34.241812"
+  "last_updated": "2026-08-14T17:52:20.898886"
 }
