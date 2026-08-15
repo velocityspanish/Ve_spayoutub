@@ -17399,6 +17399,12 @@
       "spanish": "Esta frase rompe el miedo callado",
       "category": "Strength",
       "generated_at": "2026-08-14T21:14:20.552605"
+    },
+    {
+      "english": "Create first, edit later. Trust.",
+      "spanish": "Crea primero, edita después. Confía.",
+      "category": "Creativity",
+      "generated_at": "2026-08-15T13:32:26.869103"
     }
   ],
   "used_english": [
@@ -20301,7 +20307,8 @@
     "never learn alone, duet now",
     "stop “maybe” panic, use “claro”",
     "urgent: borrow one useful verb",
-    "this phrase breaks the silent fear"
+    "this phrase breaks the silent fear",
+    "create first, edit later. trust."
   ],
-  "last_updated": "2026-08-14T21:14:20.552607"
+  "last_updated": "2026-08-15T13:32:26.869114"
 }
