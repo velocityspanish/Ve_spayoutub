@@ -17435,6 +17435,36 @@
       "spanish": "Urgente: di la frase, y sonríe",
       "category": "Perseverance",
       "generated_at": "2026-08-15T15:20:51.170149"
+    },
+    {
+      "english": "Stop waiting, speak while excited",
+      "spanish": "Deja de esperar, habla emocionado",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T17:20:10.577216"
+    },
+    {
+      "english": "The secret is, ask for help",
+      "spanish": "El secreto es, pide ayuda",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T17:20:10.577253"
+    },
+    {
+      "english": "Never learn perfectly, learn repeatedly",
+      "spanish": "Nunca aprendas perfecto, repite",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T17:20:10.577283"
+    },
+    {
+      "english": "This tiny win grows real confidence",
+      "spanish": "Esta victoria pequeña crea confianza real",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T17:20:10.577315"
+    },
+    {
+      "english": "Stop fearing slow, go anyway",
+      "spanish": "No tengas miedo, hazlo lento",
+      "category": "Wisdom",
+      "generated_at": "2026-08-15T17:20:10.577344"
     }
   ],
   "used_english": [
@@ -20343,7 +20373,12 @@
     "the secret, ask one more time",
     "never fear awkward, it builds fluency",
     "this habit turns fear into forward motion",
-    "urgent: say the sentence, then smile"
+    "urgent: say the sentence, then smile",
+    "stop waiting, speak while excited",
+    "the secret is, ask for help",
+    "never learn perfectly, learn repeatedly",
+    "this tiny win grows real confidence",
+    "stop fearing slow, go anyway"
   ],
-  "last_updated": "2026-08-15T15:20:51.170150"
+  "last_updated": "2026-08-15T17:20:10.577346"
 }
