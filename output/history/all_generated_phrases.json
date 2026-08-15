@@ -17495,6 +17495,36 @@
       "spanish": "No dudes, prueba otra frase",
       "category": "Perseverance",
       "generated_at": "2026-08-15T19:24:33.645482"
+    },
+    {
+      "english": "Never “perfect”, go for clear",
+      "spanish": "Nunca “perfecto”, busca claridad",
+      "category": "Balance",
+      "generated_at": "2026-08-15T21:11:13.216379"
+    },
+    {
+      "english": "Urgent, say “I need help”",
+      "spanish": "Urgente, di “necesito ayuda”",
+      "category": "Balance",
+      "generated_at": "2026-08-15T21:11:13.216408"
+    },
+    {
+      "english": "Never skip the small talk",
+      "spanish": "No saltes la charla pequeña",
+      "category": "Balance",
+      "generated_at": "2026-08-15T21:11:13.216429"
+    },
+    {
+      "english": "Urgent, practice one phrase daily",
+      "spanish": "Urgente, practica una frase al día",
+      "category": "Balance",
+      "generated_at": "2026-08-15T21:11:13.216451"
+    },
+    {
+      "english": "Stop quitting, build from “today”",
+      "spanish": "No te rindas, construye desde hoy",
+      "category": "Balance",
+      "generated_at": "2026-08-15T21:11:13.216473"
     }
   ],
   "used_english": [
@@ -20413,7 +20443,12 @@
     "stop waiting for motivation",
     "stop starting over, continue",
     "never fear awkward pauses",
-    "stop doubting, try one more line"
+    "stop doubting, try one more line",
+    "never “perfect”, go for clear",
+    "urgent, say “i need help”",
+    "never skip the small talk",
+    "urgent, practice one phrase daily",
+    "stop quitting, build from “today”"
   ],
-  "last_updated": "2026-08-15T19:24:33.645484"
+  "last_updated": "2026-08-15T21:11:13.216474"
 }
