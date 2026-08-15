@@ -17465,6 +17465,36 @@
       "spanish": "No tengas miedo, hazlo lento",
       "category": "Wisdom",
       "generated_at": "2026-08-15T17:20:10.577344"
+    },
+    {
+      "english": "Never skip the hard day",
+      "spanish": "Nunca saltes el día difícil",
+      "category": "Perseverance",
+      "generated_at": "2026-08-15T19:24:33.645394"
+    },
+    {
+      "english": "Stop waiting for motivation",
+      "spanish": "Deja de esperar la motivación",
+      "category": "Perseverance",
+      "generated_at": "2026-08-15T19:24:33.645422"
+    },
+    {
+      "english": "Stop starting over, continue",
+      "spanish": "No empieces de cero, continúa",
+      "category": "Perseverance",
+      "generated_at": "2026-08-15T19:24:33.645442"
+    },
+    {
+      "english": "Never fear awkward pauses",
+      "spanish": "Nunca temas pausas incómodas",
+      "category": "Perseverance",
+      "generated_at": "2026-08-15T19:24:33.645461"
+    },
+    {
+      "english": "Stop doubting, try one more line",
+      "spanish": "No dudes, prueba otra frase",
+      "category": "Perseverance",
+      "generated_at": "2026-08-15T19:24:33.645482"
     }
   ],
   "used_english": [
@@ -20378,7 +20408,12 @@
     "the secret is, ask for help",
     "never learn perfectly, learn repeatedly",
     "this tiny win grows real confidence",
-    "stop fearing slow, go anyway"
+    "stop fearing slow, go anyway",
+    "never skip the hard day",
+    "stop waiting for motivation",
+    "stop starting over, continue",
+    "never fear awkward pauses",
+    "stop doubting, try one more line"
   ],
-  "last_updated": "2026-08-15T17:20:10.577346"
+  "last_updated": "2026-08-15T19:24:33.645484"
 }
