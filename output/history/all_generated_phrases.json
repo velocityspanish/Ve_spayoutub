@@ -17555,6 +17555,36 @@
       "spanish": "La esperanza rápida, una charla diaria",
       "category": "Hope",
       "generated_at": "2026-08-16T13:32:54.995731"
+    },
+    {
+      "english": "Stop hunting answers, ask “why?”",
+      "spanish": "Deja de buscar respuestas, pregunta “por qué”",
+      "category": "Patience",
+      "generated_at": "2026-08-16T15:21:58.160670"
+    },
+    {
+      "english": "Never let fear choose, choose verbs",
+      "spanish": "Nunca dejes que el miedo elija, usa verbos",
+      "category": "Patience",
+      "generated_at": "2026-08-16T15:21:58.160705"
+    },
+    {
+      "english": "The secret, use questions more often",
+      "spanish": "El secreto, usa preguntas más seguido",
+      "category": "Patience",
+      "generated_at": "2026-08-16T15:21:58.160733"
+    },
+    {
+      "english": "Never freeze, repeat the last word",
+      "spanish": "Nunca te quedes, repite la última palabra",
+      "category": "Patience",
+      "generated_at": "2026-08-16T15:21:58.160760"
+    },
+    {
+      "english": "The secret, keep going after “no”",
+      "spanish": "El secreto, sigue después de “no”",
+      "category": "Patience",
+      "generated_at": "2026-08-16T15:21:58.160787"
     }
   ],
   "used_english": [
@@ -20483,7 +20513,12 @@
     "this small win rebuilds confidence",
     "never fear the wrong tense",
     "stop repeating alone, speak back",
-    "the fastest hope? one daily chat"
+    "the fastest hope? one daily chat",
+    "stop hunting answers, ask “why?”",
+    "never let fear choose, choose verbs",
+    "the secret, use questions more often",
+    "never freeze, repeat the last word",
+    "the secret, keep going after “no”"
   ],
-  "last_updated": "2026-08-16T13:32:54.995733"
+  "last_updated": "2026-08-16T15:21:58.160789"
 }
