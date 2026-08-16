@@ -17525,6 +17525,36 @@
       "spanish": "No te rindas, construye desde hoy",
       "category": "Balance",
       "generated_at": "2026-08-15T21:11:13.216473"
+    },
+    {
+      "english": "Never study, start with one request",
+      "spanish": "Nunca estudies, empieza con un pedido",
+      "category": "Hope",
+      "generated_at": "2026-08-16T13:32:54.995613"
+    },
+    {
+      "english": "This small win rebuilds confidence",
+      "spanish": "Este pequeño triunfo da confianza",
+      "category": "Hope",
+      "generated_at": "2026-08-16T13:32:54.995651"
+    },
+    {
+      "english": "Never fear the wrong tense",
+      "spanish": "No temas el tiempo equivocado",
+      "category": "Hope",
+      "generated_at": "2026-08-16T13:32:54.995676"
+    },
+    {
+      "english": "Stop repeating alone, speak back",
+      "spanish": "No repitas solo, contesta",
+      "category": "Hope",
+      "generated_at": "2026-08-16T13:32:54.995704"
+    },
+    {
+      "english": "The fastest hope? One daily chat",
+      "spanish": "La esperanza rápida, una charla diaria",
+      "category": "Hope",
+      "generated_at": "2026-08-16T13:32:54.995731"
     }
   ],
   "used_english": [
@@ -20448,7 +20478,12 @@
     "urgent, say “i need help”",
     "never skip the small talk",
     "urgent, practice one phrase daily",
-    "stop quitting, build from “today”"
+    "stop quitting, build from “today”",
+    "never study, start with one request",
+    "this small win rebuilds confidence",
+    "never fear the wrong tense",
+    "stop repeating alone, speak back",
+    "the fastest hope? one daily chat"
   ],
-  "last_updated": "2026-08-15T21:11:13.216474"
+  "last_updated": "2026-08-16T13:32:54.995733"
 }
