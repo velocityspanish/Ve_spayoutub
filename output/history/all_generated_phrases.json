@@ -17645,6 +17645,36 @@
       "spanish": "Esta disculpa abre español real",
       "category": "Forgiveness",
       "generated_at": "2026-08-16T19:23:49.029065"
+    },
+    {
+      "english": "The secret is confidence through action",
+      "spanish": "El secreto: confianza con acción",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-16T21:09:20.100176"
+    },
+    {
+      "english": "Never fear slang, learn it",
+      "spanish": "No temas el slang, apréndelo",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-16T21:09:20.100210"
+    },
+    {
+      "english": "This tiny routine builds brave speaking",
+      "spanish": "Esta rutina te hace valiente al hablar",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-16T21:09:20.100236"
+    },
+    {
+      "english": "Your brain learns fastest at speed",
+      "spanish": "Tu cerebro aprende más rápido",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-16T21:09:20.100278"
+    },
+    {
+      "english": "Never stop at “understand” only",
+      "spanish": "No te quedes solo en entender",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-16T21:09:20.100307"
     }
   ],
   "used_english": [
@@ -20588,7 +20618,12 @@
     "never argue after apology",
     "stop punishing them, you heal",
     "your heart wants this one phrase",
-    "this apology unlocks real spanish"
+    "this apology unlocks real spanish",
+    "the secret is confidence through action",
+    "never fear slang, learn it",
+    "this tiny routine builds brave speaking",
+    "your brain learns fastest at speed",
+    "never stop at “understand” only"
   ],
-  "last_updated": "2026-08-16T19:23:49.029067"
+  "last_updated": "2026-08-16T21:09:20.100309"
 }
