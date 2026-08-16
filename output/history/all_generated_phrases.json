@@ -17585,6 +17585,36 @@
       "spanish": "El secreto, sigue después de “no”",
       "category": "Patience",
       "generated_at": "2026-08-16T15:21:58.160787"
+    },
+    {
+      "english": "Never say “I forgot”, say “se me fue”",
+      "spanish": "Nunca digas “olvidé”, di “se me fue”",
+      "category": "Balance",
+      "generated_at": "2026-08-16T17:18:42.324112"
+    },
+    {
+      "english": "The secret? Learn exits, not entrances",
+      "spanish": "El secreto, aprende salidas, no entradas",
+      "category": "Balance",
+      "generated_at": "2026-08-16T17:18:42.324146"
+    },
+    {
+      "english": "Stop translating, shadow like a movie",
+      "spanish": "No traduzcas, haz shadow como película",
+      "category": "Balance",
+      "generated_at": "2026-08-16T17:18:42.324173"
+    },
+    {
+      "english": "Urgent: replace “very” with real feeling",
+      "spanish": "Urgente, cambia “muy” por sentimiento",
+      "category": "Balance",
+      "generated_at": "2026-08-16T17:18:42.324198"
+    },
+    {
+      "english": "This phrase grabs confidence instantly",
+      "spanish": "Esta frase da confianza al instante",
+      "category": "Balance",
+      "generated_at": "2026-08-16T17:18:42.324223"
     }
   ],
   "used_english": [
@@ -20518,7 +20548,12 @@
     "never let fear choose, choose verbs",
     "the secret, use questions more often",
     "never freeze, repeat the last word",
-    "the secret, keep going after “no”"
+    "the secret, keep going after “no”",
+    "never say “i forgot”, say “se me fue”",
+    "the secret? learn exits, not entrances",
+    "stop translating, shadow like a movie",
+    "urgent: replace “very” with real feeling",
+    "this phrase grabs confidence instantly"
   ],
-  "last_updated": "2026-08-16T15:21:58.160789"
+  "last_updated": "2026-08-16T17:18:42.324229"
 }
