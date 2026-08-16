@@ -17615,6 +17615,36 @@
       "spanish": "Esta frase da confianza al instante",
       "category": "Balance",
       "generated_at": "2026-08-16T17:18:42.324223"
+    },
+    {
+      "english": "Never forgive late, try hoy",
+      "spanish": "Nunca perdones tarde, intenta hoy",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-16T19:23:49.028951"
+    },
+    {
+      "english": "Never argue after apology",
+      "spanish": "Nunca discutas después de pedir perdón",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-16T19:23:49.028984"
+    },
+    {
+      "english": "Stop punishing them, you heal",
+      "spanish": "Deja de castigarlos, tú sanas",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-16T19:23:49.029011"
+    },
+    {
+      "english": "Your heart wants this one phrase",
+      "spanish": "Tu corazón quiere esta frase",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-16T19:23:49.029038"
+    },
+    {
+      "english": "This apology unlocks real Spanish",
+      "spanish": "Esta disculpa abre español real",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-16T19:23:49.029065"
     }
   ],
   "used_english": [
@@ -20553,7 +20583,12 @@
     "the secret? learn exits, not entrances",
     "stop translating, shadow like a movie",
     "urgent: replace “very” with real feeling",
-    "this phrase grabs confidence instantly"
+    "this phrase grabs confidence instantly",
+    "never forgive late, try hoy",
+    "never argue after apology",
+    "stop punishing them, you heal",
+    "your heart wants this one phrase",
+    "this apology unlocks real spanish"
   ],
-  "last_updated": "2026-08-16T17:18:42.324229"
+  "last_updated": "2026-08-16T19:23:49.029067"
 }
