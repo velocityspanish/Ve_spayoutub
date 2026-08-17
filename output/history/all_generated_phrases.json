@@ -17675,6 +17675,36 @@
       "spanish": "No te quedes solo en entender",
       "category": "Self Improvement",
       "generated_at": "2026-08-16T21:09:20.100307"
+    },
+    {
+      "english": "Stop holding back, forgive first",
+      "spanish": "Deja de aguantar, perdona primero",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-17T15:25:56.072372"
+    },
+    {
+      "english": "Never say sorry, choose peace",
+      "spanish": "Nunca pidas perdón, elige paz",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-17T15:25:56.072409"
+    },
+    {
+      "english": "Urgent, forgive for your health",
+      "spanish": "Urgente, perdona por tu salud",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-17T15:25:56.072437"
+    },
+    {
+      "english": "Stop the replay, let go",
+      "spanish": "Corta la repetición, suelta",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-17T15:25:56.072462"
+    },
+    {
+      "english": "Never wait, forgive today, move",
+      "spanish": "No esperes, perdona hoy, sigue",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-17T15:25:56.072502"
     }
   ],
   "used_english": [
@@ -20623,7 +20653,12 @@
     "never fear slang, learn it",
     "this tiny routine builds brave speaking",
     "your brain learns fastest at speed",
-    "never stop at “understand” only"
+    "never stop at “understand” only",
+    "stop holding back, forgive first",
+    "never say sorry, choose peace",
+    "urgent, forgive for your health",
+    "stop the replay, let go",
+    "never wait, forgive today, move"
   ],
-  "last_updated": "2026-08-16T21:09:20.100309"
+  "last_updated": "2026-08-17T15:25:56.072505"
 }
