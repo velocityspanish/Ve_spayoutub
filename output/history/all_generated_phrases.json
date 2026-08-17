@@ -17735,6 +17735,36 @@
       "spanish": "La solución urgente, afloja tu mandíbula",
       "category": "Mindfulness",
       "generated_at": "2026-08-17T17:25:55.122173"
+    },
+    {
+      "english": "Never hide, drop one “pues”",
+      "spanish": "Nunca te escondas, suelta “pues”",
+      "category": "Strength",
+      "generated_at": "2026-08-17T19:31:44.915943"
+    },
+    {
+      "english": "Never learn lists, learn moments",
+      "spanish": "No aprendas listas, aprende momentos",
+      "category": "Strength",
+      "generated_at": "2026-08-17T19:31:44.915982"
+    },
+    {
+      "english": "Stop perfecting, just add one detail",
+      "spanish": "Deja perfeccionar, añade un detalle",
+      "category": "Strength",
+      "generated_at": "2026-08-17T19:31:44.916009"
+    },
+    {
+      "english": "Urgent: swap “I want” to “Quiero”",
+      "spanish": "Urgente, cambia “I want” por “Quiero”",
+      "category": "Strength",
+      "generated_at": "2026-08-17T19:31:44.916037"
+    },
+    {
+      "english": "Stop overthinking, answer the question",
+      "spanish": "Deja pensar, responde la pregunta",
+      "category": "Strength",
+      "generated_at": "2026-08-17T19:31:44.916062"
     }
   ],
   "used_english": [
@@ -20693,7 +20723,12 @@
     "this small breath resets your tongue",
     "the secret is, listen for feelings",
     "stop memorizing, practice mindful replies",
-    "the urgent fix, soften your jaw"
+    "the urgent fix, soften your jaw",
+    "never hide, drop one “pues”",
+    "never learn lists, learn moments",
+    "stop perfecting, just add one detail",
+    "urgent: swap “i want” to “quiero”",
+    "stop overthinking, answer the question"
   ],
-  "last_updated": "2026-08-17T17:25:55.122175"
+  "last_updated": "2026-08-17T19:31:44.916065"
 }
