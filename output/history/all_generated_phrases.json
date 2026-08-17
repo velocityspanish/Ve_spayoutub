@@ -17765,6 +17765,36 @@
       "spanish": "Deja pensar, responde la pregunta",
       "category": "Strength",
       "generated_at": "2026-08-17T19:31:44.916062"
+    },
+    {
+      "english": "Never ask “how,” ask “why now”",
+      "spanish": "Nunca preguntes “cómo”, pregunta “por qué ahora”",
+      "category": "Wisdom",
+      "generated_at": "2026-08-17T22:01:18.194677"
+    },
+    {
+      "english": "The secret: practice with eye contact",
+      "spanish": "El secreto, practica con contacto visual",
+      "category": "Wisdom",
+      "generated_at": "2026-08-17T22:01:18.194718"
+    },
+    {
+      "english": "Never translate, narrate your day",
+      "spanish": "Nunca traduzcas, narra tu día",
+      "category": "Wisdom",
+      "generated_at": "2026-08-17T22:01:18.194748"
+    },
+    {
+      "english": "Stop avoiding questions, ask one",
+      "spanish": "Deja de evitar preguntas, pregunta una",
+      "category": "Wisdom",
+      "generated_at": "2026-08-17T22:01:18.194776"
+    },
+    {
+      "english": "Never fear fast speech, shadow anyway",
+      "spanish": "Nunca temas al habla rápida, haz shadow",
+      "category": "Wisdom",
+      "generated_at": "2026-08-17T22:01:18.194802"
     }
   ],
   "used_english": [
@@ -20728,7 +20758,12 @@
     "never learn lists, learn moments",
     "stop perfecting, just add one detail",
     "urgent: swap “i want” to “quiero”",
-    "stop overthinking, answer the question"
+    "stop overthinking, answer the question",
+    "never ask “how,” ask “why now”",
+    "the secret: practice with eye contact",
+    "never translate, narrate your day",
+    "stop avoiding questions, ask one",
+    "never fear fast speech, shadow anyway"
   ],
-  "last_updated": "2026-08-17T19:31:44.916065"
+  "last_updated": "2026-08-17T22:01:18.194804"
 }
