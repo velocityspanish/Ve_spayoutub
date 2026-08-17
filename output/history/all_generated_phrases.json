@@ -17705,6 +17705,36 @@
       "spanish": "No esperes, perdona hoy, sigue",
       "category": "Forgiveness",
       "generated_at": "2026-08-17T15:25:56.072502"
+    },
+    {
+      "english": "Never fear stumbles, it’s progress",
+      "spanish": "Nunca temas tropiezos, es progreso",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T17:25:55.122027"
+    },
+    {
+      "english": "This small breath resets your tongue",
+      "spanish": "Este respiro reinicia tu lengua",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T17:25:55.122065"
+    },
+    {
+      "english": "The secret is, listen for feelings",
+      "spanish": "El secreto es, escucha sentimientos",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T17:25:55.122119"
+    },
+    {
+      "english": "Stop memorizing, practice mindful replies",
+      "spanish": "Deja memorizar, practica respuestas",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T17:25:55.122144"
+    },
+    {
+      "english": "The urgent fix, soften your jaw",
+      "spanish": "La solución urgente, afloja tu mandíbula",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T17:25:55.122173"
     }
   ],
   "used_english": [
@@ -20658,7 +20688,12 @@
     "never say sorry, choose peace",
     "urgent, forgive for your health",
     "stop the replay, let go",
-    "never wait, forgive today, move"
+    "never wait, forgive today, move",
+    "never fear stumbles, it’s progress",
+    "this small breath resets your tongue",
+    "the secret is, listen for feelings",
+    "stop memorizing, practice mindful replies",
+    "the urgent fix, soften your jaw"
   ],
-  "last_updated": "2026-08-17T15:25:56.072505"
+  "last_updated": "2026-08-17T17:25:55.122175"
 }
