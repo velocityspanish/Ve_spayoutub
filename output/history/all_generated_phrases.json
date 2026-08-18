@@ -17855,6 +17855,36 @@
       "spanish": "Esto es por qué la sonrisa ayuda",
       "category": "Love",
       "generated_at": "2026-08-18T15:34:03.239601"
+    },
+    {
+      "english": "Stop guessing, speak the subject",
+      "spanish": "Deja de adivinar, di el sujeto",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T17:34:14.466817"
+    },
+    {
+      "english": "Never say “I understand” only",
+      "spanish": "No digas “entiendo” solamente",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T17:34:14.466854"
+    },
+    {
+      "english": "This sentence buys speaking confidence",
+      "spanish": "Esta frase compra confianza al hablar",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T17:34:14.466881"
+    },
+    {
+      "english": "Urgent: swap “good” for “genial”",
+      "spanish": "Urgente, cambia “bien” por “genial”",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T17:34:14.466910"
+    },
+    {
+      "english": "What if your fear is ammo?",
+      "spanish": "¿Y si tu miedo es combustible?",
+      "category": "Purpose",
+      "generated_at": "2026-08-18T17:34:14.466935"
     }
   ],
   "used_english": [
@@ -20833,7 +20863,12 @@
     "this one phrase stops misunderstandings fast",
     "never say “okay”, say “claro” warmly",
     "the urgency: “perdón”, then “te entiendo”",
-    "this is why smiles change pronunciation"
+    "this is why smiles change pronunciation",
+    "stop guessing, speak the subject",
+    "never say “i understand” only",
+    "this sentence buys speaking confidence",
+    "urgent: swap “good” for “genial”",
+    "what if your fear is ammo?"
   ],
-  "last_updated": "2026-08-18T15:34:03.239603"
+  "last_updated": "2026-08-18T17:34:14.466938"
 }
