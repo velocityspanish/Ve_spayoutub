@@ -17915,6 +17915,36 @@
       "spanish": "Por eso los errores se sienten fuertes",
       "category": "Motivation",
       "generated_at": "2026-08-18T19:35:08.995070"
+    },
+    {
+      "english": "Stop clenching, breathe before speaking",
+      "spanish": "Deja la tensión, respira antes",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-18T21:15:25.954077"
+    },
+    {
+      "english": "Never explain, just say one sentence",
+      "spanish": "Nunca expliques, di una frase",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-18T21:15:25.954118"
+    },
+    {
+      "english": "Stop scrolling, speak your inner peace",
+      "spanish": "Deja el scroll, habla en paz",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-18T21:15:25.954141"
+    },
+    {
+      "english": "Never rush, choose kinder words",
+      "spanish": "No corras, elige palabras suaves",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-18T21:15:25.954166"
+    },
+    {
+      "english": "The secret, trust the next breath",
+      "spanish": "El secreto, confía en el aire",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-18T21:15:25.954191"
     }
   ],
   "used_english": [
@@ -20903,7 +20933,12 @@
     "the secret, practice like it’s live",
     "stop asking, just answer out loud",
     "the secret, learn verbs, skip lists",
-    "this is why mistakes feel powerful"
+    "this is why mistakes feel powerful",
+    "stop clenching, breathe before speaking",
+    "never explain, just say one sentence",
+    "stop scrolling, speak your inner peace",
+    "never rush, choose kinder words",
+    "the secret, trust the next breath"
   ],
-  "last_updated": "2026-08-18T19:35:08.995072"
+  "last_updated": "2026-08-18T21:15:25.954193"
 }
