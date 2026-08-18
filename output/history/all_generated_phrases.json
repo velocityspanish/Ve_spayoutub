@@ -17885,6 +17885,36 @@
       "spanish": "¿Y si tu miedo es combustible?",
       "category": "Purpose",
       "generated_at": "2026-08-18T17:34:14.466935"
+    },
+    {
+      "english": "Never wait, start with “¿Cómo estás?”",
+      "spanish": "Nunca esperes, empieza con “¿Cómo estás?”",
+      "category": "Motivation",
+      "generated_at": "2026-08-18T19:35:08.994966"
+    },
+    {
+      "english": "The secret, practice like it’s live",
+      "spanish": "El secreto, practica como si fuera en vivo",
+      "category": "Motivation",
+      "generated_at": "2026-08-18T19:35:08.995005"
+    },
+    {
+      "english": "Stop asking, just answer out loud",
+      "spanish": "Deja de preguntar, contesta en voz alta",
+      "category": "Motivation",
+      "generated_at": "2026-08-18T19:35:08.995031"
+    },
+    {
+      "english": "The secret, learn verbs, skip lists",
+      "spanish": "El secreto, aprende verbos, salta listas",
+      "category": "Motivation",
+      "generated_at": "2026-08-18T19:35:08.995051"
+    },
+    {
+      "english": "This is why mistakes feel powerful",
+      "spanish": "Por eso los errores se sienten fuertes",
+      "category": "Motivation",
+      "generated_at": "2026-08-18T19:35:08.995070"
     }
   ],
   "used_english": [
@@ -20868,7 +20898,12 @@
     "never say “i understand” only",
     "this sentence buys speaking confidence",
     "urgent: swap “good” for “genial”",
-    "what if your fear is ammo?"
+    "what if your fear is ammo?",
+    "never wait, start with “¿cómo estás?”",
+    "the secret, practice like it’s live",
+    "stop asking, just answer out loud",
+    "the secret, learn verbs, skip lists",
+    "this is why mistakes feel powerful"
   ],
-  "last_updated": "2026-08-18T17:34:14.466938"
+  "last_updated": "2026-08-18T19:35:08.995072"
 }
