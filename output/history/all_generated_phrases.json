@@ -17825,6 +17825,36 @@
       "spanish": "¿Y si los errores te vuelven fluido?",
       "category": "Inspiration",
       "generated_at": "2026-08-18T13:44:06.896622"
+    },
+    {
+      "english": "Stop “I miss you”, try “me faltas”",
+      "spanish": "Deja “te extraño”, usa “me faltas”",
+      "category": "Love",
+      "generated_at": "2026-08-18T15:34:03.239488"
+    },
+    {
+      "english": "This one phrase stops misunderstandings fast",
+      "spanish": "Esta frase frena malentendidos",
+      "category": "Love",
+      "generated_at": "2026-08-18T15:34:03.239522"
+    },
+    {
+      "english": "Never say “okay”, say “claro” warmly",
+      "spanish": "Nunca digas “vale”, di “claro”",
+      "category": "Love",
+      "generated_at": "2026-08-18T15:34:03.239550"
+    },
+    {
+      "english": "The urgency: “perdón”, then “te entiendo”",
+      "spanish": "Urgente: “perdón”, luego “te entiendo”",
+      "category": "Love",
+      "generated_at": "2026-08-18T15:34:03.239575"
+    },
+    {
+      "english": "This is why smiles change pronunciation",
+      "spanish": "Esto es por qué la sonrisa ayuda",
+      "category": "Love",
+      "generated_at": "2026-08-18T15:34:03.239601"
     }
   ],
   "used_english": [
@@ -20798,7 +20828,12 @@
     "the secret is, stop hiding today",
     "urgent, ask back with “again?”",
     "never quit, try one new sentence",
-    "what if mistakes make you fluent?"
+    "what if mistakes make you fluent?",
+    "stop “i miss you”, try “me faltas”",
+    "this one phrase stops misunderstandings fast",
+    "never say “okay”, say “claro” warmly",
+    "the urgency: “perdón”, then “te entiendo”",
+    "this is why smiles change pronunciation"
   ],
-  "last_updated": "2026-08-18T13:44:06.896624"
+  "last_updated": "2026-08-18T15:34:03.239603"
 }
