@@ -17795,6 +17795,36 @@
       "spanish": "Nunca temas al habla rápida, haz shadow",
       "category": "Wisdom",
       "generated_at": "2026-08-17T22:01:18.194802"
+    },
+    {
+      "english": "Stop translating, speak it faster",
+      "spanish": "Deja de traducir, dilo más rápido",
+      "category": "Inspiration",
+      "generated_at": "2026-08-18T13:44:06.896498"
+    },
+    {
+      "english": "The secret is, stop hiding today",
+      "spanish": "El secreto es, deja de esconderte hoy",
+      "category": "Inspiration",
+      "generated_at": "2026-08-18T13:44:06.896538"
+    },
+    {
+      "english": "Urgent, ask back with “again?”",
+      "spanish": "Urgente, responde con “otra vez?”",
+      "category": "Inspiration",
+      "generated_at": "2026-08-18T13:44:06.896567"
+    },
+    {
+      "english": "Never quit, try one new sentence",
+      "spanish": "No te rindas, prueba una frase nueva",
+      "category": "Inspiration",
+      "generated_at": "2026-08-18T13:44:06.896594"
+    },
+    {
+      "english": "What if mistakes make you fluent?",
+      "spanish": "¿Y si los errores te vuelven fluido?",
+      "category": "Inspiration",
+      "generated_at": "2026-08-18T13:44:06.896622"
     }
   ],
   "used_english": [
@@ -20763,7 +20793,12 @@
     "the secret: practice with eye contact",
     "never translate, narrate your day",
     "stop avoiding questions, ask one",
-    "never fear fast speech, shadow anyway"
+    "never fear fast speech, shadow anyway",
+    "stop translating, speak it faster",
+    "the secret is, stop hiding today",
+    "urgent, ask back with “again?”",
+    "never quit, try one new sentence",
+    "what if mistakes make you fluent?"
   ],
-  "last_updated": "2026-08-17T22:01:18.194804"
+  "last_updated": "2026-08-18T13:44:06.896624"
 }
