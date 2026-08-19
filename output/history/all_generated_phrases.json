@@ -1,18 +1,6 @@
 {
   "phrases": [
     {
-      "english": "When everything fails, remember this.",
-      "spanish": "Cuando todo falla, recuerda esto.",
-      "category": "Hope",
-      "generated_at": "2026-04-04T14:58:34.470795"
-    },
-    {
-      "english": "Stop believing this lie about hope.",
-      "spanish": "Deja de creer esta mentira sobre esperanza.",
-      "category": "Hope",
-      "generated_at": "2026-04-04T14:58:34.470805"
-    },
-    {
       "english": "The dawn always comes after darkness.",
       "spanish": "El amanecer siempre llega después oscuridad.",
       "category": "Hope",
@@ -17981,11 +17969,39 @@
       "spanish": "No pierdas el ritmo, habla igual",
       "category": "Joy",
       "generated_at": "2026-08-19T17:25:57.849533"
+    },
+    {
+      "english": "Stop rehearsing, forgive anyway, now",
+      "spanish": "Deja ensayar, perdona igual, ahora",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T19:45:53.584567"
+    },
+    {
+      "english": "Never beg for peace, choose it",
+      "spanish": "Nunca ruegues paz, elígela",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T19:45:53.584602"
+    },
+    {
+      "english": "The secret? Say “I’m sorry” first",
+      "spanish": "El secreto: di “perdón” primero",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T19:45:53.584630"
+    },
+    {
+      "english": "Stop blaming, say “lo entiendo”",
+      "spanish": "Deja culpar, di “lo entiendo”",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T19:45:53.584658"
+    },
+    {
+      "english": "Never hold grudges, start with “hoy”",
+      "spanish": "Nunca guardes rencor, empieza con “hoy”",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-19T19:45:53.584685"
     }
   ],
   "used_english": [
-    "when everything fails, remember this.",
-    "stop believing this lie about hope.",
     "the dawn always comes after darkness.",
     "what keeps me going when quitting.",
     "your breakthrough is closer than think.",
@@ -20980,7 +20996,12 @@
     "never study silently, try it out",
     "this phrase saves every beginner",
     "urgent: say it, then repeat",
-    "never lose pace, talk anyway"
+    "never lose pace, talk anyway",
+    "stop rehearsing, forgive anyway, now",
+    "never beg for peace, choose it",
+    "the secret? say “i’m sorry” first",
+    "stop blaming, say “lo entiendo”",
+    "never hold grudges, start with “hoy”"
   ],
-  "last_updated": "2026-08-19T17:25:57.849535"
+  "last_updated": "2026-08-19T19:45:53.584687"
 }
