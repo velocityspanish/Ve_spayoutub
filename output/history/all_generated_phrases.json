@@ -17945,6 +17945,12 @@
       "spanish": "El secreto, confía en el aire",
       "category": "Inner Peace",
       "generated_at": "2026-08-18T21:15:25.954191"
+    },
+    {
+      "english": "The truth about overnight success.",
+      "spanish": "La verdad sobre el éxito repentino.",
+      "category": "Success",
+      "generated_at": "2026-08-19T13:46:51.903132"
     }
   ],
   "used_english": [
@@ -20938,7 +20944,8 @@
     "never explain, just say one sentence",
     "stop scrolling, speak your inner peace",
     "never rush, choose kinder words",
-    "the secret, trust the next breath"
+    "the secret, trust the next breath",
+    "the truth about overnight success."
   ],
-  "last_updated": "2026-08-18T21:15:25.954193"
+  "last_updated": "2026-08-19T13:46:51.903144"
 }
