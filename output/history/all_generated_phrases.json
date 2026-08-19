@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The dawn always comes after darkness.",
-      "spanish": "El amanecer siempre llega después oscuridad.",
-      "category": "Hope",
-      "generated_at": "2026-04-04T14:58:34.470807"
-    },
-    {
-      "english": "What keeps me going when quitting.",
-      "spanish": "Lo que me mantiene siguiendo cuando rindo.",
-      "category": "Hope",
-      "generated_at": "2026-04-04T14:58:34.470809"
-    },
-    {
-      "english": "Your breakthrough is closer than think.",
-      "spanish": "Tu avance está más cerca piensas.",
-      "category": "Hope",
-      "generated_at": "2026-04-04T14:58:34.470810"
-    },
-    {
-      "english": "Stop waiting, small steps win.",
-      "spanish": "Deja de esperar, los pasos pequeños ganan.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-04T16:01:15.492202"
-    },
-    {
-      "english": "Never quit, progress is messy.",
-      "spanish": "Nunca te rindas, el progreso es desordenado.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-04T16:01:15.492271"
-    },
-    {
       "english": "This is why, tiny wins multiply.",
       "spanish": "Por eso, las pequeñas victorias se multiplican.",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca guardes rencor, empieza con “hoy”",
       "category": "Forgiveness",
       "generated_at": "2026-08-19T19:45:53.584685"
+    },
+    {
+      "english": "Never fear, answer with one “sí”",
+      "spanish": "Nunca tengas miedo, responde con un “sí”",
+      "category": "Motivation",
+      "generated_at": "2026-08-19T21:20:06.780976"
+    },
+    {
+      "english": "What nobody tells you, talk daily",
+      "spanish": "Lo que nadie dice, habla diario",
+      "category": "Motivation",
+      "generated_at": "2026-08-19T21:20:06.781013"
+    },
+    {
+      "english": "Urgent: swap “I think” for “creo”",
+      "spanish": "Urgente: cambia “I think” por “creo”",
+      "category": "Motivation",
+      "generated_at": "2026-08-19T21:20:06.781042"
+    },
+    {
+      "english": "Never repeat silently, say it out loud",
+      "spanish": "Nunca repitas en silencio, dilo en voz alta",
+      "category": "Motivation",
+      "generated_at": "2026-08-19T21:20:06.781069"
+    },
+    {
+      "english": "This is why “porque” is magic",
+      "spanish": "Esto es por qué “porque” es magia",
+      "category": "Motivation",
+      "generated_at": "2026-08-19T21:20:06.781094"
     }
   ],
   "used_english": [
-    "the dawn always comes after darkness.",
-    "what keeps me going when quitting.",
-    "your breakthrough is closer than think.",
-    "stop waiting, small steps win.",
-    "never quit, progress is messy.",
     "this is why, tiny wins multiply.",
     "the secret, show up anyway.",
     "what nobody tells you, persistence pays.",
@@ -21001,7 +20996,12 @@
     "never beg for peace, choose it",
     "the secret? say “i’m sorry” first",
     "stop blaming, say “lo entiendo”",
-    "never hold grudges, start with “hoy”"
+    "never hold grudges, start with “hoy”",
+    "never fear, answer with one “sí”",
+    "what nobody tells you, talk daily",
+    "urgent: swap “i think” for “creo”",
+    "never repeat silently, say it out loud",
+    "this is why “porque” is magic"
   ],
-  "last_updated": "2026-08-19T19:45:53.584687"
+  "last_updated": "2026-08-19T21:20:06.781096"
 }
