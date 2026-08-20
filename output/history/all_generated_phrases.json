@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, mistakes teach fluency",
-      "spanish": "Por eso, los errores enseñan fluidez",
-      "category": "Confidence",
-      "generated_at": "2026-04-04T19:58:04.689883"
-    },
-    {
-      "english": "The secret, say it wrong, confidently",
-      "spanish": "El secreto, dilo mal, con confianza",
-      "category": "Confidence",
-      "generated_at": "2026-04-04T19:58:04.689885"
-    },
-    {
-      "english": "What nobody tells you, nerves help",
-      "spanish": "Lo que nadie te dice, los nervios ayudan",
-      "category": "Confidence",
-      "generated_at": "2026-04-04T19:58:04.689886"
-    },
-    {
-      "english": "Stop doubting, say one sentence",
-      "spanish": "Deja de dudar, di una frase",
-      "category": "Motivation",
-      "generated_at": "2026-04-04T22:01:06.144256"
-    },
-    {
-      "english": "Never fear, your accent shows growth",
-      "spanish": "Nunca temas, tu acento crece",
-      "category": "Motivation",
-      "generated_at": "2026-04-04T22:01:06.144265"
-    },
-    {
       "english": "This is why, practice beats perfection",
       "spanish": "Por eso, la práctica vence a la perfección",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca estudies verbos solos, úsalos",
       "category": "Creativity",
       "generated_at": "2026-08-20T15:33:39.455254"
+    },
+    {
+      "english": "Stop freezing, say 'otra vez'",
+      "spanish": "Deja de congelarte, 'otra vez'",
+      "category": "Inspiration",
+      "generated_at": "2026-08-20T17:27:34.518407"
+    },
+    {
+      "english": "Your brain loves short, useful phrases",
+      "spanish": "Tu cerebro ama frases cortas",
+      "category": "Inspiration",
+      "generated_at": "2026-08-20T17:27:34.518444"
+    },
+    {
+      "english": "This simple question unlocks conversation",
+      "spanish": "Esta pregunta abre conversación",
+      "category": "Inspiration",
+      "generated_at": "2026-08-20T17:27:34.518472"
+    },
+    {
+      "english": "Never fear correction, it trains you",
+      "spanish": "No temas corrección, te entrena",
+      "category": "Inspiration",
+      "generated_at": "2026-08-20T17:27:34.518500"
+    },
+    {
+      "english": "Stop scrolling, practice one real need",
+      "spanish": "Deja el scroll, practica una necesidad",
+      "category": "Inspiration",
+      "generated_at": "2026-08-20T17:27:34.518527"
     }
   ],
   "used_english": [
-    "this is why, mistakes teach fluency",
-    "the secret, say it wrong, confidently",
-    "what nobody tells you, nerves help",
-    "stop doubting, say one sentence",
-    "never fear, your accent shows growth",
     "this is why, practice beats perfection",
     "the secret, five minutes daily matters",
     "what nobody tells you, pause then repeat",
@@ -21001,7 +20996,12 @@
     "this one question boosts speed instantly",
     "never fear “no”, use it wisely",
     "urgent: say “¿cómo?” when lost",
-    "never study verbs alone, use them"
+    "never study verbs alone, use them",
+    "stop freezing, say 'otra vez'",
+    "your brain loves short, useful phrases",
+    "this simple question unlocks conversation",
+    "never fear correction, it trains you",
+    "stop scrolling, practice one real need"
   ],
-  "last_updated": "2026-08-20T15:33:39.455255"
+  "last_updated": "2026-08-20T17:27:34.518528"
 }
