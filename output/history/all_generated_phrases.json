@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, verbs start dancing",
-      "spanish": "Por eso, los verbos empiezan a bailar",
-      "category": "Joy",
-      "generated_at": "2026-04-05T14:58:36.405099"
-    },
-    {
-      "english": "The secret, tiny phrases beat textbooks",
-      "spanish": "El secreto, las frases pequeñas vencen a los libros",
-      "category": "Joy",
-      "generated_at": "2026-04-05T14:58:36.405100"
-    },
-    {
-      "english": "What nobody tells you, say nonsense first",
-      "spanish": "Lo que nadie te dice, di tonterías primero",
-      "category": "Joy",
-      "generated_at": "2026-04-05T14:58:36.405102"
-    },
-    {
-      "english": "Stop, say one word today",
-      "spanish": "Para, di una palabra hoy",
-      "category": "Motivation",
-      "generated_at": "2026-04-05T16:03:47.003305"
-    },
-    {
-      "english": "Stop, say it out loud",
-      "spanish": "Para, dilo en voz alta",
-      "category": "Motivation",
-      "generated_at": "2026-04-05T16:03:47.003319"
-    },
-    {
       "english": "Stop, master one phrase today",
       "spanish": "Para, domina una frase hoy",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "Este hábito fija los verbos",
       "category": "Creativity",
       "generated_at": "2026-08-20T19:34:43.956181"
+    },
+    {
+      "english": "Never say 'later', say 'now' today",
+      "spanish": "Nunca digas 'después', di 'ahora'",
+      "category": "Happiness",
+      "generated_at": "2026-08-20T21:16:59.136343"
+    },
+    {
+      "english": "Stop quitting, smile, then speak",
+      "spanish": "Deja de rendirte, sonríe, y habla",
+      "category": "Happiness",
+      "generated_at": "2026-08-20T21:16:59.136395"
+    },
+    {
+      "english": "Never overthink, just answer kindly",
+      "spanish": "Nunca pienses demasiado, responde con cariño",
+      "category": "Happiness",
+      "generated_at": "2026-08-20T21:16:59.136424"
+    },
+    {
+      "english": "Stop hiding, use 'me encanta' today",
+      "spanish": "Deja de esconderte, usa 'me encanta'",
+      "category": "Happiness",
+      "generated_at": "2026-08-20T21:16:59.136451"
+    },
+    {
+      "english": "The secret? Start with 'I’m okay'",
+      "spanish": "El secreto, empieza con 'estoy bien'",
+      "category": "Happiness",
+      "generated_at": "2026-08-20T21:16:59.136479"
     }
   ],
   "used_english": [
-    "this is why, verbs start dancing",
-    "the secret, tiny phrases beat textbooks",
-    "what nobody tells you, say nonsense first",
-    "stop, say one word today",
-    "stop, say it out loud",
     "stop, master one phrase today",
     "stop, send a voice message",
     "never, be shy speaking",
@@ -21001,7 +20996,12 @@
     "never memorize, talk before you know",
     "this trick makes questions effortless",
     "urgent: say “no pasa nada” now",
-    "this one habit locks in verbs"
+    "this one habit locks in verbs",
+    "never say 'later', say 'now' today",
+    "stop quitting, smile, then speak",
+    "never overthink, just answer kindly",
+    "stop hiding, use 'me encanta' today",
+    "the secret? start with 'i’m okay'"
   ],
-  "last_updated": "2026-08-20T19:34:43.956183"
+  "last_updated": "2026-08-20T21:16:59.136482"
 }
