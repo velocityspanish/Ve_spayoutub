@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, joy is simple",
-      "spanish": "Por eso, la alegría es simple",
-      "category": "Positive Life",
-      "generated_at": "2026-04-04T18:02:31.033024"
-    },
-    {
-      "english": "The secret, rest fuels resilience",
-      "spanish": "El secreto, descansar alimenta la resiliencia",
-      "category": "Positive Life",
-      "generated_at": "2026-04-04T18:02:31.033025"
-    },
-    {
-      "english": "What nobody tells you, start imperfect",
-      "spanish": "Lo que nadie te dice, empieza imperfecto",
-      "category": "Positive Life",
-      "generated_at": "2026-04-04T18:02:31.033027"
-    },
-    {
-      "english": "Stop, speak before you're perfect",
-      "spanish": "Para, habla antes de ser perfecto",
-      "category": "Confidence",
-      "generated_at": "2026-04-04T19:58:04.689872"
-    },
-    {
-      "english": "Never, apologize for practicing",
-      "spanish": "Nunca, te disculpes por practicar",
-      "category": "Confidence",
-      "generated_at": "2026-04-04T19:58:04.689881"
-    },
-    {
       "english": "This is why, mistakes teach fluency",
       "spanish": "Por eso, los errores enseñan fluidez",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "No temas errores, corrige y sigue",
       "category": "Positive Life",
       "generated_at": "2026-08-20T13:49:08.224362"
+    },
+    {
+      "english": "Stop sounding polite, be real",
+      "spanish": "Deja de sonar educado, sé real",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:33:39.455126"
+    },
+    {
+      "english": "This one question boosts speed instantly",
+      "spanish": "Esta pregunta sube tu velocidad",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:33:39.455162"
+    },
+    {
+      "english": "Never fear “no”, use it wisely",
+      "spanish": "No tengas miedo de “no”, úsalo bien",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:33:39.455198"
+    },
+    {
+      "english": "Urgent: say “¿cómo?” when lost",
+      "spanish": "Urgente: di “¿cómo?” si te pierdes",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:33:39.455225"
+    },
+    {
+      "english": "Never study verbs alone, use them",
+      "spanish": "Nunca estudies verbos solos, úsalos",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T15:33:39.455254"
     }
   ],
   "used_english": [
-    "this is why, joy is simple",
-    "the secret, rest fuels resilience",
-    "what nobody tells you, start imperfect",
-    "stop, speak before you're perfect",
-    "never, apologize for practicing",
     "this is why, mistakes teach fluency",
     "the secret, say it wrong, confidently",
     "what nobody tells you, nerves help",
@@ -21001,7 +20996,12 @@
     "your tongue learns best with joy",
     "never quit, celebrate tiny repeats",
     "the secret, learn one “because”",
-    "never fear mistakes, correct and move"
+    "never fear mistakes, correct and move",
+    "stop sounding polite, be real",
+    "this one question boosts speed instantly",
+    "never fear “no”, use it wisely",
+    "urgent: say “¿cómo?” when lost",
+    "never study verbs alone, use them"
   ],
-  "last_updated": "2026-08-20T13:49:08.224364"
+  "last_updated": "2026-08-20T15:33:39.455255"
 }
