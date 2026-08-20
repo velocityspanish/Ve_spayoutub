@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, tiny wins multiply.",
-      "spanish": "Por eso, las pequeñas victorias se multiplican.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-04T16:01:15.492275"
-    },
-    {
-      "english": "The secret, show up anyway.",
-      "spanish": "El secreto, preséntate de todas maneras.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-04T16:01:15.492277"
-    },
-    {
-      "english": "What nobody tells you, persistence pays.",
-      "spanish": "Lo que nadie dice, la persistencia paga.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-04T16:01:15.492279"
-    },
-    {
-      "english": "Stop comparing, celebrate your pace",
-      "spanish": "Deja de compararte, celebra tu ritmo",
-      "category": "Positive Life",
-      "generated_at": "2026-04-04T18:02:31.033014"
-    },
-    {
-      "english": "Never settle, chase small wins",
-      "spanish": "Nunca te conformes, busca pequeñas victorias",
-      "category": "Positive Life",
-      "generated_at": "2026-04-04T18:02:31.033022"
-    },
-    {
       "english": "This is why, joy is simple",
       "spanish": "Por eso, la alegría es simple",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Esto es por qué “porque” es magia",
       "category": "Motivation",
       "generated_at": "2026-08-19T21:20:06.781094"
+    },
+    {
+      "english": "Stop over-explaining, say the key",
+      "spanish": "Deja de explicar, di lo clave",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T13:49:08.224234"
+    },
+    {
+      "english": "Your tongue learns best with joy",
+      "spanish": "Tu lengua aprende mejor con alegría",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T13:49:08.224275"
+    },
+    {
+      "english": "Never quit, celebrate tiny repeats",
+      "spanish": "Nunca pares, celebra repeticiones",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T13:49:08.224305"
+    },
+    {
+      "english": "The secret, learn one “because”",
+      "spanish": "El secreto, aprende un “porque”",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T13:49:08.224334"
+    },
+    {
+      "english": "Never fear mistakes, correct and move",
+      "spanish": "No temas errores, corrige y sigue",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T13:49:08.224362"
     }
   ],
   "used_english": [
-    "this is why, tiny wins multiply.",
-    "the secret, show up anyway.",
-    "what nobody tells you, persistence pays.",
-    "stop comparing, celebrate your pace",
-    "never settle, chase small wins",
     "this is why, joy is simple",
     "the secret, rest fuels resilience",
     "what nobody tells you, start imperfect",
@@ -21001,7 +20996,12 @@
     "what nobody tells you, talk daily",
     "urgent: swap “i think” for “creo”",
     "never repeat silently, say it out loud",
-    "this is why “porque” is magic"
+    "this is why “porque” is magic",
+    "stop over-explaining, say the key",
+    "your tongue learns best with joy",
+    "never quit, celebrate tiny repeats",
+    "the secret, learn one “because”",
+    "never fear mistakes, correct and move"
   ],
-  "last_updated": "2026-08-19T21:20:06.781096"
+  "last_updated": "2026-08-20T13:49:08.224364"
 }
