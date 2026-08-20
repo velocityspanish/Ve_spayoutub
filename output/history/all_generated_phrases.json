@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, practice beats perfection",
-      "spanish": "Por eso, la práctica vence a la perfección",
-      "category": "Motivation",
-      "generated_at": "2026-04-04T22:01:06.144267"
-    },
-    {
-      "english": "The secret, five minutes daily matters",
-      "spanish": "El secreto, cinco minutos diarios cuentan",
-      "category": "Motivation",
-      "generated_at": "2026-04-04T22:01:06.144269"
-    },
-    {
-      "english": "What nobody tells you, pause then repeat",
-      "spanish": "Lo que nadie te dice, pausa, repite",
-      "category": "Motivation",
-      "generated_at": "2026-04-04T22:01:06.144271"
-    },
-    {
-      "english": "Stop, speak, surprise yourself today",
-      "spanish": "Para, habla, sorpréndete hoy",
-      "category": "Joy",
-      "generated_at": "2026-04-05T14:58:36.405087"
-    },
-    {
-      "english": "Never, hide your Spanish voice",
-      "spanish": "Nunca, ocultes tu voz en español",
-      "category": "Joy",
-      "generated_at": "2026-04-05T14:58:36.405097"
-    },
-    {
       "english": "This is why, verbs start dancing",
       "spanish": "Por eso, los verbos empiezan a bailar",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Deja el scroll, practica una necesidad",
       "category": "Inspiration",
       "generated_at": "2026-08-20T17:27:34.518527"
+    },
+    {
+      "english": "Stop, use fewer words, win",
+      "spanish": "Para, usa menos palabras, gana",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T19:34:43.956042"
+    },
+    {
+      "english": "Never memorize, talk before you know",
+      "spanish": "Nunca memorices, habla antes de saber",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T19:34:43.956078"
+    },
+    {
+      "english": "This trick makes questions effortless",
+      "spanish": "Este truco hace las preguntas fáciles",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T19:34:43.956105"
+    },
+    {
+      "english": "Urgent: say “No pasa nada” now",
+      "spanish": "Urgente, di “No pasa nada” ya",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T19:34:43.956133"
+    },
+    {
+      "english": "This one habit locks in verbs",
+      "spanish": "Este hábito fija los verbos",
+      "category": "Creativity",
+      "generated_at": "2026-08-20T19:34:43.956181"
     }
   ],
   "used_english": [
-    "this is why, practice beats perfection",
-    "the secret, five minutes daily matters",
-    "what nobody tells you, pause then repeat",
-    "stop, speak, surprise yourself today",
-    "never, hide your spanish voice",
     "this is why, verbs start dancing",
     "the secret, tiny phrases beat textbooks",
     "what nobody tells you, say nonsense first",
@@ -21001,7 +20996,12 @@
     "your brain loves short, useful phrases",
     "this simple question unlocks conversation",
     "never fear correction, it trains you",
-    "stop scrolling, practice one real need"
+    "stop scrolling, practice one real need",
+    "stop, use fewer words, win",
+    "never memorize, talk before you know",
+    "this trick makes questions effortless",
+    "urgent: say “no pasa nada” now",
+    "this one habit locks in verbs"
   ],
-  "last_updated": "2026-08-20T17:27:34.518528"
+  "last_updated": "2026-08-20T19:34:43.956183"
 }
