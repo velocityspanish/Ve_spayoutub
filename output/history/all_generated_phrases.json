@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, forgiving wins silently",
-      "spanish": "Por eso, perdonar gana en silencio",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T22:00:53.630213"
-    },
-    {
-      "english": "The secret, say sorry to yourself",
-      "spanish": "El secreto, discúlpate contigo mismo",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T22:00:53.630215"
-    },
-    {
-      "english": "What nobody tells you, small forgiveness changes",
-      "spanish": "Lo que nadie dice, perdonar cambia todo",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T22:00:53.630217"
-    },
-    {
-      "english": "Stop whispering, speak Spanish loudly",
-      "spanish": "Deja de susurrar, habla español fuerte",
-      "category": "Balance",
-      "generated_at": "2026-04-06T15:35:58.952961"
-    },
-    {
-      "english": "Never wait for perfect pronunciation",
-      "spanish": "Nunca esperes la pronunciación perfecta",
-      "category": "Balance",
-      "generated_at": "2026-04-06T15:35:58.952972"
-    },
-    {
       "english": "This is why natives smile at you",
       "spanish": "Por eso los nativos te sonríen",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Urgente: cambia “quizás” por “claro”",
       "category": "Balance",
       "generated_at": "2026-08-21T17:27:50.682449"
+    },
+    {
+      "english": "Stop using English, start thinking Spanish",
+      "spanish": "Deja el inglés, piensa en español",
+      "category": "Strength",
+      "generated_at": "2026-08-21T19:28:51.258644"
+    },
+    {
+      "english": "This one pause makes Spanish click",
+      "spanish": "Esta pausa hace encajar el español",
+      "category": "Strength",
+      "generated_at": "2026-08-21T19:28:51.258683"
+    },
+    {
+      "english": "Stop “perfect”, sound real in seconds",
+      "spanish": "Deja “perfecto”, suena real en segundos",
+      "category": "Strength",
+      "generated_at": "2026-08-21T19:28:51.258711"
+    },
+    {
+      "english": "The fastest upgrade? Say it again",
+      "spanish": "La mejora más rápida, dilo otra vez",
+      "category": "Strength",
+      "generated_at": "2026-08-21T19:28:51.258739"
+    },
+    {
+      "english": "Never overthink, just say “ah, ok”",
+      "spanish": "No pienses tanto, di “ah, ok”",
+      "category": "Strength",
+      "generated_at": "2026-08-21T19:28:51.258768"
     }
   ],
   "used_english": [
-    "this is why, forgiving wins silently",
-    "the secret, say sorry to yourself",
-    "what nobody tells you, small forgiveness changes",
-    "stop whispering, speak spanish loudly",
-    "never wait for perfect pronunciation",
     "this is why natives smile at you",
     "the secret, mimic rhythm, sound native",
     "what nobody tells you, one phrase connects",
@@ -21001,7 +20996,12 @@
     "the secret: speak in present tense",
     "this one habit boosts listening fast",
     "stop “i think” , say the truth",
-    "urgent: replace “maybe” with “sure”"
+    "urgent: replace “maybe” with “sure”",
+    "stop using english, start thinking spanish",
+    "this one pause makes spanish click",
+    "stop “perfect”, sound real in seconds",
+    "the fastest upgrade? say it again",
+    "never overthink, just say “ah, ok”"
   ],
-  "last_updated": "2026-08-21T17:27:50.682451"
+  "last_updated": "2026-08-21T19:28:51.258770"
 }
