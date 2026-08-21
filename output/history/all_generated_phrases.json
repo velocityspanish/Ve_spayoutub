@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, master one phrase today",
-      "spanish": "Para, domina una frase hoy",
-      "category": "Motivation",
-      "generated_at": "2026-04-05T16:03:47.003321"
-    },
-    {
-      "english": "Stop, send a voice message",
-      "spanish": "Para, manda un mensaje de voz",
-      "category": "Motivation",
-      "generated_at": "2026-04-05T16:03:47.003323"
-    },
-    {
-      "english": "Never, be shy speaking",
-      "spanish": "Nunca, seas tímido al hablar",
-      "category": "Motivation",
-      "generated_at": "2026-04-05T16:03:47.003325"
-    },
-    {
-      "english": "Stop, say the wrong thing, laugh",
-      "spanish": "Para, di algo mal, ríe",
-      "category": "Creativity",
-      "generated_at": "2026-04-05T18:05:47.619731"
-    },
-    {
-      "english": "Never, translate every word, please",
-      "spanish": "Nunca, traduzcas cada palabra, por favor",
-      "category": "Creativity",
-      "generated_at": "2026-04-05T18:05:47.619740"
-    },
-    {
       "english": "This is why, one word changes conversations",
       "spanish": "Por eso, una palabra cambia conversaciones",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "El secreto, empieza con 'estoy bien'",
       "category": "Happiness",
       "generated_at": "2026-08-20T21:16:59.136479"
+    },
+    {
+      "english": "Stop “test” mode, speak naturally",
+      "spanish": "Deja modo “prueba”, habla natural",
+      "category": "Growth",
+      "generated_at": "2026-08-21T13:47:09.627383"
+    },
+    {
+      "english": "Never learn phrases, learn intentions",
+      "spanish": "Nunca aprendas frases, aprende intenciones",
+      "category": "Growth",
+      "generated_at": "2026-08-21T13:47:09.627418"
+    },
+    {
+      "english": "Never rehearse, answer instantly",
+      "spanish": "Nunca ensayes, responde al instante",
+      "category": "Growth",
+      "generated_at": "2026-08-21T13:47:09.627447"
+    },
+    {
+      "english": "What if your accent is proof?",
+      "spanish": "¿Y si tu acento es prueba?",
+      "category": "Growth",
+      "generated_at": "2026-08-21T13:47:09.627474"
+    },
+    {
+      "english": "Never avoid slang, learn one",
+      "spanish": "No evites el slang, aprende uno",
+      "category": "Growth",
+      "generated_at": "2026-08-21T13:47:09.627499"
     }
   ],
   "used_english": [
-    "stop, master one phrase today",
-    "stop, send a voice message",
-    "never, be shy speaking",
-    "stop, say the wrong thing, laugh",
-    "never, translate every word, please",
     "this is why, one word changes conversations",
     "the secret, steal native phrases, repeat",
     "what nobody tells you, listen, imitate",
@@ -21001,7 +20996,12 @@
     "stop quitting, smile, then speak",
     "never overthink, just answer kindly",
     "stop hiding, use 'me encanta' today",
-    "the secret? start with 'i’m okay'"
+    "the secret? start with 'i’m okay'",
+    "stop “test” mode, speak naturally",
+    "never learn phrases, learn intentions",
+    "never rehearse, answer instantly",
+    "what if your accent is proof?",
+    "never avoid slang, learn one"
   ],
-  "last_updated": "2026-08-20T21:16:59.136482"
+  "last_updated": "2026-08-21T13:47:09.627501"
 }
