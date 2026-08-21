@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, one word changes conversations",
-      "spanish": "Por eso, una palabra cambia conversaciones",
-      "category": "Creativity",
-      "generated_at": "2026-04-05T18:05:47.619742"
-    },
-    {
-      "english": "The secret, steal native phrases, repeat",
-      "spanish": "El secreto, copia frases nativas, repite",
-      "category": "Creativity",
-      "generated_at": "2026-04-05T18:05:47.619744"
-    },
-    {
-      "english": "What nobody tells you, listen, imitate",
-      "spanish": "Lo que nadie te dice, escucha, imita",
-      "category": "Creativity",
-      "generated_at": "2026-04-05T18:05:47.619746"
-    },
-    {
-      "english": "Stop, forgive to free yourself",
-      "spanish": "Detente, perdona para liberarte",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T20:00:25.566553"
-    },
-    {
-      "english": "Never, skip forgiving yourself",
-      "spanish": "Nunca, dejes de perdonarte",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T20:00:25.566564"
-    },
-    {
       "english": "This is why, forgiving heals faster",
       "spanish": "Por esto, perdonar sana más rápido",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "No evites el slang, aprende uno",
       "category": "Growth",
       "generated_at": "2026-08-21T13:47:09.627499"
+    },
+    {
+      "english": "Never skip kindness, say “lo siento”",
+      "spanish": "Nunca saltes la amabilidad, di “lo siento”",
+      "category": "Kindness",
+      "generated_at": "2026-08-21T15:33:45.695212"
+    },
+    {
+      "english": "The secret... compliment first, then speak",
+      "spanish": "El secreto... felicita primero, y luego habla",
+      "category": "Kindness",
+      "generated_at": "2026-08-21T15:33:45.695251"
+    },
+    {
+      "english": "Never be scared, try one “¿y tú?”",
+      "spanish": "No tengas miedo, prueba un “¿y tú?”",
+      "category": "Kindness",
+      "generated_at": "2026-08-21T15:33:45.695282"
+    },
+    {
+      "english": "This small change boosts confidence fast",
+      "spanish": "Este cambio pequeño da confianza rápido",
+      "category": "Kindness",
+      "generated_at": "2026-08-21T15:33:45.695309"
+    },
+    {
+      "english": "Stop guessing, use “necesito” today",
+      "spanish": "Deja de adivinar, usa “necesito” hoy",
+      "category": "Kindness",
+      "generated_at": "2026-08-21T15:33:45.695339"
     }
   ],
   "used_english": [
-    "this is why, one word changes conversations",
-    "the secret, steal native phrases, repeat",
-    "what nobody tells you, listen, imitate",
-    "stop, forgive to free yourself",
-    "never, skip forgiving yourself",
     "this is why, forgiving heals faster",
     "the secret, let go without judgment",
     "what nobody tells you, forgiving frees you",
@@ -21001,7 +20996,12 @@
     "never learn phrases, learn intentions",
     "never rehearse, answer instantly",
     "what if your accent is proof?",
-    "never avoid slang, learn one"
+    "never avoid slang, learn one",
+    "never skip kindness, say “lo siento”",
+    "the secret... compliment first, then speak",
+    "never be scared, try one “¿y tú?”",
+    "this small change boosts confidence fast",
+    "stop guessing, use “necesito” today"
   ],
-  "last_updated": "2026-08-21T13:47:09.627501"
+  "last_updated": "2026-08-21T15:33:45.695342"
 }
