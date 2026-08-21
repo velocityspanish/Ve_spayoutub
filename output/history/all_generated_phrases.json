@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, forgiving heals faster",
-      "spanish": "Por esto, perdonar sana más rápido",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T20:00:25.566567"
-    },
-    {
-      "english": "The secret, let go without judgment",
-      "spanish": "El secreto, suelta sin juzgar",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T20:00:25.566569"
-    },
-    {
-      "english": "What nobody tells you, forgiving frees you",
-      "spanish": "Lo que nadie dice, perdonar te libera",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T20:00:25.566571"
-    },
-    {
-      "english": "Stop, cancel that inner trial",
-      "spanish": "Para, cancela ese juicio interno",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T22:00:53.630201"
-    },
-    {
-      "english": "Never, carry yesterday's grudge again",
-      "spanish": "Nunca, cargues el rencor de ayer",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-05T22:00:53.630211"
-    },
-    {
       "english": "This is why, forgiving wins silently",
       "spanish": "Por eso, perdonar gana en silencio",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "Deja de adivinar, usa “necesito” hoy",
       "category": "Kindness",
       "generated_at": "2026-08-21T15:33:45.695339"
+    },
+    {
+      "english": "Never say “fine”, say it better",
+      "spanish": "Nunca digas “bien”, di algo mejor",
+      "category": "Balance",
+      "generated_at": "2026-08-21T17:27:50.682346"
+    },
+    {
+      "english": "The secret: speak in present tense",
+      "spanish": "El secreto: habla en presente",
+      "category": "Balance",
+      "generated_at": "2026-08-21T17:27:50.682381"
+    },
+    {
+      "english": "This one habit boosts listening fast",
+      "spanish": "Este hábito mejora tu escucha",
+      "category": "Balance",
+      "generated_at": "2026-08-21T17:27:50.682404"
+    },
+    {
+      "english": "Stop “I think” , say the truth",
+      "spanish": "Deja “yo creo”, di verdad",
+      "category": "Balance",
+      "generated_at": "2026-08-21T17:27:50.682426"
+    },
+    {
+      "english": "Urgent: replace “maybe” with “sure”",
+      "spanish": "Urgente: cambia “quizás” por “claro”",
+      "category": "Balance",
+      "generated_at": "2026-08-21T17:27:50.682449"
     }
   ],
   "used_english": [
-    "this is why, forgiving heals faster",
-    "the secret, let go without judgment",
-    "what nobody tells you, forgiving frees you",
-    "stop, cancel that inner trial",
-    "never, carry yesterday's grudge again",
     "this is why, forgiving wins silently",
     "the secret, say sorry to yourself",
     "what nobody tells you, small forgiveness changes",
@@ -21001,7 +20996,12 @@
     "the secret... compliment first, then speak",
     "never be scared, try one “¿y tú?”",
     "this small change boosts confidence fast",
-    "stop guessing, use “necesito” today"
+    "stop guessing, use “necesito” today",
+    "never say “fine”, say it better",
+    "the secret: speak in present tense",
+    "this one habit boosts listening fast",
+    "stop “i think” , say the truth",
+    "urgent: replace “maybe” with “sure”"
   ],
-  "last_updated": "2026-08-21T15:33:45.695342"
+  "last_updated": "2026-08-21T17:27:50.682451"
 }
