@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why natives smile at you",
-      "spanish": "Por eso los nativos te sonríen",
-      "category": "Balance",
-      "generated_at": "2026-04-06T15:35:58.952975"
-    },
-    {
-      "english": "The secret, mimic rhythm, sound native",
-      "spanish": "El secreto, imita el ritmo, suena nativo",
-      "category": "Balance",
-      "generated_at": "2026-04-06T15:35:58.952977"
-    },
-    {
-      "english": "What nobody tells you, one phrase connects",
-      "spanish": "Lo que nadie te dice, una frase conecta",
-      "category": "Balance",
-      "generated_at": "2026-04-06T15:35:58.952979"
-    },
-    {
-      "english": "Stop, say one brave sentence",
-      "spanish": "Para, di una frase valiente",
-      "category": "Inspiration",
-      "generated_at": "2026-04-06T17:34:37.510910"
-    },
-    {
-      "english": "Never, fear your imperfect voice",
-      "spanish": "Nunca, temas tu voz imperfecta",
-      "category": "Inspiration",
-      "generated_at": "2026-04-06T17:34:37.510921"
-    },
-    {
       "english": "This is why, small talks matter",
       "spanish": "Por eso, las pequeñas charlas importan",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "No pienses tanto, di “ah, ok”",
       "category": "Strength",
       "generated_at": "2026-08-21T19:28:51.258768"
+    },
+    {
+      "english": "The secret, practice with 'estoy'",
+      "spanish": "El secreto, practica con 'estoy'",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-21T21:12:51.893098"
+    },
+    {
+      "english": "This one sentence breaks your fear",
+      "spanish": "Esta frase rompe tu miedo",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-21T21:12:51.893135"
+    },
+    {
+      "english": "Never rush tenses, just tell now",
+      "spanish": "No corras los tiempos, di lo de ahora",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-21T21:12:51.893163"
+    },
+    {
+      "english": "This is why drills feel boring",
+      "spanish": "Por eso las rutinas aburren",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-21T21:12:51.893190"
+    },
+    {
+      "english": "Never wait, say 'necesito' today",
+      "spanish": "No esperes, di 'necesito' hoy",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-21T21:12:51.893218"
     }
   ],
   "used_english": [
-    "this is why natives smile at you",
-    "the secret, mimic rhythm, sound native",
-    "what nobody tells you, one phrase connects",
-    "stop, say one brave sentence",
-    "never, fear your imperfect voice",
     "this is why, small talks matter",
     "the secret, laugh at your mistakes",
     "stop, trade fear for one word",
@@ -21001,7 +20996,12 @@
     "this one pause makes spanish click",
     "stop “perfect”, sound real in seconds",
     "the fastest upgrade? say it again",
-    "never overthink, just say “ah, ok”"
+    "never overthink, just say “ah, ok”",
+    "the secret, practice with 'estoy'",
+    "this one sentence breaks your fear",
+    "never rush tenses, just tell now",
+    "this is why drills feel boring",
+    "never wait, say 'necesito' today"
   ],
-  "last_updated": "2026-08-21T19:28:51.258770"
+  "last_updated": "2026-08-21T21:12:51.893220"
 }
