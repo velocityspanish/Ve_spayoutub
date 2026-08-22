@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Consistency wins.",
-      "spanish": "¿El secreto? La constancia gana.",
-      "category": "Motivation",
-      "generated_at": "2026-04-07T16:14:32.815921"
-    },
-    {
-      "english": "What nobody tells you about success.",
-      "spanish": "Lo que nadie te dice del éxito.",
-      "category": "Motivation",
-      "generated_at": "2026-04-07T16:14:32.815924"
-    },
-    {
-      "english": "Your future self is watching.",
-      "spanish": "Tu yo futuro te mira.",
-      "category": "Motivation",
-      "generated_at": "2026-04-07T16:14:32.815926"
-    },
-    {
-      "english": "This message found you for reason.",
-      "spanish": "Este mensaje te encontró por razón.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-07T18:01:48.274249"
-    },
-    {
-      "english": "Stop doubting. You were chosen.",
-      "spanish": "Deja de dudar. Fuiste elegido.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-07T18:01:48.274260"
-    },
-    {
       "english": "The world needs your unique gift.",
       "spanish": "El mundo necesita tu regalo único.",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu viaje en español empieza ahora.",
       "category": "Joy",
       "generated_at": "2026-08-22T17:19:29.094781"
+    },
+    {
+      "english": "Your smile unlocks Spanish.",
+      "spanish": "Tu sonrisa desbloquea español.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T19:25:10.422978"
+    },
+    {
+      "english": "One 'gracias' changes moods.",
+      "spanish": "Un 'gracias' cambia ánimos.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T19:25:10.423017"
+    },
+    {
+      "english": "This phrase is pure gold.",
+      "spanish": "Esta frase es oro puro.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T19:25:10.423043"
+    },
+    {
+      "english": "Speak with happy intention.",
+      "spanish": "Habla con intención feliz.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T19:25:10.423070"
+    },
+    {
+      "english": "Tiny joys build fluency.",
+      "spanish": "Alegrías pequeñas construyen fluidez.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T19:25:10.423095"
     }
   ],
   "used_english": [
-    "the secret? consistency wins.",
-    "what nobody tells you about success.",
-    "your future self is watching.",
-    "this message found you for reason.",
-    "stop doubting. you were chosen.",
     "the world needs your unique gift.",
     "what i learned from lowest point.",
     "your comeback will be legendary.",
@@ -21001,7 +20996,12 @@
     "one question changes everything.",
     "stop fearing, start speaking today.",
     "small moments, big impact.",
-    "your spanish journey begins now."
+    "your spanish journey begins now.",
+    "your smile unlocks spanish.",
+    "one 'gracias' changes moods.",
+    "this phrase is pure gold.",
+    "speak with happy intention.",
+    "tiny joys build fluency."
   ],
-  "last_updated": "2026-08-22T17:19:29.094782"
+  "last_updated": "2026-08-22T19:25:10.423097"
 }
