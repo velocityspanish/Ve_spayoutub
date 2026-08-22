@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why most people give up soon.",
-      "spanish": "Por qué la mayoría se rinde pronto.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-07T14:49:38.254575"
-    },
-    {
-      "english": "This separates winners from losers.",
-      "spanish": "Esto separa ganadores de perdedores.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-07T14:49:38.254578"
-    },
-    {
-      "english": "Keep going. Your moment is coming.",
-      "spanish": "Sigue yendo. Tu momento está llegando.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-07T14:49:38.254580"
-    },
-    {
-      "english": "Stop waiting. Start now.",
-      "spanish": "Deja de esperar. Comienza ahora.",
-      "category": "Motivation",
-      "generated_at": "2026-04-07T16:14:32.815909"
-    },
-    {
-      "english": "This is why you're stuck.",
-      "spanish": "Por esto estás atascado.",
-      "category": "Motivation",
-      "generated_at": "2026-04-07T16:14:32.815919"
-    },
-    {
       "english": "The secret? Consistency wins.",
       "spanish": "¿El secreto? La constancia gana.",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Qué si hablar es jugar?",
       "category": "Happiness",
       "generated_at": "2026-08-22T15:21:00.349610"
+    },
+    {
+      "english": "This unlocks natural flow.",
+      "spanish": "Esto desbloquea fluidez natural.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T17:19:29.094687"
+    },
+    {
+      "english": "One question changes everything.",
+      "spanish": "Una pregunta lo cambia todo.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T17:19:29.094719"
+    },
+    {
+      "english": "Stop fearing, start speaking today.",
+      "spanish": "Deja el miedo, habla hoy.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T17:19:29.094741"
+    },
+    {
+      "english": "Small moments, big impact.",
+      "spanish": "Pequeños momentos, gran impacto.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T17:19:29.094759"
+    },
+    {
+      "english": "Your Spanish journey begins now.",
+      "spanish": "Tu viaje en español empieza ahora.",
+      "category": "Joy",
+      "generated_at": "2026-08-22T17:19:29.094781"
     }
   ],
   "used_english": [
-    "why most people give up soon.",
-    "this separates winners from losers.",
-    "keep going. your moment is coming.",
-    "stop waiting. start now.",
-    "this is why you're stuck.",
     "the secret? consistency wins.",
     "what nobody tells you about success.",
     "your future self is watching.",
@@ -21001,7 +20996,12 @@
     "this one word, pure magic.",
     "curiosity unlocks fluency faster.",
     "don't fear errors, they teach.",
-    "what if speaking is playing?"
+    "what if speaking is playing?",
+    "this unlocks natural flow.",
+    "one question changes everything.",
+    "stop fearing, start speaking today.",
+    "small moments, big impact.",
+    "your spanish journey begins now."
   ],
-  "last_updated": "2026-08-22T15:21:00.349612"
+  "last_updated": "2026-08-22T17:19:29.094782"
 }
