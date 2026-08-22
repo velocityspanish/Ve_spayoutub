@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, listen to your heartbeat",
-      "spanish": "El secreto, escucha tu corazón",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-06T19:58:01.090943"
-    },
-    {
-      "english": "What nobody tells you, rest is progress",
-      "spanish": "Lo que nadie te dice, descansar es progreso",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-06T19:58:01.090945"
-    },
-    {
-      "english": "Stop multitasking, taste this moment",
-      "spanish": "Deja las multitareas, saborea este instante",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-06T19:58:01.090947"
-    },
-    {
-      "english": "Never lose faith. This too shall pass.",
-      "spanish": "Nunca pierdas fe. Esto también pasará.",
-      "category": "Hope",
-      "generated_at": "2026-04-06T21:03:07.978583"
-    },
-    {
-      "english": "Stop scrolling. This is your sign.",
-      "spanish": "Deja desplazarte. Esta tu señal.",
-      "category": "Hope",
-      "generated_at": "2026-04-06T21:03:07.978592"
-    },
-    {
       "english": "You needed hear this today.",
       "spanish": "Necesitabas escuchar esto hoy.",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Cada 'hola' es bienvenida.",
       "category": "Gratitude",
       "generated_at": "2026-08-22T05:15:37.030718"
+    },
+    {
+      "english": "Your brain craves input",
+      "spanish": "Tu cerebro anhela entrada",
+      "category": "Courage",
+      "generated_at": "2026-08-22T05:31:06.776358"
+    },
+    {
+      "english": "This sound breaks the ice",
+      "spanish": "Este sonido rompe el hielo",
+      "category": "Courage",
+      "generated_at": "2026-08-22T05:31:06.776393"
+    },
+    {
+      "english": "Tiny wins build fluency",
+      "spanish": "Pequeñas victorias construyen fluidez",
+      "category": "Courage",
+      "generated_at": "2026-08-22T05:31:06.776419"
+    },
+    {
+      "english": "This sentence feels bold",
+      "spanish": "Esta frase se siente audaz",
+      "category": "Courage",
+      "generated_at": "2026-08-22T05:31:06.776444"
+    },
+    {
+      "english": "Speak before you're ready",
+      "spanish": "Habla antes de estar listo",
+      "category": "Courage",
+      "generated_at": "2026-08-22T05:31:06.776469"
     }
   ],
   "used_english": [
-    "the secret, listen to your heartbeat",
-    "what nobody tells you, rest is progress",
-    "stop multitasking, taste this moment",
-    "never lose faith. this too shall pass.",
-    "stop scrolling. this is your sign.",
     "you needed hear this today.",
     "this is your wake-up call.",
     "don't skip. this changes everything.",
@@ -21001,7 +20996,12 @@
     "what if fear is just a spark?",
     "speak to feel alive, now.",
     "this sound unlocks comprehension.",
-    "every 'hola' is a hello."
+    "every 'hola' is a hello.",
+    "your brain craves input",
+    "this sound breaks the ice",
+    "tiny wins build fluency",
+    "this sentence feels bold",
+    "speak before you're ready"
   ],
-  "last_updated": "2026-08-22T05:15:37.030720"
+  "last_updated": "2026-08-22T05:31:06.776472"
 }
