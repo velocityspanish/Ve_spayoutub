@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The world needs your unique gift.",
-      "spanish": "El mundo necesita tu regalo único.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-07T18:01:48.274263"
-    },
-    {
-      "english": "What I learned from lowest point.",
-      "spanish": "Lo que aprendí desde punto más bajo.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-07T18:01:48.274265"
-    },
-    {
-      "english": "Your comeback will be legendary.",
-      "spanish": "Tu regreso será legendario.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-07T18:01:48.274267"
-    },
-    {
-      "english": "Cut these toxic habits from life.",
-      "spanish": "Corta estos hábitos tóxicos vida.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-07T20:02:20.978482"
-    },
-    {
-      "english": "The mindset that attracts good things.",
-      "spanish": "La mentalidad que atrae cosas buenas.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-07T20:02:20.978492"
-    },
-    {
       "english": "Stop consuming. Start creating.",
       "spanish": "Deja de consumir. Empieza a crear.",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Alegrías pequeñas construyen fluidez.",
       "category": "Joy",
       "generated_at": "2026-08-22T19:25:10.423095"
+    },
+    {
+      "english": "Curiosity opens every door.",
+      "spanish": "La curiosidad abre puertas.",
+      "category": "Kindness",
+      "generated_at": "2026-08-22T21:10:37.035347"
+    },
+    {
+      "english": "This simple smile, it helps.",
+      "spanish": "Esta simple sonrisa, ayuda.",
+      "category": "Kindness",
+      "generated_at": "2026-08-22T21:10:37.035386"
+    },
+    {
+      "english": "Your kindness, it echoes.",
+      "spanish": "Tu amabilidad, resuena.",
+      "category": "Kindness",
+      "generated_at": "2026-08-22T21:10:37.035412"
+    },
+    {
+      "english": "Start small, speak one word.",
+      "spanish": "Empieza pequeño, di una.",
+      "category": "Kindness",
+      "generated_at": "2026-08-22T21:10:37.035450"
+    },
+    {
+      "english": "What if joy powers learning?",
+      "spanish": "¿Y si la alegría impulsa?",
+      "category": "Kindness",
+      "generated_at": "2026-08-22T21:10:37.035476"
     }
   ],
   "used_english": [
-    "the world needs your unique gift.",
-    "what i learned from lowest point.",
-    "your comeback will be legendary.",
-    "cut these toxic habits from life.",
-    "the mindset that attracts good things.",
     "stop consuming. start creating.",
     "your vibe attracts your tribe.",
     "choose progress over perfection always.",
@@ -21001,7 +20996,12 @@
     "one 'gracias' changes moods.",
     "this phrase is pure gold.",
     "speak with happy intention.",
-    "tiny joys build fluency."
+    "tiny joys build fluency.",
+    "curiosity opens every door.",
+    "this simple smile, it helps.",
+    "your kindness, it echoes.",
+    "start small, speak one word.",
+    "what if joy powers learning?"
   ],
-  "last_updated": "2026-08-22T19:25:10.423097"
+  "last_updated": "2026-08-22T21:10:37.035479"
 }
