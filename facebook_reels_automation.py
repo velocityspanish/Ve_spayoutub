@@ -20,6 +20,12 @@ load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
+AI_MODEL = os.getenv("AI_MODEL")
+if not AI_MODEL:
+    print("⚠️  AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file. ")
+    print("For GitHub Actions: Add AI_MODEL to repository secrets.")
+    raise ValueError("AI_MODEL environment variable is required")
+
 # Directories
 BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR / "output"
@@ -236,12 +242,13 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
             prompt = f"""Create {num_phrases * 3} VIRAL {category_english} phrases for English speakers learning Spanish. Random seed: {random_seed}
 
 🎯 VIRAL HOOK REQUIREMENTS:
-1. Start with attention-grabbing words: "Stop...", "Never...", "This is why...", "The secret...", "What nobody tells you..."
-2. Create curiosity gaps that make people watch till the end
-3. Use emotional triggers: inspiration, surprise, urgency, relatability
-4. Make each phrase SHAREABLE - something people send to friends
-5. Keep it VERY SHORT (3-8 words MAX) - perfect for TikTok/Reels/Shorts
-6. Add natural pauses with commas for TTS rhythm
+1. Use VARIED hook styles - NOT all starting with "Stop" or "Never"
+2. Mix different patterns: statements, questions, wisdom, encouragement, facts
+3. Create curiosity gaps that make people watch till the end
+4. Use emotional triggers: inspiration, surprise, urgency, relatability
+5. Make each phrase SHAREABLE - something people send to friends
+6. Keep it VERY SHORT (3-8 words MAX) - perfect for TikTok/Reels/Shorts
+7. Add natural pauses with commas for TTS rhythm
 
 📝 FORMAT:
 - English: Catchy hook + valuable message (MAX 8 WORDS)
@@ -250,12 +257,17 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
 
 {exclusion_note}
 
-💡 EXAMPLES OF VIRAL HOOKS:
-- "Stop saying 'I can't'"
-- "This changes everything"
-- "The secret? Consistency"
-- "Never translate word-for-word"
-- "Your future self is watching"
+💡 EXAMPLES OF VARIED VIRAL PHRASES (MIX THESE STYLES):
+- "Your future self is watching" (encouragement)
+- "This changes everything" (intrigue)
+- "The secret? Consistency" (wisdom reveal)
+- "Small steps, big results" (contrast)
+- "You belong here, welcome" (warmth)
+- "One word can change your day" (possibility)
+- "Trust the process, keep going" (motivation)
+- "Here's what nobody tells you" (insider tip)
+- "Start where you are, now" (action)
+- "Your effort matters, remember" (validation)
 
 ⚠️ CRITICAL RULES:
 - MAX 8 WORDS per phrase (shorter = more viral)
@@ -263,16 +275,17 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
 - NO long explanations
 - Every word must count
 - MUST be different from all {len(used_phrases)} phrases above
+- VARY YOUR HOOKS: Only 1 out of 5 phrases can start with "Stop" or "Never"
 
 Return as JSON array:
 [{{"english": "...", "spanish": "...", "pronunciation": "..."}}]
 
-⚠️ CRITICAL: Every phrase must be COMPLETELY NEW, CATCHY, and VIRAL-WORTHY. Check against excluded list above. Random seed: {random_seed}"""
+⚠️ CRITICAL: Every phrase must be COMPLETELY NEW, CATCHY, and VIRAL-WORTHY. Mix different hook styles. Check against excluded list above. Random seed: {random_seed}"""
 
             payload = {
-                "model": "openai",
+                "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a viral Spanish teacher and social media expert. Create scroll-stopping, shareable phrases with hooks that make people watch, save, and share. NEVER repeat phrases. Each request should generate UNIQUE content."},
+                    {"role": "system", "content": "You are a viral Spanish teacher creating diverse, engaging phrases. Use VARIED hook styles - statements, questions, wisdom, encouragement. NOT all phrases start with 'Stop' or 'Never'. Create natural, shareable content that feels authentic, not formulaic. NEVER repeat phrases."},
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 1.2,  # Even higher for more variety
