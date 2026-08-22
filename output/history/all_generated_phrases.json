@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why, small talks matter",
-      "spanish": "Por eso, las pequeñas charlas importan",
-      "category": "Inspiration",
-      "generated_at": "2026-04-06T17:34:37.510923"
-    },
-    {
-      "english": "The secret, laugh at your mistakes",
-      "spanish": "El secreto, ríete de tus errores",
-      "category": "Inspiration",
-      "generated_at": "2026-04-06T17:34:37.510925"
-    },
-    {
-      "english": "Stop, trade fear for one word",
-      "spanish": "Para, cambia miedo por una palabra",
-      "category": "Inspiration",
-      "generated_at": "2026-04-06T17:34:37.510927"
-    },
-    {
-      "english": "Stop, scrolling, breathe five seconds",
-      "spanish": "Deja de desplazarte, respira cinco segundos",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-06T19:58:01.090930"
-    },
-    {
-      "english": "Never judge, feel the moment",
-      "spanish": "Nunca juzgues, siente el momento",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-06T19:58:01.090940"
-    },
-    {
       "english": "The secret, listen to your heartbeat",
       "spanish": "El secreto, escucha tu corazón",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "No esperes, di 'necesito' hoy",
       "category": "Self Improvement",
       "generated_at": "2026-08-21T21:12:51.893218"
+    },
+    {
+      "english": "Your first Spanish word matters.",
+      "spanish": "Tu primera palabra importa.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-22T05:15:37.030597"
+    },
+    {
+      "english": "What if fear is just a spark?",
+      "spanish": "¿Y si el miedo es chispa?",
+      "category": "Gratitude",
+      "generated_at": "2026-08-22T05:15:37.030638"
+    },
+    {
+      "english": "Speak to feel alive, now.",
+      "spanish": "Habla para sentir vida, ya.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-22T05:15:37.030664"
+    },
+    {
+      "english": "This sound unlocks comprehension.",
+      "spanish": "Este sonido abre entendimiento.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-22T05:15:37.030693"
+    },
+    {
+      "english": "Every 'hola' is a hello.",
+      "spanish": "Cada 'hola' es bienvenida.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-22T05:15:37.030718"
     }
   ],
   "used_english": [
-    "this is why, small talks matter",
-    "the secret, laugh at your mistakes",
-    "stop, trade fear for one word",
-    "stop, scrolling, breathe five seconds",
-    "never judge, feel the moment",
     "the secret, listen to your heartbeat",
     "what nobody tells you, rest is progress",
     "stop multitasking, taste this moment",
@@ -21001,7 +20996,12 @@
     "this one sentence breaks your fear",
     "never rush tenses, just tell now",
     "this is why drills feel boring",
-    "never wait, say 'necesito' today"
+    "never wait, say 'necesito' today",
+    "your first spanish word matters.",
+    "what if fear is just a spark?",
+    "speak to feel alive, now.",
+    "this sound unlocks comprehension.",
+    "every 'hola' is a hello."
   ],
-  "last_updated": "2026-08-21T21:12:51.893220"
+  "last_updated": "2026-08-22T05:15:37.030720"
 }
