@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What I wish I knew at 20.",
-      "spanish": "Lo que desearía saber a los 20.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-08T20:03:45.313190"
-    },
-    {
-      "english": "This truth will set you free.",
-      "spanish": "Esta verdad te liberará.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-08T20:03:45.313193"
-    },
-    {
-      "english": "The price of staying the same.",
-      "spanish": "El precio de permanecer igual.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-08T20:03:45.313195"
-    },
-    {
-      "english": "Good things happen to those who hustle.",
-      "spanish": "Cosas buenas pasan a quienes trabajan duro.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-08T21:36:55.833477"
-    },
-    {
-      "english": "Stop memorizing, start speaking",
-      "spanish": "Deja de memorizar, empieza a hablar",
-      "category": "Hope",
-      "generated_at": "2026-04-09T14:55:51.163726"
-    },
-    {
       "english": "Never fear simple Spanish",
       "spanish": "Nunca temas el español sencillo",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Abraza la curva feliz.",
       "category": "Happiness",
       "generated_at": "2026-08-23T19:24:54.920318"
+    },
+    {
+      "english": "Your smile, speaks volumes.",
+      "spanish": "Tu sonrisa, dice mucho.",
+      "category": "Kindness",
+      "generated_at": "2026-08-23T21:10:31.960518"
+    },
+    {
+      "english": "One 'por favor', wins hearts.",
+      "spanish": "Un 'por favor', gana corazones.",
+      "category": "Kindness",
+      "generated_at": "2026-08-23T21:10:31.960553"
+    },
+    {
+      "english": "Speak now, learn faster.",
+      "spanish": "Habla ahora, aprende más rápido.",
+      "category": "Kindness",
+      "generated_at": "2026-08-23T21:10:31.960574"
+    },
+    {
+      "english": "Your voice, truly matters.",
+      "spanish": "Tu voz, realmente importa.",
+      "category": "Kindness",
+      "generated_at": "2026-08-23T21:10:31.960594"
+    },
+    {
+      "english": "One 'buenos días' opens doors.",
+      "spanish": "Un 'buenos días' abre puertas.",
+      "category": "Kindness",
+      "generated_at": "2026-08-23T21:10:31.960617"
     }
   ],
   "used_english": [
-    "what i wish i knew at 20.",
-    "this truth will set you free.",
-    "the price of staying the same.",
-    "good things happen to those who hustle.",
-    "stop memorizing, start speaking",
     "never fear simple spanish",
     "this is why you freeze",
     "the secret? ask, then answer",
@@ -21001,7 +20996,12 @@
     "curiosity unlocks your voice.",
     "one 'gracias' starts it all.",
     "speak joy, find connection.",
-    "embrace the happy learning curve."
+    "embrace the happy learning curve.",
+    "your smile, speaks volumes.",
+    "one 'por favor', wins hearts.",
+    "speak now, learn faster.",
+    "your voice, truly matters.",
+    "one 'buenos días' opens doors."
   ],
-  "last_updated": "2026-08-23T19:24:54.920320"
+  "last_updated": "2026-08-23T21:10:31.960620"
 }
