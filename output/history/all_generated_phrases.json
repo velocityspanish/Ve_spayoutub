@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why silence heals",
-      "spanish": "Por eso, el silencio sana",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-07T21:37:07.413370"
-    },
-    {
-      "english": "The secret, breathe before reacting",
-      "spanish": "El secreto, respira antes de reaccionar",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-07T21:37:07.413372"
-    },
-    {
-      "english": "Stop apologizing for quiet moments",
-      "spanish": "Deja de disculparte por momentos de calma",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-07T21:37:07.413374"
-    },
-    {
-      "english": "Stop burning out. Find rhythm.",
-      "spanish": "Deja quemarte. Encuentra ritmo.",
-      "category": "Balance",
-      "generated_at": "2026-04-08T14:50:18.715123"
-    },
-    {
-      "english": "This work-life balance really looks.",
-      "spanish": "Así equilibrio trabajo-vida realmente.",
-      "category": "Balance",
-      "generated_at": "2026-04-08T14:50:18.715134"
-    },
-    {
       "english": "Secret having all without losing yourself.",
       "spanish": "Secreto tenerlo todo sin perderte.",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si no da miedo?",
       "category": "Mindfulness",
       "generated_at": "2026-08-23T13:33:29.029111"
+    },
+    {
+      "english": "Want fluent Spanish? Speak slowly.",
+      "spanish": "¿Quieres español fluido? Habla despacio.",
+      "category": "Patience",
+      "generated_at": "2026-08-23T15:22:30.018474"
+    },
+    {
+      "english": "This one word breaks silence.",
+      "spanish": "Esta palabra rompe el silencio.",
+      "category": "Patience",
+      "generated_at": "2026-08-23T15:22:30.018509"
+    },
+    {
+      "english": "What if learning feels like playing?",
+      "spanish": "¿Y si aprender es jugar?",
+      "category": "Patience",
+      "generated_at": "2026-08-23T15:22:30.018537"
+    },
+    {
+      "english": "Small talk builds big connections.",
+      "spanish": "Charla pequeña, grandes conexiones.",
+      "category": "Patience",
+      "generated_at": "2026-08-23T15:22:30.018565"
+    },
+    {
+      "english": "The secret? Listen more, speak less.",
+      "spanish": "¿El secreto? Escucha más, habla menos.",
+      "category": "Patience",
+      "generated_at": "2026-08-23T15:22:30.018591"
     }
   ],
   "used_english": [
-    "this is why silence heals",
-    "the secret, breathe before reacting",
-    "stop apologizing for quiet moments",
-    "stop burning out. find rhythm.",
-    "this work-life balance really looks.",
     "secret having all without losing yourself.",
     "can't pour from empty cup. fill.",
     "rest productive. stop feeling guilty.",
@@ -21001,7 +20996,12 @@
     "this unlocks real conversations.",
     "curiosity is your superpower.",
     "one compliment, big impact.",
-    "what if it's not scary?"
+    "what if it's not scary?",
+    "want fluent spanish? speak slowly.",
+    "this one word breaks silence.",
+    "what if learning feels like playing?",
+    "small talk builds big connections.",
+    "the secret? listen more, speak less."
   ],
-  "last_updated": "2026-08-23T13:33:29.029113"
+  "last_updated": "2026-08-23T15:22:30.018594"
 }
