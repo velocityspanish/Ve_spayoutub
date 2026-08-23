@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Secret having all without losing yourself.",
-      "spanish": "Secreto tenerlo todo sin perderte.",
-      "category": "Balance",
-      "generated_at": "2026-04-08T14:50:18.715136"
-    },
-    {
-      "english": "Can't pour from empty cup. Fill.",
-      "spanish": "No servir desde taza vacía. Llena.",
-      "category": "Balance",
-      "generated_at": "2026-04-08T14:50:18.715138"
-    },
-    {
-      "english": "Rest productive. Stop feeling guilty.",
-      "spanish": "Descansar productivo. Deja sentirte culpable.",
-      "category": "Balance",
-      "generated_at": "2026-04-08T14:50:18.715141"
-    },
-    {
-      "english": "Feel the fear. Do it anyway.",
-      "spanish": "Siente el miedo. Hazlo todos modos.",
-      "category": "Courage",
-      "generated_at": "2026-04-08T18:09:57.088675"
-    },
-    {
-      "english": "This is what bravery really looks.",
-      "spanish": "Así es como se ve valentía.",
-      "category": "Courage",
-      "generated_at": "2026-04-08T18:09:57.088686"
-    },
-    {
       "english": "Stop hiding. The world needs seeing.",
       "spanish": "Deja de esconderte. Mundo necesita verte.",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "¿El secreto? Escucha más, habla menos.",
       "category": "Patience",
       "generated_at": "2026-08-23T15:22:30.018591"
+    },
+    {
+      "english": "Surprise! Try '¡Hola!' again.",
+      "spanish": "¡Sorpresa! Intenta '¡Hola!' otra vez.",
+      "category": "Success",
+      "generated_at": "2026-08-23T17:19:48.353655"
+    },
+    {
+      "english": "Your accent is charming, speak.",
+      "spanish": "Tu acento es encantador, habla.",
+      "category": "Success",
+      "generated_at": "2026-08-23T17:19:48.353694"
+    },
+    {
+      "english": "This one word opens doors.",
+      "spanish": "Esta palabra abre puertas.",
+      "category": "Success",
+      "generated_at": "2026-08-23T17:19:48.353716"
+    },
+    {
+      "english": "Mistakes are stepping stones, keep.",
+      "spanish": "Los errores son escalones, sigue.",
+      "category": "Success",
+      "generated_at": "2026-08-23T17:19:48.353744"
+    },
+    {
+      "english": "Small conversations build fluency.",
+      "spanish": "Pequeñas conversaciones construyen fluidez.",
+      "category": "Success",
+      "generated_at": "2026-08-23T17:19:48.353770"
     }
   ],
   "used_english": [
-    "secret having all without losing yourself.",
-    "can't pour from empty cup. fill.",
-    "rest productive. stop feeling guilty.",
-    "feel the fear. do it anyway.",
-    "this is what bravery really looks.",
     "stop hiding. the world needs seeing.",
     "the risk you're avoiding is worth.",
     "courage isn't fearlessness. it's this.",
@@ -21001,7 +20996,12 @@
     "this one word breaks silence.",
     "what if learning feels like playing?",
     "small talk builds big connections.",
-    "the secret? listen more, speak less."
+    "the secret? listen more, speak less.",
+    "surprise! try '¡hola!' again.",
+    "your accent is charming, speak.",
+    "this one word opens doors.",
+    "mistakes are stepping stones, keep.",
+    "small conversations build fluency."
   ],
-  "last_updated": "2026-08-23T15:22:30.018594"
+  "last_updated": "2026-08-23T17:19:48.353773"
 }
