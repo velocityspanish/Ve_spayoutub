@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop consuming. Start creating.",
-      "spanish": "Deja de consumir. Empieza a crear.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-07T20:02:20.978495"
-    },
-    {
-      "english": "Your vibe attracts your tribe.",
-      "spanish": "Tu vibra atrae a tu tribu.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-07T20:02:20.978498"
-    },
-    {
-      "english": "Choose progress over perfection always.",
-      "spanish": "Elige progreso sobre perfección siempre.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-07T20:02:20.978500"
-    },
-    {
-      "english": "Stop chasing peace, feel it",
-      "spanish": "Deja de buscar la paz, siéntela",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-07T21:37:07.413356"
-    },
-    {
-      "english": "Never rush your inner calm",
-      "spanish": "Nunca apresures tu calma interior",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-07T21:37:07.413367"
-    },
-    {
       "english": "This is why silence heals",
       "spanish": "Por eso, el silencio sana",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si la alegría impulsa?",
       "category": "Kindness",
       "generated_at": "2026-08-22T21:10:37.035476"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-23T13:33:29.029018"
+    },
+    {
+      "english": "This unlocks real conversations.",
+      "spanish": "Esto abre charlas reales.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-23T13:33:29.029050"
+    },
+    {
+      "english": "Curiosity is your superpower.",
+      "spanish": "La curiosidad es tu superpoder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-23T13:33:29.029072"
+    },
+    {
+      "english": "One compliment, big impact.",
+      "spanish": "Un cumplido, gran impacto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-23T13:33:29.029092"
+    },
+    {
+      "english": "What if it's not scary?",
+      "spanish": "¿Y si no da miedo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-23T13:33:29.029111"
     }
   ],
   "used_english": [
-    "stop consuming. start creating.",
-    "your vibe attracts your tribe.",
-    "choose progress over perfection always.",
-    "stop chasing peace, feel it",
-    "never rush your inner calm",
     "this is why silence heals",
     "the secret, breathe before reacting",
     "stop apologizing for quiet moments",
@@ -21001,7 +20996,12 @@
     "this simple smile, it helps.",
     "your kindness, it echoes.",
     "start small, speak one word.",
-    "what if joy powers learning?"
+    "what if joy powers learning?",
+    "your voice matters, speak up.",
+    "this unlocks real conversations.",
+    "curiosity is your superpower.",
+    "one compliment, big impact.",
+    "what if it's not scary?"
   ],
-  "last_updated": "2026-08-22T21:10:37.035479"
+  "last_updated": "2026-08-23T13:33:29.029113"
 }
