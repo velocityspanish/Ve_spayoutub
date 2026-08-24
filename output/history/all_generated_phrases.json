@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop interrupting, just say 'perdón'",
-      "spanish": "Deja de interrumpir, di 'perdón'",
-      "category": "Kindness",
-      "generated_at": "2026-04-09T21:37:50.483558"
-    },
-    {
-      "english": "This is why kindness sounds native",
-      "spanish": "Por eso la amabilidad suena nativa",
-      "category": "Kindness",
-      "generated_at": "2026-04-09T21:37:50.483561"
-    },
-    {
-      "english": "The secret, ask '¿cómo estás?'",
-      "spanish": "El secreto, pregunta '¿cómo estás?'",
-      "category": "Kindness",
-      "generated_at": "2026-04-09T21:37:50.483564"
-    },
-    {
-      "english": "Stop judging, say 'lo entiendo'",
-      "spanish": "No juzgues, di 'lo entiendo'",
-      "category": "Kindness",
-      "generated_at": "2026-04-09T21:37:50.483567"
-    },
-    {
-      "english": "Stop perfecting, start connecting words",
-      "spanish": "Deja perfeccionar, empieza a conectar palabras",
-      "category": "Balance",
-      "generated_at": "2026-04-10T14:18:37.276313"
-    },
-    {
       "english": "Never memorize, learn with real moments",
       "spanish": "Nunca memorices, aprende con momentos reales",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Este sonido simple significa bienvenido.",
       "category": "Hope",
       "generated_at": "2026-08-24T19:33:28.922956"
+    },
+    {
+      "english": "Your voice, unlocked today.",
+      "spanish": "Tu voz, desbloqueada hoy.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T21:17:55.441168"
+    },
+    {
+      "english": "What if Spanish felt easy?",
+      "spanish": "¿Y si el español fuera fácil?",
+      "category": "Hope",
+      "generated_at": "2026-08-24T21:17:55.441212"
+    },
+    {
+      "english": "One word opens conversation.",
+      "spanish": "Una palabra abre conversación.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T21:17:55.441239"
+    },
+    {
+      "english": "Feel the rhythm, speak it.",
+      "spanish": "Siente el ritmo, dilo.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T21:17:55.441264"
+    },
+    {
+      "english": "This mistake is normal.",
+      "spanish": "Este error es normal.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T21:17:55.441289"
     }
   ],
   "used_english": [
-    "stop interrupting, just say 'perdón'",
-    "this is why kindness sounds native",
-    "the secret, ask '¿cómo estás?'",
-    "stop judging, say 'lo entiendo'",
-    "stop perfecting, start connecting words",
     "never memorize, learn with real moments",
     "the secret is speaking, then smiling",
     "what nobody tells you, use fewer words",
@@ -21001,7 +20996,12 @@
     "what if learning is playful?",
     "one question unlocks connection.",
     "embrace the beautiful mistakes.",
-    "this simple sound means welcome."
+    "this simple sound means welcome.",
+    "your voice, unlocked today.",
+    "what if spanish felt easy?",
+    "one word opens conversation.",
+    "feel the rhythm, speak it.",
+    "this mistake is normal."
   ],
-  "last_updated": "2026-08-24T19:33:28.922957"
+  "last_updated": "2026-08-24T21:17:55.441291"
 }
