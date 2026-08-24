@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorise lists, memorize endings",
-      "spanish": "Nunca memorices listas, memoriza finales",
-      "category": "Joy",
-      "generated_at": "2026-04-09T20:04:02.716370"
-    },
-    {
-      "english": "The secret is one tiny routine",
-      "spanish": "El secreto, una rutina pequeñita",
-      "category": "Joy",
-      "generated_at": "2026-04-09T20:04:02.716373"
-    },
-    {
-      "english": "What nobody tells you, slow down",
-      "spanish": "Lo que nadie dice, habla despacio",
-      "category": "Joy",
-      "generated_at": "2026-04-09T20:04:02.716376"
-    },
-    {
-      "english": "Stop translating, feel the sentence",
-      "spanish": "No traduzcas, siente la frase",
-      "category": "Joy",
-      "generated_at": "2026-04-09T20:04:02.716379"
-    },
-    {
-      "english": "Never say sorry, say gracias",
-      "spanish": "Nunca digas lo siento, di gracias",
-      "category": "Kindness",
-      "generated_at": "2026-04-09T21:37:50.483548"
-    },
-    {
       "english": "Stop interrupting, just say 'perdón'",
       "spanish": "Deja de interrumpir, di 'perdón'",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Prueba '¿qué tal?'",
       "category": "Purpose",
       "generated_at": "2026-08-24T17:29:31.870839"
+    },
+    {
+      "english": "Your Spanish voice is unique.",
+      "spanish": "Tu voz en español es única.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T19:33:28.922872"
+    },
+    {
+      "english": "What if learning is playful?",
+      "spanish": "¿Y si aprender es un juego?",
+      "category": "Hope",
+      "generated_at": "2026-08-24T19:33:28.922899"
+    },
+    {
+      "english": "One question unlocks connection.",
+      "spanish": "Una pregunta abre conexión.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T19:33:28.922919"
+    },
+    {
+      "english": "Embrace the beautiful mistakes.",
+      "spanish": "Abraza los hermosos errores.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T19:33:28.922937"
+    },
+    {
+      "english": "This simple sound means welcome.",
+      "spanish": "Este sonido simple significa bienvenido.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T19:33:28.922956"
     }
   ],
   "used_english": [
-    "never memorise lists, memorize endings",
-    "the secret is one tiny routine",
-    "what nobody tells you, slow down",
-    "stop translating, feel the sentence",
-    "never say sorry, say gracias",
     "stop interrupting, just say 'perdón'",
     "this is why kindness sounds native",
     "the secret, ask '¿cómo estás?'",
@@ -21001,7 +20996,12 @@
     "your accent is a superpower.",
     "speak slowly, sound smarter.",
     "curiosity fuels your learning.",
-    "surprise! try 'qué tal?'"
+    "surprise! try 'qué tal?'",
+    "your spanish voice is unique.",
+    "what if learning is playful?",
+    "one question unlocks connection.",
+    "embrace the beautiful mistakes.",
+    "this simple sound means welcome."
   ],
-  "last_updated": "2026-08-24T17:29:31.870841"
+  "last_updated": "2026-08-24T19:33:28.922957"
 }
