@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never miss today's micro-lesson, please",
-      "spanish": "No faltes, mini-lección de hoy",
-      "category": "Perseverance",
-      "generated_at": "2026-04-09T16:19:57.167491"
-    },
-    {
-      "english": "This is why progress feels weird",
-      "spanish": "Por eso, el progreso se siente raro",
-      "category": "Perseverance",
-      "generated_at": "2026-04-09T16:19:57.167493"
-    },
-    {
-      "english": "The secret is tonight's 10-minute streak",
-      "spanish": "El secreto, diez minutos esta noche",
-      "category": "Perseverance",
-      "generated_at": "2026-04-09T16:19:57.167496"
-    },
-    {
-      "english": "Stop waiting for confidence, speak now",
-      "spanish": "No esperes, habla ahora mismo",
-      "category": "Perseverance",
-      "generated_at": "2026-04-09T16:19:57.167498"
-    },
-    {
-      "english": "Stop skipping practice, use today",
-      "spanish": "Deja de saltarte práctica, usa hoy",
-      "category": "Strength",
-      "generated_at": "2026-04-09T17:58:53.317004"
-    },
-    {
       "english": "Never fear awkward pauses, breathe",
       "spanish": "Nunca temas pausas raras, respira",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "El amor verdadero susurra suave.",
       "category": "Love",
       "generated_at": "2026-08-24T13:54:09.658679"
+    },
+    {
+      "english": "Love, simplified: 'Te amo'.",
+      "spanish": "Amor, simplificado: 'Te amo'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T15:38:58.705124"
+    },
+    {
+      "english": "Want true connection? Try 'Me encantas'.",
+      "spanish": "¿Quieres conexión real? Prueba 'Me encantas'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T15:38:58.705160"
+    },
+    {
+      "english": "That feeling? 'Te quiero mucho'.",
+      "spanish": "¿Ese sentimiento? 'Te quiero mucho'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T15:38:58.705188"
+    },
+    {
+      "english": "Sweetest whisper: 'Eres mi todo'.",
+      "spanish": "Susurro más dulce: 'Eres mi todo'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T15:38:58.705216"
+    },
+    {
+      "english": "Heartbeat: 'Eres la luz'.",
+      "spanish": "Latido del corazón: 'Eres la luz'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T15:38:58.705242"
     }
   ],
   "used_english": [
-    "never miss today's micro-lesson, please",
-    "this is why progress feels weird",
-    "the secret is tonight's 10-minute streak",
-    "stop waiting for confidence, speak now",
-    "stop skipping practice, use today",
     "never fear awkward pauses, breathe",
     "the secret, speak before you think",
     "stop searching, say what you mean",
@@ -21001,7 +20996,12 @@
     "your heart speaks spanish now.",
     "one hug, endless love.",
     "feel loved? say 'me gustas'.",
-    "true love whispers softly."
+    "true love whispers softly.",
+    "love, simplified: 'te amo'.",
+    "want true connection? try 'me encantas'.",
+    "that feeling? 'te quiero mucho'.",
+    "sweetest whisper: 'eres mi todo'.",
+    "heartbeat: 'eres la luz'."
   ],
-  "last_updated": "2026-08-24T13:54:09.658681"
+  "last_updated": "2026-08-24T15:38:58.705244"
 }
