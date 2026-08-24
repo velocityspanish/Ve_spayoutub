@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear simple Spanish",
-      "spanish": "Nunca temas el español sencillo",
-      "category": "Hope",
-      "generated_at": "2026-04-09T14:55:51.163734"
-    },
-    {
-      "english": "This is why you freeze",
-      "spanish": "Esto es por qué te quedas",
-      "category": "Hope",
-      "generated_at": "2026-04-09T14:55:51.163737"
-    },
-    {
-      "english": "The secret? Ask, then answer",
-      "spanish": "El secreto? Pregunta, luego responde",
-      "category": "Hope",
-      "generated_at": "2026-04-09T14:55:51.163739"
-    },
-    {
-      "english": "Stop building, use real sentences",
-      "spanish": "Deja de construir, usa frases reales",
-      "category": "Hope",
-      "generated_at": "2026-04-09T14:55:51.163742"
-    },
-    {
-      "english": "Stop quitting after one awkward sentence",
-      "spanish": "Deja de rendirte, con una frase rara",
-      "category": "Perseverance",
-      "generated_at": "2026-04-09T16:19:57.167480"
-    },
-    {
       "english": "Never miss today's micro-lesson, please",
       "spanish": "No faltes, mini-lección de hoy",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Un 'buenos días' abre puertas.",
       "category": "Kindness",
       "generated_at": "2026-08-23T21:10:31.960617"
+    },
+    {
+      "english": "Want love? Say 'Te quiero'.",
+      "spanish": "Quiero amor, di 'Te quiero'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T13:54:09.658568"
+    },
+    {
+      "english": "Your heart speaks Spanish now.",
+      "spanish": "Tu corazón habla español ahora.",
+      "category": "Love",
+      "generated_at": "2026-08-24T13:54:09.658605"
+    },
+    {
+      "english": "One hug, endless love.",
+      "spanish": "Un abrazo, amor sin fin.",
+      "category": "Love",
+      "generated_at": "2026-08-24T13:54:09.658635"
+    },
+    {
+      "english": "Feel loved? Say 'Me gustas'.",
+      "spanish": "Te sientes amado/a? Di 'Me gustas'.",
+      "category": "Love",
+      "generated_at": "2026-08-24T13:54:09.658657"
+    },
+    {
+      "english": "True love whispers softly.",
+      "spanish": "El amor verdadero susurra suave.",
+      "category": "Love",
+      "generated_at": "2026-08-24T13:54:09.658679"
     }
   ],
   "used_english": [
-    "never fear simple spanish",
-    "this is why you freeze",
-    "the secret? ask, then answer",
-    "stop building, use real sentences",
-    "stop quitting after one awkward sentence",
     "never miss today's micro-lesson, please",
     "this is why progress feels weird",
     "the secret is tonight's 10-minute streak",
@@ -21001,7 +20996,12 @@
     "one 'por favor', wins hearts.",
     "speak now, learn faster.",
     "your voice, truly matters.",
-    "one 'buenos días' opens doors."
+    "one 'buenos días' opens doors.",
+    "want love? say 'te quiero'.",
+    "your heart speaks spanish now.",
+    "one hug, endless love.",
+    "feel loved? say 'me gustas'.",
+    "true love whispers softly."
   ],
-  "last_updated": "2026-08-23T21:10:31.960620"
+  "last_updated": "2026-08-24T13:54:09.658681"
 }
