@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear awkward pauses, breathe",
-      "spanish": "Nunca temas pausas raras, respira",
-      "category": "Strength",
-      "generated_at": "2026-04-09T17:58:53.317018"
-    },
-    {
-      "english": "The secret, speak before you think",
-      "spanish": "El secreto, habla antes de pensar",
-      "category": "Strength",
-      "generated_at": "2026-04-09T17:58:53.317021"
-    },
-    {
-      "english": "Stop searching, say what you mean",
-      "spanish": "Deja de buscar, di lo que quieres",
-      "category": "Strength",
-      "generated_at": "2026-04-09T17:58:53.317024"
-    },
-    {
-      "english": "Never study alone, talk daily",
-      "spanish": "Nunca estudies solo, habla diario",
-      "category": "Strength",
-      "generated_at": "2026-04-09T17:58:53.317027"
-    },
-    {
-      "english": "Stop overthinking verbs, just use them",
-      "spanish": "Deja de pensar verbos, úsalos",
-      "category": "Joy",
-      "generated_at": "2026-04-09T20:04:02.716359"
-    },
-    {
       "english": "Never memorise lists, memorize endings",
       "spanish": "Nunca memorices listas, memoriza finales",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Latido del corazón: 'Eres la luz'.",
       "category": "Love",
       "generated_at": "2026-08-24T15:38:58.705242"
+    },
+    {
+      "english": "Want fluency? Listen first.",
+      "spanish": "¿Quieres fluidez? Escucha primero.",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T17:29:31.870713"
+    },
+    {
+      "english": "Your accent is a superpower.",
+      "spanish": "Tu acento es un superpoder.",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T17:29:31.870754"
+    },
+    {
+      "english": "Speak slowly, sound smarter.",
+      "spanish": "Habla despacio, suena más inteligente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T17:29:31.870782"
+    },
+    {
+      "english": "Curiosity fuels your learning.",
+      "spanish": "La curiosidad impulsa tu aprendizaje.",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T17:29:31.870811"
+    },
+    {
+      "english": "Surprise! Try 'qué tal?'",
+      "spanish": "¡Sorpresa! Prueba '¿qué tal?'",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T17:29:31.870839"
     }
   ],
   "used_english": [
-    "never fear awkward pauses, breathe",
-    "the secret, speak before you think",
-    "stop searching, say what you mean",
-    "never study alone, talk daily",
-    "stop overthinking verbs, just use them",
     "never memorise lists, memorize endings",
     "the secret is one tiny routine",
     "what nobody tells you, slow down",
@@ -21001,7 +20996,12 @@
     "want true connection? try 'me encantas'.",
     "that feeling? 'te quiero mucho'.",
     "sweetest whisper: 'eres mi todo'.",
-    "heartbeat: 'eres la luz'."
+    "heartbeat: 'eres la luz'.",
+    "want fluency? listen first.",
+    "your accent is a superpower.",
+    "speak slowly, sound smarter.",
+    "curiosity fuels your learning.",
+    "surprise! try 'qué tal?'"
   ],
-  "last_updated": "2026-08-24T15:38:58.705244"
+  "last_updated": "2026-08-24T17:29:31.870841"
 }
