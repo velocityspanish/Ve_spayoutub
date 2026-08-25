@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never learn alone, speak with strangers",
-      "spanish": "Nunca aprendas solo, habla con extraños",
-      "category": "Purpose",
-      "generated_at": "2026-04-10T15:55:53.682852"
-    },
-    {
-      "english": "The secret, ask one simple question",
-      "spanish": "El secreto, pregunta algo simple",
-      "category": "Purpose",
-      "generated_at": "2026-04-10T15:55:53.682855"
-    },
-    {
-      "english": "Never fear the imperfect 'por' ",
-      "spanish": "Nunca temas el imperfecto 'por'",
-      "category": "Purpose",
-      "generated_at": "2026-04-10T15:55:53.682859"
-    },
-    {
-      "english": "Stop saying 'muy' for everything",
-      "spanish": "Deja de decir 'muy' para todo",
-      "category": "Purpose",
-      "generated_at": "2026-04-10T15:55:53.682862"
-    },
-    {
-      "english": "Stop being polite, say it",
-      "spanish": "Deja la cortesía, dilo",
-      "category": "Kindness",
-      "generated_at": "2026-04-10T18:42:46.215567"
-    },
-    {
       "english": "Never rush, soften your tone",
       "spanish": "Nunca corras, suaviza tu tono",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu futuro yo te observa.",
       "category": "Wisdom",
       "generated_at": "2026-08-25T13:51:52.772749"
+    },
+    {
+      "english": "This sounds natural, right?",
+      "spanish": "Esto suena natural, ¿verdad?",
+      "category": "Patience",
+      "generated_at": "2026-08-25T15:42:30.612925"
+    },
+    {
+      "english": "Your brain loves this.",
+      "spanish": "Tu cerebro ama esto.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T15:42:30.612954"
+    },
+    {
+      "english": "What if it's simpler?",
+      "spanish": "¿Y si es más simple?",
+      "category": "Patience",
+      "generated_at": "2026-08-25T15:42:30.612974"
+    },
+    {
+      "english": "Slow down, speak well.",
+      "spanish": "Baja velocidad, habla bien.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T15:42:30.612994"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "spanish": "Escucha primero, luego habla.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T15:42:30.613013"
     }
   ],
   "used_english": [
-    "never learn alone, speak with strangers",
-    "the secret, ask one simple question",
-    "never fear the imperfect 'por'",
-    "stop saying 'muy' for everything",
-    "stop being polite, say it",
     "never rush, soften your tone",
     "the secret, kindness starts with 'sorry'",
     "this is why smiles feel safer",
@@ -21001,7 +20996,12 @@
     "one phrase opens worlds.",
     "surprise! try '¿qué pasa?'",
     "this sound means 'you're welcome'.",
-    "your future self is watching."
+    "your future self is watching.",
+    "this sounds natural, right?",
+    "your brain loves this.",
+    "what if it's simpler?",
+    "slow down, speak well.",
+    "listen first, then speak."
   ],
-  "last_updated": "2026-08-25T13:51:52.772751"
+  "last_updated": "2026-08-25T15:42:30.613015"
 }
