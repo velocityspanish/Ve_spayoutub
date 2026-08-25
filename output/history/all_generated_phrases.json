@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never rush, soften your tone",
-      "spanish": "Nunca corras, suaviza tu tono",
-      "category": "Kindness",
-      "generated_at": "2026-04-10T18:42:46.215580"
-    },
-    {
-      "english": "The secret, kindness starts with 'sorry'",
-      "spanish": "El secreto, la bondad dice 'perdón'",
-      "category": "Kindness",
-      "generated_at": "2026-04-10T18:42:46.215583"
-    },
-    {
-      "english": "This is why smiles feel safer",
-      "spanish": "Por eso, las sonrisas dan calma",
-      "category": "Kindness",
-      "generated_at": "2026-04-10T18:42:46.215586"
-    },
-    {
-      "english": "Stop criticizing, say one compliment",
-      "spanish": "No critiques, di un cumplido",
-      "category": "Kindness",
-      "generated_at": "2026-04-10T18:42:46.215589"
-    },
-    {
-      "english": "Never overthink, answer with confidence",
-      "spanish": "Nunca lo pienses, responde con confianza",
-      "category": "Patience",
-      "generated_at": "2026-04-10T19:48:15.063245"
-    },
-    {
       "english": "The secret, master one tiny phrase",
       "spanish": "El secreto, domina una frase pequeñita",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha primero, luego habla.",
       "category": "Patience",
       "generated_at": "2026-08-25T15:42:30.613013"
+    },
+    {
+      "english": "Unlock Spanish? Listen actively.",
+      "spanish": "Desbloquea español: escucha activamente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-25T17:30:26.997918"
+    },
+    {
+      "english": "This feeling? Natural Spanish flow.",
+      "spanish": "¿Esta sensación? Flujo natural español.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-25T17:30:26.997959"
+    },
+    {
+      "english": "Want confidence? Speak, stumble.",
+      "spanish": "¿Quieres confianza? Habla, tropieza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-25T17:30:26.997988"
+    },
+    {
+      "english": "One question, endless discovery.",
+      "spanish": "Una pregunta, descubrimiento sin fin.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-25T17:30:26.998017"
+    },
+    {
+      "english": "Surprise! Try 'lo siento' now.",
+      "spanish": "¡Sorpresa! Prueba 'lo siento' ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-25T17:30:26.998044"
     }
   ],
   "used_english": [
-    "never rush, soften your tone",
-    "the secret, kindness starts with 'sorry'",
-    "this is why smiles feel safer",
-    "stop criticizing, say one compliment",
-    "never overthink, answer with confidence",
     "the secret, master one tiny phrase",
     "stop rushing, let your brain catch up",
     "never quit after one awkward try",
@@ -21001,7 +20996,12 @@
     "your brain loves this.",
     "what if it's simpler?",
     "slow down, speak well.",
-    "listen first, then speak."
+    "listen first, then speak.",
+    "unlock spanish? listen actively.",
+    "this feeling? natural spanish flow.",
+    "want confidence? speak, stumble.",
+    "one question, endless discovery.",
+    "surprise! try 'lo siento' now."
   ],
-  "last_updated": "2026-08-25T15:42:30.613015"
+  "last_updated": "2026-08-25T17:30:26.998047"
 }
