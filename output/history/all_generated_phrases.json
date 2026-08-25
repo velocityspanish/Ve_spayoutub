@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, learn with real moments",
-      "spanish": "Nunca memorices, aprende con momentos reales",
-      "category": "Balance",
-      "generated_at": "2026-04-10T14:18:37.276325"
-    },
-    {
-      "english": "The secret is speaking, then smiling",
-      "spanish": "El secreto es hablar, y sonreír",
-      "category": "Balance",
-      "generated_at": "2026-04-10T14:18:37.276329"
-    },
-    {
-      "english": "What nobody tells you, use fewer words",
-      "spanish": "Lo que nadie dice, usa menos palabras",
-      "category": "Balance",
-      "generated_at": "2026-04-10T14:18:37.276331"
-    },
-    {
-      "english": "Stop pausing, breathe and continue",
-      "spanish": "No te pares, respira y sigue",
-      "category": "Balance",
-      "generated_at": "2026-04-10T14:18:37.276334"
-    },
-    {
-      "english": "Stop translating, start thinking in Spanish",
-      "spanish": "Deja de traducir, piensa en español",
-      "category": "Purpose",
-      "generated_at": "2026-04-10T15:55:53.682840"
-    },
-    {
       "english": "Never learn alone, speak with strangers",
       "spanish": "Nunca aprendas solo, habla con extraños",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Este error es normal.",
       "category": "Hope",
       "generated_at": "2026-08-24T21:17:55.441289"
+    },
+    {
+      "english": "Unlock fluency, listen deeply.",
+      "spanish": "Desbloquea fluidez, escucha atentamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-25T13:51:52.772634"
+    },
+    {
+      "english": "One phrase opens worlds.",
+      "spanish": "Una frase abre mundos.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-25T13:51:52.772667"
+    },
+    {
+      "english": "Surprise! Try '¿Qué pasa?'",
+      "spanish": "¡Sorpresa! Prueba '¿Qué pasa?'",
+      "category": "Wisdom",
+      "generated_at": "2026-08-25T13:51:52.772694"
+    },
+    {
+      "english": "This sound means 'You're welcome'.",
+      "spanish": "Este sonido significa 'De nada'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-25T13:51:52.772722"
+    },
+    {
+      "english": "Your future self is watching.",
+      "spanish": "Tu futuro yo te observa.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-25T13:51:52.772749"
     }
   ],
   "used_english": [
-    "never memorize, learn with real moments",
-    "the secret is speaking, then smiling",
-    "what nobody tells you, use fewer words",
-    "stop pausing, breathe and continue",
-    "stop translating, start thinking in spanish",
     "never learn alone, speak with strangers",
     "the secret, ask one simple question",
     "never fear the imperfect 'por'",
@@ -21001,7 +20996,12 @@
     "what if spanish felt easy?",
     "one word opens conversation.",
     "feel the rhythm, speak it.",
-    "this mistake is normal."
+    "this mistake is normal.",
+    "unlock fluency, listen deeply.",
+    "one phrase opens worlds.",
+    "surprise! try '¿qué pasa?'",
+    "this sound means 'you're welcome'.",
+    "your future self is watching."
   ],
-  "last_updated": "2026-08-24T21:17:55.441291"
+  "last_updated": "2026-08-25T13:51:52.772751"
 }
