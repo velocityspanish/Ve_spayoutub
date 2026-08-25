@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop perfecting, start sounding Spanish",
-      "spanish": "Deja de perfeccionar, empieza a sonar español",
-      "category": "Creativity",
-      "generated_at": "2026-04-10T21:27:17.103351"
-    },
-    {
-      "english": "The secret, use short answers first",
-      "spanish": "El secreto, usa respuestas cortas primero",
-      "category": "Creativity",
-      "generated_at": "2026-04-10T21:27:17.103354"
-    },
-    {
-      "english": "What nobody tells you, practice verbs",
-      "spanish": "Lo que nadie te dice, practica verbos",
-      "category": "Creativity",
-      "generated_at": "2026-04-10T21:27:17.103357"
-    },
-    {
-      "english": "Stop studying, start narrating your day",
-      "spanish": "Deja de estudiar, narra tu día",
-      "category": "Creativity",
-      "generated_at": "2026-04-10T21:27:17.103360"
-    },
-    {
-      "english": "Stop memorizing, start sounding real",
-      "spanish": "Deja de memorizar, suena real",
-      "category": "Growth",
-      "generated_at": "2026-04-11T13:57:50.596330"
-    },
-    {
       "english": "Never freeze on small talk",
       "spanish": "Nunca te congeles en small talk",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu primer intento enciende progreso.",
       "category": "Courage",
       "generated_at": "2026-08-25T19:34:44.521972"
+    },
+    {
+      "english": "This sound? Pure connection.",
+      "spanish": "Este sonido, ¿conexión pura?",
+      "category": "Positive Life",
+      "generated_at": "2026-08-25T21:16:06.672947"
+    },
+    {
+      "english": "Want a hug? Say 'abrazos'.",
+      "spanish": "¿Quieres un abrazo? Di 'abrazos'.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-25T21:16:06.672987"
+    },
+    {
+      "english": "One word, opens doors.",
+      "spanish": "Una palabra, abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-25T21:16:06.673013"
+    },
+    {
+      "english": "Your voice, finally heard.",
+      "spanish": "Tu voz, finalmente escuchada.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-25T21:16:06.673039"
+    },
+    {
+      "english": "This feels right, doesn't it?",
+      "spanish": "Esto se siente bien, ¿verdad?",
+      "category": "Positive Life",
+      "generated_at": "2026-08-25T21:16:06.673067"
     }
   ],
   "used_english": [
-    "stop perfecting, start sounding spanish",
-    "the secret, use short answers first",
-    "what nobody tells you, practice verbs",
-    "stop studying, start narrating your day",
-    "stop memorizing, start sounding real",
     "never freeze on small talk",
     "the secret, ask '¿qué necesitas?'",
     "stop waiting for perfect grammar",
@@ -21001,7 +20996,12 @@
     "dare to speak, find freedom.",
     "what if mistakes teach power?",
     "embrace the stumble, rise stronger.",
-    "your first attempt sparks progress."
+    "your first attempt sparks progress.",
+    "this sound? pure connection.",
+    "want a hug? say 'abrazos'.",
+    "one word, opens doors.",
+    "your voice, finally heard.",
+    "this feels right, doesn't it?"
   ],
-  "last_updated": "2026-08-25T19:34:44.521974"
+  "last_updated": "2026-08-25T21:16:06.673069"
 }
