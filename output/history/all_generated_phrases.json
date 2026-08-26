@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never forget one daily gratitude word",
-      "spanish": "Nunca olvides una palabra diaria",
-      "category": "Gratitude",
-      "generated_at": "2026-04-11T15:35:58.958741"
-    },
-    {
-      "english": "This is why gratitude speeds Spanish",
-      "spanish": "Por eso, la gratitud acelera español",
-      "category": "Gratitude",
-      "generated_at": "2026-04-11T15:35:58.958745"
-    },
-    {
-      "english": "The secret, say gracias, out loud",
-      "spanish": "El secreto, di gracias, en voz alta",
-      "category": "Gratitude",
-      "generated_at": "2026-04-11T15:35:58.958749"
-    },
-    {
-      "english": "What nobody tells you, mean it",
-      "spanish": "Lo que nadie dice, dilo con alma",
-      "category": "Gratitude",
-      "generated_at": "2026-04-11T15:35:58.958755"
-    },
-    {
-      "english": "Stop chasing perfection, say it",
-      "spanish": "Deja la perfección, dilo ya",
-      "category": "Wisdom",
-      "generated_at": "2026-04-11T17:31:52.126096"
-    },
-    {
       "english": "Never say “maybe”, just choose",
       "spanish": "Nunca digas “tal vez”, decide",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si calma es fácil?",
       "category": "Inner Peace",
       "generated_at": "2026-08-26T13:56:44.261618"
+    },
+    {
+      "english": "A friend who does this is rare.",
+      "spanish": "Un amigo que hace esto es raro.",
+      "category": "Friendship",
+      "generated_at": "2026-08-26T16:17:54.599322"
+    },
+    {
+      "english": "Stop scrolling. This is your sign.",
+      "spanish": "Deja desplazarte. Esta tu señal.",
+      "category": "Friendship",
+      "generated_at": "2026-08-26T16:17:54.599355"
+    },
+    {
+      "english": "You needed hear this today.",
+      "spanish": "Necesitabas escuchar esto hoy.",
+      "category": "Friendship",
+      "generated_at": "2026-08-26T16:17:54.599376"
+    },
+    {
+      "english": "This is your wake-up call.",
+      "spanish": "Esta es tu llamada atención.",
+      "category": "Friendship",
+      "generated_at": "2026-08-26T16:17:54.599396"
+    },
+    {
+      "english": "Don't skip. This changes everything.",
+      "spanish": "No saltes. Esto cambia todo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-26T16:17:54.599418"
     }
   ],
   "used_english": [
-    "never forget one daily gratitude word",
-    "this is why gratitude speeds spanish",
-    "the secret, say gracias, out loud",
-    "what nobody tells you, mean it",
-    "stop chasing perfection, say it",
     "never say “maybe”, just choose",
     "the secret? speak in chunks",
     "stop overthinking, use simple verbs",
@@ -21001,7 +20996,12 @@
     "breathe deep, find stillness.",
     "your mind, a peaceful garden.",
     "let go, embrace serenity.",
-    "what if calm is easy?"
+    "what if calm is easy?",
+    "a friend who does this is rare.",
+    "stop scrolling. this is your sign.",
+    "you needed hear this today.",
+    "this is your wake-up call.",
+    "don't skip. this changes everything."
   ],
-  "last_updated": "2026-08-26T13:56:44.261620"
+  "last_updated": "2026-08-26T16:17:54.599420"
 }
