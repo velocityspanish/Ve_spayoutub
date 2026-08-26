@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “maybe”, just choose",
-      "spanish": "Nunca digas “tal vez”, decide",
-      "category": "Wisdom",
-      "generated_at": "2026-04-11T17:31:52.126107"
-    },
-    {
-      "english": "The secret? Speak in chunks",
-      "spanish": "El secreto, habla en bloques",
-      "category": "Wisdom",
-      "generated_at": "2026-04-11T17:31:52.126110"
-    },
-    {
-      "english": "Stop overthinking, use simple verbs",
-      "spanish": "Deja el miedo, usa verbos simples",
-      "category": "Wisdom",
-      "generated_at": "2026-04-11T17:31:52.126113"
-    },
-    {
-      "english": "Never study silently, whisper answers",
-      "spanish": "Nunca estudies en silencio, susurra",
-      "category": "Wisdom",
-      "generated_at": "2026-04-11T17:31:52.126116"
-    },
-    {
-      "english": "Stop learning alone, find a pal",
-      "spanish": "Deja de aprender solo, busca un amigo",
-      "category": "Joy",
-      "generated_at": "2026-04-11T19:38:46.468325"
-    },
-    {
       "english": "Never fear mistakes, say it anyway",
       "spanish": "Nunca temas errores, dilo igual",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "No saltes. Esto cambia todo.",
       "category": "Friendship",
       "generated_at": "2026-08-26T16:17:54.599418"
+    },
+    {
+      "english": "One smile, global connection.",
+      "spanish": "Una sonrisa, conexión global.",
+      "category": "Kindness",
+      "generated_at": "2026-08-26T19:01:27.916087"
+    },
+    {
+      "english": "Mistakes are just new paths.",
+      "spanish": "Los errores son solo nuevos caminos.",
+      "category": "Kindness",
+      "generated_at": "2026-08-26T19:01:27.916121"
+    },
+    {
+      "english": "Listen to the joy, speak.",
+      "spanish": "Escucha la alegría, habla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-26T19:01:27.916145"
+    },
+    {
+      "english": "This sound means 'welcome'.",
+      "spanish": "Este sonido significa 'bienvenido'.",
+      "category": "Kindness",
+      "generated_at": "2026-08-26T19:01:27.916170"
+    },
+    {
+      "english": "Breathe, then speak Spanish.",
+      "spanish": "Respira, luego habla español.",
+      "category": "Kindness",
+      "generated_at": "2026-08-26T19:01:27.916196"
     }
   ],
   "used_english": [
-    "never say “maybe”, just choose",
-    "the secret? speak in chunks",
-    "stop overthinking, use simple verbs",
-    "never study silently, whisper answers",
-    "stop learning alone, find a pal",
     "never fear mistakes, say it anyway",
     "this is why duolingo fails",
     "the secret is asking 'why'",
@@ -21001,7 +20996,12 @@
     "stop scrolling. this is your sign.",
     "you needed hear this today.",
     "this is your wake-up call.",
-    "don't skip. this changes everything."
+    "don't skip. this changes everything.",
+    "one smile, global connection.",
+    "mistakes are just new paths.",
+    "listen to the joy, speak.",
+    "this sound means 'welcome'.",
+    "breathe, then speak spanish."
   ],
-  "last_updated": "2026-08-26T16:17:54.599420"
+  "last_updated": "2026-08-26T19:01:27.916198"
 }
