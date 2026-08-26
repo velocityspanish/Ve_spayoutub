@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze on small talk",
-      "spanish": "Nunca te congeles en small talk",
-      "category": "Growth",
-      "generated_at": "2026-04-11T13:57:50.596342"
-    },
-    {
-      "english": "The secret, ask '¿qué necesitas?'",
-      "spanish": "El secreto, pregunta '¿qué necesitas?'",
-      "category": "Growth",
-      "generated_at": "2026-04-11T13:57:50.596346"
-    },
-    {
-      "english": "Stop waiting for perfect grammar",
-      "spanish": "Deja de esperar gramática perfecta",
-      "category": "Growth",
-      "generated_at": "2026-04-11T13:57:50.596349"
-    },
-    {
-      "english": "Never say 'uh' in Spanish",
-      "spanish": "Nunca digas 'eh' en español",
-      "category": "Growth",
-      "generated_at": "2026-04-11T13:57:50.596352"
-    },
-    {
-      "english": "Stop scrolling, start saying thanks",
-      "spanish": "Deja de scrollear, di gracias",
-      "category": "Gratitude",
-      "generated_at": "2026-04-11T15:35:58.958729"
-    },
-    {
       "english": "Never forget one daily gratitude word",
       "spanish": "Nunca olvides una palabra diaria",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Esto se siente bien, ¿verdad?",
       "category": "Positive Life",
       "generated_at": "2026-08-25T21:16:06.673067"
+    },
+    {
+      "english": "Unlock inner peace, simply.",
+      "spanish": "Desbloquea paz interior, simple.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T13:56:44.261525"
+    },
+    {
+      "english": "Breathe deep, find stillness.",
+      "spanish": "Respira hondo, halla calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T13:56:44.261557"
+    },
+    {
+      "english": "Your mind, a peaceful garden.",
+      "spanish": "Tu mente, un jardín tranquilo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T13:56:44.261579"
+    },
+    {
+      "english": "Let go, embrace serenity.",
+      "spanish": "Suelta, abraza serenidad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T13:56:44.261599"
+    },
+    {
+      "english": "What if calm is easy?",
+      "spanish": "¿Y si calma es fácil?",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-26T13:56:44.261618"
     }
   ],
   "used_english": [
-    "never freeze on small talk",
-    "the secret, ask '¿qué necesitas?'",
-    "stop waiting for perfect grammar",
-    "never say 'uh' in spanish",
-    "stop scrolling, start saying thanks",
     "never forget one daily gratitude word",
     "this is why gratitude speeds spanish",
     "the secret, say gracias, out loud",
@@ -21001,7 +20996,12 @@
     "want a hug? say 'abrazos'.",
     "one word, opens doors.",
     "your voice, finally heard.",
-    "this feels right, doesn't it?"
+    "this feels right, doesn't it?",
+    "unlock inner peace, simply.",
+    "breathe deep, find stillness.",
+    "your mind, a peaceful garden.",
+    "let go, embrace serenity.",
+    "what if calm is easy?"
   ],
-  "last_updated": "2026-08-25T21:16:06.673069"
+  "last_updated": "2026-08-26T13:56:44.261620"
 }
