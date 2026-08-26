@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear mistakes, say it anyway",
-      "spanish": "Nunca temas errores, dilo igual",
-      "category": "Joy",
-      "generated_at": "2026-04-11T19:38:46.468336"
-    },
-    {
-      "english": "This is why duolingo fails",
-      "spanish": "Esto es por qué Duolingo falla",
-      "category": "Joy",
-      "generated_at": "2026-04-11T19:38:46.468339"
-    },
-    {
-      "english": "The secret is asking 'why'",
-      "spanish": "El secreto es preguntar 'por qué'",
-      "category": "Joy",
-      "generated_at": "2026-04-11T19:38:46.468342"
-    },
-    {
-      "english": "Stop clapping for perfect answers",
-      "spanish": "Deja de aplaudir respuestas perfectas",
-      "category": "Joy",
-      "generated_at": "2026-04-11T19:38:46.468345"
-    },
-    {
-      "english": "Never fear pauses, keep talking",
-      "spanish": "Nunca temas pausas, sigue hablando",
-      "category": "Balance",
-      "generated_at": "2026-04-11T21:22:58.828418"
-    },
-    {
       "english": "Stop over-explaining, just say it",
       "spanish": "Deja de explicar, solo dilo",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Respira, luego habla español.",
       "category": "Kindness",
       "generated_at": "2026-08-26T19:01:27.916196"
+    },
+    {
+      "english": "Hear this, feel spanish.",
+      "spanish": "Escucha esto, siente español.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-26T21:43:07.634432"
+    },
+    {
+      "english": "Your pause, your power.",
+      "spanish": "Tu pausa, tu poder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-26T21:43:07.634469"
+    },
+    {
+      "english": "This sound feels like home.",
+      "spanish": "Este sonido se siente hogar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-26T21:43:07.634496"
+    },
+    {
+      "english": "What if connection is simple?",
+      "spanish": "¿Qué tal si la conexión es simple?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-26T21:43:07.634524"
+    },
+    {
+      "english": "Don't skip this, speak.",
+      "spanish": "No te saltes esto, habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-26T21:43:07.634549"
     }
   ],
   "used_english": [
-    "never fear mistakes, say it anyway",
-    "this is why duolingo fails",
-    "the secret is asking 'why'",
-    "stop clapping for perfect answers",
-    "never fear pauses, keep talking",
     "stop over-explaining, just say it",
     "the secret is listening first",
     "stop waiting, answer with one word",
@@ -21001,7 +20996,12 @@
     "mistakes are just new paths.",
     "listen to the joy, speak.",
     "this sound means 'welcome'.",
-    "breathe, then speak spanish."
+    "breathe, then speak spanish.",
+    "hear this, feel spanish.",
+    "your pause, your power.",
+    "this sound feels like home.",
+    "what if connection is simple?",
+    "don't skip this, speak."
   ],
-  "last_updated": "2026-08-26T19:01:27.916198"
+  "last_updated": "2026-08-26T21:43:07.634551"
 }
