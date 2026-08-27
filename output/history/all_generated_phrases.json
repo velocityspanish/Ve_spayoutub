@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop over-explaining, just say it",
-      "spanish": "Deja de explicar, solo dilo",
-      "category": "Balance",
-      "generated_at": "2026-04-11T21:22:58.828433"
-    },
-    {
-      "english": "The secret is listening first",
-      "spanish": "El secreto es escuchar primero",
-      "category": "Balance",
-      "generated_at": "2026-04-11T21:22:58.828437"
-    },
-    {
-      "english": "Stop waiting, answer with one word",
-      "spanish": "No esperes, responde con una palabra",
-      "category": "Balance",
-      "generated_at": "2026-04-11T21:22:58.828440"
-    },
-    {
-      "english": "Never start sentences, use ready phrases",
-      "spanish": "Nunca empieces, usa frases listas",
-      "category": "Balance",
-      "generated_at": "2026-04-11T21:22:58.828443"
-    },
-    {
-      "english": "Never practice, just perform today",
-      "spanish": "Nunca practiques, actúa hoy",
-      "category": "Motivation",
-      "generated_at": "2026-04-12T14:01:11.098168"
-    },
-    {
       "english": "The secret is micro-talk, daily",
       "spanish": "El secreto es microcharlas diarias",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "No te saltes esto, habla.",
       "category": "Mindfulness",
       "generated_at": "2026-08-26T21:43:07.634549"
+    },
+    {
+      "english": "Dare to stumble, speak.",
+      "spanish": "Atrévete a tropezar, habla.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:19:56.635147"
+    },
+    {
+      "english": "Your first 'hola' unlocks.",
+      "spanish": "Tu primer 'hola' desbloquea.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:19:56.635176"
+    },
+    {
+      "english": "This fear is temporary.",
+      "spanish": "Este miedo es temporal.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:19:56.635194"
+    },
+    {
+      "english": "Embrace the learning adventure.",
+      "spanish": "Abraza la aventura de aprender.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:19:56.635215"
+    },
+    {
+      "english": "Your voice has power.",
+      "spanish": "Tu voz tiene poder.",
+      "category": "Courage",
+      "generated_at": "2026-08-27T00:19:56.635233"
     }
   ],
   "used_english": [
-    "stop over-explaining, just say it",
-    "the secret is listening first",
-    "stop waiting, answer with one word",
-    "never start sentences, use ready phrases",
-    "never practice, just perform today",
     "the secret is micro-talk, daily",
     "never wait, say it imperfectly",
     "this fixes your spanish fast",
@@ -21001,7 +20996,12 @@
     "your pause, your power.",
     "this sound feels like home.",
     "what if connection is simple?",
-    "don't skip this, speak."
+    "don't skip this, speak.",
+    "dare to stumble, speak.",
+    "your first 'hola' unlocks.",
+    "this fear is temporary.",
+    "embrace the learning adventure.",
+    "your voice has power."
   ],
-  "last_updated": "2026-08-26T21:43:07.634551"
+  "last_updated": "2026-08-27T00:19:56.635234"
 }
