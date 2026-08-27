@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret is micro-talk, daily",
-      "spanish": "El secreto es microcharlas diarias",
-      "category": "Motivation",
-      "generated_at": "2026-04-12T14:01:11.098178"
-    },
-    {
-      "english": "Never wait, say it imperfectly",
-      "spanish": "Nunca esperes, dilo imperfecto",
-      "category": "Motivation",
-      "generated_at": "2026-04-12T14:01:11.098182"
-    },
-    {
-      "english": "This fixes your Spanish fast",
-      "spanish": "Esto arregla tu español rápido",
-      "category": "Motivation",
-      "generated_at": "2026-04-12T14:01:11.098185"
-    },
-    {
-      "english": "Never fear sounding weird, continue",
-      "spanish": "No temas sonar raro, sigue",
-      "category": "Motivation",
-      "generated_at": "2026-04-12T14:01:11.098188"
-    },
-    {
-      "english": "Stop chasing fluency, chase one feeling",
-      "spanish": "Deja la fluidez, busca una emoción",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-12T15:37:34.939920"
-    },
-    {
       "english": "Never blank, use “quiero” first",
       "spanish": "Nunca te quedes, usa “quiero” primero",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu voz tiene poder.",
       "category": "Courage",
       "generated_at": "2026-08-27T00:19:56.635233"
+    },
+    {
+      "english": "Joy is a skill, practice it.",
+      "spanish": "La alegría es habilidad, practícala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-27T22:52:16.182205"
+    },
+    {
+      "english": "One kind word changes everything.",
+      "spanish": "Una palabra amable cambia todo.",
+      "category": "Happiness",
+      "generated_at": "2026-08-27T22:52:16.182247"
+    },
+    {
+      "english": "Your unique voice, celebrate it.",
+      "spanish": "Tu voz única, celébrala.",
+      "category": "Happiness",
+      "generated_at": "2026-08-27T22:52:16.182277"
+    },
+    {
+      "english": "Never underestimate simple greetings.",
+      "spanish": "Nunca subestimes saludos simples.",
+      "category": "Happiness",
+      "generated_at": "2026-08-27T22:52:16.182318"
+    },
+    {
+      "english": "What if happiness is learnable?",
+      "spanish": "¿Y si la felicidad se aprende?",
+      "category": "Happiness",
+      "generated_at": "2026-08-27T22:52:16.182347"
     }
   ],
   "used_english": [
-    "the secret is micro-talk, daily",
-    "never wait, say it imperfectly",
-    "this fixes your spanish fast",
-    "never fear sounding weird, continue",
-    "stop chasing fluency, chase one feeling",
     "never blank, use “quiero” first",
     "what nobody tells you, speak anyway",
     "the secret is breathing between sentences",
@@ -21001,7 +20996,12 @@
     "your first 'hola' unlocks.",
     "this fear is temporary.",
     "embrace the learning adventure.",
-    "your voice has power."
+    "your voice has power.",
+    "joy is a skill, practice it.",
+    "one kind word changes everything.",
+    "your unique voice, celebrate it.",
+    "never underestimate simple greetings.",
+    "what if happiness is learnable?"
   ],
-  "last_updated": "2026-08-27T00:19:56.635234"
+  "last_updated": "2026-08-27T22:52:16.182350"
 }
