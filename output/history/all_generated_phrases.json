@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop studying, start sounding brave",
-      "spanish": "Deja de estudiar, suena valiente",
-      "category": "Strength",
-      "generated_at": "2026-04-12T21:23:53.193798"
-    },
-    {
-      "english": "Never fear 'no entiendo', repeat",
-      "spanish": "Nunca temas 'no entiendo', repite",
-      "category": "Strength",
-      "generated_at": "2026-04-12T21:23:53.193801"
-    },
-    {
-      "english": "The secret? Say it slower, anyway",
-      "spanish": "El secreto: dilo más despacio, igual",
-      "category": "Strength",
-      "generated_at": "2026-04-12T21:23:53.193804"
-    },
-    {
-      "english": "Stop redoing, start real conversations",
-      "spanish": "Deja de rehacer, habla con gente",
-      "category": "Strength",
-      "generated_at": "2026-04-12T21:23:53.193808"
-    },
-    {
-      "english": "Never fight fear, use 'vale'",
-      "spanish": "No pelees con el miedo, usa 'vale'",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-13T14:52:43.474659"
-    },
-    {
       "english": "The secret is naming your feeling",
       "spanish": "El secreto es nombrar tu emoción",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca olvides amigos geniales.",
       "category": "Friendship",
       "generated_at": "2026-08-28T02:27:24.749824"
+    },
+    {
+      "english": "Your voice, a melody.",
+      "spanish": "Tu voz, una melodía.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T05:00:29.298363"
+    },
+    {
+      "english": "The best gift? A smile.",
+      "spanish": "¿El mejor regalo? Una sonrisa.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T05:00:29.298394"
+    },
+    {
+      "english": "Dare to try, fall in love.",
+      "spanish": "Atrévete, enamórate.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T05:00:29.298421"
+    },
+    {
+      "english": "Your courage, always wins.",
+      "spanish": "Tu valentía, siempre gana.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T05:00:29.298446"
+    },
+    {
+      "english": "One 'thank you' echoes.",
+      "spanish": "Un 'gracias' resuena.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T05:00:29.298471"
     }
   ],
   "used_english": [
-    "stop studying, start sounding brave",
-    "never fear 'no entiendo', repeat",
-    "the secret? say it slower, anyway",
-    "stop redoing, start real conversations",
-    "never fight fear, use 'vale'",
     "the secret is naming your feeling",
     "never wait, whisper the answer",
     "stop rushing, smooth your rhythm",
@@ -21001,7 +20996,12 @@
     "want a friend? be one.",
     "this feeling? true connection.",
     "one shared joke, instant bond.",
-    "never forget your amazing friends."
+    "never forget your amazing friends.",
+    "your voice, a melody.",
+    "the best gift? a smile.",
+    "dare to try, fall in love.",
+    "your courage, always wins.",
+    "one 'thank you' echoes."
   ],
-  "last_updated": "2026-08-28T02:27:24.749826"
+  "last_updated": "2026-08-28T05:00:29.298473"
 }
