@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never skip 'por' in surprises",
-      "spanish": "Nunca saltes el 'por' en sorpresas",
-      "category": "Growth",
-      "generated_at": "2026-04-12T19:42:30.440111"
-    },
-    {
-      "english": "What nobody tells you, ask less",
-      "spanish": "Lo que nadie dice, pregunta menos",
-      "category": "Growth",
-      "generated_at": "2026-04-12T19:42:30.440115"
-    },
-    {
-      "english": "Stop explaining, just answer quickly",
-      "spanish": "Deja explicaciones, responde rápido",
-      "category": "Growth",
-      "generated_at": "2026-04-12T19:42:30.440118"
-    },
-    {
-      "english": "Never chase perfection, chase clarity",
-      "spanish": "Nunca persigas perfección, persigue claridad",
-      "category": "Growth",
-      "generated_at": "2026-04-12T19:42:30.440121"
-    },
-    {
-      "english": "Stop hiding, say it now",
-      "spanish": "Deja de esconderte, dilo ya",
-      "category": "Strength",
-      "generated_at": "2026-04-12T21:23:53.193786"
-    },
-    {
       "english": "Stop studying, start sounding brave",
       "spanish": "Deja de estudiar, suena valiente",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Una palabra, gran conexión.",
       "category": "Wisdom",
       "generated_at": "2026-08-28T01:19:05.987988"
+    },
+    {
+      "english": "Your laugh, a universal language.",
+      "spanish": "Tu risa, lenguaje universal.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T02:27:24.749716"
+    },
+    {
+      "english": "Want a friend? Be one.",
+      "spanish": "¿Quieres amigo? Sé uno.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T02:27:24.749746"
+    },
+    {
+      "english": "This feeling? True connection.",
+      "spanish": "¿Esta sensación? Conexión real.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T02:27:24.749779"
+    },
+    {
+      "english": "One shared joke, instant bond.",
+      "spanish": "Una broma, lazo instantáneo.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T02:27:24.749801"
+    },
+    {
+      "english": "Never forget your amazing friends.",
+      "spanish": "Nunca olvides amigos geniales.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T02:27:24.749824"
     }
   ],
   "used_english": [
-    "never skip 'por' in surprises",
-    "what nobody tells you, ask less",
-    "stop explaining, just answer quickly",
-    "never chase perfection, chase clarity",
-    "stop hiding, say it now",
     "stop studying, start sounding brave",
     "never fear 'no entiendo', repeat",
     "the secret? say it slower, anyway",
@@ -21001,7 +20996,12 @@
     "curious? try this phrase.",
     "your effort is seen.",
     "stop fearing, start speaking.",
-    "one word, big connection."
+    "one word, big connection.",
+    "your laugh, a universal language.",
+    "want a friend? be one.",
+    "this feeling? true connection.",
+    "one shared joke, instant bond.",
+    "never forget your amazing friends."
   ],
-  "last_updated": "2026-08-28T01:19:05.987990"
+  "last_updated": "2026-08-28T02:27:24.749826"
 }
