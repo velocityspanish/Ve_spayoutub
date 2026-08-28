@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fight mistakes, keep going",
-      "spanish": "No pelees con errores, sigue",
-      "category": "Patience",
-      "generated_at": "2026-04-12T17:35:46.352184"
-    },
-    {
-      "english": "The secret? Small steps, daily",
-      "spanish": "El secreto, pasos pequeños, diario",
-      "category": "Patience",
-      "generated_at": "2026-04-12T17:35:46.352187"
-    },
-    {
-      "english": "This is why patience works",
-      "spanish": "Por eso la paciencia funciona",
-      "category": "Patience",
-      "generated_at": "2026-04-12T17:35:46.352191"
-    },
-    {
-      "english": "Never panic, repeat the phrase",
-      "spanish": "No entres en pánico, repite",
-      "category": "Patience",
-      "generated_at": "2026-04-12T17:35:46.352194"
-    },
-    {
-      "english": "Stop learning nouns, learn actions",
-      "spanish": "Deja sustantivos, aprende acciones",
-      "category": "Growth",
-      "generated_at": "2026-04-12T19:42:30.440099"
-    },
-    {
       "english": "Never skip 'por' in surprises",
       "spanish": "Nunca saltes el 'por' en sorpresas",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha más, habla tu verdad.",
       "category": "Creativity",
       "generated_at": "2026-08-28T00:16:43.369928"
+    },
+    {
+      "english": "Whisper this, unlock fluency.",
+      "spanish": "Susurra esto, desbloquea fluidez.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T01:19:05.987878"
+    },
+    {
+      "english": "Curious? Try this phrase.",
+      "spanish": "¿Curioso? Prueba esta frase.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T01:19:05.987911"
+    },
+    {
+      "english": "Your effort is seen.",
+      "spanish": "Tu esfuerzo es visto.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T01:19:05.987936"
+    },
+    {
+      "english": "Stop fearing, start speaking.",
+      "spanish": "Deja el miedo, empieza hablar.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T01:19:05.987964"
+    },
+    {
+      "english": "One word, big connection.",
+      "spanish": "Una palabra, gran conexión.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T01:19:05.987988"
     }
   ],
   "used_english": [
-    "never fight mistakes, keep going",
-    "the secret? small steps, daily",
-    "this is why patience works",
-    "never panic, repeat the phrase",
-    "stop learning nouns, learn actions",
     "never skip 'por' in surprises",
     "what nobody tells you, ask less",
     "stop explaining, just answer quickly",
@@ -21001,7 +20996,12 @@
     "your courage, the real key.",
     "small moments build big fluency.",
     "surprise! try 'un poco'.",
-    "listen more, speak your truth."
+    "listen more, speak your truth.",
+    "whisper this, unlock fluency.",
+    "curious? try this phrase.",
+    "your effort is seen.",
+    "stop fearing, start speaking.",
+    "one word, big connection."
   ],
-  "last_updated": "2026-08-28T00:16:43.369930"
+  "last_updated": "2026-08-28T01:19:05.987990"
 }
