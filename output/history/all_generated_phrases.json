@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret is naming your feeling",
-      "spanish": "El secreto es nombrar tu emoción",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-13T14:52:43.474672"
-    },
-    {
-      "english": "Never wait, whisper the answer",
-      "spanish": "No esperes, susurra la respuesta",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-13T14:52:43.474676"
-    },
-    {
-      "english": "Stop rushing, smooth your rhythm",
-      "spanish": "Deja de correr, suaviza el ritmo",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-13T14:52:43.474679"
-    },
-    {
-      "english": "This one pause builds confidence",
-      "spanish": "Esta pausa crea confianza",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-13T14:52:43.474683"
-    },
-    {
-      "english": "Never thank 'sorry', say 'gracias'",
-      "spanish": "Nunca gracias después de 'perdón'",
-      "category": "Gratitude",
-      "generated_at": "2026-04-13T16:15:01.136359"
-    },
-    {
       "english": "Stop overexplaining gratitude, just say thanks",
       "spanish": "Deja de explicar, solo di gracias",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Un 'gracias' resuena.",
       "category": "Gratitude",
       "generated_at": "2026-08-28T05:00:29.298471"
+    },
+    {
+      "english": "Forgiveness blooms from within.",
+      "spanish": "El perdón florece desde adentro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-28T22:56:12.175136"
+    },
+    {
+      "english": "Why hold onto pain?",
+      "spanish": "¿Por qué aferrarse al dolor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-28T22:56:12.175169"
+    },
+    {
+      "english": "This is your release button.",
+      "spanish": "Este es tu botón de liberación.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-28T22:56:12.175195"
+    },
+    {
+      "english": "Unburden your soul, truly.",
+      "spanish": "Alivia tu alma, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-28T22:56:12.175221"
+    },
+    {
+      "english": "Let go, breathe freely.",
+      "spanish": "Suelta, respira libremente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-28T22:56:12.175245"
     }
   ],
   "used_english": [
-    "the secret is naming your feeling",
-    "never wait, whisper the answer",
-    "stop rushing, smooth your rhythm",
-    "this one pause builds confidence",
-    "never thank 'sorry', say 'gracias'",
     "stop overexplaining gratitude, just say thanks",
     "this is why 'gracias' opens doors",
     "what nobody tells you, be specific",
@@ -21001,7 +20996,12 @@
     "the best gift? a smile.",
     "dare to try, fall in love.",
     "your courage, always wins.",
-    "one 'thank you' echoes."
+    "one 'thank you' echoes.",
+    "forgiveness blooms from within.",
+    "why hold onto pain?",
+    "this is your release button.",
+    "unburden your soul, truly.",
+    "let go, breathe freely."
   ],
-  "last_updated": "2026-08-28T05:00:29.298473"
+  "last_updated": "2026-08-28T22:56:12.175247"
 }
