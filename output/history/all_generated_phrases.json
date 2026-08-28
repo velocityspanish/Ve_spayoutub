@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never blank, use “quiero” first",
-      "spanish": "Nunca te quedes, usa “quiero” primero",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-12T15:37:34.939930"
-    },
-    {
-      "english": "What nobody tells you, speak anyway",
-      "spanish": "Lo que nadie dice, habla igual",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-12T15:37:34.939934"
-    },
-    {
-      "english": "The secret is breathing between sentences",
-      "spanish": "El secreto, respira entre frases",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-12T15:37:34.939937"
-    },
-    {
-      "english": "Stop judging your accent mid-sentence",
-      "spanish": "No te juzgues, tu acento habla",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-12T15:37:34.939940"
-    },
-    {
-      "english": "Never rush, let it land",
-      "spanish": "Nunca corras, deja que caiga",
-      "category": "Patience",
-      "generated_at": "2026-04-12T17:35:46.352169"
-    },
-    {
       "english": "Never fight mistakes, keep going",
       "spanish": "No pelees con errores, sigue",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si la felicidad se aprende?",
       "category": "Happiness",
       "generated_at": "2026-08-27T22:52:16.182347"
+    },
+    {
+      "english": "What if learning felt like joy?",
+      "spanish": "¿Y si aprender fuera alegría?",
+      "category": "Creativity",
+      "generated_at": "2026-08-28T00:16:43.369814"
+    },
+    {
+      "english": "Your courage, the real key.",
+      "spanish": "Tu coraje, la clave real.",
+      "category": "Creativity",
+      "generated_at": "2026-08-28T00:16:43.369848"
+    },
+    {
+      "english": "Small moments build big fluency.",
+      "spanish": "Momentos pequeños construyen gran fluidez.",
+      "category": "Creativity",
+      "generated_at": "2026-08-28T00:16:43.369877"
+    },
+    {
+      "english": "Surprise! Try 'un poco'.",
+      "spanish": "¡Sorpresa! Prueba 'un poco'.",
+      "category": "Creativity",
+      "generated_at": "2026-08-28T00:16:43.369902"
+    },
+    {
+      "english": "Listen more, speak your truth.",
+      "spanish": "Escucha más, habla tu verdad.",
+      "category": "Creativity",
+      "generated_at": "2026-08-28T00:16:43.369928"
     }
   ],
   "used_english": [
-    "never blank, use “quiero” first",
-    "what nobody tells you, speak anyway",
-    "the secret is breathing between sentences",
-    "stop judging your accent mid-sentence",
-    "never rush, let it land",
     "never fight mistakes, keep going",
     "the secret? small steps, daily",
     "this is why patience works",
@@ -21001,7 +20996,12 @@
     "one kind word changes everything.",
     "your unique voice, celebrate it.",
     "never underestimate simple greetings.",
-    "what if happiness is learnable?"
+    "what if happiness is learnable?",
+    "what if learning felt like joy?",
+    "your courage, the real key.",
+    "small moments build big fluency.",
+    "surprise! try 'un poco'.",
+    "listen more, speak your truth."
   ],
-  "last_updated": "2026-08-27T22:52:16.182350"
+  "last_updated": "2026-08-28T00:16:43.369930"
 }
