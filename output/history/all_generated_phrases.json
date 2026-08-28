@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overexplaining gratitude, just say thanks",
-      "spanish": "Deja de explicar, solo di gracias",
-      "category": "Gratitude",
-      "generated_at": "2026-04-13T16:15:01.136372"
-    },
-    {
-      "english": "This is why 'gracias' opens doors",
-      "spanish": "Por eso, 'gracias' abre puertas",
-      "category": "Gratitude",
-      "generated_at": "2026-04-13T16:15:01.136377"
-    },
-    {
-      "english": "What nobody tells you, be specific",
-      "spanish": "Nadie te dice esto, sé específico",
-      "category": "Gratitude",
-      "generated_at": "2026-04-13T16:15:01.136380"
-    },
-    {
-      "english": "The secret? Thank people, daily",
-      "spanish": "El secreto, agradece cada día",
-      "category": "Gratitude",
-      "generated_at": "2026-04-13T16:15:01.136384"
-    },
-    {
-      "english": "Stop memorizing rules, use them",
-      "spanish": "Deja de memorizar reglas, úsalas",
-      "category": "Purpose",
-      "generated_at": "2026-04-13T18:01:40.748709"
-    },
-    {
       "english": "Never wait, answer in Spanish",
       "spanish": "Nunca esperes, responde en español",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Suelta, respira libremente.",
       "category": "Forgiveness",
       "generated_at": "2026-08-28T22:56:12.175245"
+    },
+    {
+      "english": "Friendship magic: 'Qué onda?'",
+      "spanish": "Magia de amistad: '¿Qué onda?'",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T23:53:07.067544"
+    },
+    {
+      "english": "Your friend vibes, amplified.",
+      "spanish": "Tus vibras de amigo, amplificadas.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T23:53:07.067598"
+    },
+    {
+      "english": "This emoji means 'friend'.",
+      "spanish": "Este emoji significa 'amigo'.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T23:53:07.067625"
+    },
+    {
+      "english": "Who's your ride-or-die?",
+      "spanish": "¿Quién es tu alma gemela?",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T23:53:07.067651"
+    },
+    {
+      "english": "Never forget your people.",
+      "spanish": "Nunca olvides a tu gente.",
+      "category": "Friendship",
+      "generated_at": "2026-08-28T23:53:07.067676"
     }
   ],
   "used_english": [
-    "stop overexplaining gratitude, just say thanks",
-    "this is why 'gracias' opens doors",
-    "what nobody tells you, be specific",
-    "the secret? thank people, daily",
-    "stop memorizing rules, use them",
     "never wait, answer in spanish",
     "this is why your mouth locks",
     "stop perfecting, start telling stories",
@@ -21001,7 +20996,12 @@
     "why hold onto pain?",
     "this is your release button.",
     "unburden your soul, truly.",
-    "let go, breathe freely."
+    "let go, breathe freely.",
+    "friendship magic: 'qué onda?'",
+    "your friend vibes, amplified.",
+    "this emoji means 'friend'.",
+    "who's your ride-or-die?",
+    "never forget your people."
   ],
-  "last_updated": "2026-08-28T22:56:12.175247"
+  "last_updated": "2026-08-28T23:53:07.067678"
 }
