@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, use one simple 'here'",
-      "spanish": "El secreto, usa un simple 'aquí'",
-      "category": "Balance",
-      "generated_at": "2026-04-14T16:09:06.950016"
-    },
-    {
-      "english": "Never apologize, just rephrase fast",
-      "spanish": "Nunca pidas perdón, reformula rápido",
-      "category": "Balance",
-      "generated_at": "2026-04-14T16:09:06.950020"
-    },
-    {
-      "english": "Stop overthinking, speak from today",
-      "spanish": "Deja de sobrepensar, habla de hoy",
-      "category": "Balance",
-      "generated_at": "2026-04-14T16:09:06.950024"
-    },
-    {
-      "english": "Never fear 'no', it opens doors",
-      "spanish": "No temas decir 'no', abre puertas",
-      "category": "Balance",
-      "generated_at": "2026-04-14T16:09:06.950028"
-    },
-    {
-      "english": "Stop hiding, say your real needs",
-      "spanish": "Deja de esconderte, di tus necesidades",
-      "category": "Courage",
-      "generated_at": "2026-04-14T18:05:31.111233"
-    },
-    {
       "english": "The secret, speak even when unsure",
       "spanish": "El secreto, habla aunque no estés seguro",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu mente es una esponja.",
       "category": "Success",
       "generated_at": "2026-08-29T17:01:47.748629"
+    },
+    {
+      "english": "What if fluency is simpler?",
+      "spanish": "¿Y si la fluidez es simple?",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-29T18:12:22.053443"
+    },
+    {
+      "english": "Speak, your voice matters.",
+      "spanish": "Habla, tu voz importa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-29T18:12:22.053479"
+    },
+    {
+      "english": "Your first try, amazing.",
+      "spanish": "Tu primer intento, asombroso.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-29T18:12:22.053505"
+    },
+    {
+      "english": "Dare to whisper 'hola'.",
+      "spanish": "Atrévete a susurrar 'hola'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-29T18:12:22.053529"
+    },
+    {
+      "english": "Your progress is real.",
+      "spanish": "Tu progreso es real.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-29T18:12:22.053553"
     }
   ],
   "used_english": [
-    "the secret, use one simple 'here'",
-    "never apologize, just rephrase fast",
-    "stop overthinking, speak from today",
-    "never fear 'no', it opens doors",
-    "stop hiding, say your real needs",
     "the secret, speak even when unsure",
     "stop apologizing, just keep talking",
     "never fear looking awkward, continue",
@@ -21001,7 +20996,12 @@
     "don't fear the unknown.",
     "this tiny pause, your secret.",
     "did you know this phrase?",
-    "your mind is a sponge."
+    "your mind is a sponge.",
+    "what if fluency is simpler?",
+    "speak, your voice matters.",
+    "your first try, amazing.",
+    "dare to whisper 'hola'.",
+    "your progress is real."
   ],
-  "last_updated": "2026-08-29T17:01:47.748631"
+  "last_updated": "2026-08-29T18:12:22.053556"
 }
