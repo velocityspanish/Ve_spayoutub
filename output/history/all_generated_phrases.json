@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never think in English first",
-      "spanish": "Nunca pienses en inglés primero",
-      "category": "Strength",
-      "generated_at": "2026-04-14T20:08:13.623866"
-    },
-    {
-      "english": "The secret is one question loop",
-      "spanish": "El secreto, un bucle de preguntas",
-      "category": "Strength",
-      "generated_at": "2026-04-14T20:08:13.623870"
-    },
-    {
-      "english": "Stop switching languages mid-sentence",
-      "spanish": "Deja de cambiar de idioma",
-      "category": "Strength",
-      "generated_at": "2026-04-14T20:08:13.623874"
-    },
-    {
-      "english": "The secret? Answer with a reason",
-      "spanish": "El secreto, responde con una razón",
-      "category": "Strength",
-      "generated_at": "2026-04-14T20:08:13.623877"
-    },
-    {
-      "english": "Stop chasing calm, start breathing now",
-      "spanish": "Deja de buscar calma, respira ya",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-14T21:41:27.206133"
-    },
-    {
       "english": "Never argue with your thoughts, choose",
       "spanish": "Nunca discutas tus pensamientos, elige",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "¿La alegría? Hablar natural.",
       "category": "Motivation",
       "generated_at": "2026-08-29T19:37:03.362620"
+    },
+    {
+      "english": "Your future self, grateful, isn't it?",
+      "spanish": "Tu yo futuro, ¿agradecido, verdad?",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T21:34:10.830034"
+    },
+    {
+      "english": "This simple phrase, unlocks connection.",
+      "spanish": "Esta frase simple, abre conexión.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T21:34:10.830062"
+    },
+    {
+      "english": "What if joy is a language?",
+      "spanish": "¿Y si la alegría es idioma?",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T21:34:10.830082"
+    },
+    {
+      "english": "One daily word, pure progress.",
+      "spanish": "Una palabra diaria, puro progreso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T21:34:10.830102"
+    },
+    {
+      "english": "Never underestimate a greeting.",
+      "spanish": "Nunca subestimes un saludo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T21:34:10.830123"
     }
   ],
   "used_english": [
-    "never think in english first",
-    "the secret is one question loop",
-    "stop switching languages mid-sentence",
-    "the secret? answer with a reason",
-    "stop chasing calm, start breathing now",
     "never argue with your thoughts, choose",
     "this is why your chest tightens",
     "the secret? name it, breathe out",
@@ -21001,7 +20996,12 @@
     "your courage is enough, speak.",
     "one more try, you'll get it.",
     "feel this rhythm, join in.",
-    "the joy? speaking naturally."
+    "the joy? speaking naturally.",
+    "your future self, grateful, isn't it?",
+    "this simple phrase, unlocks connection.",
+    "what if joy is a language?",
+    "one daily word, pure progress.",
+    "never underestimate a greeting."
   ],
-  "last_updated": "2026-08-29T19:37:03.362622"
+  "last_updated": "2026-08-29T21:34:10.830125"
 }
