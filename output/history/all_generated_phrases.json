@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never argue with your thoughts, choose",
-      "spanish": "Nunca discutas tus pensamientos, elige",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-14T21:41:27.206144"
-    },
-    {
-      "english": "This is why your chest tightens",
-      "spanish": "Esto es por qué aprieta el pecho",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-14T21:41:27.206149"
-    },
-    {
-      "english": "The secret? Name it, breathe out",
-      "spanish": "El secreto, nómbralo, suelta el aire",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-14T21:41:27.206153"
-    },
-    {
-      "english": "Stop scrolling, do one grounding",
-      "spanish": "Deja el celular, haz un anclaje",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-14T21:41:27.206156"
-    },
-    {
-      "english": "Stop asking, start thanking first",
-      "spanish": "No preguntes, agradece primero",
-      "category": "Hope",
-      "generated_at": "2026-04-15T14:47:49.735912"
-    },
-    {
       "english": "Never say less, speak bigger",
       "spanish": "Nunca digas menos, habla grande",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca subestimes un saludo.",
       "category": "Positive Life",
       "generated_at": "2026-08-29T21:34:10.830123"
+    },
+    {
+      "english": "Want a quick win? Try this.",
+      "spanish": "¿Quieres ganar rápido? Prueba esto.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:53:19.821333"
+    },
+    {
+      "english": "Mistakes are proof you're trying.",
+      "spanish": "Los errores prueban tu intento.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:53:19.821372"
+    },
+    {
+      "english": "Your accent is your unique sound.",
+      "spanish": "Tu acento es tu sonido único.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:53:19.821400"
+    },
+    {
+      "english": "This tiny phrase opens worlds.",
+      "spanish": "Esta frase pequeña abre mundos.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:53:19.821429"
+    },
+    {
+      "english": "Listen close, magic is here.",
+      "spanish": "Escucha atentamente, la magia está.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-29T22:53:19.821456"
     }
   ],
   "used_english": [
-    "never argue with your thoughts, choose",
-    "this is why your chest tightens",
-    "the secret? name it, breathe out",
-    "stop scrolling, do one grounding",
-    "stop asking, start thanking first",
     "never say less, speak bigger",
     "the secret is saying it messy",
     "stop waiting, start using today",
@@ -21001,7 +20996,12 @@
     "this simple phrase, unlocks connection.",
     "what if joy is a language?",
     "one daily word, pure progress.",
-    "never underestimate a greeting."
+    "never underestimate a greeting.",
+    "want a quick win? try this.",
+    "mistakes are proof you're trying.",
+    "your accent is your unique sound.",
+    "this tiny phrase opens worlds.",
+    "listen close, magic is here."
   ],
-  "last_updated": "2026-08-29T21:34:10.830125"
+  "last_updated": "2026-08-29T22:53:19.821458"
 }
