@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, speak even when unsure",
-      "spanish": "El secreto, habla aunque no estés seguro",
-      "category": "Courage",
-      "generated_at": "2026-04-14T18:05:31.111244"
-    },
-    {
-      "english": "Stop apologizing, just keep talking",
-      "spanish": "Deja de disculparte, sigue hablando",
-      "category": "Courage",
-      "generated_at": "2026-04-14T18:05:31.111248"
-    },
-    {
-      "english": "Never fear looking awkward, continue",
-      "spanish": "No tengas miedo, sigue aunque sea raro",
-      "category": "Courage",
-      "generated_at": "2026-04-14T18:05:31.111252"
-    },
-    {
-      "english": "This is why courage beats grammar",
-      "spanish": "Por eso, la valentía vence la gramática",
-      "category": "Courage",
-      "generated_at": "2026-04-14T18:05:31.111255"
-    },
-    {
-      "english": "Stop memorizing, start stealing phrases",
-      "spanish": "Deja de memorizar, roba frases",
-      "category": "Strength",
-      "generated_at": "2026-04-14T20:08:13.623854"
-    },
-    {
       "english": "Never think in English first",
       "spanish": "Nunca pienses en inglés primero",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu progreso es real.",
       "category": "Self Improvement",
       "generated_at": "2026-08-29T18:12:22.053553"
+    },
+    {
+      "english": "This sound? Your new superpower.",
+      "spanish": "Este sonido, tu superpoder.",
+      "category": "Motivation",
+      "generated_at": "2026-08-29T19:37:03.362509"
+    },
+    {
+      "english": "Your courage is enough, speak.",
+      "spanish": "Tu coraje basta, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-08-29T19:37:03.362544"
+    },
+    {
+      "english": "One more try, you'll get it.",
+      "spanish": "Un intento más, lo lograrás.",
+      "category": "Motivation",
+      "generated_at": "2026-08-29T19:37:03.362570"
+    },
+    {
+      "english": "Feel this rhythm, join in.",
+      "spanish": "Siente el ritmo, únete.",
+      "category": "Motivation",
+      "generated_at": "2026-08-29T19:37:03.362595"
+    },
+    {
+      "english": "The joy? Speaking naturally.",
+      "spanish": "¿La alegría? Hablar natural.",
+      "category": "Motivation",
+      "generated_at": "2026-08-29T19:37:03.362620"
     }
   ],
   "used_english": [
-    "the secret, speak even when unsure",
-    "stop apologizing, just keep talking",
-    "never fear looking awkward, continue",
-    "this is why courage beats grammar",
-    "stop memorizing, start stealing phrases",
     "never think in english first",
     "the secret is one question loop",
     "stop switching languages mid-sentence",
@@ -21001,7 +20996,12 @@
     "speak, your voice matters.",
     "your first try, amazing.",
     "dare to whisper 'hola'.",
-    "your progress is real."
+    "your progress is real.",
+    "this sound? your new superpower.",
+    "your courage is enough, speak.",
+    "one more try, you'll get it.",
+    "feel this rhythm, join in.",
+    "the joy? speaking naturally."
   ],
-  "last_updated": "2026-08-29T18:12:22.053556"
+  "last_updated": "2026-08-29T19:37:03.362622"
 }
