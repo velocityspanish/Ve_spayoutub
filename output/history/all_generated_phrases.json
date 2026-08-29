@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “I am” , use “soy”",
-      "spanish": "Nunca digas “yo soy” , di “soy”",
-      "category": "Balance",
-      "generated_at": "2026-04-13T21:38:32.551820"
-    },
-    {
-      "english": "This is why you freeze, fix it",
-      "spanish": "Esto es por qué te paralizas, respira",
-      "category": "Balance",
-      "generated_at": "2026-04-13T21:38:32.551824"
-    },
-    {
-      "english": "The secret, say it like homework",
-      "spanish": "El secreto, díselo como tarea",
-      "category": "Balance",
-      "generated_at": "2026-04-13T21:38:32.551828"
-    },
-    {
-      "english": "Stop overthinking, just pick one",
-      "spanish": "Para de sobrepensar, solo elige uno",
-      "category": "Balance",
-      "generated_at": "2026-04-13T21:38:32.551831"
-    },
-    {
-      "english": "Stop translating in your head, speak",
-      "spanish": "Deja de traducir en tu mente, habla",
-      "category": "Purpose",
-      "generated_at": "2026-04-14T14:52:43.962925"
-    },
-    {
       "english": "The secret? Ask for 'repeat' today",
       "spanish": "El secreto, pide 'repite' hoy",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Cree en tu acento, siempre.",
       "category": "Positive Life",
       "generated_at": "2026-08-29T02:01:34.040155"
+    },
+    {
+      "english": "Mistakes build your vocabulary.",
+      "spanish": "Los errores, tu vocabulario.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T02:57:05.028435"
+    },
+    {
+      "english": "What if progress is slow?",
+      "spanish": "¿Y si el progreso es lento?",
+      "category": "Patience",
+      "generated_at": "2026-08-29T02:57:05.028469"
+    },
+    {
+      "english": "This tiny phrase changes everything.",
+      "spanish": "Esta frase diminuta lo cambia todo.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T02:57:05.028495"
+    },
+    {
+      "english": "Don't wait, start speaking.",
+      "spanish": "No esperes, empieza a hablar.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T02:57:05.028518"
+    },
+    {
+      "english": "Listen closely, find the rhythm.",
+      "spanish": "Escucha atento, halla el ritmo.",
+      "category": "Patience",
+      "generated_at": "2026-08-29T02:57:05.028545"
     }
   ],
   "used_english": [
-    "never say “i am” , use “soy”",
-    "this is why you freeze, fix it",
-    "the secret, say it like homework",
-    "stop overthinking, just pick one",
-    "stop translating in your head, speak",
     "the secret? ask for 'repeat' today",
     "never wait for 'perfect' sentences",
     "stop studying alone, talk out loud",
@@ -21001,7 +20996,12 @@
     "this pause? your fluent secret.",
     "one question, pure connection.",
     "mistake? it's just a detour.",
-    "believe in your accent, always."
+    "believe in your accent, always.",
+    "mistakes build your vocabulary.",
+    "what if progress is slow?",
+    "this tiny phrase changes everything.",
+    "don't wait, start speaking.",
+    "listen closely, find the rhythm."
   ],
-  "last_updated": "2026-08-29T02:01:34.040157"
+  "last_updated": "2026-08-29T02:57:05.028547"
 }
