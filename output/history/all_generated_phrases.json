@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait for confidence, speak",
-      "spanish": "Nunca esperes confianza, habla",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-13T20:09:49.857117"
-    },
-    {
-      "english": "The secret? One verb, nonstop",
-      "spanish": "El secreto, un verbo, sin parar",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-13T20:09:49.857122"
-    },
-    {
-      "english": "Stop hunting words, use gestures",
-      "spanish": "Deja de buscar palabras, gestos",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-13T20:09:49.857125"
-    },
-    {
-      "english": "Never sound “robotic”, add feelings",
-      "spanish": "Nunca suenes robótico, pon emoción",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-13T20:09:49.857129"
-    },
-    {
-      "english": "Stop saying “good” , say “bueno”",
-      "spanish": "Deja de decir “bueno” , di “vale”",
-      "category": "Balance",
-      "generated_at": "2026-04-13T21:38:32.551809"
-    },
-    {
       "english": "Never say “I am” , use “soy”",
       "spanish": "Nunca digas “yo soy” , di “soy”",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu coraje brilla mucho.",
       "category": "Confidence",
       "generated_at": "2026-08-29T00:52:23.736907"
+    },
+    {
+      "english": "Your voice, a superpower, unlock it.",
+      "spanish": "Tu voz, un superpoder, ¡desbloquéala!",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T02:01:34.040046"
+    },
+    {
+      "english": "This pause? Your fluent secret.",
+      "spanish": "Esta pausa, ¿tu secreto fluido?",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T02:01:34.040091"
+    },
+    {
+      "english": "One question, pure connection.",
+      "spanish": "Una pregunta, conexión pura.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T02:01:34.040113"
+    },
+    {
+      "english": "Mistake? It's just a detour.",
+      "spanish": "¿Error? Es solo un desvío.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T02:01:34.040134"
+    },
+    {
+      "english": "Believe in your accent, always.",
+      "spanish": "Cree en tu acento, siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-29T02:01:34.040155"
     }
   ],
   "used_english": [
-    "never wait for confidence, speak",
-    "the secret? one verb, nonstop",
-    "stop hunting words, use gestures",
-    "never sound “robotic”, add feelings",
-    "stop saying “good” , say “bueno”",
     "never say “i am” , use “soy”",
     "this is why you freeze, fix it",
     "the secret, say it like homework",
@@ -21001,7 +20996,12 @@
     "dare to try this phrase.",
     "feel the rhythm, dance.",
     "this phrase opens doors.",
-    "your courage shines bright."
+    "your courage shines bright.",
+    "your voice, a superpower, unlock it.",
+    "this pause? your fluent secret.",
+    "one question, pure connection.",
+    "mistake? it's just a detour.",
+    "believe in your accent, always."
   ],
-  "last_updated": "2026-08-29T00:52:23.736909"
+  "last_updated": "2026-08-29T02:01:34.040157"
 }
