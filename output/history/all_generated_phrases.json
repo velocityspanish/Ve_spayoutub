@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, answer in Spanish",
-      "spanish": "Nunca esperes, responde en español",
-      "category": "Purpose",
-      "generated_at": "2026-04-13T18:01:40.748722"
-    },
-    {
-      "english": "This is why your mouth locks",
-      "spanish": "Por eso tu boca se bloquea",
-      "category": "Purpose",
-      "generated_at": "2026-04-13T18:01:40.748726"
-    },
-    {
-      "english": "Stop perfecting, start telling stories",
-      "spanish": "Deja de perfeccionar, cuenta historias",
-      "category": "Purpose",
-      "generated_at": "2026-04-13T18:01:40.748729"
-    },
-    {
-      "english": "Never say 'later', say it now",
-      "spanish": "No digas “luego”, dilo ahora",
-      "category": "Purpose",
-      "generated_at": "2026-04-13T18:01:40.748732"
-    },
-    {
-      "english": "Stop asking, start sounding",
-      "spanish": "Deja de preguntar, empieza a sonar",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-13T20:09:49.857105"
-    },
-    {
       "english": "Never wait for confidence, speak",
       "spanish": "Nunca esperes confianza, habla",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca olvides a tu gente.",
       "category": "Friendship",
       "generated_at": "2026-08-28T23:53:07.067676"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:52:23.736801"
+    },
+    {
+      "english": "Dare to try this phrase.",
+      "spanish": "Atrévete con esta frase.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:52:23.736832"
+    },
+    {
+      "english": "Feel the rhythm, dance.",
+      "spanish": "Siente el ritmo, baila.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:52:23.736857"
+    },
+    {
+      "english": "This phrase opens doors.",
+      "spanish": "Esta frase abre puertas.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:52:23.736881"
+    },
+    {
+      "english": "Your courage shines bright.",
+      "spanish": "Tu coraje brilla mucho.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:52:23.736907"
     }
   ],
   "used_english": [
-    "never wait, answer in spanish",
-    "this is why your mouth locks",
-    "stop perfecting, start telling stories",
-    "never say 'later', say it now",
-    "stop asking, start sounding",
     "never wait for confidence, speak",
     "the secret? one verb, nonstop",
     "stop hunting words, use gestures",
@@ -21001,7 +20996,12 @@
     "your friend vibes, amplified.",
     "this emoji means 'friend'.",
     "who's your ride-or-die?",
-    "never forget your people."
+    "never forget your people.",
+    "your voice matters, speak.",
+    "dare to try this phrase.",
+    "feel the rhythm, dance.",
+    "this phrase opens doors.",
+    "your courage shines bright."
   ],
-  "last_updated": "2026-08-28T23:53:07.067678"
+  "last_updated": "2026-08-29T00:52:23.736909"
 }
