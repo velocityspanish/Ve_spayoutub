@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never give up after one error",
-      "spanish": "Nunca te rindas con un error",
-      "category": "Patience",
-      "generated_at": "2026-04-15T18:05:31.833595"
-    },
-    {
-      "english": "The secret is speaking slowly, then faster",
-      "spanish": "El secreto, habla lento, luego rápido",
-      "category": "Patience",
-      "generated_at": "2026-04-15T18:05:31.833599"
-    },
-    {
-      "english": "Stop replaying mistakes, move on",
-      "spanish": "No repitas errores, sigue",
-      "category": "Patience",
-      "generated_at": "2026-04-15T18:05:31.833603"
-    },
-    {
-      "english": "Never translate, just guess the meaning",
-      "spanish": "No traduzcas, adivina el sentido",
-      "category": "Patience",
-      "generated_at": "2026-04-15T18:05:31.833607"
-    },
-    {
-      "english": "Stop overthinking, trust your vibe",
-      "spanish": "Deja de pensarlo, confía tu vibra",
-      "category": "Love",
-      "generated_at": "2026-04-15T20:06:30.412518"
-    },
-    {
       "english": "Never skip practice, do it messy",
       "spanish": "Nunca saltes practicar, hazlo torpe",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Listo para un avance?",
       "category": "Courage",
       "generated_at": "2026-08-30T18:27:19.885353"
+    },
+    {
+      "english": "Unlock your voice, now.",
+      "spanish": "Desbloquea tu voz, ahora.",
+      "category": "Strength",
+      "generated_at": "2026-08-30T19:39:25.309875"
+    },
+    {
+      "english": "This rhythm feels amazing.",
+      "spanish": "Este ritmo se siente increíble.",
+      "category": "Strength",
+      "generated_at": "2026-08-30T19:39:25.309905"
+    },
+    {
+      "english": "Your courage fuels progress.",
+      "spanish": "Tu coraje impulsa el progreso.",
+      "category": "Strength",
+      "generated_at": "2026-08-30T19:39:25.309925"
+    },
+    {
+      "english": "Did you hear this sound?",
+      "spanish": "¿Oíste este sonido?",
+      "category": "Strength",
+      "generated_at": "2026-08-30T19:39:25.309942"
+    },
+    {
+      "english": "Tiny words, big impact.",
+      "spanish": "Palabras pequeñas, gran impacto.",
+      "category": "Strength",
+      "generated_at": "2026-08-30T19:39:25.309960"
     }
   ],
   "used_english": [
-    "never give up after one error",
-    "the secret is speaking slowly, then faster",
-    "stop replaying mistakes, move on",
-    "never translate, just guess the meaning",
-    "stop overthinking, trust your vibe",
     "never skip practice, do it messy",
     "the secret is using 'i want'",
     "stop hunting perfection, say feelings",
@@ -21001,7 +20996,12 @@
     "this small phrase matters.",
     "embrace the imperfect speech.",
     "your voice finds its rhythm.",
-    "ready for a breakthrough?"
+    "ready for a breakthrough?",
+    "unlock your voice, now.",
+    "this rhythm feels amazing.",
+    "your courage fuels progress.",
+    "did you hear this sound?",
+    "tiny words, big impact."
   ],
-  "last_updated": "2026-08-30T18:27:19.885355"
+  "last_updated": "2026-08-30T19:39:25.309962"
 }
