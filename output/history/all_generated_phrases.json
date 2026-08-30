@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never skip practice, do it messy",
-      "spanish": "Nunca saltes practicar, hazlo torpe",
-      "category": "Love",
-      "generated_at": "2026-04-15T20:06:30.412530"
-    },
-    {
-      "english": "The secret is using 'I want'",
-      "spanish": "El secreto es usar “quiero”",
-      "category": "Love",
-      "generated_at": "2026-04-15T20:06:30.412535"
-    },
-    {
-      "english": "Stop hunting perfection, say feelings",
-      "spanish": "Deja la perfección, di sentimientos",
-      "category": "Love",
-      "generated_at": "2026-04-15T20:06:30.412538"
-    },
-    {
-      "english": "Never wait, answer with one word",
-      "spanish": "No esperes, responde con una palabra",
-      "category": "Love",
-      "generated_at": "2026-04-15T20:06:30.412542"
-    },
-    {
-      "english": "Stop translating, just notice patterns",
-      "spanish": "Deja de traducir, solo nota patrones",
-      "category": "Balance",
-      "generated_at": "2026-04-15T21:41:25.520316"
-    },
-    {
       "english": "Never answer with one-word guesses",
       "spanish": "Nunca respondas con una sola suposición",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Palabras pequeñas, gran impacto.",
       "category": "Strength",
       "generated_at": "2026-08-30T19:39:25.309960"
+    },
+    {
+      "english": "Your inner confidence, unleashed.",
+      "spanish": "Tu confianza interior, liberada.",
+      "category": "Joy",
+      "generated_at": "2026-08-30T21:52:28.532125"
+    },
+    {
+      "english": "Dream it, speak it, live it.",
+      "spanish": "Sueña, dilo, vívelo.",
+      "category": "Joy",
+      "generated_at": "2026-08-30T21:52:28.532159"
+    },
+    {
+      "english": "What if speaking was easy?",
+      "spanish": "¿Y si hablar fuera fácil?",
+      "category": "Joy",
+      "generated_at": "2026-08-30T21:52:28.532185"
+    },
+    {
+      "english": "This sound opens new worlds.",
+      "spanish": "Este sonido abre mundos.",
+      "category": "Joy",
+      "generated_at": "2026-08-30T21:52:28.532210"
+    },
+    {
+      "english": "Your voice, your unique journey.",
+      "spanish": "Tu voz, tu viaje único.",
+      "category": "Joy",
+      "generated_at": "2026-08-30T21:52:28.532238"
     }
   ],
   "used_english": [
-    "never skip practice, do it messy",
-    "the secret is using 'i want'",
-    "stop hunting perfection, say feelings",
-    "never wait, answer with one word",
-    "stop translating, just notice patterns",
     "never answer with one-word guesses",
     "the secret is using small connectors",
     "stop perfecting, start telling what you did",
@@ -21001,7 +20996,12 @@
     "this rhythm feels amazing.",
     "your courage fuels progress.",
     "did you hear this sound?",
-    "tiny words, big impact."
+    "tiny words, big impact.",
+    "your inner confidence, unleashed.",
+    "dream it, speak it, live it.",
+    "what if speaking was easy?",
+    "this sound opens new worlds.",
+    "your voice, your unique journey."
   ],
-  "last_updated": "2026-08-30T19:39:25.309962"
+  "last_updated": "2026-08-30T21:52:28.532240"
 }
