@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop blaming yourself, use this",
-      "spanish": "Deja de culparte, usa esto",
-      "category": "Strength",
-      "generated_at": "2026-04-15T16:07:06.453992"
-    },
-    {
-      "english": "Never freeze, narrate your actions",
-      "spanish": "No te congeles, narra acciones",
-      "category": "Strength",
-      "generated_at": "2026-04-15T16:07:06.453996"
-    },
-    {
-      "english": "Stop overthinking, choose one feeling",
-      "spanish": "Deja de pensar tanto, elige una emoción",
-      "category": "Strength",
-      "generated_at": "2026-04-15T16:07:06.454000"
-    },
-    {
-      "english": "This one word unlocks conversations",
-      "spanish": "Una palabra abre conversaciones",
-      "category": "Strength",
-      "generated_at": "2026-04-15T16:07:06.454004"
-    },
-    {
-      "english": "Stop rushing, listen for clues",
-      "spanish": "Deja de correr, escucha pistas",
-      "category": "Patience",
-      "generated_at": "2026-04-15T18:05:31.833583"
-    },
-    {
       "english": "Never give up after one error",
       "spanish": "Nunca te rindas con un error",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Poco a poco, fluye.",
       "category": "Confidence",
       "generated_at": "2026-08-30T17:14:57.288946"
+    },
+    {
+      "english": "Your courage speaks louder.",
+      "spanish": "Tu coraje habla fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T18:27:19.885254"
+    },
+    {
+      "english": "This small phrase matters.",
+      "spanish": "Esta frase importa.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T18:27:19.885288"
+    },
+    {
+      "english": "Embrace the imperfect speech.",
+      "spanish": "Acepta el habla imperfecta.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T18:27:19.885311"
+    },
+    {
+      "english": "Your voice finds its rhythm.",
+      "spanish": "Tu voz halla su ritmo.",
+      "category": "Courage",
+      "generated_at": "2026-08-30T18:27:19.885333"
+    },
+    {
+      "english": "Ready for a breakthrough?",
+      "spanish": "¿Listo para un avance?",
+      "category": "Courage",
+      "generated_at": "2026-08-30T18:27:19.885353"
     }
   ],
   "used_english": [
-    "stop blaming yourself, use this",
-    "never freeze, narrate your actions",
-    "stop overthinking, choose one feeling",
-    "this one word unlocks conversations",
-    "stop rushing, listen for clues",
     "never give up after one error",
     "the secret is speaking slowly, then faster",
     "stop replaying mistakes, move on",
@@ -21001,7 +20996,12 @@
     "dare to connect, right now.",
     "your brain loves new words.",
     "this moment, your chance.",
-    "little by little, fluency grows."
+    "little by little, fluency grows.",
+    "your courage speaks louder.",
+    "this small phrase matters.",
+    "embrace the imperfect speech.",
+    "your voice finds its rhythm.",
+    "ready for a breakthrough?"
   ],
-  "last_updated": "2026-08-30T17:14:57.288948"
+  "last_updated": "2026-08-30T18:27:19.885355"
 }
