@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never answer with one-word guesses",
-      "spanish": "Nunca respondas con una sola suposición",
-      "category": "Balance",
-      "generated_at": "2026-04-15T21:41:25.520326"
-    },
-    {
-      "english": "The secret is using small connectors",
-      "spanish": "El secreto es usar conectores pequeños",
-      "category": "Balance",
-      "generated_at": "2026-04-15T21:41:25.520330"
-    },
-    {
-      "english": "Stop perfecting, start telling what you did",
-      "spanish": "Deja de perfeccionar, cuenta lo que hiciste",
-      "category": "Balance",
-      "generated_at": "2026-04-15T21:41:25.520334"
-    },
-    {
-      "english": "Never fear Spanish questions, use 'por qué'",
-      "spanish": "No temas preguntas en español, usa 'por qué'",
-      "category": "Balance",
-      "generated_at": "2026-04-15T21:41:25.520338"
-    },
-    {
-      "english": "Stop rehearsing, start improvising today",
-      "spanish": "Deja de ensayar, improvisa hoy",
-      "category": "Growth",
-      "generated_at": "2026-04-16T14:58:28.811262"
-    },
-    {
       "english": "Never memorize, collect useful chunks",
       "spanish": "Nunca memorices, colecciona fragmentos útiles",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu voz, tu viaje único.",
       "category": "Joy",
       "generated_at": "2026-08-30T21:52:28.532238"
+    },
+    {
+      "english": "Listen to this magic word.",
+      "spanish": "Escucha esta palabra mágica.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T22:58:44.815155"
+    },
+    {
+      "english": "Try this, feel the connection.",
+      "spanish": "Prueba esto, siente la conexión.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T22:58:44.815189"
+    },
+    {
+      "english": "Dare to speak, just try.",
+      "spanish": "Atrévete a hablar, solo intenta.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T22:58:44.815215"
+    },
+    {
+      "english": "One phrase, total confidence.",
+      "spanish": "Una frase, total confianza.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T22:58:44.815241"
+    },
+    {
+      "english": "Small talk, big opportunities.",
+      "spanish": "Charla pequeña, grandes oportunidades.",
+      "category": "Purpose",
+      "generated_at": "2026-08-30T22:58:44.815268"
     }
   ],
   "used_english": [
-    "never answer with one-word guesses",
-    "the secret is using small connectors",
-    "stop perfecting, start telling what you did",
-    "never fear spanish questions, use 'por qué'",
-    "stop rehearsing, start improvising today",
     "never memorize, collect useful chunks",
     "never study alone, speak back",
     "stop pausing, speak through commas",
@@ -21001,7 +20996,12 @@
     "dream it, speak it, live it.",
     "what if speaking was easy?",
     "this sound opens new worlds.",
-    "your voice, your unique journey."
+    "your voice, your unique journey.",
+    "listen to this magic word.",
+    "try this, feel the connection.",
+    "dare to speak, just try.",
+    "one phrase, total confidence.",
+    "small talk, big opportunities."
   ],
-  "last_updated": "2026-08-30T21:52:28.532240"
+  "last_updated": "2026-08-30T22:58:44.815270"
 }
