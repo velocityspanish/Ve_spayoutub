@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say less, speak bigger",
-      "spanish": "Nunca digas menos, habla grande",
-      "category": "Hope",
-      "generated_at": "2026-04-15T14:47:49.735921"
-    },
-    {
-      "english": "The secret is saying it messy",
-      "spanish": "El secreto, dilo con caos",
-      "category": "Hope",
-      "generated_at": "2026-04-15T14:47:49.735926"
-    },
-    {
-      "english": "Stop waiting, start using today",
-      "spanish": "Deja de esperar, úsalo hoy",
-      "category": "Hope",
-      "generated_at": "2026-04-15T14:47:49.735930"
-    },
-    {
-      "english": "Never translate, just choose one",
-      "spanish": "No traduzcas, elige uno",
-      "category": "Hope",
-      "generated_at": "2026-04-15T14:47:49.735934"
-    },
-    {
-      "english": "Never say nothing, just start",
-      "spanish": "Nunca digas nada, empieza",
-      "category": "Strength",
-      "generated_at": "2026-04-15T16:07:06.453979"
-    },
-    {
       "english": "Stop blaming yourself, use this",
       "spanish": "Deja de culparte, usa esto",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha atentamente, la magia está.",
       "category": "Wisdom",
       "generated_at": "2026-08-29T22:53:19.821456"
+    },
+    {
+      "english": "Your voice, a new adventure.",
+      "spanish": "Tu voz, una nueva aventura.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T17:14:57.288830"
+    },
+    {
+      "english": "Dare to connect, right now.",
+      "spanish": "Atrévete a conectar, ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T17:14:57.288868"
+    },
+    {
+      "english": "Your brain loves new words.",
+      "spanish": "Tu cerebro ama palabras nuevas.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T17:14:57.288893"
+    },
+    {
+      "english": "This moment, your chance.",
+      "spanish": "Este momento, tu chance.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T17:14:57.288918"
+    },
+    {
+      "english": "Little by little, fluency grows.",
+      "spanish": "Poco a poco, fluye.",
+      "category": "Confidence",
+      "generated_at": "2026-08-30T17:14:57.288946"
     }
   ],
   "used_english": [
-    "never say less, speak bigger",
-    "the secret is saying it messy",
-    "stop waiting, start using today",
-    "never translate, just choose one",
-    "never say nothing, just start",
     "stop blaming yourself, use this",
     "never freeze, narrate your actions",
     "stop overthinking, choose one feeling",
@@ -21001,7 +20996,12 @@
     "mistakes are proof you're trying.",
     "your accent is your unique sound.",
     "this tiny phrase opens worlds.",
-    "listen close, magic is here."
+    "listen close, magic is here.",
+    "your voice, a new adventure.",
+    "dare to connect, right now.",
+    "your brain loves new words.",
+    "this moment, your chance.",
+    "little by little, fluency grows."
   ],
-  "last_updated": "2026-08-29T22:53:19.821458"
+  "last_updated": "2026-08-30T17:14:57.288948"
 }
