@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, collect useful chunks",
-      "spanish": "Nunca memorices, colecciona fragmentos útiles",
-      "category": "Growth",
-      "generated_at": "2026-04-16T14:58:28.811274"
-    },
-    {
-      "english": "Never study alone, speak back",
-      "spanish": "No estudies solo, responde en voz alta",
-      "category": "Growth",
-      "generated_at": "2026-04-16T14:58:28.811279"
-    },
-    {
-      "english": "Stop pausing, speak through commas",
-      "spanish": "Deja las pausas, habla con comas",
-      "category": "Growth",
-      "generated_at": "2026-04-16T14:58:28.811283"
-    },
-    {
-      "english": "This one habit makes verbs stick",
-      "spanish": "Este hábito fija los verbos",
-      "category": "Growth",
-      "generated_at": "2026-04-16T14:58:28.811287"
-    },
-    {
-      "english": "Stop sounding safe, say it spicy",
-      "spanish": "Deja sonar seguro, díselo con picante",
-      "category": "Strength",
-      "generated_at": "2026-04-16T16:24:09.391258"
-    },
-    {
       "english": "Never freeze, just add 'ya'",
       "spanish": "Nunca te paralices, agrega 'ya'",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Charla pequeña, grandes oportunidades.",
       "category": "Purpose",
       "generated_at": "2026-08-30T22:58:44.815268"
+    },
+    {
+      "english": "One small word, huge impact.",
+      "spanish": "Una palabra pequeña, gran impacto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-31T19:26:18.289551"
+    },
+    {
+      "english": "Your effort is seen, always.",
+      "spanish": "Tu esfuerzo es visto, siempre.",
+      "category": "Purpose",
+      "generated_at": "2026-08-31T19:26:18.289591"
+    },
+    {
+      "english": "Listen closely, magic awaits.",
+      "spanish": "Escucha atentamente, la magia espera.",
+      "category": "Purpose",
+      "generated_at": "2026-08-31T19:26:18.289620"
+    },
+    {
+      "english": "Feel this rhythm, connect.",
+      "spanish": "Siente este ritmo, conecta.",
+      "category": "Purpose",
+      "generated_at": "2026-08-31T19:26:18.289647"
+    },
+    {
+      "english": "This pause? Your secret weapon.",
+      "spanish": "Esta pausa? Tu arma secreta.",
+      "category": "Purpose",
+      "generated_at": "2026-08-31T19:26:18.289676"
     }
   ],
   "used_english": [
-    "never memorize, collect useful chunks",
-    "never study alone, speak back",
-    "stop pausing, speak through commas",
-    "this one habit makes verbs stick",
-    "stop sounding safe, say it spicy",
     "never freeze, just add 'ya'",
     "stop practicing silence, speak first",
     "never memorize, use what fits",
@@ -21001,7 +20996,12 @@
     "try this, feel the connection.",
     "dare to speak, just try.",
     "one phrase, total confidence.",
-    "small talk, big opportunities."
+    "small talk, big opportunities.",
+    "one small word, huge impact.",
+    "your effort is seen, always.",
+    "listen closely, magic awaits.",
+    "feel this rhythm, connect.",
+    "this pause? your secret weapon."
   ],
-  "last_updated": "2026-08-30T22:58:44.815270"
+  "last_updated": "2026-08-31T19:26:18.289678"
 }
