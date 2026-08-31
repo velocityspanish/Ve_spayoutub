@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze, just add 'ya'",
-      "spanish": "Nunca te paralices, agrega 'ya'",
-      "category": "Strength",
-      "generated_at": "2026-04-16T16:24:09.391271"
-    },
-    {
-      "english": "Stop practicing silence, speak first",
-      "spanish": "Deja de practicar silencio, habla primero",
-      "category": "Strength",
-      "generated_at": "2026-04-16T16:24:09.391275"
-    },
-    {
-      "english": "Never memorize, use what fits",
-      "spanish": "Nunca memorices, usa lo que encaja",
-      "category": "Strength",
-      "generated_at": "2026-04-16T16:24:09.391279"
-    },
-    {
-      "english": "This one habit makes you fluent",
-      "spanish": "Este hábito te hace fluido",
-      "category": "Strength",
-      "generated_at": "2026-04-16T16:24:09.391284"
-    },
-    {
-      "english": "Stop avoiding eye contact, di hola",
-      "spanish": "Deja de evitar miradas, di hola",
-      "category": "Love",
-      "generated_at": "2026-04-16T18:09:29.091808"
-    },
-    {
       "english": "Never say “later”, send a voice note",
       "spanish": "Nunca digas “luego”, manda nota de voz",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta pausa? Tu arma secreta.",
       "category": "Purpose",
       "generated_at": "2026-08-31T19:26:18.289676"
+    },
+    {
+      "english": "What if speaking felt natural?",
+      "spanish": "¿Y si hablar se sintiera natural?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T20:42:06.425274"
+    },
+    {
+      "english": "Mistakes are just detours, embrace.",
+      "spanish": "Errores son desvíos, abraza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T20:42:06.425310"
+    },
+    {
+      "english": "Speak your truth, bravely.",
+      "spanish": "Di tu verdad, valientemente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T20:42:06.425330"
+    },
+    {
+      "english": "Ready for your breakthrough moment?",
+      "spanish": "¿Listo para tu momento cumbre?",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T20:42:06.425354"
+    },
+    {
+      "english": "One new phrase, unlock worlds.",
+      "spanish": "Una frase nueva, desbloquea mundos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T20:42:06.425377"
     }
   ],
   "used_english": [
-    "never freeze, just add 'ya'",
-    "stop practicing silence, speak first",
-    "never memorize, use what fits",
-    "this one habit makes you fluent",
-    "stop avoiding eye contact, di hola",
     "never say “later”, send a voice note",
     "the secret is speaking in chunks",
     "stop translating, look for patterns",
@@ -21001,7 +20996,12 @@
     "your effort is seen, always.",
     "listen closely, magic awaits.",
     "feel this rhythm, connect.",
-    "this pause? your secret weapon."
+    "this pause? your secret weapon.",
+    "what if speaking felt natural?",
+    "mistakes are just detours, embrace.",
+    "speak your truth, bravely.",
+    "ready for your breakthrough moment?",
+    "one new phrase, unlock worlds."
   ],
-  "last_updated": "2026-08-31T19:26:18.289678"
+  "last_updated": "2026-08-31T20:42:06.425378"
 }
