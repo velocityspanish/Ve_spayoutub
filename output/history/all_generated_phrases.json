@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “later”, send a voice note",
-      "spanish": "Nunca digas “luego”, manda nota de voz",
-      "category": "Love",
-      "generated_at": "2026-04-16T18:09:29.091821"
-    },
-    {
-      "english": "The secret is speaking in chunks",
-      "spanish": "El secreto, habla en pedazos",
-      "category": "Love",
-      "generated_at": "2026-04-16T18:09:29.091825"
-    },
-    {
-      "english": "Stop translating, look for patterns",
-      "spanish": "Deja de traducir, busca patrones",
-      "category": "Love",
-      "generated_at": "2026-04-16T18:09:29.091830"
-    },
-    {
-      "english": "This one question melts stress, ¿y tú?",
-      "spanish": "Esta pregunta derrite estrés, ¿y tú?",
-      "category": "Love",
-      "generated_at": "2026-04-16T18:09:29.091834"
-    },
-    {
-      "english": "Stop fearing accents, speak anyway",
-      "spanish": "Deja de temer acentos, habla igual",
-      "category": "Wisdom",
-      "generated_at": "2026-04-16T20:02:12.981035"
-    },
-    {
       "english": "Never chase fluency, chase moments",
       "spanish": "Nunca persigas fluidez, persigue momentos",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Una frase nueva, desbloquea mundos.",
       "category": "Mindfulness",
       "generated_at": "2026-08-31T20:42:06.425377"
+    },
+    {
+      "english": "Your voice unlocks worlds.",
+      "spanish": "Tu voz abre mundos.",
+      "category": "Joy",
+      "generated_at": "2026-08-31T21:44:45.205323"
+    },
+    {
+      "english": "Joy in one word?",
+      "spanish": "¿Alegría en una palabra?",
+      "category": "Joy",
+      "generated_at": "2026-08-31T21:44:45.205359"
+    },
+    {
+      "english": "This phrase brings smiles.",
+      "spanish": "Esta frase trae sonrisas.",
+      "category": "Joy",
+      "generated_at": "2026-08-31T21:44:45.205385"
+    },
+    {
+      "english": "Feel this joy, speak!",
+      "spanish": "¡Siente esta alegría, habla!",
+      "category": "Joy",
+      "generated_at": "2026-08-31T21:44:45.205409"
+    },
+    {
+      "english": "Your laughter is a gift.",
+      "spanish": "Tu risa es un regalo.",
+      "category": "Joy",
+      "generated_at": "2026-08-31T21:44:45.205434"
     }
   ],
   "used_english": [
-    "never say “later”, send a voice note",
-    "the secret is speaking in chunks",
-    "stop translating, look for patterns",
-    "this one question melts stress, ¿y tú?",
-    "stop fearing accents, speak anyway",
     "never chase fluency, chase moments",
     "stop overthinking, copy one rhythm",
     "your brain learns when you repeat",
@@ -21001,7 +20996,12 @@
     "mistakes are just detours, embrace.",
     "speak your truth, bravely.",
     "ready for your breakthrough moment?",
-    "one new phrase, unlock worlds."
+    "one new phrase, unlock worlds.",
+    "your voice unlocks worlds.",
+    "joy in one word?",
+    "this phrase brings smiles.",
+    "feel this joy, speak!",
+    "your laughter is a gift."
   ],
-  "last_updated": "2026-08-31T20:42:06.425378"
+  "last_updated": "2026-08-31T21:44:45.205436"
 }
