@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never meditate, just breathe 'ah'",
-      "spanish": "Nunca medites, solo respira 'ah'",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-16T21:34:32.796159"
-    },
-    {
-      "english": "This is why your mind drifts",
-      "spanish": "Esto es por qué tu mente se va",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-16T21:34:32.796163"
-    },
-    {
-      "english": "The secret? Talk to yourself gently",
-      "spanish": "El secreto, háblate con ternura",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-16T21:34:32.796183"
-    },
-    {
-      "english": "Stop proving, just be understood",
-      "spanish": "Deja de demostrar, sé entendido",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-16T21:34:32.796188"
-    },
-    {
-      "english": "Stop practicing, start recording yourself",
-      "spanish": "Deja de practicar, grábate ahora",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-17T14:22:28.201154"
-    },
-    {
       "english": "Never worry, just keep talking",
       "spanish": "Nunca te preocupes, sigue hablando",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Suelta, encuentra tu centro.",
       "category": "Inner Peace",
       "generated_at": "2026-08-31T23:09:46.185817"
+    },
+    {
+      "english": "This simple word connects people.",
+      "spanish": "Esta palabra simple conecta gente.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T00:10:36.880777"
+    },
+    {
+      "english": "Never fear the accent.",
+      "spanish": "Nunca temas el acento.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T00:10:36.880810"
+    },
+    {
+      "english": "One daily word, big impact.",
+      "spanish": "Una palabra diaria, gran impacto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T00:10:36.880836"
+    },
+    {
+      "english": "Your future self thanks you.",
+      "spanish": "Tu yo futuro te agradece.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T00:10:36.880861"
+    },
+    {
+      "english": "Listen for the music.",
+      "spanish": "Escucha por la música.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T00:10:36.880885"
     }
   ],
   "used_english": [
-    "never meditate, just breathe 'ah'",
-    "this is why your mind drifts",
-    "the secret? talk to yourself gently",
-    "stop proving, just be understood",
-    "stop practicing, start recording yourself",
     "never worry, just keep talking",
     "never pause, speak through the awkward",
     "stop guessing, ask for meaning",
@@ -21001,7 +20996,12 @@
     "your calm is your power.",
     "breathe deeply, feel the quiet.",
     "this moment, pure stillness.",
-    "let go, find your center."
+    "let go, find your center.",
+    "this simple word connects people.",
+    "never fear the accent.",
+    "one daily word, big impact.",
+    "your future self thanks you.",
+    "listen for the music."
   ],
-  "last_updated": "2026-08-31T23:09:46.185819"
+  "last_updated": "2026-09-01T00:10:36.880888"
 }
