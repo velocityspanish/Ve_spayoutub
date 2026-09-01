@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study silently, respond out loud",
-      "spanish": "Nunca estudies en silencio, responde en voz alta",
-      "category": "Inspiration",
-      "generated_at": "2026-04-17T17:50:15.889229"
-    },
-    {
-      "english": "Stop practicing—start using today",
-      "spanish": "Deja de practicar, empieza hoy",
-      "category": "Inspiration",
-      "generated_at": "2026-04-17T17:50:15.889234"
-    },
-    {
-      "english": "This one question fixes your story",
-      "spanish": "Esta pregunta arregla tu historia",
-      "category": "Inspiration",
-      "generated_at": "2026-04-17T17:50:15.889239"
-    },
-    {
-      "english": "Never say “maybe”, say “I choose”",
-      "spanish": "Nunca digas “tal vez”, di “yo elijo”",
-      "category": "Inspiration",
-      "generated_at": "2026-04-17T17:50:15.889244"
-    },
-    {
-      "english": "Never skip thanks, say it daily",
-      "spanish": "Nunca omitas gracias, dilo diario",
-      "category": "Gratitude",
-      "generated_at": "2026-04-17T20:00:39.025549"
-    },
-    {
       "english": "Stop thanking silently, voice it",
       "spanish": "Deja de agradecer en silencio, dilo",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu coraje abre puertas en español.",
       "category": "Balance",
       "generated_at": "2026-09-01T18:13:00.114576"
+    },
+    {
+      "english": "This simple greeting, unlocks.",
+      "spanish": "Este saludo simple, abre.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-01T19:46:23.094636"
+    },
+    {
+      "english": "Why wait? Speak today.",
+      "spanish": "¿Por qué esperar? Habla hoy.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-01T19:46:23.094664"
+    },
+    {
+      "english": "Small words, huge impact.",
+      "spanish": "Palabras pequeñas, impacto enorme.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-01T19:46:23.094680"
+    },
+    {
+      "english": "Curious about this sound?",
+      "spanish": "¿Curioso por este sonido?",
+      "category": "Positive Life",
+      "generated_at": "2026-09-01T19:46:23.094696"
+    },
+    {
+      "english": "Listen, your brain learns.",
+      "spanish": "Escucha, tu cerebro aprende.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-01T19:46:23.094712"
     }
   ],
   "used_english": [
-    "never study silently, respond out loud",
-    "stop practicing—start using today",
-    "this one question fixes your story",
-    "never say “maybe”, say “i choose”",
-    "never skip thanks, say it daily",
     "stop thanking silently, voice it",
     "never rush “thanks”, pause and feel",
     "stop memorizing phrases, live gratitude",
@@ -21001,7 +20996,12 @@
     "this tiny word connects everyone.",
     "mistakes are your progress map.",
     "imagine fluent conversations, today.",
-    "your courage opens spanish doors."
+    "your courage opens spanish doors.",
+    "this simple greeting, unlocks.",
+    "why wait? speak today.",
+    "small words, huge impact.",
+    "curious about this sound?",
+    "listen, your brain learns."
   ],
-  "last_updated": "2026-09-01T18:13:00.114578"
+  "last_updated": "2026-09-01T19:46:23.094714"
 }
