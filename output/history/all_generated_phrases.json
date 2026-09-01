@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never worry, just keep talking",
-      "spanish": "Nunca te preocupes, sigue hablando",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-17T14:22:28.201165"
-    },
-    {
-      "english": "Never pause, speak through the awkward",
-      "spanish": "Nunca te pares, habla en lo raro",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-17T14:22:28.201170"
-    },
-    {
-      "english": "Stop guessing, ask for meaning",
-      "spanish": "Deja de adivinar, pide significado",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-17T14:22:28.201174"
-    },
-    {
-      "english": "This changes your accent overnight",
-      "spanish": "Esto cambia tu acento ya",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-17T14:22:28.201179"
-    },
-    {
-      "english": "Never hide, say what you need",
-      "spanish": "Nunca te escondas, di lo que necesitas",
-      "category": "Courage",
-      "generated_at": "2026-04-17T16:02:49.007183"
-    },
-    {
       "english": "Stop apologizing, ask your question",
       "spanish": "Deja de pedir perdón, pregunta ya",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha por la música.",
       "category": "Motivation",
       "generated_at": "2026-09-01T00:10:36.880885"
+    },
+    {
+      "english": "Why rush? Enjoy learning.",
+      "spanish": "¿Por qué apurarse? Disfruta aprender.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T17:13:11.970772"
+    },
+    {
+      "english": "Every little bit counts.",
+      "spanish": "Cada poquito cuenta.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T17:13:11.970806"
+    },
+    {
+      "english": "Slow down, absorb more.",
+      "spanish": "Baja el ritmo, absorbe más.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T17:13:11.970856"
+    },
+    {
+      "english": "Your journey, your pace.",
+      "spanish": "Tu viaje, tu ritmo.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T17:13:11.970881"
+    },
+    {
+      "english": "Don't quit, just pause.",
+      "spanish": "No renuncies, solo pausa.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T17:13:11.970906"
     }
   ],
   "used_english": [
-    "never worry, just keep talking",
-    "never pause, speak through the awkward",
-    "stop guessing, ask for meaning",
-    "this changes your accent overnight",
-    "never hide, say what you need",
     "stop apologizing, ask your question",
     "stop switching, commit to one sentence",
     "never fear mistakes, use them fast",
@@ -21001,7 +20996,12 @@
     "never fear the accent.",
     "one daily word, big impact.",
     "your future self thanks you.",
-    "listen for the music."
+    "listen for the music.",
+    "why rush? enjoy learning.",
+    "every little bit counts.",
+    "slow down, absorb more.",
+    "your journey, your pace.",
+    "don't quit, just pause."
   ],
-  "last_updated": "2026-09-01T00:10:36.880888"
+  "last_updated": "2026-09-01T17:13:11.970908"
 }
