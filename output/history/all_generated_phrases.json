@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop thanking silently, voice it",
-      "spanish": "Deja de agradecer en silencio, dilo",
-      "category": "Gratitude",
-      "generated_at": "2026-04-17T20:00:39.025562"
-    },
-    {
-      "english": "Never rush “thanks”, pause and feel",
-      "spanish": "Nunca tengas prisa por “gracias”, siente",
-      "category": "Gratitude",
-      "generated_at": "2026-04-17T20:00:39.025568"
-    },
-    {
-      "english": "Stop memorizing phrases, live gratitude",
-      "spanish": "Deja de memorizar frases, vive gratitud",
-      "category": "Gratitude",
-      "generated_at": "2026-04-17T20:00:39.025572"
-    },
-    {
-      "english": "Your Spanish grows when you thank",
-      "spanish": "Tu español crece cuando agradeces",
-      "category": "Gratitude",
-      "generated_at": "2026-04-17T20:00:39.025577"
-    },
-    {
-      "english": "Never wait, start with one verb",
-      "spanish": "Nunca esperes, empieza con un verbo",
-      "category": "Courage",
-      "generated_at": "2026-04-17T21:32:37.014364"
-    },
-    {
       "english": "This is why confidence sounds wrong",
       "spanish": "Por eso, la confianza suena rara",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha, tu cerebro aprende.",
       "category": "Positive Life",
       "generated_at": "2026-09-01T19:46:23.094712"
+    },
+    {
+      "english": "This whisper? pure magic.",
+      "spanish": "Este susurro, ¿magia pura?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T21:39:48.203306"
+    },
+    {
+      "english": "Imagine them understanding you.",
+      "spanish": "Imagínalos entendiéndote.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T21:39:48.203346"
+    },
+    {
+      "english": "Your first 'lo siento' matters.",
+      "spanish": "Tu primer 'lo siento' importa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T21:39:48.203375"
+    },
+    {
+      "english": "Don't just think it, say it.",
+      "spanish": "No solo piénsalo, dilo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T21:39:48.203402"
+    },
+    {
+      "english": "This feeling? priceless.",
+      "spanish": "Este sentimiento, ¿sin precio?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T21:39:48.203428"
     }
   ],
   "used_english": [
-    "stop thanking silently, voice it",
-    "never rush “thanks”, pause and feel",
-    "stop memorizing phrases, live gratitude",
-    "your spanish grows when you thank",
-    "never wait, start with one verb",
     "this is why confidence sounds wrong",
     "the secret, ask for simple help",
     "stop choking, breathe, then answer",
@@ -21001,7 +20996,12 @@
     "why wait? speak today.",
     "small words, huge impact.",
     "curious about this sound?",
-    "listen, your brain learns."
+    "listen, your brain learns.",
+    "this whisper? pure magic.",
+    "imagine them understanding you.",
+    "your first 'lo siento' matters.",
+    "don't just think it, say it.",
+    "this feeling? priceless."
   ],
-  "last_updated": "2026-09-01T19:46:23.094714"
+  "last_updated": "2026-09-01T21:39:48.203430"
 }
