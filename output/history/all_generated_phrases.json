@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why confidence sounds wrong",
-      "spanish": "Por eso, la confianza suena rara",
-      "category": "Courage",
-      "generated_at": "2026-04-17T21:32:37.014382"
-    },
-    {
-      "english": "The secret, ask for simple help",
-      "spanish": "El secreto, pide ayuda simple",
-      "category": "Courage",
-      "generated_at": "2026-04-17T21:32:37.014387"
-    },
-    {
-      "english": "Stop choking, breathe, then answer",
-      "spanish": "Deja de atragantarte, respira, responde",
-      "category": "Courage",
-      "generated_at": "2026-04-17T21:32:37.014392"
-    },
-    {
-      "english": "Never aim perfect, aim clear",
-      "spanish": "Nunca busques perfecto, busca claro",
-      "category": "Courage",
-      "generated_at": "2026-04-17T21:32:37.014396"
-    },
-    {
-      "english": "Stop waiting for motivation, practice now",
-      "spanish": "Deja esperar motivación, practica ahora",
-      "category": "Perseverance",
-      "generated_at": "2026-04-18T14:02:51.993334"
-    },
-    {
       "english": "This is why fluency feels heavy",
       "spanish": "Por eso, la fluidez pesa",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Este sentimiento, ¿sin precio?",
       "category": "Mindfulness",
       "generated_at": "2026-09-01T21:39:48.203428"
+    },
+    {
+      "english": "One sound, new connections.",
+      "spanish": "Un sonido, nuevas conexiones.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T22:53:46.782180"
+    },
+    {
+      "english": "Why hesitate? Speak now.",
+      "spanish": "¿Por qué dudar? Habla ya.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T22:53:46.782216"
+    },
+    {
+      "english": "Your voice is powerful.",
+      "spanish": "Tu voz es poderosa.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T22:53:46.782238"
+    },
+    {
+      "english": "Feel the flow, embrace.",
+      "spanish": "Siente el fluir, abraza.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T22:53:46.782259"
+    },
+    {
+      "english": "Curious? This word helps.",
+      "spanish": "¿Curioso? Esta palabra ayuda.",
+      "category": "Motivation",
+      "generated_at": "2026-09-01T22:53:46.782281"
     }
   ],
   "used_english": [
-    "this is why confidence sounds wrong",
-    "the secret, ask for simple help",
-    "stop choking, breathe, then answer",
-    "never aim perfect, aim clear",
-    "stop waiting for motivation, practice now",
     "this is why fluency feels heavy",
     "stop perfecting, just show up today",
     "never fear slow, keep going",
@@ -21001,7 +20996,12 @@
     "imagine them understanding you.",
     "your first 'lo siento' matters.",
     "don't just think it, say it.",
-    "this feeling? priceless."
+    "this feeling? priceless.",
+    "one sound, new connections.",
+    "why hesitate? speak now.",
+    "your voice is powerful.",
+    "feel the flow, embrace.",
+    "curious? this word helps."
   ],
-  "last_updated": "2026-09-01T21:39:48.203430"
+  "last_updated": "2026-09-01T22:53:46.782284"
 }
