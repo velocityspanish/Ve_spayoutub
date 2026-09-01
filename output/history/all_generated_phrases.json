@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop apologizing, ask your question",
-      "spanish": "Deja de pedir perdón, pregunta ya",
-      "category": "Courage",
-      "generated_at": "2026-04-17T16:02:49.007196"
-    },
-    {
-      "english": "Stop switching, commit to one sentence",
-      "spanish": "Deja de cambiar, quédate con una frase",
-      "category": "Courage",
-      "generated_at": "2026-04-17T16:02:49.007200"
-    },
-    {
-      "english": "Never fear mistakes, use them fast",
-      "spanish": "No temas errores, úsalos ya",
-      "category": "Courage",
-      "generated_at": "2026-04-17T16:02:49.007205"
-    },
-    {
-      "english": "This is why your verbs collapse",
-      "spanish": "Esto es por qué se te rompen verbos",
-      "category": "Courage",
-      "generated_at": "2026-04-17T16:02:49.007209"
-    },
-    {
-      "english": "Stop whispering, say it loudly",
-      "spanish": "Deja de susurrar, dilo fuerte",
-      "category": "Inspiration",
-      "generated_at": "2026-04-17T17:50:15.889219"
-    },
-    {
       "english": "Never study silently, respond out loud",
       "spanish": "Nunca estudies en silencio, responde en voz alta",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "No renuncies, solo pausa.",
       "category": "Patience",
       "generated_at": "2026-09-01T17:13:11.970906"
+    },
+    {
+      "english": "Want to sound native, fast?",
+      "spanish": "¿Quieres sonar nativo, rápido?",
+      "category": "Balance",
+      "generated_at": "2026-09-01T18:13:00.114443"
+    },
+    {
+      "english": "This tiny word connects everyone.",
+      "spanish": "Esta palabra chiquita une a todos.",
+      "category": "Balance",
+      "generated_at": "2026-09-01T18:13:00.114493"
+    },
+    {
+      "english": "Mistakes are your progress map.",
+      "spanish": "Los errores son tu mapa de progreso.",
+      "category": "Balance",
+      "generated_at": "2026-09-01T18:13:00.114522"
+    },
+    {
+      "english": "Imagine fluent conversations, today.",
+      "spanish": "Imagina conversaciones fluidas, hoy.",
+      "category": "Balance",
+      "generated_at": "2026-09-01T18:13:00.114549"
+    },
+    {
+      "english": "Your courage opens Spanish doors.",
+      "spanish": "Tu coraje abre puertas en español.",
+      "category": "Balance",
+      "generated_at": "2026-09-01T18:13:00.114576"
     }
   ],
   "used_english": [
-    "stop apologizing, ask your question",
-    "stop switching, commit to one sentence",
-    "never fear mistakes, use them fast",
-    "this is why your verbs collapse",
-    "stop whispering, say it loudly",
     "never study silently, respond out loud",
     "stop practicing—start using today",
     "this one question fixes your story",
@@ -21001,7 +20996,12 @@
     "every little bit counts.",
     "slow down, absorb more.",
     "your journey, your pace.",
-    "don't quit, just pause."
+    "don't quit, just pause.",
+    "want to sound native, fast?",
+    "this tiny word connects everyone.",
+    "mistakes are your progress map.",
+    "imagine fluent conversations, today.",
+    "your courage opens spanish doors."
   ],
-  "last_updated": "2026-09-01T17:13:11.970908"
+  "last_updated": "2026-09-01T18:13:00.114578"
 }
