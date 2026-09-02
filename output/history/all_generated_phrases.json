@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why fluency feels heavy",
-      "spanish": "Por eso, la fluidez pesa",
-      "category": "Perseverance",
-      "generated_at": "2026-04-18T14:02:51.993348"
-    },
-    {
-      "english": "Stop perfecting, just show up today",
-      "spanish": "Deja perfeccionar, solo aparece hoy",
-      "category": "Perseverance",
-      "generated_at": "2026-04-18T14:02:51.993353"
-    },
-    {
-      "english": "Never fear slow, keep going",
-      "spanish": "Nunca temas ir lento, sigue",
-      "category": "Perseverance",
-      "generated_at": "2026-04-18T14:02:51.993357"
-    },
-    {
-      "english": "This sentence beats fear, every day",
-      "spanish": "Esta frase vence el miedo",
-      "category": "Perseverance",
-      "generated_at": "2026-04-18T14:02:51.993361"
-    },
-    {
-      "english": "Stop freezing, use 'está' first",
-      "spanish": "Deja de congelarte, usa 'está' primero",
-      "category": "Strength",
-      "generated_at": "2026-04-18T15:38:43.352216"
-    },
-    {
       "english": "Never wait, say what you see",
       "spanish": "Nunca esperes, di lo que ves",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? Esta palabra ayuda.",
       "category": "Motivation",
       "generated_at": "2026-09-01T22:53:46.782281"
+    },
+    {
+      "english": "What if you can now?",
+      "spanish": "¿Y si puedes ahora?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-02T17:03:40.860140"
+    },
+    {
+      "english": "Your voice finds home.",
+      "spanish": "Tu voz encuentra hogar.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-02T17:03:40.860169"
+    },
+    {
+      "english": "Tiny phrase, huge world.",
+      "spanish": "Pequeña frase, mundo enorme.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-02T17:03:40.860190"
+    },
+    {
+      "english": "Mistakes? Just practice.",
+      "spanish": "¿Errores? Solo práctica.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-02T17:03:40.860210"
+    },
+    {
+      "english": "This feeling is pure.",
+      "spanish": "Esta sensación es pura.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-02T17:03:40.860229"
     }
   ],
   "used_english": [
-    "this is why fluency feels heavy",
-    "stop perfecting, just show up today",
-    "never fear slow, keep going",
-    "this sentence beats fear, every day",
-    "stop freezing, use 'está' first",
     "never wait, say what you see",
     "the secret, add one emotion word",
     "stop hunting rules, just tell a story",
@@ -21001,7 +20996,12 @@
     "why hesitate? speak now.",
     "your voice is powerful.",
     "feel the flow, embrace.",
-    "curious? this word helps."
+    "curious? this word helps.",
+    "what if you can now?",
+    "your voice finds home.",
+    "tiny phrase, huge world.",
+    "mistakes? just practice.",
+    "this feeling is pure."
   ],
-  "last_updated": "2026-09-01T22:53:46.782284"
+  "last_updated": "2026-09-02T17:03:40.860231"
 }
