@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, say what you see",
-      "spanish": "Nunca esperes, di lo que ves",
-      "category": "Strength",
-      "generated_at": "2026-04-18T15:38:43.352229"
-    },
-    {
-      "english": "The secret, add one emotion word",
-      "spanish": "El secreto, agrega una emoción",
-      "category": "Strength",
-      "generated_at": "2026-04-18T15:38:43.352234"
-    },
-    {
-      "english": "Stop hunting rules, just tell a story",
-      "spanish": "Deja de buscar reglas, cuenta una historia",
-      "category": "Strength",
-      "generated_at": "2026-04-18T15:38:43.352238"
-    },
-    {
-      "english": "Never perfect, just finish the sentence",
-      "spanish": "No perfecciones, termina la oración",
-      "category": "Strength",
-      "generated_at": "2026-04-18T15:38:43.352242"
-    },
-    {
-      "english": "Stop doubting, say it anyway, hoy",
-      "spanish": "Deja de dudar, dilo igual, hoy",
-      "category": "Happiness",
-      "generated_at": "2026-04-18T17:37:00.252313"
-    },
-    {
       "english": "This is why smiles unlock Spanish",
       "spanish": "Por eso, las sonrisas abren español",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta sensación es pura.",
       "category": "Gratitude",
       "generated_at": "2026-09-02T17:03:40.860229"
+    },
+    {
+      "english": "One word, a new world.",
+      "spanish": "Una palabra, un mundo nuevo.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T18:27:28.365688"
+    },
+    {
+      "english": "This simple sound connects.",
+      "spanish": "Este sonido simple conecta.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T18:27:28.365720"
+    },
+    {
+      "english": "Don't fear, just listen.",
+      "spanish": "No temas, solo escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T18:27:28.365745"
+    },
+    {
+      "english": "Mistakes are practice, embrace.",
+      "spanish": "Errores son práctica, abraza.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T18:27:28.365772"
+    },
+    {
+      "english": "This feeling? Priceless fluency.",
+      "spanish": "¿Este sentimiento? Fluidez invaluable.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T18:27:28.365800"
     }
   ],
   "used_english": [
-    "never wait, say what you see",
-    "the secret, add one emotion word",
-    "stop hunting rules, just tell a story",
-    "never perfect, just finish the sentence",
-    "stop doubting, say it anyway, hoy",
     "this is why smiles unlock spanish",
     "the secret? talk like you mean it",
     "stop chasing perfect, use simple now",
@@ -21001,7 +20996,12 @@
     "your voice finds home.",
     "tiny phrase, huge world.",
     "mistakes? just practice.",
-    "this feeling is pure."
+    "this feeling is pure.",
+    "one word, a new world.",
+    "this simple sound connects.",
+    "don't fear, just listen.",
+    "mistakes are practice, embrace.",
+    "this feeling? priceless fluency."
   ],
-  "last_updated": "2026-09-02T17:03:40.860231"
+  "last_updated": "2026-09-02T18:27:28.365802"
 }
