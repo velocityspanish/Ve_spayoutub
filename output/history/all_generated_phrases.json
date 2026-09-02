@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop fearing 'ser' vs 'estar'",
-      "spanish": "Deja de temer 'ser' y 'estar'",
-      "category": "Growth",
-      "generated_at": "2026-04-18T19:43:49.985018"
-    },
-    {
-      "english": "The secret is saying one need",
-      "spanish": "El secreto es decir una necesidad",
-      "category": "Growth",
-      "generated_at": "2026-04-18T19:43:49.985023"
-    },
-    {
-      "english": "Stop waiting, use 'todavía'",
-      "spanish": "No esperes, usa 'todavía'",
-      "category": "Growth",
-      "generated_at": "2026-04-18T19:43:49.985028"
-    },
-    {
-      "english": "Never say 'because', say 'porque'",
-      "spanish": "Nunca digas 'porque' con miedo",
-      "category": "Growth",
-      "generated_at": "2026-04-18T19:43:49.985033"
-    },
-    {
-      "english": "Never ask, just try “me gusta”",
-      "spanish": "Nunca preguntes, prueba “me gusta”",
-      "category": "Positive Life",
-      "generated_at": "2026-04-18T21:23:49.684699"
-    },
-    {
       "english": "Stop hiding, say “yo también”",
       "spanish": "Para de ocultarte, di “yo también”",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Listo para tu chispa española?",
       "category": "Motivation",
       "generated_at": "2026-09-02T19:38:40.078756"
+    },
+    {
+      "english": "Breathe in calm, speak peace.",
+      "spanish": "Respira calma, habla paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-02T21:39:34.915131"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "spanish": "Escucha tu voz interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-02T21:39:34.915167"
+    },
+    {
+      "english": "One mindful word, serenity.",
+      "spanish": "Una palabra consciente, serenidad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-02T21:39:34.915193"
+    },
+    {
+      "english": "Find your quiet space.",
+      "spanish": "Encuentra tu espacio tranquilo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-02T21:39:34.915217"
+    },
+    {
+      "english": "This pause is golden.",
+      "spanish": "Esta pausa es dorada.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-02T21:39:34.915242"
     }
   ],
   "used_english": [
-    "stop fearing 'ser' vs 'estar'",
-    "the secret is saying one need",
-    "stop waiting, use 'todavía'",
-    "never say 'because', say 'porque'",
-    "never ask, just try “me gusta”",
     "stop hiding, say “yo también”",
     "the secret, practice questions only",
     "stop switching, say it in present",
@@ -21001,7 +20996,12 @@
     "speak it, feel the magic.",
     "curious? this unlocks connection.",
     "listen closely, words bloom.",
-    "ready for your spanish spark?"
+    "ready for your spanish spark?",
+    "breathe in calm, speak peace.",
+    "listen to your inner voice.",
+    "one mindful word, serenity.",
+    "find your quiet space.",
+    "this pause is golden."
   ],
-  "last_updated": "2026-09-02T19:38:40.078759"
+  "last_updated": "2026-09-02T21:39:34.915244"
 }
