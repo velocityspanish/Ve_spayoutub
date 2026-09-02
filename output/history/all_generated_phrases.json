@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why smiles unlock Spanish",
-      "spanish": "Por eso, las sonrisas abren español",
-      "category": "Happiness",
-      "generated_at": "2026-04-18T17:37:00.252328"
-    },
-    {
-      "english": "The secret? Talk like you mean it",
-      "spanish": "El secreto, habla como lo sientes",
-      "category": "Happiness",
-      "generated_at": "2026-04-18T17:37:00.252334"
-    },
-    {
-      "english": "Stop chasing perfect, use simple now",
-      "spanish": "No persigas lo perfecto, usa simple ahora",
-      "category": "Happiness",
-      "generated_at": "2026-04-18T17:37:00.252338"
-    },
-    {
-      "english": "Never fear silence, smile back",
-      "spanish": "No temas el silencio, sonríe primero",
-      "category": "Happiness",
-      "generated_at": "2026-04-18T17:37:00.252343"
-    },
-    {
-      "english": "Never lose the tiny 'de'",
-      "spanish": "Nunca pierdas la 'de' pequeñita",
-      "category": "Growth",
-      "generated_at": "2026-04-18T19:43:49.985005"
-    },
-    {
       "english": "Stop fearing 'ser' vs 'estar'",
       "spanish": "Deja de temer 'ser' y 'estar'",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este sentimiento? Fluidez invaluable.",
       "category": "Courage",
       "generated_at": "2026-09-02T18:27:28.365800"
+    },
+    {
+      "english": "Don't fear mistakes, learn.",
+      "spanish": "No temas errores, aprende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-02T19:38:40.078611"
+    },
+    {
+      "english": "Speak it, feel the magic.",
+      "spanish": "Dilo, siente la magia.",
+      "category": "Motivation",
+      "generated_at": "2026-09-02T19:38:40.078654"
+    },
+    {
+      "english": "Curious? This unlocks connection.",
+      "spanish": "¿Curioso? Esto desbloquea conexión.",
+      "category": "Motivation",
+      "generated_at": "2026-09-02T19:38:40.078688"
+    },
+    {
+      "english": "Listen closely, words bloom.",
+      "spanish": "Escucha atento, florecen palabras.",
+      "category": "Motivation",
+      "generated_at": "2026-09-02T19:38:40.078724"
+    },
+    {
+      "english": "Ready for your Spanish spark?",
+      "spanish": "¿Listo para tu chispa española?",
+      "category": "Motivation",
+      "generated_at": "2026-09-02T19:38:40.078756"
     }
   ],
   "used_english": [
-    "this is why smiles unlock spanish",
-    "the secret? talk like you mean it",
-    "stop chasing perfect, use simple now",
-    "never fear silence, smile back",
-    "never lose the tiny 'de'",
     "stop fearing 'ser' vs 'estar'",
     "the secret is saying one need",
     "stop waiting, use 'todavía'",
@@ -21001,7 +20996,12 @@
     "this simple sound connects.",
     "don't fear, just listen.",
     "mistakes are practice, embrace.",
-    "this feeling? priceless fluency."
+    "this feeling? priceless fluency.",
+    "don't fear mistakes, learn.",
+    "speak it, feel the magic.",
+    "curious? this unlocks connection.",
+    "listen closely, words bloom.",
+    "ready for your spanish spark?"
   ],
-  "last_updated": "2026-09-02T18:27:28.365802"
+  "last_updated": "2026-09-02T19:38:40.078759"
 }
