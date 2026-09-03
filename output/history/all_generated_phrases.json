@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop sounding rehearsed, speak naturally",
-      "spanish": "Deja de sonar ensayado, habla natural",
-      "category": "Confidence",
-      "generated_at": "2026-04-19T15:39:14.679556"
-    },
-    {
-      "english": "The secret? Use one real detail",
-      "spanish": "El secreto, usa un detalle real",
-      "category": "Confidence",
-      "generated_at": "2026-04-19T15:39:14.679561"
-    },
-    {
-      "english": "Stop editing, let it flow",
-      "spanish": "Deja de editar, deja fluir",
-      "category": "Confidence",
-      "generated_at": "2026-04-19T15:39:14.679565"
-    },
-    {
-      "english": "Never fear small talk, start",
-      "spanish": "No temas la charla, empieza",
-      "category": "Confidence",
-      "generated_at": "2026-04-19T15:39:14.679570"
-    },
-    {
-      "english": "Stop waiting for “perfect” words",
-      "spanish": "Deja de esperar palabras perfectas",
-      "category": "Courage",
-      "generated_at": "2026-04-19T17:36:26.794853"
-    },
-    {
       "english": "Never speak without one connection",
       "spanish": "Nunca hables sin un conector",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué apresurarse? Saborea los sonidos.",
       "category": "Mindfulness",
       "generated_at": "2026-09-03T16:58:55.572301"
+    },
+    {
+      "english": "Your accent? It’s beautiful.",
+      "spanish": "Tu acento? Es hermoso.",
+      "category": "Success",
+      "generated_at": "2026-09-03T18:22:55.236786"
+    },
+    {
+      "english": "What if you understood? Now.",
+      "spanish": "¿Qué si entendieras? Ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-03T18:22:55.236820"
+    },
+    {
+      "english": "Listen to this rhythm, feel.",
+      "spanish": "Escucha este ritmo, siente.",
+      "category": "Success",
+      "generated_at": "2026-09-03T18:22:55.236842"
+    },
+    {
+      "english": "Your progress is stunning, wow.",
+      "spanish": "Tu progreso es asombroso, wow.",
+      "category": "Success",
+      "generated_at": "2026-09-03T18:22:55.236863"
+    },
+    {
+      "english": "Embrace the pauses, they teach.",
+      "spanish": "Abraza las pausas, enseñan.",
+      "category": "Success",
+      "generated_at": "2026-09-03T18:22:55.236885"
     }
   ],
   "used_english": [
-    "stop sounding rehearsed, speak naturally",
-    "the secret? use one real detail",
-    "stop editing, let it flow",
-    "never fear small talk, start",
-    "stop waiting for “perfect” words",
     "never speak without one connection",
     "what nobody tells you, just breathe",
     "the secret? say it with emotion",
@@ -21001,7 +20996,12 @@
     "curious about 'slowly'?",
     "your brain craves this word.",
     "listen. connect. understand.",
-    "why rush? savor the sounds."
+    "why rush? savor the sounds.",
+    "your accent? it’s beautiful.",
+    "what if you understood? now.",
+    "listen to this rhythm, feel.",
+    "your progress is stunning, wow.",
+    "embrace the pauses, they teach."
   ],
-  "last_updated": "2026-09-03T16:58:55.572302"
+  "last_updated": "2026-09-03T18:22:55.236887"
 }
