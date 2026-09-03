@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study long, speak right now",
-      "spanish": "Nunca estudies mucho, habla ya",
-      "category": "Balance",
-      "generated_at": "2026-04-19T14:01:25.286173"
-    },
-    {
-      "english": "This is why you stall, missing one preposition",
-      "spanish": "Por eso te trabas, falta una preposición",
-      "category": "Balance",
-      "generated_at": "2026-04-19T14:01:25.286180"
-    },
-    {
-      "english": "The secret is pairing, subject plus action",
-      "spanish": "El secreto es unir, sujeto y acción",
-      "category": "Balance",
-      "generated_at": "2026-04-19T14:01:25.286187"
-    },
-    {
-      "english": "Never say 'I think', go straight to feel",
-      "spanish": "No digas 'creo', ve directo al sentir",
-      "category": "Balance",
-      "generated_at": "2026-04-19T14:01:25.286194"
-    },
-    {
-      "english": "Never apologize, start speaking",
-      "spanish": "Nunca pidas disculpas, empieza a hablar",
-      "category": "Confidence",
-      "generated_at": "2026-04-19T15:39:14.679543"
-    },
-    {
       "english": "Stop sounding rehearsed, speak naturally",
       "spanish": "Deja de sonar ensayado, habla natural",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Esto suena a amor, eh?",
       "category": "Love",
       "generated_at": "2026-09-02T22:54:02.678086"
+    },
+    {
+      "english": "This pause? Your superpower.",
+      "spanish": "Esta pausa? Tu superpoder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-03T16:58:55.572208"
+    },
+    {
+      "english": "Curious about 'slowly'?",
+      "spanish": "¿Curioso por 'despacio'?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-03T16:58:55.572238"
+    },
+    {
+      "english": "Your brain craves this word.",
+      "spanish": "Tu cerebro anhela esta palabra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-03T16:58:55.572260"
+    },
+    {
+      "english": "Listen. Connect. Understand.",
+      "spanish": "Escucha. Conecta. Comprende.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-03T16:58:55.572280"
+    },
+    {
+      "english": "Why rush? Savor the sounds.",
+      "spanish": "¿Por qué apresurarse? Saborea los sonidos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-03T16:58:55.572301"
     }
   ],
   "used_english": [
-    "never study long, speak right now",
-    "this is why you stall, missing one preposition",
-    "the secret is pairing, subject plus action",
-    "never say 'i think', go straight to feel",
-    "never apologize, start speaking",
     "stop sounding rehearsed, speak naturally",
     "the secret? use one real detail",
     "stop editing, let it flow",
@@ -21001,7 +20996,12 @@
     "love unlocked, this word.",
     "your heart speaks spanish, listen.",
     "one word, pure romance.",
-    "this sounds like love, eh?"
+    "this sounds like love, eh?",
+    "this pause? your superpower.",
+    "curious about 'slowly'?",
+    "your brain craves this word.",
+    "listen. connect. understand.",
+    "why rush? savor the sounds."
   ],
-  "last_updated": "2026-09-02T22:54:02.678088"
+  "last_updated": "2026-09-03T16:58:55.572302"
 }
