@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, speak your next thought",
-      "spanish": "Nunca esperes, di tu próximo pensamiento",
-      "category": "Patience",
-      "generated_at": "2026-04-19T21:25:06.427252"
-    },
-    {
-      "english": "The secret, ask instead of translate",
-      "spanish": "El secreto, pregunta en vez de traducir",
-      "category": "Patience",
-      "generated_at": "2026-04-19T21:25:06.427257"
-    },
-    {
-      "english": "Never fear questions, use simple 'sí'",
-      "spanish": "No temas preguntas, usa un 'sí' simple",
-      "category": "Patience",
-      "generated_at": "2026-04-19T21:25:06.427262"
-    },
-    {
-      "english": "Stop avoiding practice, do it messy",
-      "spanish": "Deja de evitar práctica, hazlo mal",
-      "category": "Patience",
-      "generated_at": "2026-04-19T21:25:06.427267"
-    },
-    {
-      "english": "Stop shrinking, say your truth",
-      "spanish": "Deja de encogerte, di tu verdad",
-      "category": "Positive Life",
-      "generated_at": "2026-04-20T14:54:25.120257"
-    },
-    {
       "english": "Never say “someday”, say “hoy”",
       "spanish": "Nunca digas “algún día”, di “hoy”",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Este truco simple desbloquea fluidez.",
       "category": "Success",
       "generated_at": "2026-09-03T21:36:04.786839"
+    },
+    {
+      "english": "This sounds like Spanish magic.",
+      "spanish": "Esto suena a magia española.",
+      "category": "Creativity",
+      "generated_at": "2026-09-03T22:53:01.010168"
+    },
+    {
+      "english": "One word, total understanding.",
+      "spanish": "Una palabra, comprensión total.",
+      "category": "Creativity",
+      "generated_at": "2026-09-03T22:53:01.010199"
+    },
+    {
+      "english": "Can you feel this connection?",
+      "spanish": "¿Sientes esta conexión?",
+      "category": "Creativity",
+      "generated_at": "2026-09-03T22:53:01.010221"
+    },
+    {
+      "english": "This simple sound builds confidence.",
+      "spanish": "Este sonido simple da confianza.",
+      "category": "Creativity",
+      "generated_at": "2026-09-03T22:53:01.010243"
+    },
+    {
+      "english": "Your progress is real, wow!",
+      "spanish": "¡Tu progreso es real, wow!",
+      "category": "Creativity",
+      "generated_at": "2026-09-03T22:53:01.010263"
     }
   ],
   "used_english": [
-    "never wait, speak your next thought",
-    "the secret, ask instead of translate",
-    "never fear questions, use simple 'sí'",
-    "stop avoiding practice, do it messy",
-    "stop shrinking, say your truth",
     "never say “someday”, say “hoy”",
     "the secret is asking, not guessing",
     "never hide, use “yo puedo”",
@@ -21001,7 +20996,12 @@
     "want faster progress? try this.",
     "this feeling? true fluency whispers.",
     "one small habit, huge spanish gains.",
-    "this simple trick unlocks fluency."
+    "this simple trick unlocks fluency.",
+    "this sounds like spanish magic.",
+    "one word, total understanding.",
+    "can you feel this connection?",
+    "this simple sound builds confidence.",
+    "your progress is real, wow!"
   ],
-  "last_updated": "2026-09-03T21:36:04.786841"
+  "last_updated": "2026-09-03T22:53:01.010265"
 }
