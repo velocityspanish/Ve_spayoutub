@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never speak without one connection",
-      "spanish": "Nunca hables sin un conector",
-      "category": "Courage",
-      "generated_at": "2026-04-19T17:36:26.794865"
-    },
-    {
-      "english": "What nobody tells you, just breathe",
-      "spanish": "Lo que nadie te dice, respira",
-      "category": "Courage",
-      "generated_at": "2026-04-19T17:36:26.794870"
-    },
-    {
-      "english": "The secret? Say it with emotion",
-      "spanish": "El secreto, dilo con emoción",
-      "category": "Courage",
-      "generated_at": "2026-04-19T17:36:26.794875"
-    },
-    {
-      "english": "Stop searching, start describing today",
-      "spanish": "Deja de buscar, describe hoy",
-      "category": "Courage",
-      "generated_at": "2026-04-19T17:36:26.794879"
-    },
-    {
-      "english": "Stop memorizing, just shadow natives",
-      "spanish": "Deja de memorizar, imita nativos",
-      "category": "Joy",
-      "generated_at": "2026-04-19T19:44:01.440619"
-    },
-    {
       "english": "Never study, talk for three minutes",
       "spanish": "Nunca estudies, habla tres minutos",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Abraza las pausas, enseñan.",
       "category": "Success",
       "generated_at": "2026-09-03T18:22:55.236885"
+    },
+    {
+      "english": "One 'hola' starts adventures.",
+      "spanish": "Un 'hola' inicia aventuras.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-03T19:40:35.147318"
+    },
+    {
+      "english": "Why fear mistakes? Learn.",
+      "spanish": "¿Por qué temer errores? Aprende.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-03T19:40:35.147346"
+    },
+    {
+      "english": "You're closer than you think.",
+      "spanish": "Estás más cerca de lo que crees.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-03T19:40:35.147367"
+    },
+    {
+      "english": "One new word, pure joy.",
+      "spanish": "Una palabra nueva, pura alegría.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-03T19:40:35.147385"
+    },
+    {
+      "english": "Imagine understanding them.",
+      "spanish": "Imagina que los entiendes.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-03T19:40:35.147403"
     }
   ],
   "used_english": [
-    "never speak without one connection",
-    "what nobody tells you, just breathe",
-    "the secret? say it with emotion",
-    "stop searching, start describing today",
-    "stop memorizing, just shadow natives",
     "never study, talk for three minutes",
     "this is why “me” sticks first",
     "never overthink, just use “quiero”",
@@ -21001,7 +20996,12 @@
     "what if you understood? now.",
     "listen to this rhythm, feel.",
     "your progress is stunning, wow.",
-    "embrace the pauses, they teach."
+    "embrace the pauses, they teach.",
+    "one 'hola' starts adventures.",
+    "why fear mistakes? learn.",
+    "you're closer than you think.",
+    "one new word, pure joy.",
+    "imagine understanding them."
   ],
-  "last_updated": "2026-09-03T18:22:55.236887"
+  "last_updated": "2026-09-03T19:40:35.147405"
 }
