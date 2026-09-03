@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study, talk for three minutes",
-      "spanish": "Nunca estudies, habla tres minutos",
-      "category": "Joy",
-      "generated_at": "2026-04-19T19:44:01.440632"
-    },
-    {
-      "english": "This is why “me” sticks first",
-      "spanish": "Esto es por qué “me” pega primero",
-      "category": "Joy",
-      "generated_at": "2026-04-19T19:44:01.440638"
-    },
-    {
-      "english": "Never overthink, just use “quiero”",
-      "spanish": "Nunca pienses de más, usa “quiero”",
-      "category": "Joy",
-      "generated_at": "2026-04-19T19:44:01.440643"
-    },
-    {
-      "english": "Stop asking, start answering out loud",
-      "spanish": "Deja de preguntar, responde en voz alta",
-      "category": "Joy",
-      "generated_at": "2026-04-19T19:44:01.440648"
-    },
-    {
-      "english": "Stop chasing perfect, add one verb",
-      "spanish": "Deja la perfección, agrega un verbo",
-      "category": "Patience",
-      "generated_at": "2026-04-19T21:25:06.427237"
-    },
-    {
       "english": "Never wait, speak your next thought",
       "spanish": "Nunca esperes, di tu próximo pensamiento",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Imagina que los entiendes.",
       "category": "Inspiration",
       "generated_at": "2026-09-03T19:40:35.147403"
+    },
+    {
+      "english": "Listen: Spanish is inside you.",
+      "spanish": "Escucha: Español está en ti.",
+      "category": "Success",
+      "generated_at": "2026-09-03T21:36:04.786711"
+    },
+    {
+      "english": "Want faster progress? Try this.",
+      "spanish": "¿Quieres avanzar más rápido? Prueba esto.",
+      "category": "Success",
+      "generated_at": "2026-09-03T21:36:04.786753"
+    },
+    {
+      "english": "This feeling? True fluency whispers.",
+      "spanish": "¿Este sentimiento? Susurra la fluidez real.",
+      "category": "Success",
+      "generated_at": "2026-09-03T21:36:04.786783"
+    },
+    {
+      "english": "One small habit, huge Spanish gains.",
+      "spanish": "Un pequeño hábito, enormes ganancias en español.",
+      "category": "Success",
+      "generated_at": "2026-09-03T21:36:04.786809"
+    },
+    {
+      "english": "This simple trick unlocks fluency.",
+      "spanish": "Este truco simple desbloquea fluidez.",
+      "category": "Success",
+      "generated_at": "2026-09-03T21:36:04.786839"
     }
   ],
   "used_english": [
-    "never study, talk for three minutes",
-    "this is why “me” sticks first",
-    "never overthink, just use “quiero”",
-    "stop asking, start answering out loud",
-    "stop chasing perfect, add one verb",
     "never wait, speak your next thought",
     "the secret, ask instead of translate",
     "never fear questions, use simple 'sí'",
@@ -21001,7 +20996,12 @@
     "why fear mistakes? learn.",
     "you're closer than you think.",
     "one new word, pure joy.",
-    "imagine understanding them."
+    "imagine understanding them.",
+    "listen: spanish is inside you.",
+    "want faster progress? try this.",
+    "this feeling? true fluency whispers.",
+    "one small habit, huge spanish gains.",
+    "this simple trick unlocks fluency."
   ],
-  "last_updated": "2026-09-03T19:40:35.147405"
+  "last_updated": "2026-09-03T21:36:04.786841"
 }
