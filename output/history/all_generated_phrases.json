@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never overthink, grab one verb",
-      "spanish": "Nunca sobrepienses, toma un verbo",
-      "category": "Creativity",
-      "generated_at": "2026-04-20T16:11:28.577151"
-    },
-    {
-      "english": "The secret? Answer in one breath",
-      "spanish": "El secreto, responde en una bocanada",
-      "category": "Creativity",
-      "generated_at": "2026-04-20T16:11:28.577157"
-    },
-    {
-      "english": "Stop pausing, use 'porque' boldly",
-      "spanish": "No te detengas, usa 'porque' valiente",
-      "category": "Creativity",
-      "generated_at": "2026-04-20T16:11:28.577162"
-    },
-    {
-      "english": "Never say perfect, say what matters",
-      "spanish": "No digas perfecto, di lo que importa",
-      "category": "Creativity",
-      "generated_at": "2026-04-20T16:11:28.577167"
-    },
-    {
-      "english": "Stop ghosting, say “¿Qué tal?”",
-      "spanish": "Deja de desaparecer, di “¿Qué tal?”",
-      "category": "Friendship",
-      "generated_at": "2026-04-20T17:58:18.530824"
-    },
-    {
       "english": "Never lose “amigo”, use it!",
       "spanish": "Nunca pierdas “amigo”, ¡úsalo!",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Un sonido simple, paz profunda.",
       "category": "Inner Peace",
       "generated_at": "2026-09-04T16:46:53.062904"
+    },
+    {
+      "english": "Your patience pays off, friend.",
+      "spanish": "Tu paciencia vale la pena, amigo.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T18:10:00.351417"
+    },
+    {
+      "english": "Tiny words build big fluency.",
+      "spanish": "Palabras pequeñas construyen gran fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T18:10:00.351453"
+    },
+    {
+      "english": "You've got this, seriously.",
+      "spanish": "Tú puedes con esto, en serio.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T18:10:00.351476"
+    },
+    {
+      "english": "This rhythm connects cultures.",
+      "spanish": "Este ritmo conecta culturas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T18:10:00.351500"
+    },
+    {
+      "english": "Your ear is getting sharper.",
+      "spanish": "Tu oído se está agudizando.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-04T18:10:00.351522"
     }
   ],
   "used_english": [
-    "never overthink, grab one verb",
-    "the secret? answer in one breath",
-    "stop pausing, use 'porque' boldly",
-    "never say perfect, say what matters",
-    "stop ghosting, say “¿qué tal?”",
     "never lose “amigo”, use it!",
     "this is why friendships stick faster",
     "never go silent, react with “qué bien”",
@@ -21001,7 +20996,12 @@
     "listen. your soul hears this.",
     "your quiet is your strength.",
     "breathe. this moment is yours.",
-    "a simple sound, profound peace."
+    "a simple sound, profound peace.",
+    "your patience pays off, friend.",
+    "tiny words build big fluency.",
+    "you've got this, seriously.",
+    "this rhythm connects cultures.",
+    "your ear is getting sharper."
   ],
-  "last_updated": "2026-09-04T16:46:53.062907"
+  "last_updated": "2026-09-04T18:10:00.351524"
 }
