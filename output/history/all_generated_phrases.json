@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “someday”, say “hoy”",
-      "spanish": "Nunca digas “algún día”, di “hoy”",
-      "category": "Positive Life",
-      "generated_at": "2026-04-20T14:54:25.120269"
-    },
-    {
-      "english": "The secret is asking, not guessing",
-      "spanish": "El secreto es preguntar, no adivinar",
-      "category": "Positive Life",
-      "generated_at": "2026-04-20T14:54:25.120274"
-    },
-    {
-      "english": "Never hide, use “yo puedo”",
-      "spanish": "Nunca te escondas, usa “yo puedo”",
-      "category": "Positive Life",
-      "generated_at": "2026-04-20T14:54:25.120279"
-    },
-    {
-      "english": "Stop overediting, speak with heart",
-      "spanish": "Deja de sobreeditar, habla con corazón",
-      "category": "Positive Life",
-      "generated_at": "2026-04-20T14:54:25.120284"
-    },
-    {
-      "english": "Stop starting with English inside",
-      "spanish": "Deja de empezar con inglés dentro",
-      "category": "Creativity",
-      "generated_at": "2026-04-20T16:11:28.577138"
-    },
-    {
       "english": "Never overthink, grab one verb",
       "spanish": "Nunca sobrepienses, toma un verbo",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Tu progreso es real, wow!",
       "category": "Creativity",
       "generated_at": "2026-09-03T22:53:01.010263"
+    },
+    {
+      "english": "This word calms your mind.",
+      "spanish": "Esta palabra calma tu mente.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-04T16:46:53.062764"
+    },
+    {
+      "english": "Listen. Your soul hears this.",
+      "spanish": "Escucha. Tu alma oye esto.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-04T16:46:53.062806"
+    },
+    {
+      "english": "Your quiet is your strength.",
+      "spanish": "Tu calma es tu fuerza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-04T16:46:53.062835"
+    },
+    {
+      "english": "Breathe. This moment is yours.",
+      "spanish": "Respira. Este momento es tuyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-04T16:46:53.062863"
+    },
+    {
+      "english": "A simple sound, profound peace.",
+      "spanish": "Un sonido simple, paz profunda.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-04T16:46:53.062904"
     }
   ],
   "used_english": [
-    "never say “someday”, say “hoy”",
-    "the secret is asking, not guessing",
-    "never hide, use “yo puedo”",
-    "stop overediting, speak with heart",
-    "stop starting with english inside",
     "never overthink, grab one verb",
     "the secret? answer in one breath",
     "stop pausing, use 'porque' boldly",
@@ -21001,7 +20996,12 @@
     "one word, total understanding.",
     "can you feel this connection?",
     "this simple sound builds confidence.",
-    "your progress is real, wow!"
+    "your progress is real, wow!",
+    "this word calms your mind.",
+    "listen. your soul hears this.",
+    "your quiet is your strength.",
+    "breathe. this moment is yours.",
+    "a simple sound, profound peace."
   ],
-  "last_updated": "2026-09-03T22:53:01.010265"
+  "last_updated": "2026-09-04T16:46:53.062907"
 }
