@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never skip the 'y', save sentences",
-      "spanish": "Nunca saltes el 'y', salva frases",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-20T21:37:33.773480"
-    },
-    {
-      "english": "The secret, ask 'who' before 'what'",
-      "spanish": "El secreto, pregunta 'quién' primero",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-20T21:37:33.773486"
-    },
-    {
-      "english": "Never start with 'I think', switch",
-      "spanish": "Nunca empieces con 'yo creo', cambia",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-20T21:37:33.773491"
-    },
-    {
-      "english": "Stop saying 'sorry', say 'thank you'",
-      "spanish": "Deja de decir 'perdón', di 'gracias'",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-20T21:37:33.773496"
-    },
-    {
-      "english": "Stop asking, start naming feelings",
-      "spanish": "Deja de preguntar, nombra sentimientos",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T14:49:08.972643"
-    },
-    {
       "english": "Never fear imperfect words, use them",
       "spanish": "Nunca temas palabras imperfectas, úsalas",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este ritmo? Corazón puro.",
       "category": "Happiness",
       "generated_at": "2026-09-04T21:19:09.777867"
+    },
+    {
+      "english": "Listen, your progress shines.",
+      "spanish": "Escucha, tu progreso brilla.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-04T22:36:56.390582"
+    },
+    {
+      "english": "Imagine conversations flowing now.",
+      "spanish": "Imagina conversaciones fluyendo ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-04T22:36:56.390616"
+    },
+    {
+      "english": "Your voice has power, speak.",
+      "spanish": "Tu voz tiene poder, habla.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-04T22:36:56.390637"
+    },
+    {
+      "english": "Embrace the journey, enjoy.",
+      "spanish": "Abraza el viaje, disfruta.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-04T22:36:56.390658"
+    },
+    {
+      "english": "This single word matters.",
+      "spanish": "Esta palabra única importa.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-04T22:36:56.390677"
     }
   ],
   "used_english": [
-    "never skip the 'y', save sentences",
-    "the secret, ask 'who' before 'what'",
-    "never start with 'i think', switch",
-    "stop saying 'sorry', say 'thank you'",
-    "stop asking, start naming feelings",
     "never fear imperfect words, use them",
     "this is why natives respond fast",
     "never wait for grammar, start talking",
@@ -21001,7 +20996,12 @@
     "your spanish journey: unlock.",
     "curious how words bloom?",
     "your inner voice, now singing.",
-    "this rhythm? pure heart."
+    "this rhythm? pure heart.",
+    "listen, your progress shines.",
+    "imagine conversations flowing now.",
+    "your voice has power, speak.",
+    "embrace the journey, enjoy.",
+    "this single word matters."
   ],
-  "last_updated": "2026-09-04T21:19:09.777869"
+  "last_updated": "2026-09-04T22:36:56.390679"
 }
