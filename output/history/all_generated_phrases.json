@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never lose “amigo”, use it!",
-      "spanish": "Nunca pierdas “amigo”, ¡úsalo!",
-      "category": "Friendship",
-      "generated_at": "2026-04-20T17:58:18.530837"
-    },
-    {
-      "english": "This is why friendships stick faster",
-      "spanish": "Esto es por qué la amistad pega",
-      "category": "Friendship",
-      "generated_at": "2026-04-20T17:58:18.530842"
-    },
-    {
-      "english": "Never go silent, react with “qué bien”",
-      "spanish": "No te quedes callado, “qué bien”",
-      "category": "Friendship",
-      "generated_at": "2026-04-20T17:58:18.530848"
-    },
-    {
-      "english": "This phrase makes people trust you",
-      "spanish": "Esta frase hace que confíen",
-      "category": "Friendship",
-      "generated_at": "2026-04-20T17:58:18.530853"
-    },
-    {
-      "english": "Stop rushing, breathe, then say",
-      "spanish": "Para la prisa, respira, y di",
-      "category": "Patience",
-      "generated_at": "2026-04-20T20:02:03.014920"
-    },
-    {
       "english": "Never fear saying 'today' wrong",
       "spanish": "Nunca temas decir 'hoy' mal",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu oído se está agudizando.",
       "category": "Perseverance",
       "generated_at": "2026-09-04T18:10:00.351522"
+    },
+    {
+      "english": "Your voice, now fluent.",
+      "spanish": "Tu voz, ahora fluida.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-04T19:18:41.603668"
+    },
+    {
+      "english": "Listen: true fluency awaits.",
+      "spanish": "Escucha: la fluidez real.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-04T19:18:41.603699"
+    },
+    {
+      "english": "One word, immense feeling.",
+      "spanish": "Una palabra, gran sentir.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-04T19:18:41.603720"
+    },
+    {
+      "english": "Your journey, beautiful progress.",
+      "spanish": "Tu viaje, progreso hermoso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-04T19:18:41.603742"
+    },
+    {
+      "english": "Can you feel this? Wow.",
+      "spanish": "¿Sientes esto? Vaya.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-04T19:18:41.603762"
     }
   ],
   "used_english": [
-    "never lose “amigo”, use it!",
-    "this is why friendships stick faster",
-    "never go silent, react with “qué bien”",
-    "this phrase makes people trust you",
-    "stop rushing, breathe, then say",
     "never fear saying 'today' wrong",
     "the secret? speak first, fix later",
     "never quit when it feels awkward",
@@ -21001,7 +20996,12 @@
     "tiny words build big fluency.",
     "you've got this, seriously.",
     "this rhythm connects cultures.",
-    "your ear is getting sharper."
+    "your ear is getting sharper.",
+    "your voice, now fluent.",
+    "listen: true fluency awaits.",
+    "one word, immense feeling.",
+    "your journey, beautiful progress.",
+    "can you feel this? wow."
   ],
-  "last_updated": "2026-09-04T18:10:00.351524"
+  "last_updated": "2026-09-04T19:18:41.603764"
 }
