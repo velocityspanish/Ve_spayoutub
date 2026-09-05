@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze, use '¿Cómo?' first",
-      "spanish": "Nunca te congeles, usa '¿Cómo?' primero",
-      "category": "Joy",
-      "generated_at": "2026-04-21T16:11:46.682366"
-    },
-    {
-      "english": "The secret, answer with one verb",
-      "spanish": "El secreto, responde con un verbo",
-      "category": "Joy",
-      "generated_at": "2026-04-21T16:11:46.682372"
-    },
-    {
-      "english": "Stop clapping, start speaking now",
-      "spanish": "Deja de aplaudir, habla ya",
-      "category": "Joy",
-      "generated_at": "2026-04-21T16:11:46.682378"
-    },
-    {
-      "english": "This phrase opens conversations instantly",
-      "spanish": "Esta frase abre charlas al instante",
-      "category": "Joy",
-      "generated_at": "2026-04-21T16:11:46.682382"
-    },
-    {
-      "english": "Never wait, whisper 'por favor'",
-      "spanish": "Nunca esperes, susurra 'por favor'",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T17:59:40.527755"
-    },
-    {
       "english": "Stop hiding, say 'me importa'",
       "spanish": "Deja de esconderte, di 'me importa'",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Qué pasaría si supieras esto?",
       "category": "Motivation",
       "generated_at": "2026-09-05T15:51:03.283301"
+    },
+    {
+      "english": "Your best friend speaks Spanish.",
+      "spanish": "Tu mejor amigo habla español.",
+      "category": "Friendship",
+      "generated_at": "2026-09-05T17:11:10.407405"
+    },
+    {
+      "english": "This word seals your bond.",
+      "spanish": "Esta palabra sella tu vínculo.",
+      "category": "Friendship",
+      "generated_at": "2026-09-05T17:11:10.407444"
+    },
+    {
+      "english": "Who needs you? Say 'amigo!'",
+      "spanish": "¿Quién te necesita? ¡Di 'amigo!'",
+      "category": "Friendship",
+      "generated_at": "2026-09-05T17:11:10.407472"
+    },
+    {
+      "english": "Friendship's secret language? Spanish.",
+      "spanish": "¿El idioma secreto de amistad? Español.",
+      "category": "Friendship",
+      "generated_at": "2026-09-05T17:11:10.407499"
+    },
+    {
+      "english": "Share this with your compa.",
+      "spanish": "Comparte esto con tu compa.",
+      "category": "Friendship",
+      "generated_at": "2026-09-05T17:11:10.407526"
     }
   ],
   "used_english": [
-    "never freeze, use '¿cómo?' first",
-    "the secret, answer with one verb",
-    "stop clapping, start speaking now",
-    "this phrase opens conversations instantly",
-    "never wait, whisper 'por favor'",
     "stop hiding, say 'me importa'",
     "this is why natives sound calm",
     "the secret? use 'voy a' today",
@@ -21001,7 +20996,12 @@
     "can you hear the progress?",
     "small efforts, massive gains.",
     "this feeling? speaking confidently.",
-    "what if you knew this?"
+    "what if you knew this?",
+    "your best friend speaks spanish.",
+    "this word seals your bond.",
+    "who needs you? say 'amigo!'",
+    "friendship's secret language? spanish.",
+    "share this with your compa."
   ],
-  "last_updated": "2026-09-05T15:51:03.283303"
+  "last_updated": "2026-09-05T17:11:10.407528"
 }
