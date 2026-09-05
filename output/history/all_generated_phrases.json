@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never apologize, just say “gracias”",
-      "spanish": "Nunca pidas disculpas, solo di “gracias”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-21T20:06:12.633897"
-    },
-    {
-      "english": "The secret is speaking, not reviewing",
-      "spanish": "El secreto es hablar, no repasar",
-      "category": "Wisdom",
-      "generated_at": "2026-04-21T20:06:12.633903"
-    },
-    {
-      "english": "Stop overthinking, answer with “vale”",
-      "spanish": "Deja de pensar tanto, di “vale”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-21T20:06:12.633908"
-    },
-    {
-      "english": "Never fear “estoy”, start now",
-      "spanish": "Nunca temas “estoy”, empieza ya",
-      "category": "Wisdom",
-      "generated_at": "2026-04-21T20:06:12.633913"
-    },
-    {
-      "english": "Stop saying “wait,” start speaking",
-      "spanish": "Deja de decir “espera”, habla",
-      "category": "Joy",
-      "generated_at": "2026-04-21T21:36:27.904810"
-    },
-    {
       "english": "Never blend words, say them crisp",
       "spanish": "Nunca mezcles palabras, dilo claro",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Pequeñas victorias, gran confianza.",
       "category": "Perseverance",
       "generated_at": "2026-09-05T18:48:12.235548"
+    },
+    {
+      "english": "Your calm voice wins.",
+      "spanish": "Tu voz calmada gana.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-05T21:01:07.999939"
+    },
+    {
+      "english": "This stillness connects.",
+      "spanish": "Esta quietud conecta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-05T21:01:07.999973"
+    },
+    {
+      "english": "Peace found, words bloom.",
+      "spanish": "Paz encontrada, palabras florecen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-05T21:01:07.999999"
+    },
+    {
+      "english": "Inner peace, outer fluency.",
+      "spanish": "Paz interior, fluidez exterior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-05T21:01:08.000024"
+    },
+    {
+      "english": "Serenity speaks volumes.",
+      "spanish": "La serenidad dice mucho.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-05T21:01:08.000049"
     }
   ],
   "used_english": [
-    "never apologize, just say “gracias”",
-    "the secret is speaking, not reviewing",
-    "stop overthinking, answer with “vale”",
-    "never fear “estoy”, start now",
-    "stop saying “wait,” start speaking",
     "never blend words, say them crisp",
     "never explain, just say the word",
     "this one habit makes spanish easier",
@@ -21001,7 +20996,12 @@
     "your brain craves new sounds.",
     "this word changes perspectives.",
     "curious? this is your moment.",
-    "small wins, big confidence."
+    "small wins, big confidence.",
+    "your calm voice wins.",
+    "this stillness connects.",
+    "peace found, words bloom.",
+    "inner peace, outer fluency.",
+    "serenity speaks volumes."
   ],
-  "last_updated": "2026-09-05T18:48:12.235550"
+  "last_updated": "2026-09-05T21:01:08.000052"
 }
