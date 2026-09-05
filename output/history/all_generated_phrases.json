@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop hiding, say 'me importa'",
-      "spanish": "Deja de esconderte, di 'me importa'",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T17:59:40.527767"
-    },
-    {
-      "english": "This is why natives sound calm",
-      "spanish": "Esto es por qué suenan calmados",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T17:59:40.527773"
-    },
-    {
-      "english": "The secret? Use 'voy a' today",
-      "spanish": "El secreto, usa 'voy a' hoy",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T17:59:40.527778"
-    },
-    {
-      "english": "Never study alone, practice with questions",
-      "spanish": "Nunca estudies solo, practica con preguntas",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T17:59:40.527793"
-    },
-    {
-      "english": "Stop saying “maybe”, say “seguro”",
-      "spanish": "Deja de decir “tal vez”, di “seguro”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-21T20:06:12.633886"
-    },
-    {
       "english": "Never apologize, just say “gracias”",
       "spanish": "Nunca pidas disculpas, solo di “gracias”",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Comparte esto con tu compa.",
       "category": "Friendship",
       "generated_at": "2026-09-05T17:11:10.407526"
+    },
+    {
+      "english": "Mistakes are just stepping stones.",
+      "spanish": "Los errores son solo escalones.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T18:48:12.235433"
+    },
+    {
+      "english": "Your brain craves new sounds.",
+      "spanish": "Tu cerebro anhela sonidos nuevos.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T18:48:12.235469"
+    },
+    {
+      "english": "This word changes perspectives.",
+      "spanish": "Esta palabra cambia perspectivas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T18:48:12.235497"
+    },
+    {
+      "english": "Curious? This is your moment.",
+      "spanish": "¿Curioso? Este es tu momento.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T18:48:12.235523"
+    },
+    {
+      "english": "Small wins, big confidence.",
+      "spanish": "Pequeñas victorias, gran confianza.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T18:48:12.235548"
     }
   ],
   "used_english": [
-    "stop hiding, say 'me importa'",
-    "this is why natives sound calm",
-    "the secret? use 'voy a' today",
-    "never study alone, practice with questions",
-    "stop saying “maybe”, say “seguro”",
     "never apologize, just say “gracias”",
     "the secret is speaking, not reviewing",
     "stop overthinking, answer with “vale”",
@@ -21001,7 +20996,12 @@
     "this word seals your bond.",
     "who needs you? say 'amigo!'",
     "friendship's secret language? spanish.",
-    "share this with your compa."
+    "share this with your compa.",
+    "mistakes are just stepping stones.",
+    "your brain craves new sounds.",
+    "this word changes perspectives.",
+    "curious? this is your moment.",
+    "small wins, big confidence."
   ],
-  "last_updated": "2026-09-05T17:11:10.407528"
+  "last_updated": "2026-09-05T18:48:12.235550"
 }
