@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never blend words, say them crisp",
-      "spanish": "Nunca mezcles palabras, dilo claro",
-      "category": "Joy",
-      "generated_at": "2026-04-21T21:36:27.904824"
-    },
-    {
-      "english": "Never explain, just say the word",
-      "spanish": "No expliques, solo di la palabra",
-      "category": "Joy",
-      "generated_at": "2026-04-21T21:36:27.904829"
-    },
-    {
-      "english": "This one habit makes Spanish easier",
-      "spanish": "Este hábito hace el español fácil",
-      "category": "Joy",
-      "generated_at": "2026-04-21T21:36:27.904835"
-    },
-    {
-      "english": "Stop pausing, say “next” out loud",
-      "spanish": "Deja pausas, di “siguiente”",
-      "category": "Joy",
-      "generated_at": "2026-04-21T21:36:27.904840"
-    },
-    {
-      "english": "Stop saying “love you” silently",
-      "spanish": "Deja de decir “te quiero” en silencio",
-      "category": "Love",
-      "generated_at": "2026-04-22T14:48:09.526986"
-    },
-    {
       "english": "Never say it late, di hoy",
       "spanish": "Nunca lo digas tarde, di hoy",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "La serenidad dice mucho.",
       "category": "Inner Peace",
       "generated_at": "2026-09-05T21:01:08.000049"
+    },
+    {
+      "english": "Surprise yourself today!",
+      "spanish": "¡Sorpréndete hoy!",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T22:25:51.586873"
+    },
+    {
+      "english": "Wisdom in a whisper.",
+      "spanish": "Sabiduría en un susurro.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T22:25:51.586908"
+    },
+    {
+      "english": "One word, happy dance.",
+      "spanish": "Una palabra, baile feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T22:25:51.586933"
+    },
+    {
+      "english": "Breathe in success, exhale doubt.",
+      "spanish": "Inhala éxito, exhala duda.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T22:25:51.586960"
+    },
+    {
+      "english": "Curious? Listen for this.",
+      "spanish": "¿Curioso? Escucha esto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-05T22:25:51.586985"
     }
   ],
   "used_english": [
-    "never blend words, say them crisp",
-    "never explain, just say the word",
-    "this one habit makes spanish easier",
-    "stop pausing, say “next” out loud",
-    "stop saying “love you” silently",
     "never say it late, di hoy",
     "this is why “te extraño” hits",
     "the secret? add “mucho” right there",
@@ -21001,7 +20996,12 @@
     "this stillness connects.",
     "peace found, words bloom.",
     "inner peace, outer fluency.",
-    "serenity speaks volumes."
+    "serenity speaks volumes.",
+    "surprise yourself today!",
+    "wisdom in a whisper.",
+    "one word, happy dance.",
+    "breathe in success, exhale doubt.",
+    "curious? listen for this."
   ],
-  "last_updated": "2026-09-05T21:01:08.000052"
+  "last_updated": "2026-09-05T22:25:51.586987"
 }
