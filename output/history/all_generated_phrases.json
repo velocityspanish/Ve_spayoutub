@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear imperfect words, use them",
-      "spanish": "Nunca temas palabras imperfectas, úsalas",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T14:49:08.972660"
-    },
-    {
-      "english": "This is why natives respond fast",
-      "spanish": "Esto es por qué responden rápido",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T14:49:08.972666"
-    },
-    {
-      "english": "Never wait for grammar, start talking",
-      "spanish": "No esperes gramática, empieza a hablar",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T14:49:08.972671"
-    },
-    {
-      "english": "Stop freezing, say 'I understand'",
-      "spanish": "Deja de congelarte, di 'entiendo'",
-      "category": "Positive Life",
-      "generated_at": "2026-04-21T14:49:08.972676"
-    },
-    {
-      "english": "Stop translating mid-sentence, think Spanish",
-      "spanish": "Deja de traducir, piensa en español",
-      "category": "Joy",
-      "generated_at": "2026-04-21T16:11:46.682349"
-    },
-    {
       "english": "Never freeze, use '¿Cómo?' first",
       "spanish": "Nunca te congeles, usa '¿Cómo?' primero",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra única importa.",
       "category": "Inspiration",
       "generated_at": "2026-09-04T22:36:56.390677"
+    },
+    {
+      "english": "Your patience is unlocking fluency.",
+      "spanish": "Tu paciencia desbloquea fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-09-05T15:51:03.283190"
+    },
+    {
+      "english": "Can you hear the progress?",
+      "spanish": "¿Puedes oír el progreso?",
+      "category": "Motivation",
+      "generated_at": "2026-09-05T15:51:03.283222"
+    },
+    {
+      "english": "Small efforts, massive gains.",
+      "spanish": "Pequeños esfuerzos, ganancias masivas.",
+      "category": "Motivation",
+      "generated_at": "2026-09-05T15:51:03.283249"
+    },
+    {
+      "english": "This feeling? Speaking confidently.",
+      "spanish": "¿Esta sensación? Hablar con confianza.",
+      "category": "Motivation",
+      "generated_at": "2026-09-05T15:51:03.283277"
+    },
+    {
+      "english": "What if you knew this?",
+      "spanish": "¿Qué pasaría si supieras esto?",
+      "category": "Motivation",
+      "generated_at": "2026-09-05T15:51:03.283301"
     }
   ],
   "used_english": [
-    "never fear imperfect words, use them",
-    "this is why natives respond fast",
-    "never wait for grammar, start talking",
-    "stop freezing, say 'i understand'",
-    "stop translating mid-sentence, think spanish",
     "never freeze, use '¿cómo?' first",
     "the secret, answer with one verb",
     "stop clapping, start speaking now",
@@ -21001,7 +20996,12 @@
     "imagine conversations flowing now.",
     "your voice has power, speak.",
     "embrace the journey, enjoy.",
-    "this single word matters."
+    "this single word matters.",
+    "your patience is unlocking fluency.",
+    "can you hear the progress?",
+    "small efforts, massive gains.",
+    "this feeling? speaking confidently.",
+    "what if you knew this?"
   ],
-  "last_updated": "2026-09-04T22:36:56.390679"
+  "last_updated": "2026-09-05T15:51:03.283303"
 }
