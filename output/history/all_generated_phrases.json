@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “how are you?”",
-      "spanish": "Nunca digas “¿cómo estás?”",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T21:41:52.973467"
-    },
-    {
-      "english": "This is why compliments work fast,",
-      "spanish": "Esto es por qué los halagos rinden rápido,",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T21:41:52.973474"
-    },
-    {
-      "english": "The secret? Share one true feeling,",
-      "spanish": "El secreto, comparte un sentimiento real,",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T21:41:52.973479"
-    },
-    {
-      "english": "Never fear “I’m hungry”, use it,",
-      "spanish": "No temas “Tengo hambre”, úsalo,",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T21:41:52.973485"
-    },
-    {
-      "english": "Stop saying “hello”, say this",
-      "spanish": "No digas “hola”, di esto",
-      "category": "Love",
-      "generated_at": "2026-04-23T15:14:54.370239"
-    },
-    {
       "english": "Never confess “I’m bored” like this",
       "spanish": "Nunca digas “estoy aburrido” así",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu cerebro ama estos sonidos.",
       "category": "Balance",
       "generated_at": "2026-09-06T21:09:03.124962"
+    },
+    {
+      "english": "Your next word awaits discovery.",
+      "spanish": "Tu próxima palabra aguarda descubrimiento.",
+      "category": "Motivation",
+      "generated_at": "2026-09-06T22:31:03.939996"
+    },
+    {
+      "english": "Hear this, your progress soars.",
+      "spanish": "Escucha esto, tu progreso vuela.",
+      "category": "Motivation",
+      "generated_at": "2026-09-06T22:31:03.940031"
+    },
+    {
+      "english": "Never doubt your voice, speak.",
+      "spanish": "Nunca dudes tu voz, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-06T22:31:03.940054"
+    },
+    {
+      "english": "One phrase, new connection.",
+      "spanish": "Una frase, nueva conexión.",
+      "category": "Motivation",
+      "generated_at": "2026-09-06T22:31:03.940076"
+    },
+    {
+      "english": "Curious how spanish feels?",
+      "spanish": "¿Curioso cómo se siente el español?",
+      "category": "Motivation",
+      "generated_at": "2026-09-06T22:31:03.940097"
     }
   ],
   "used_english": [
-    "never say “how are you?”",
-    "this is why compliments work fast,",
-    "the secret? share one true feeling,",
-    "never fear “i’m hungry”, use it,",
-    "stop saying “hello”, say this",
     "never confess “i’m bored” like this",
     "the secret? don’t hide your feelings",
     "stop overthinking, say “me encanta”",
@@ -21001,7 +20996,12 @@
     "curious about 'calm' in spanish?",
     "your voice's hidden rhythm.",
     "feel the progress, it's real.",
-    "your brain loves these sounds."
+    "your brain loves these sounds.",
+    "your next word awaits discovery.",
+    "hear this, your progress soars.",
+    "never doubt your voice, speak.",
+    "one phrase, new connection.",
+    "curious how spanish feels?"
   ],
-  "last_updated": "2026-09-06T21:09:03.124964"
+  "last_updated": "2026-09-06T22:31:03.940099"
 }
