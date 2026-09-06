@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why 'por' feels natural",
-      "spanish": "Por eso 'por' se siente natural",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T16:10:45.196740"
-    },
-    {
-      "english": "The secret, add one warm 'gracias'",
-      "spanish": "El secreto, agrega un 'gracias' cálido",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T16:10:45.196746"
-    },
-    {
-      "english": "Stop ghosting Spanish, say hi",
-      "spanish": "No me ignores, di hola",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T16:10:45.196752"
-    },
-    {
-      "english": "Never fear mistakes, they build speed",
-      "spanish": "No temas errores, te dan velocidad",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T16:10:45.196757"
-    },
-    {
-      "english": "Never skip feelings, say “me alegra”",
-      "spanish": "Nunca saltes sentimientos, di “me alegra”",
-      "category": "Gratitude",
-      "generated_at": "2026-04-22T18:01:41.691852"
-    },
-    {
       "english": "Stop rushing thanks, say “te lo debo”",
       "spanish": "Deja la prisa, di “te lo debo”",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Te sientes atascado? Prueba esto.",
       "category": "Success",
       "generated_at": "2026-09-06T16:01:51.313596"
+    },
+    {
+      "english": "Unlock understanding, instantly.",
+      "spanish": "Desbloquea el entendimiento, al instante.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T17:31:30.046422"
+    },
+    {
+      "english": "Feeling lost? This helps.",
+      "spanish": "¿Te sientes perdido? Esto ayuda.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T17:31:30.046456"
+    },
+    {
+      "english": "Your voice deserves this.",
+      "spanish": "Tu voz merece esto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T17:31:30.046481"
+    },
+    {
+      "english": "Surprise! You can say this.",
+      "spanish": "¡Sorpresa! Puedes decir esto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T17:31:30.046507"
+    },
+    {
+      "english": "Curious about 'easy'?",
+      "spanish": "¿Curioso sobre 'fácil'?",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T17:31:30.046531"
     }
   ],
   "used_english": [
-    "this is why 'por' feels natural",
-    "the secret, add one warm 'gracias'",
-    "stop ghosting spanish, say hi",
-    "never fear mistakes, they build speed",
-    "never skip feelings, say “me alegra”",
     "stop rushing thanks, say “te lo debo”",
     "never underestimate “¡qué bien!”, use it",
     "stop polite? no—say “por favor” first",
@@ -21001,7 +20996,12 @@
     "listen: spanish finds you.",
     "this one sound unlocks fluency.",
     "curiosity fuels progress.",
-    "feeling stuck? try this."
+    "feeling stuck? try this.",
+    "unlock understanding, instantly.",
+    "feeling lost? this helps.",
+    "your voice deserves this.",
+    "surprise! you can say this.",
+    "curious about 'easy'?"
   ],
-  "last_updated": "2026-09-06T16:01:51.313598"
+  "last_updated": "2026-09-06T17:31:30.046533"
 }
