@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say it late, di hoy",
-      "spanish": "Nunca lo digas tarde, di hoy",
-      "category": "Love",
-      "generated_at": "2026-04-22T14:48:09.527000"
-    },
-    {
-      "english": "This is why “te extraño” hits",
-      "spanish": "Por eso “te extraño” pega",
-      "category": "Love",
-      "generated_at": "2026-04-22T14:48:09.527006"
-    },
-    {
-      "english": "The secret? Add “mucho” right there",
-      "spanish": "El secreto, agrega “mucho” aquí",
-      "category": "Love",
-      "generated_at": "2026-04-22T14:48:09.527012"
-    },
-    {
-      "english": "Stop overthinking, use “me gustas”",
-      "spanish": "No pienses tanto, usa “me gustas”",
-      "category": "Love",
-      "generated_at": "2026-04-22T14:48:09.527017"
-    },
-    {
-      "english": "Never be rude, say 'perdón'",
-      "spanish": "Nunca seas brusco, di 'perdón'",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T16:10:45.196726"
-    },
-    {
       "english": "This is why 'por' feels natural",
       "spanish": "Por eso 'por' se siente natural",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? Escucha esto.",
       "category": "Happiness",
       "generated_at": "2026-09-05T22:25:51.586985"
+    },
+    {
+      "english": "Your next level awaits.",
+      "spanish": "Tu próximo nivel te espera.",
+      "category": "Success",
+      "generated_at": "2026-09-06T16:01:51.313484"
+    },
+    {
+      "english": "Listen: Spanish finds you.",
+      "spanish": "Escucha: el español te encuentra.",
+      "category": "Success",
+      "generated_at": "2026-09-06T16:01:51.313518"
+    },
+    {
+      "english": "This one sound unlocks fluency.",
+      "spanish": "Este sonido desbloquea fluidez.",
+      "category": "Success",
+      "generated_at": "2026-09-06T16:01:51.313546"
+    },
+    {
+      "english": "Curiosity fuels progress.",
+      "spanish": "La curiosidad impulsa el progreso.",
+      "category": "Success",
+      "generated_at": "2026-09-06T16:01:51.313571"
+    },
+    {
+      "english": "Feeling stuck? Try this.",
+      "spanish": "¿Te sientes atascado? Prueba esto.",
+      "category": "Success",
+      "generated_at": "2026-09-06T16:01:51.313596"
     }
   ],
   "used_english": [
-    "never say it late, di hoy",
-    "this is why “te extraño” hits",
-    "the secret? add “mucho” right there",
-    "stop overthinking, use “me gustas”",
-    "never be rude, say 'perdón'",
     "this is why 'por' feels natural",
     "the secret, add one warm 'gracias'",
     "stop ghosting spanish, say hi",
@@ -21001,7 +20996,12 @@
     "wisdom in a whisper.",
     "one word, happy dance.",
     "breathe in success, exhale doubt.",
-    "curious? listen for this."
+    "curious? listen for this.",
+    "your next level awaits.",
+    "listen: spanish finds you.",
+    "this one sound unlocks fluency.",
+    "curiosity fuels progress.",
+    "feeling stuck? try this."
   ],
-  "last_updated": "2026-09-05T22:25:51.586987"
+  "last_updated": "2026-09-06T16:01:51.313598"
 }
