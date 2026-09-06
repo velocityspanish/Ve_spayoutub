@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize lists, learn phrases",
-      "spanish": "No memorices listas, aprende frases",
-      "category": "Success",
-      "generated_at": "2026-04-22T20:08:40.280318"
-    },
-    {
-      "english": "The secret... speak before you know",
-      "spanish": "El secreto... habla antes de saber",
-      "category": "Success",
-      "generated_at": "2026-04-22T20:08:40.280341"
-    },
-    {
-      "english": "Stop repeating yourself, say it again",
-      "spanish": "No repitas, di lo mismo otra vez",
-      "category": "Success",
-      "generated_at": "2026-04-22T20:08:40.280348"
-    },
-    {
-      "english": "Never wait—start with one sentence",
-      "spanish": "Nunca esperes—empieza con una frase",
-      "category": "Success",
-      "generated_at": "2026-04-22T20:08:40.280354"
-    },
-    {
-      "english": "Stop waiting, say it now,",
-      "spanish": "Deja de esperar, dilo ya,",
-      "category": "Kindness",
-      "generated_at": "2026-04-22T21:41:52.973455"
-    },
-    {
       "english": "Never say “how are you?”",
       "spanish": "Nunca digas “¿cómo estás?”",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente el ritmo, conecta ahora.",
       "category": "Mindfulness",
       "generated_at": "2026-09-06T18:51:28.593209"
+    },
+    {
+      "english": "Your patience, a superpower.",
+      "spanish": "Tu paciencia, un superpoder.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T21:09:03.124841"
+    },
+    {
+      "english": "Curious about 'calm' in Spanish?",
+      "spanish": "¿Curioso por 'calma' en español?",
+      "category": "Balance",
+      "generated_at": "2026-09-06T21:09:03.124878"
+    },
+    {
+      "english": "Your voice's hidden rhythm.",
+      "spanish": "El ritmo oculto de tu voz.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T21:09:03.124906"
+    },
+    {
+      "english": "Feel the progress, it's real.",
+      "spanish": "Siente el progreso, es real.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T21:09:03.124934"
+    },
+    {
+      "english": "Your brain loves these sounds.",
+      "spanish": "Tu cerebro ama estos sonidos.",
+      "category": "Balance",
+      "generated_at": "2026-09-06T21:09:03.124962"
     }
   ],
   "used_english": [
-    "never memorize lists, learn phrases",
-    "the secret... speak before you know",
-    "stop repeating yourself, say it again",
-    "never wait—start with one sentence",
-    "stop waiting, say it now,",
     "never say “how are you?”",
     "this is why compliments work fast,",
     "the secret? share one true feeling,",
@@ -21001,7 +20996,12 @@
     "curious about the whispers?",
     "listen: language lives here.",
     "your patience blooms beautifully.",
-    "feel the rhythm, connect now."
+    "feel the rhythm, connect now.",
+    "your patience, a superpower.",
+    "curious about 'calm' in spanish?",
+    "your voice's hidden rhythm.",
+    "feel the progress, it's real.",
+    "your brain loves these sounds."
   ],
-  "last_updated": "2026-09-06T18:51:28.593211"
+  "last_updated": "2026-09-06T21:09:03.124964"
 }
