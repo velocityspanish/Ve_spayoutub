@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop rushing thanks, say “te lo debo”",
-      "spanish": "Deja la prisa, di “te lo debo”",
-      "category": "Gratitude",
-      "generated_at": "2026-04-22T18:01:41.691867"
-    },
-    {
-      "english": "Never underestimate “¡Qué bien!”, use it",
-      "spanish": "Nunca subestimes “¡Qué bien!”, úsalo",
-      "category": "Gratitude",
-      "generated_at": "2026-04-22T18:01:41.691873"
-    },
-    {
-      "english": "Stop polite? no—say “por favor” first",
-      "spanish": "¿Cortés? no—di “por favor” primero",
-      "category": "Gratitude",
-      "generated_at": "2026-04-22T18:01:41.691879"
-    },
-    {
-      "english": "This changes everything, thank with “de verdad”",
-      "spanish": "Esto lo cambia todo, di “de verdad”",
-      "category": "Gratitude",
-      "generated_at": "2026-04-22T18:01:41.691885"
-    },
-    {
-      "english": "Stop overthinking, use short answers",
-      "spanish": "Deja de pensar tanto, responde corto",
-      "category": "Success",
-      "generated_at": "2026-04-22T20:08:40.280304"
-    },
-    {
       "english": "Never memorize lists, learn phrases",
       "spanish": "No memorices listas, aprende frases",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso sobre 'fácil'?",
       "category": "Purpose",
       "generated_at": "2026-09-06T17:31:30.046531"
+    },
+    {
+      "english": "Your heart knows this word.",
+      "spanish": "Tu corazón sabe esta palabra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-06T18:51:28.593087"
+    },
+    {
+      "english": "Curious about the whispers?",
+      "spanish": "¿Curioso sobre los susurros?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-06T18:51:28.593124"
+    },
+    {
+      "english": "Listen: language lives here.",
+      "spanish": "Escucha: el idioma vive aquí.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-06T18:51:28.593152"
+    },
+    {
+      "english": "Your patience blooms beautifully.",
+      "spanish": "Tu paciencia florece bellamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-06T18:51:28.593182"
+    },
+    {
+      "english": "Feel the rhythm, connect now.",
+      "spanish": "Siente el ritmo, conecta ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-06T18:51:28.593209"
     }
   ],
   "used_english": [
-    "stop rushing thanks, say “te lo debo”",
-    "never underestimate “¡qué bien!”, use it",
-    "stop polite? no—say “por favor” first",
-    "this changes everything, thank with “de verdad”",
-    "stop overthinking, use short answers",
     "never memorize lists, learn phrases",
     "the secret... speak before you know",
     "stop repeating yourself, say it again",
@@ -21001,7 +20996,12 @@
     "feeling lost? this helps.",
     "your voice deserves this.",
     "surprise! you can say this.",
-    "curious about 'easy'?"
+    "curious about 'easy'?",
+    "your heart knows this word.",
+    "curious about the whispers?",
+    "listen: language lives here.",
+    "your patience blooms beautifully.",
+    "feel the rhythm, connect now."
   ],
-  "last_updated": "2026-09-06T17:31:30.046533"
+  "last_updated": "2026-09-06T18:51:28.593211"
 }
