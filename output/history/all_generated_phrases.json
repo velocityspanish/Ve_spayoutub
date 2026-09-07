@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop chasing perfect, use one 'voy'",
-      "spanish": "No persigas lo perfecto, usa “voy”.",
-      "category": "Joy",
-      "generated_at": "2026-04-23T16:29:55.144140"
-    },
-    {
-      "english": "Never freeze, say 'no entiendo'",
-      "spanish": "Nunca te quedes, di “no entiendo”.",
-      "category": "Joy",
-      "generated_at": "2026-04-23T16:29:55.144146"
-    },
-    {
-      "english": "This phrase earns instant respect, 'vale?'",
-      "spanish": "Esta frase gana respeto, “¿vale?”.",
-      "category": "Joy",
-      "generated_at": "2026-04-23T16:29:55.144151"
-    },
-    {
-      "english": "Stop overexplaining, point and say",
-      "spanish": "Deja de explicar, señala y di.",
-      "category": "Joy",
-      "generated_at": "2026-04-23T16:29:55.144157"
-    },
-    {
-      "english": "Never say “I’m trying”, say “I do”",
-      "spanish": "Nunca digas “estoy intentando”, di “yo hago”",
-      "category": "Success",
-      "generated_at": "2026-04-23T18:06:35.936979"
-    },
-    {
       "english": "Stop using “English” mid-sentence, just switch",
       "spanish": "Deja el “inglés” a mitad, solo cambia",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu mente está lista, escucha.",
       "category": "Courage",
       "generated_at": "2026-09-07T18:09:23.313428"
+    },
+    {
+      "english": "This word melts anger away.",
+      "spanish": "Esta palabra derrite el enojo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T19:01:39.906091"
+    },
+    {
+      "english": "Your frustration has a solution.",
+      "spanish": "Tu frustración tiene solución.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T19:01:39.906125"
+    },
+    {
+      "english": "Unlock peace with this phrase.",
+      "spanish": "Desbloquea la paz con esta frase.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T19:01:39.906153"
+    },
+    {
+      "english": "Hear this, burdens lift.",
+      "spanish": "Oye esto, las cargas se aligeran.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T19:01:39.906177"
+    },
+    {
+      "english": "Surprise: you can forgive.",
+      "spanish": "Sorpresa: puedes perdonar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T19:01:39.906202"
     }
   ],
   "used_english": [
-    "stop chasing perfect, use one 'voy'",
-    "never freeze, say 'no entiendo'",
-    "this phrase earns instant respect, 'vale?'",
-    "stop overexplaining, point and say",
-    "never say “i’m trying”, say “i do”",
     "stop using “english” mid-sentence, just switch",
     "never rehearse, answer while you think",
     "stop chasing answers, ask for help",
@@ -21001,7 +20996,12 @@
     "this whisper changes everything.",
     "your bravery, unblocked, speaks.",
     "one sentence, new doors open.",
-    "your mind is ready, listen."
+    "your mind is ready, listen.",
+    "this word melts anger away.",
+    "your frustration has a solution.",
+    "unlock peace with this phrase.",
+    "hear this, burdens lift.",
+    "surprise: you can forgive."
   ],
-  "last_updated": "2026-09-07T18:09:23.313430"
+  "last_updated": "2026-09-07T19:01:39.906204"
 }
