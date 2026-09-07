@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop using “English” mid-sentence, just switch",
-      "spanish": "Deja el “inglés” a mitad, solo cambia",
-      "category": "Success",
-      "generated_at": "2026-04-23T18:06:35.936992"
-    },
-    {
-      "english": "Never rehearse, answer while you think",
-      "spanish": "Nunca ensayes, responde mientras piensas",
-      "category": "Success",
-      "generated_at": "2026-04-23T18:06:35.936998"
-    },
-    {
-      "english": "Stop chasing answers, ask for help",
-      "spanish": "Deja de buscar respuestas, pide ayuda",
-      "category": "Success",
-      "generated_at": "2026-04-23T18:06:35.937004"
-    },
-    {
-      "english": "This is why “ya” sounds natural",
-      "spanish": "Esto es por qué “ya” suena natural",
-      "category": "Success",
-      "generated_at": "2026-04-23T18:06:35.937010"
-    },
-    {
-      "english": "Stop “like” translating, just say “tal”",
-      "spanish": "Deja de traducir “like”, di “tal”",
-      "category": "Creativity",
-      "generated_at": "2026-04-23T20:09:04.926494"
-    },
-    {
       "english": "Never say “thanks”, say “gracias de verdad”",
       "spanish": "Nunca digas “gracias”, di “gracias de verdad”",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpresa: puedes perdonar.",
       "category": "Forgiveness",
       "generated_at": "2026-09-07T19:01:39.906202"
+    },
+    {
+      "english": "What if you understood more?",
+      "spanish": "¿Qué tal si entiendes más?",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-07T20:22:28.443421"
+    },
+    {
+      "english": "This one sound connects cultures.",
+      "spanish": "Este sonido une culturas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-07T20:22:28.443464"
+    },
+    {
+      "english": "Your patience unlocks everything.",
+      "spanish": "Tu paciencia desbloquea todo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-07T20:22:28.443492"
+    },
+    {
+      "english": "This simple word, pure joy.",
+      "spanish": "Esta palabra simple, pura alegría.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-07T20:22:28.443519"
+    },
+    {
+      "english": "Listen. Your accent is charming.",
+      "spanish": "Escucha. Tu acento es encantador.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-07T20:22:28.443549"
     }
   ],
   "used_english": [
-    "stop using “english” mid-sentence, just switch",
-    "never rehearse, answer while you think",
-    "stop chasing answers, ask for help",
-    "this is why “ya” sounds natural",
-    "stop “like” translating, just say “tal”",
     "never say “thanks”, say “gracias de verdad”",
     "this is why you sound natural, fast",
     "the secret? use “oye”, when it matters",
@@ -21001,7 +20996,12 @@
     "your frustration has a solution.",
     "unlock peace with this phrase.",
     "hear this, burdens lift.",
-    "surprise: you can forgive."
+    "surprise: you can forgive.",
+    "what if you understood more?",
+    "this one sound connects cultures.",
+    "your patience unlocks everything.",
+    "this simple word, pure joy.",
+    "listen. your accent is charming."
   ],
-  "last_updated": "2026-09-07T19:01:39.906204"
+  "last_updated": "2026-09-07T20:22:28.443551"
 }
