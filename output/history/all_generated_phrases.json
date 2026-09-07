@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never confess “I’m bored” like this",
-      "spanish": "Nunca digas “estoy aburrido” así",
-      "category": "Love",
-      "generated_at": "2026-04-23T15:14:54.370259"
-    },
-    {
-      "english": "The secret? Don’t hide your feelings",
-      "spanish": "El secreto, no escondas tus sentimientos",
-      "category": "Love",
-      "generated_at": "2026-04-23T15:14:54.370265"
-    },
-    {
-      "english": "Stop overthinking, say “me encanta”",
-      "spanish": "Deja de pensar, di “me encanta”",
-      "category": "Love",
-      "generated_at": "2026-04-23T15:14:54.370271"
-    },
-    {
-      "english": "Never say “love” quietly, say it",
-      "spanish": "Nunca digas “amor” en voz baja",
-      "category": "Love",
-      "generated_at": "2026-04-23T15:14:54.370277"
-    },
-    {
-      "english": "Never start with 'maybe', use 'seguro!'",
-      "spanish": "Nunca empieces con “tal vez”, usa “seguro”.",
-      "category": "Joy",
-      "generated_at": "2026-04-23T16:29:55.144125"
-    },
-    {
       "english": "Stop chasing perfect, use one 'voy'",
       "spanish": "No persigas lo perfecto, usa “voy”.",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso cómo se siente el español?",
       "category": "Motivation",
       "generated_at": "2026-09-06T22:31:03.940097"
+    },
+    {
+      "english": "Imagine understanding them, now.",
+      "spanish": "Imagínate entendiéndolos, ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-07T18:09:23.313330"
+    },
+    {
+      "english": "This whisper changes everything.",
+      "spanish": "Este susurro cambia todo.",
+      "category": "Courage",
+      "generated_at": "2026-09-07T18:09:23.313363"
+    },
+    {
+      "english": "Your bravery, unblocked, speaks.",
+      "spanish": "Tu valentía, desbloqueada, habla.",
+      "category": "Courage",
+      "generated_at": "2026-09-07T18:09:23.313387"
+    },
+    {
+      "english": "One sentence, new doors open.",
+      "spanish": "Una frase, nuevas puertas se abren.",
+      "category": "Courage",
+      "generated_at": "2026-09-07T18:09:23.313408"
+    },
+    {
+      "english": "Your mind is ready, listen.",
+      "spanish": "Tu mente está lista, escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-07T18:09:23.313428"
     }
   ],
   "used_english": [
-    "never confess “i’m bored” like this",
-    "the secret? don’t hide your feelings",
-    "stop overthinking, say “me encanta”",
-    "never say “love” quietly, say it",
-    "never start with 'maybe', use 'seguro!'",
     "stop chasing perfect, use one 'voy'",
     "never freeze, say 'no entiendo'",
     "this phrase earns instant respect, 'vale?'",
@@ -21001,7 +20996,12 @@
     "hear this, your progress soars.",
     "never doubt your voice, speak.",
     "one phrase, new connection.",
-    "curious how spanish feels?"
+    "curious how spanish feels?",
+    "imagine understanding them, now.",
+    "this whisper changes everything.",
+    "your bravery, unblocked, speaks.",
+    "one sentence, new doors open.",
+    "your mind is ready, listen."
   ],
-  "last_updated": "2026-09-06T22:31:03.940099"
+  "last_updated": "2026-09-07T18:09:23.313430"
 }
