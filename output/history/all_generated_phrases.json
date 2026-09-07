@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “thanks”, say “gracias de verdad”",
-      "spanish": "Nunca digas “gracias”, di “gracias de verdad”",
-      "category": "Creativity",
-      "generated_at": "2026-04-23T20:09:04.926510"
-    },
-    {
-      "english": "This is why you sound natural, fast",
-      "spanish": "Esto es por qué suenas natural, rápido",
-      "category": "Creativity",
-      "generated_at": "2026-04-23T20:09:04.926516"
-    },
-    {
-      "english": "The secret? Use “oye”, when it matters",
-      "spanish": "El secreto, usa “oye”, cuando importa",
-      "category": "Creativity",
-      "generated_at": "2026-04-23T20:09:04.926522"
-    },
-    {
-      "english": "Stop overthinking, say “mejor” right now",
-      "spanish": "Deja de pensar, di “mejor” ahora",
-      "category": "Creativity",
-      "generated_at": "2026-04-23T20:09:04.926528"
-    },
-    {
-      "english": "Never study alone, learn with voices",
-      "spanish": "Nunca estudies solo, aprende con voces",
-      "category": "Growth",
-      "generated_at": "2026-04-23T21:36:49.638773"
-    },
-    {
       "english": "Stop “perfect”, use “prueba” today",
       "spanish": "Deja “perfecto”, usa “prueba” hoy",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha. Tu acento es encantador.",
       "category": "Self Improvement",
       "generated_at": "2026-09-07T20:22:28.443549"
+    },
+    {
+      "english": "This sound calms your worries.",
+      "spanish": "Este sonido calma tus preocupaciones.",
+      "category": "Balance",
+      "generated_at": "2026-09-07T21:56:23.356392"
+    },
+    {
+      "english": "Your voice, now more confident.",
+      "spanish": "Tu voz, ahora más segura.",
+      "category": "Balance",
+      "generated_at": "2026-09-07T21:56:23.356429"
+    },
+    {
+      "english": "One phrase, huge understanding.",
+      "spanish": "Una frase, gran entendimiento.",
+      "category": "Balance",
+      "generated_at": "2026-09-07T21:56:23.356458"
+    },
+    {
+      "english": "Wisdom in this simple word.",
+      "spanish": "Sabiduría en esta palabra simple.",
+      "category": "Balance",
+      "generated_at": "2026-09-07T21:56:23.356485"
+    },
+    {
+      "english": "Your ears are learning fast.",
+      "spanish": "Tus oídos aprenden rápido.",
+      "category": "Balance",
+      "generated_at": "2026-09-07T21:56:23.356512"
     }
   ],
   "used_english": [
-    "never say “thanks”, say “gracias de verdad”",
-    "this is why you sound natural, fast",
-    "the secret? use “oye”, when it matters",
-    "stop overthinking, say “mejor” right now",
-    "never study alone, learn with voices",
     "stop “perfect”, use “prueba” today",
     "never pause, ride the sentence",
     "this one word buys confidence, “ya”",
@@ -21001,7 +20996,12 @@
     "this one sound connects cultures.",
     "your patience unlocks everything.",
     "this simple word, pure joy.",
-    "listen. your accent is charming."
+    "listen. your accent is charming.",
+    "this sound calms your worries.",
+    "your voice, now more confident.",
+    "one phrase, huge understanding.",
+    "wisdom in this simple word.",
+    "your ears are learning fast."
   ],
-  "last_updated": "2026-09-07T20:22:28.443551"
+  "last_updated": "2026-09-07T21:56:23.356515"
 }
