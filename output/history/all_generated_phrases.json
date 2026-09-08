@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never ask 'what', ask 'why' first",
-      "spanish": "Nunca digas 'qué', di 'por qué' primero",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-24T16:06:39.086138"
-    },
-    {
-      "english": "Stop studying, practice in real life",
-      "spanish": "Deja estudiar, practica vida real",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-24T16:06:39.086143"
-    },
-    {
-      "english": "This one question upgrades your Spanish",
-      "spanish": "Esta pregunta sube tu español",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-24T16:06:39.086148"
-    },
-    {
-      "english": "Never say 'okay', say 'me encanta'",
-      "spanish": "No digas 'vale', di 'me encanta'",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-24T16:06:39.086153"
-    },
-    {
-      "english": "Stop waiting, say “quiero” first",
-      "spanish": "Deja de esperar, di “quiero” primero",
-      "category": "Hope",
-      "generated_at": "2026-04-24T17:51:07.293769"
-    },
-    {
       "english": "Never freeze, say “estoy listo”",
       "spanish": "Nunca te quedes, di “estoy listo”",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu paciencia construye puentes.",
       "category": "Balance",
       "generated_at": "2026-09-08T17:07:28.036631"
+    },
+    {
+      "english": "Your best friend's secret?",
+      "spanish": "¿El secreto de tu amigo?",
+      "category": "Friendship",
+      "generated_at": "2026-09-08T18:22:30.822267"
+    },
+    {
+      "english": "Unlock laughter with this.",
+      "spanish": "Desbloquea risas con esto.",
+      "category": "Friendship",
+      "generated_at": "2026-09-08T18:22:30.822302"
+    },
+    {
+      "english": "Feel the connection grow.",
+      "spanish": "Siente crecer la conexión.",
+      "category": "Friendship",
+      "generated_at": "2026-09-08T18:22:30.822327"
+    },
+    {
+      "english": "Wisdom: speak from heart.",
+      "spanish": "Sabiduría: habla del corazón.",
+      "category": "Friendship",
+      "generated_at": "2026-09-08T18:22:30.822352"
+    },
+    {
+      "english": "Your journey is beautiful.",
+      "spanish": "Tu viaje es hermoso.",
+      "category": "Friendship",
+      "generated_at": "2026-09-08T18:22:30.822378"
     }
   ],
   "used_english": [
-    "never ask 'what', ask 'why' first",
-    "stop studying, practice in real life",
-    "this one question upgrades your spanish",
-    "never say 'okay', say 'me encanta'",
-    "stop waiting, say “quiero” first",
     "never freeze, say “estoy listo”",
     "the secret? ask with “¿y tú?”",
     "this one word makes questions easy",
@@ -21001,7 +20996,12 @@
     "your mind is growing.",
     "surprise! you can connect.",
     "wisdom: speak a little.",
-    "your patience builds bridges."
+    "your patience builds bridges.",
+    "your best friend's secret?",
+    "unlock laughter with this.",
+    "feel the connection grow.",
+    "wisdom: speak from heart.",
+    "your journey is beautiful."
   ],
-  "last_updated": "2026-09-08T17:07:28.036633"
+  "last_updated": "2026-09-08T18:22:30.822383"
 }
