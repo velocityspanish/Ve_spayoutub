@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why natives thank fast,",
-      "spanish": "Esto es por qué, dan gracias rápido",
-      "category": "Gratitude",
-      "generated_at": "2026-04-24T21:38:31.450434"
-    },
-    {
-      "english": "Stop scrolling, practice one thankful sentence",
-      "spanish": "Deja de scrollear, di una frase agradecida",
-      "category": "Gratitude",
-      "generated_at": "2026-04-24T21:38:31.450440"
-    },
-    {
-      "english": "The secret? Thank even for small things",
-      "spanish": "El secreto, agradece cosas pequeñas",
-      "category": "Gratitude",
-      "generated_at": "2026-04-24T21:38:31.450446"
-    },
-    {
-      "english": "Stop waiting, say “te lo agradezco”",
-      "spanish": "No esperes, di “te lo agradezco”",
-      "category": "Gratitude",
-      "generated_at": "2026-04-24T21:38:31.450452"
-    },
-    {
-      "english": "Stop saying 'good', say 'perfecto'",
-      "spanish": "Deja de decir “bien”, di “perfecto”",
-      "category": "Balance",
-      "generated_at": "2026-04-25T14:04:39.403479"
-    },
-    {
       "english": "Never say 'sorry', say '¡claro!'",
       "spanish": "No digas “perdón”, di “¡claro!”",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "La palabra más fácil que aprenderás.",
       "category": "Balance",
       "generated_at": "2026-09-08T21:42:33.626505"
+    },
+    {
+      "english": "Your heart understands this.",
+      "spanish": "Tu corazón entiende esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-08T23:02:39.919049"
+    },
+    {
+      "english": "Feel the gratitude blossom.",
+      "spanish": "Siente el agradecimiento florecer.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-08T23:02:39.919090"
+    },
+    {
+      "english": "This single word means thanks.",
+      "spanish": "Esta sola palabra significa gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-08T23:02:39.919119"
+    },
+    {
+      "english": "Curious about 'thank you'?",
+      "spanish": "¿Curioso sobre 'gracias'?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-08T23:02:39.919147"
+    },
+    {
+      "english": "Your thanks echo beautifully.",
+      "spanish": "Tus gracias resuenan bellamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-08T23:02:39.919175"
     }
   ],
   "used_english": [
-    "this is why natives thank fast,",
-    "stop scrolling, practice one thankful sentence",
-    "the secret? thank even for small things",
-    "stop waiting, say “te lo agradezco”",
-    "stop saying 'good', say 'perfecto'",
     "never say 'sorry', say '¡claro!'",
     "never explain, just say 'lo siento'",
     "stop searching words, use 'esto'",
@@ -21001,7 +20996,12 @@
     "this sound, pure magic happens.",
     "your progress is undeniable, listen.",
     "curious about effortless spanish?",
-    "the easiest word you'll learn."
+    "the easiest word you'll learn.",
+    "your heart understands this.",
+    "feel the gratitude blossom.",
+    "this single word means thanks.",
+    "curious about 'thank you'?",
+    "your thanks echo beautifully."
   ],
-  "last_updated": "2026-09-08T21:42:33.626507"
+  "last_updated": "2026-09-08T23:02:39.919177"
 }
