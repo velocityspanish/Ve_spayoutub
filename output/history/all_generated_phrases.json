@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear “está bien”, say it.",
-      "spanish": "Nunca temas “está bien”, dilo.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T14:46:42.934599"
-    },
-    {
-      "english": "The secret is questions, not lectures.",
-      "spanish": "El secreto son preguntas, no lecciones.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T14:46:42.934605"
-    },
-    {
-      "english": "Stop waiting, use “ahora” right now.",
-      "spanish": "Deja de esperar, usa “ahora” ahora.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T14:46:42.934612"
-    },
-    {
-      "english": "Stop translating, read it in Spanish.",
-      "spanish": "Deja de traducir, léelo en español.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T14:46:42.934618"
-    },
-    {
-      "english": "Stop memorizing, start feeling Spanish",
-      "spanish": "Deja memorizar, empieza a sentir español",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-24T16:06:39.086124"
-    },
-    {
       "english": "Never ask 'what', ask 'why' first",
       "spanish": "Nunca digas 'qué', di 'por qué' primero",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Deja de intentar, siente.",
       "category": "Growth",
       "generated_at": "2026-09-07T23:07:10.716291"
+    },
+    {
+      "english": "Listen: they understand you.",
+      "spanish": "Escucha: te entienden.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:07:28.036523"
+    },
+    {
+      "english": "Your mind is growing.",
+      "spanish": "Tu mente está creciendo.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:07:28.036554"
+    },
+    {
+      "english": "Surprise! You can connect.",
+      "spanish": "¡Sorpresa! Puedes conectar.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:07:28.036580"
+    },
+    {
+      "english": "Wisdom: speak a little.",
+      "spanish": "Sabiduría: habla un poco.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:07:28.036605"
+    },
+    {
+      "english": "Your patience builds bridges.",
+      "spanish": "Tu paciencia construye puentes.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T17:07:28.036631"
     }
   ],
   "used_english": [
-    "never fear “está bien”, say it.",
-    "the secret is questions, not lectures.",
-    "stop waiting, use “ahora” right now.",
-    "stop translating, read it in spanish.",
-    "stop memorizing, start feeling spanish",
     "never ask 'what', ask 'why' first",
     "stop studying, practice in real life",
     "this one question upgrades your spanish",
@@ -21001,7 +20996,12 @@
     "curious about true connection?",
     "wisdom: listen more, speak.",
     "your confidence is blooming.",
-    "stop trying, start feeling."
+    "stop trying, start feeling.",
+    "listen: they understand you.",
+    "your mind is growing.",
+    "surprise! you can connect.",
+    "wisdom: speak a little.",
+    "your patience builds bridges."
   ],
-  "last_updated": "2026-09-07T23:07:10.716294"
+  "last_updated": "2026-09-08T17:07:28.036633"
 }
