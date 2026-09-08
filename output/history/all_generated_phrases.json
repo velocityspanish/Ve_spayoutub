@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why your listening feels stuck",
-      "spanish": "Esto es por qué tu escucha se atora",
-      "category": "Positive Life",
-      "generated_at": "2026-04-24T19:55:09.752042"
-    },
-    {
-      "english": "The secret, answer before you translate",
-      "spanish": "El secreto, responde antes de traducir",
-      "category": "Positive Life",
-      "generated_at": "2026-04-24T19:55:09.752049"
-    },
-    {
-      "english": "Stop overexplaining, use one brave phrase",
-      "spanish": "Deja explicarlo, usa una frase valiente",
-      "category": "Positive Life",
-      "generated_at": "2026-04-24T19:55:09.752054"
-    },
-    {
-      "english": "This one question unlocks real confidence",
-      "spanish": "Una pregunta abre confianza real",
-      "category": "Positive Life",
-      "generated_at": "2026-04-24T19:55:09.752060"
-    },
-    {
-      "english": "Never forget, gratitude speeds fluency",
-      "spanish": "Nunca olvides, la gratitud da fluidez",
-      "category": "Gratitude",
-      "generated_at": "2026-04-24T21:38:31.450419"
-    },
-    {
       "english": "This is why natives thank fast,",
       "spanish": "Esto es por qué, dan gracias rápido",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: escucha antes de hablar.",
       "category": "Kindness",
       "generated_at": "2026-09-08T19:44:50.689021"
+    },
+    {
+      "english": "Your Spanish is blossoming, watch.",
+      "spanish": "Tu español florece, mira.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T21:42:33.626360"
+    },
+    {
+      "english": "This sound, pure magic happens.",
+      "spanish": "Este sonido, magia pura ocurre.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T21:42:33.626405"
+    },
+    {
+      "english": "Your progress is undeniable, listen.",
+      "spanish": "Tu progreso es innegable, escucha.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T21:42:33.626438"
+    },
+    {
+      "english": "Curious about effortless Spanish?",
+      "spanish": "¿Curioso por el español fácil?",
+      "category": "Balance",
+      "generated_at": "2026-09-08T21:42:33.626472"
+    },
+    {
+      "english": "The easiest word you'll learn.",
+      "spanish": "La palabra más fácil que aprenderás.",
+      "category": "Balance",
+      "generated_at": "2026-09-08T21:42:33.626505"
     }
   ],
   "used_english": [
-    "this is why your listening feels stuck",
-    "the secret, answer before you translate",
-    "stop overexplaining, use one brave phrase",
-    "this one question unlocks real confidence",
-    "never forget, gratitude speeds fluency",
     "this is why natives thank fast,",
     "stop scrolling, practice one thankful sentence",
     "the secret? thank even for small things",
@@ -21001,7 +20996,12 @@
     "your smile? universal language.",
     "hear patience? it's beautiful.",
     "share joy, it multiplies.",
-    "wisdom: listen before speaking."
+    "wisdom: listen before speaking.",
+    "your spanish is blossoming, watch.",
+    "this sound, pure magic happens.",
+    "your progress is undeniable, listen.",
+    "curious about effortless spanish?",
+    "the easiest word you'll learn."
   ],
-  "last_updated": "2026-09-08T19:44:50.689023"
+  "last_updated": "2026-09-08T21:42:33.626507"
 }
