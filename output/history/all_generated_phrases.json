@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze, say “estoy listo”",
-      "spanish": "Nunca te quedes, di “estoy listo”",
-      "category": "Hope",
-      "generated_at": "2026-04-24T17:51:07.293785"
-    },
-    {
-      "english": "The secret? Ask with “¿y tú?”",
-      "spanish": "El secreto, pregunta con “¿y tú?”",
-      "category": "Hope",
-      "generated_at": "2026-04-24T17:51:07.293791"
-    },
-    {
-      "english": "This one word makes questions easy",
-      "spanish": "Una palabra, hace preguntas fáciles",
-      "category": "Hope",
-      "generated_at": "2026-04-24T17:51:07.293798"
-    },
-    {
-      "english": "Stop guessing, confirm with “¿sí?”",
-      "spanish": "Deja de adivinar, confirma con “¿sí?”",
-      "category": "Hope",
-      "generated_at": "2026-04-24T17:51:07.293804"
-    },
-    {
-      "english": "Stop cramming, start dreaming in Spanish",
-      "spanish": "Deja memorizar, sueña en español",
-      "category": "Positive Life",
-      "generated_at": "2026-04-24T19:55:09.752017"
-    },
-    {
       "english": "This is why your listening feels stuck",
       "spanish": "Esto es por qué tu escucha se atora",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu viaje es hermoso.",
       "category": "Friendship",
       "generated_at": "2026-09-08T18:22:30.822378"
+    },
+    {
+      "english": "Kindness echoes, speak softly.",
+      "spanish": "La amabilidad resuena, habla suave.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T19:44:50.688904"
+    },
+    {
+      "english": "Your smile? Universal language.",
+      "spanish": "¿Tu sonrisa? Lenguaje universal.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T19:44:50.688941"
+    },
+    {
+      "english": "Hear patience? It's beautiful.",
+      "spanish": "¿Oyes paciencia? Es hermoso.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T19:44:50.688968"
+    },
+    {
+      "english": "Share joy, it multiplies.",
+      "spanish": "Comparte alegría, se multiplica.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T19:44:50.688994"
+    },
+    {
+      "english": "Wisdom: listen before speaking.",
+      "spanish": "Sabiduría: escucha antes de hablar.",
+      "category": "Kindness",
+      "generated_at": "2026-09-08T19:44:50.689021"
     }
   ],
   "used_english": [
-    "never freeze, say “estoy listo”",
-    "the secret? ask with “¿y tú?”",
-    "this one word makes questions easy",
-    "stop guessing, confirm with “¿sí?”",
-    "stop cramming, start dreaming in spanish",
     "this is why your listening feels stuck",
     "the secret, answer before you translate",
     "stop overexplaining, use one brave phrase",
@@ -21001,7 +20996,12 @@
     "unlock laughter with this.",
     "feel the connection grow.",
     "wisdom: speak from heart.",
-    "your journey is beautiful."
+    "your journey is beautiful.",
+    "kindness echoes, speak softly.",
+    "your smile? universal language.",
+    "hear patience? it's beautiful.",
+    "share joy, it multiplies.",
+    "wisdom: listen before speaking."
   ],
-  "last_updated": "2026-09-08T18:22:30.822383"
+  "last_updated": "2026-09-08T19:44:50.689023"
 }
