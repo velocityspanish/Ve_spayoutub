@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “too hard”, say “todavía”",
-      "spanish": "Nunca digas “demasiado”, di “todavía”",
-      "category": "Inspiration",
-      "generated_at": "2026-04-25T19:47:33.229485"
-    },
-    {
-      "english": "What nobody tells you, sleep helps",
-      "spanish": "Lo que nadie te dice, dormir ayuda",
-      "category": "Inspiration",
-      "generated_at": "2026-04-25T19:47:33.229492"
-    },
-    {
-      "english": "The secret? Answer with your body",
-      "spanish": "El secreto, responde con tu cuerpo",
-      "category": "Inspiration",
-      "generated_at": "2026-04-25T19:47:33.229498"
-    },
-    {
-      "english": "Stop waiting for confidence, start small",
-      "spanish": "No esperes confianza, empieza pequeño",
-      "category": "Inspiration",
-      "generated_at": "2026-04-25T19:47:33.229503"
-    },
-    {
-      "english": "Never say “I think”, say “I’m sure”",
-      "spanish": "Nunca digas “pienso”, di “seguro”",
-      "category": "Success",
-      "generated_at": "2026-04-25T21:26:42.918357"
-    },
-    {
       "english": "The secret? Answer with one detail",
       "spanish": "El secreto, contesta con un detalle",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu alma gemela espera, oye.",
       "category": "Love",
       "generated_at": "2026-09-09T19:37:10.436975"
+    },
+    {
+      "english": "Curious? This connects us.",
+      "spanish": "¿Curioso? Esto nos conecta.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T21:33:18.846618"
+    },
+    {
+      "english": "Your comfort zone ends here.",
+      "spanish": "Tu zona de confort termina aquí.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T21:33:18.846667"
+    },
+    {
+      "english": "One word, new friendship.",
+      "spanish": "Una palabra, nueva amistad.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T21:33:18.846692"
+    },
+    {
+      "english": "Listen: your Spanish is heard.",
+      "spanish": "Escucha: tu español es oído.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T21:33:18.846719"
+    },
+    {
+      "english": "Breathe. Fluency is coming.",
+      "spanish": "Respira. La fluidez viene.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T21:33:18.846746"
     }
   ],
   "used_english": [
-    "never say “too hard”, say “todavía”",
-    "what nobody tells you, sleep helps",
-    "the secret? answer with your body",
-    "stop waiting for confidence, start small",
-    "never say “i think”, say “i’m sure”",
     "the secret? answer with one detail",
     "stop freezing, say “ya voy” now",
     "never overdo verbs, use “quiero”",
@@ -21001,7 +20996,12 @@
     "this word means 'my love'.",
     "feel the romance in this.",
     "one word, eternal devotion.",
-    "your soulmate waits, listen."
+    "your soulmate waits, listen.",
+    "curious? this connects us.",
+    "your comfort zone ends here.",
+    "one word, new friendship.",
+    "listen: your spanish is heard.",
+    "breathe. fluency is coming."
   ],
-  "last_updated": "2026-09-09T19:37:10.436977"
+  "last_updated": "2026-09-09T21:33:18.846748"
 }
