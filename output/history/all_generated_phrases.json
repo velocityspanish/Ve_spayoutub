@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'sorry', say '¡claro!'",
-      "spanish": "No digas “perdón”, di “¡claro!”",
-      "category": "Balance",
-      "generated_at": "2026-04-25T14:04:39.403494"
-    },
-    {
-      "english": "Never explain, just say 'lo siento'",
-      "spanish": "No expliques, solo di “lo siento”",
-      "category": "Balance",
-      "generated_at": "2026-04-25T14:04:39.403501"
-    },
-    {
-      "english": "Stop searching words, use 'esto'",
-      "spanish": "Deja de buscar palabras, usa “esto”",
-      "category": "Balance",
-      "generated_at": "2026-04-25T14:04:39.403507"
-    },
-    {
-      "english": "This one pause sells confidence, 'mmm'",
-      "spanish": "Esta pausa vende confianza, “mmm”",
-      "category": "Balance",
-      "generated_at": "2026-04-25T14:04:39.403513"
-    },
-    {
-      "english": "Stop begging, say “¿Puedes?”",
-      "spanish": "Deja de rogar, di “¿Puedes?”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-25T15:40:46.853565"
-    },
-    {
       "english": "Never say “I don’t know”",
       "spanish": "Nunca digas “no sé”",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Tus gracias resuenan bellamente.",
       "category": "Gratitude",
       "generated_at": "2026-09-08T23:02:39.919175"
+    },
+    {
+      "english": "Your brain rewires daily.",
+      "spanish": "Tu cerebro se recablea diario.",
+      "category": "Success",
+      "generated_at": "2026-09-09T17:04:14.841234"
+    },
+    {
+      "english": "This feeling: understanding.",
+      "spanish": "Esta sensación: entender.",
+      "category": "Success",
+      "generated_at": "2026-09-09T17:04:14.841271"
+    },
+    {
+      "english": "Curiosity sparks fluency.",
+      "spanish": "La curiosidad enciende fluidez.",
+      "category": "Success",
+      "generated_at": "2026-09-09T17:04:14.841296"
+    },
+    {
+      "english": "Wisdom: Listen, then speak.",
+      "spanish": "Sabiduría: Escucha, luego habla.",
+      "category": "Success",
+      "generated_at": "2026-09-09T17:04:14.841322"
+    },
+    {
+      "english": "Surprise! You're progressing.",
+      "spanish": "¡Sorpresa! Estás progresando.",
+      "category": "Success",
+      "generated_at": "2026-09-09T17:04:14.841349"
     }
   ],
   "used_english": [
-    "never say 'sorry', say '¡claro!'",
-    "never explain, just say 'lo siento'",
-    "stop searching words, use 'esto'",
-    "this one pause sells confidence, 'mmm'",
-    "stop begging, say “¿puedes?”",
     "never say “i don’t know”",
     "the secret is timing, not words",
     "stop overthinking, start with “oye”",
@@ -21001,7 +20996,12 @@
     "feel the gratitude blossom.",
     "this single word means thanks.",
     "curious about 'thank you'?",
-    "your thanks echo beautifully."
+    "your thanks echo beautifully.",
+    "your brain rewires daily.",
+    "this feeling: understanding.",
+    "curiosity sparks fluency.",
+    "wisdom: listen, then speak.",
+    "surprise! you're progressing."
   ],
-  "last_updated": "2026-09-08T23:02:39.919177"
+  "last_updated": "2026-09-09T17:04:14.841351"
 }
