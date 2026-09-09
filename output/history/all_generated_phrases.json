@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “I don’t know”",
-      "spanish": "Nunca digas “no sé”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-25T15:40:46.853583"
-    },
-    {
-      "english": "The secret is timing, not words",
-      "spanish": "El secreto es el tiempo, no palabras",
-      "category": "Wisdom",
-      "generated_at": "2026-04-25T15:40:46.853589"
-    },
-    {
-      "english": "Stop overthinking, start with “oye”",
-      "spanish": "Deja de pensar tanto, empieza con “oye”",
-      "category": "Wisdom",
-      "generated_at": "2026-04-25T15:40:46.853596"
-    },
-    {
-      "english": "This one word stops awkward pauses",
-      "spanish": "Esta palabra corta pausas raras",
-      "category": "Wisdom",
-      "generated_at": "2026-04-25T15:40:46.853602"
-    },
-    {
-      "english": "The secret? Slow practice, real speed",
-      "spanish": "El secreto, práctica lenta, velocidad real",
-      "category": "Patience",
-      "generated_at": "2026-04-25T17:38:02.965161"
-    },
-    {
       "english": "Stop panicking, say one simple thing",
       "spanish": "No entres en pánico, di algo simple",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Estás progresando.",
       "category": "Success",
       "generated_at": "2026-09-09T17:04:14.841349"
+    },
+    {
+      "english": "Your next word? It's simple.",
+      "spanish": "Tu próxima palabra es simple.",
+      "category": "Purpose",
+      "generated_at": "2026-09-09T18:20:33.660677"
+    },
+    {
+      "english": "Feel the Spanish vibe now.",
+      "spanish": "Siente la vibra española ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-09-09T18:20:33.660711"
+    },
+    {
+      "english": "This sound connects worlds.",
+      "spanish": "Este sonido conecta mundos.",
+      "category": "Purpose",
+      "generated_at": "2026-09-09T18:20:33.660738"
+    },
+    {
+      "english": "Curious? The answer is here.",
+      "spanish": "¿Curioso? La respuesta está aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-09-09T18:20:33.660763"
+    },
+    {
+      "english": "One Spanish phrase, new friends.",
+      "spanish": "Una frase en español, nuevos amigos.",
+      "category": "Purpose",
+      "generated_at": "2026-09-09T18:20:33.660791"
     }
   ],
   "used_english": [
-    "never say “i don’t know”",
-    "the secret is timing, not words",
-    "stop overthinking, start with “oye”",
-    "this one word stops awkward pauses",
-    "the secret? slow practice, real speed",
     "stop panicking, say one simple thing",
     "never skip the quiet reps",
     "the secret is today, not tomorrow",
@@ -21001,7 +20996,12 @@
     "this feeling: understanding.",
     "curiosity sparks fluency.",
     "wisdom: listen, then speak.",
-    "surprise! you're progressing."
+    "surprise! you're progressing.",
+    "your next word? it's simple.",
+    "feel the spanish vibe now.",
+    "this sound connects worlds.",
+    "curious? the answer is here.",
+    "one spanish phrase, new friends."
   ],
-  "last_updated": "2026-09-09T17:04:14.841351"
+  "last_updated": "2026-09-09T18:20:33.660793"
 }
