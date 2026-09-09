@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop panicking, say one simple thing",
-      "spanish": "No entres en pánico, di algo simple",
-      "category": "Patience",
-      "generated_at": "2026-04-25T17:38:02.965174"
-    },
-    {
-      "english": "Never skip the quiet reps",
-      "spanish": "No saltes las repeticiones tranquilas",
-      "category": "Patience",
-      "generated_at": "2026-04-25T17:38:02.965181"
-    },
-    {
-      "english": "The secret is today, not tomorrow",
-      "spanish": "El secreto es hoy, no mañana",
-      "category": "Patience",
-      "generated_at": "2026-04-25T17:38:02.965187"
-    },
-    {
-      "english": "Stop starting over, keep going",
-      "spanish": "No empieces de cero, sigue",
-      "category": "Patience",
-      "generated_at": "2026-04-25T17:38:02.965193"
-    },
-    {
-      "english": "Stop translating, think in pictures",
-      "spanish": "Deja de traducir, piensa en imágenes",
-      "category": "Inspiration",
-      "generated_at": "2026-04-25T19:47:33.229470"
-    },
-    {
       "english": "Never say “too hard”, say “todavía”",
       "spanish": "Nunca digas “demasiado”, di “todavía”",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Una frase en español, nuevos amigos.",
       "category": "Purpose",
       "generated_at": "2026-09-09T18:20:33.660791"
+    },
+    {
+      "english": "Your heart speaks fluent love.",
+      "spanish": "Tu corazón habla amor.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:37:10.436870"
+    },
+    {
+      "english": "This word means 'my love'.",
+      "spanish": "Esta palabra es 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:37:10.436906"
+    },
+    {
+      "english": "Feel the romance in this.",
+      "spanish": "Siente el romance aquí.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:37:10.436929"
+    },
+    {
+      "english": "One word, eternal devotion.",
+      "spanish": "Una palabra, devoción eterna.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:37:10.436952"
+    },
+    {
+      "english": "Your soulmate waits, listen.",
+      "spanish": "Tu alma gemela espera, oye.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:37:10.436975"
     }
   ],
   "used_english": [
-    "stop panicking, say one simple thing",
-    "never skip the quiet reps",
-    "the secret is today, not tomorrow",
-    "stop starting over, keep going",
-    "stop translating, think in pictures",
     "never say “too hard”, say “todavía”",
     "what nobody tells you, sleep helps",
     "the secret? answer with your body",
@@ -21001,7 +20996,12 @@
     "feel the spanish vibe now.",
     "this sound connects worlds.",
     "curious? the answer is here.",
-    "one spanish phrase, new friends."
+    "one spanish phrase, new friends.",
+    "your heart speaks fluent love.",
+    "this word means 'my love'.",
+    "feel the romance in this.",
+    "one word, eternal devotion.",
+    "your soulmate waits, listen."
   ],
-  "last_updated": "2026-09-09T18:20:33.660793"
+  "last_updated": "2026-09-09T19:37:10.436977"
 }
