@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Answer with one detail",
-      "spanish": "El secreto, contesta con un detalle",
-      "category": "Success",
-      "generated_at": "2026-04-25T21:26:42.918372"
-    },
-    {
-      "english": "Stop freezing, say “ya voy” now",
-      "spanish": "No te quedes, di “ya voy”",
-      "category": "Success",
-      "generated_at": "2026-04-25T21:26:42.918379"
-    },
-    {
-      "english": "Never overdo verbs, use “quiero”",
-      "spanish": "No exageres, usa “quiero”",
-      "category": "Success",
-      "generated_at": "2026-04-25T21:26:42.918385"
-    },
-    {
-      "english": "This one word makes requests polite",
-      "spanish": "Una palabra vuelve tus pedidos educados",
-      "category": "Success",
-      "generated_at": "2026-04-25T21:26:42.918392"
-    },
-    {
-      "english": "Stop scrolling, say this kindness",
-      "spanish": "Deja de scrollear, di esto",
-      "category": "Kindness",
-      "generated_at": "2026-04-26T14:05:56.011810"
-    },
-    {
       "english": "Never rush, try 'te invito'",
       "spanish": "Nunca corras, prueba 'te invito'",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Respira. La fluidez viene.",
       "category": "Balance",
       "generated_at": "2026-09-09T21:33:18.846746"
+    },
+    {
+      "english": "Your inner voice? Listen.",
+      "spanish": "Tu voz interior? Escucha.",
+      "category": "Strength",
+      "generated_at": "2026-09-09T22:49:13.349956"
+    },
+    {
+      "english": "This sound sparks connection.",
+      "spanish": "Este sonido une.",
+      "category": "Strength",
+      "generated_at": "2026-09-09T22:49:13.349987"
+    },
+    {
+      "english": "One phrase, their whole world.",
+      "spanish": "Una frase, su mundo.",
+      "category": "Strength",
+      "generated_at": "2026-09-09T22:49:13.350010"
+    },
+    {
+      "english": "Feel the fluency growing now.",
+      "spanish": "Siente la fluidez nacer.",
+      "category": "Strength",
+      "generated_at": "2026-09-09T22:49:13.350032"
+    },
+    {
+      "english": "Your future speaks Spanish.",
+      "spanish": "Tu futuro habla español.",
+      "category": "Strength",
+      "generated_at": "2026-09-09T22:49:13.350053"
     }
   ],
   "used_english": [
-    "the secret? answer with one detail",
-    "stop freezing, say “ya voy” now",
-    "never overdo verbs, use “quiero”",
-    "this one word makes requests polite",
-    "stop scrolling, say this kindness",
     "never rush, try 'te invito'",
     "the secret... say 'me ayudas, gracias'",
     "stop judging, say 'no pasa nada'",
@@ -21001,7 +20996,12 @@
     "your comfort zone ends here.",
     "one word, new friendship.",
     "listen: your spanish is heard.",
-    "breathe. fluency is coming."
+    "breathe. fluency is coming.",
+    "your inner voice? listen.",
+    "this sound sparks connection.",
+    "one phrase, their whole world.",
+    "feel the fluency growing now.",
+    "your future speaks spanish."
   ],
-  "last_updated": "2026-09-09T21:33:18.846748"
+  "last_updated": "2026-09-09T22:49:13.350055"
 }
