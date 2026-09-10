@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never rush, try 'te invito'",
-      "spanish": "Nunca corras, prueba 'te invito'",
-      "category": "Kindness",
-      "generated_at": "2026-04-26T14:05:56.011827"
-    },
-    {
-      "english": "The secret... say 'me ayudas, gracias'",
-      "spanish": "El secreto... di 'me ayudas, gracias'",
-      "category": "Kindness",
-      "generated_at": "2026-04-26T14:05:56.011834"
-    },
-    {
-      "english": "Stop judging, say 'no pasa nada'",
-      "spanish": "No juzgues, di 'no pasa nada'",
-      "category": "Kindness",
-      "generated_at": "2026-04-26T14:05:56.011841"
-    },
-    {
-      "english": "Never disappear, say 'aquí estoy'",
-      "spanish": "No desaparezcas, di 'aquí estoy'",
-      "category": "Kindness",
-      "generated_at": "2026-04-26T14:05:56.011848"
-    },
-    {
-      "english": "Stop quitting, say \"puedo\"",
-      "spanish": "Deja de rendirte, digo \"puedo\"",
-      "category": "Perseverance",
-      "generated_at": "2026-04-26T15:43:25.958793"
-    },
-    {
       "english": "Never stop, keep saying \"voy\"",
       "spanish": "No pares, sigue diciendo \"voy\"",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu futuro habla español.",
       "category": "Strength",
       "generated_at": "2026-09-09T22:49:13.350053"
+    },
+    {
+      "english": "Your smile, a universal translator.",
+      "spanish": "Tu sonrisa, traductor universal.",
+      "category": "Joy",
+      "generated_at": "2026-09-10T16:55:50.995646"
+    },
+    {
+      "english": "One word, endless warmth.",
+      "spanish": "Una palabra, calidez infinita.",
+      "category": "Joy",
+      "generated_at": "2026-09-10T16:55:50.995681"
+    },
+    {
+      "english": "Feel the connection grow, listen.",
+      "spanish": "Siente la conexión crecer, escucha.",
+      "category": "Joy",
+      "generated_at": "2026-09-10T16:55:50.995710"
+    },
+    {
+      "english": "Wisdom: patience unlocks joy.",
+      "spanish": "Sabiduría: paciencia desbloquea alegría.",
+      "category": "Joy",
+      "generated_at": "2026-09-10T16:55:50.995737"
+    },
+    {
+      "english": "Surprise! your accent is lovely.",
+      "spanish": "¡Sorpresa! tu acento es encantador.",
+      "category": "Joy",
+      "generated_at": "2026-09-10T16:55:50.995767"
     }
   ],
   "used_english": [
-    "never rush, try 'te invito'",
-    "the secret... say 'me ayudas, gracias'",
-    "stop judging, say 'no pasa nada'",
-    "never disappear, say 'aquí estoy'",
-    "stop quitting, say \"puedo\"",
     "never stop, keep saying \"voy\"",
     "the secret, practice in one loop",
     "never be perfect, just continue",
@@ -21001,7 +20996,12 @@
     "this sound sparks connection.",
     "one phrase, their whole world.",
     "feel the fluency growing now.",
-    "your future speaks spanish."
+    "your future speaks spanish.",
+    "your smile, a universal translator.",
+    "one word, endless warmth.",
+    "feel the connection grow, listen.",
+    "wisdom: patience unlocks joy.",
+    "surprise! your accent is lovely."
   ],
-  "last_updated": "2026-09-09T22:49:13.350055"
+  "last_updated": "2026-09-10T16:55:50.995769"
 }
