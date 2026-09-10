@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “I’m fine”, say “estoy bien”",
-      "spanish": "Nunca digas “estoy bien”, di “estoy bien”",
-      "category": "Creativity",
-      "generated_at": "2026-04-26T19:50:29.766241"
-    },
-    {
-      "english": "What nobody tells you, “se puede” works",
-      "spanish": "Lo que nadie te dice, “se puede”",
-      "category": "Creativity",
-      "generated_at": "2026-04-26T19:50:29.766248"
-    },
-    {
-      "english": "The secret? Add one “allí”, feel native",
-      "spanish": "El secreto, agrega “allí”, suena nativo",
-      "category": "Creativity",
-      "generated_at": "2026-04-26T19:50:29.766254"
-    },
-    {
-      "english": "Stop “but”… start “sin embargo”, impress",
-      "spanish": "No digas “pero”, empieza “sin embargo”",
-      "category": "Creativity",
-      "generated_at": "2026-04-26T19:50:29.766260"
-    },
-    {
-      "english": "Stop saying “I don’t know”,",
-      "spanish": "Deja “no sé”, di “lo veo”.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-26T21:28:51.423970"
-    },
-    {
       "english": "Never wait for “perfect” Spanish,",
       "spanish": "Nunca esperes “perfecto”, habla ya.",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Aquí está la verdad simple.",
       "category": "Motivation",
       "generated_at": "2026-09-10T19:28:31.578317"
+    },
+    {
+      "english": "Your journey's spark, ignites.",
+      "spanish": "La chispa de tu viaje, enciende.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T21:29:13.915620"
+    },
+    {
+      "english": "This word unlocks a smile.",
+      "spanish": "Esta palabra desbloquea una sonrisa.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T21:29:13.915658"
+    },
+    {
+      "english": "Listen: progress is happening.",
+      "spanish": "Escucha: el progreso ocurre.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T21:29:13.915685"
+    },
+    {
+      "english": "This feeling? Understanding.",
+      "spanish": "¿Este sentimiento? Entendimiento.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T21:29:13.915711"
+    },
+    {
+      "english": "Surprise! You're learning fast.",
+      "spanish": "¡Sorpresa! Estás aprendiendo rápido.",
+      "category": "Hope",
+      "generated_at": "2026-09-10T21:29:13.915738"
     }
   ],
   "used_english": [
-    "never say “i’m fine”, say “estoy bien”",
-    "what nobody tells you, “se puede” works",
-    "the secret? add one “allí”, feel native",
-    "stop “but”… start “sin embargo”, impress",
-    "stop saying “i don’t know”,",
     "never wait for “perfect” spanish,",
     "stop overthinking, say “tranquilo”,",
     "never apologize mid-conversation, just continue,",
@@ -21001,7 +20996,12 @@
     "surprise! you understand more.",
     "one phrase, instant friendship.",
     "your patience is winning.",
-    "here's the simple truth."
+    "here's the simple truth.",
+    "your journey's spark, ignites.",
+    "this word unlocks a smile.",
+    "listen: progress is happening.",
+    "this feeling? understanding.",
+    "surprise! you're learning fast."
   ],
-  "last_updated": "2026-09-10T19:28:31.578319"
+  "last_updated": "2026-09-10T21:29:13.915740"
 }
