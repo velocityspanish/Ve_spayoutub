@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never stop, keep saying \"voy\"",
-      "spanish": "No pares, sigue diciendo \"voy\"",
-      "category": "Perseverance",
-      "generated_at": "2026-04-26T15:43:25.958814"
-    },
-    {
-      "english": "The secret, practice in one loop",
-      "spanish": "El secreto, practicas en un ciclo",
-      "category": "Perseverance",
-      "generated_at": "2026-04-26T15:43:25.958822"
-    },
-    {
-      "english": "Never be perfect, just continue",
-      "spanish": "No seas perfecto, solo continúa",
-      "category": "Perseverance",
-      "generated_at": "2026-04-26T15:43:25.958829"
-    },
-    {
-      "english": "Stop waiting, start with \"estoy\"",
-      "spanish": "No esperes, empieza con \"estoy\"",
-      "category": "Perseverance",
-      "generated_at": "2026-04-26T15:43:25.958835"
-    },
-    {
-      "english": "Never bottle it, say “me da igual”",
-      "spanish": "No lo guardes, di “me da igual”",
-      "category": "Patience",
-      "generated_at": "2026-04-26T17:39:17.208768"
-    },
-    {
       "english": "The secret... ask slowly, then repeat",
       "spanish": "El secreto... pregunta despacio, repite",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! tu acento es encantador.",
       "category": "Joy",
       "generated_at": "2026-09-10T16:55:50.995767"
+    },
+    {
+      "english": "Hear this, progress ignites.",
+      "spanish": "Escucha esto, el progreso enciende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-10T18:10:18.035733"
+    },
+    {
+      "english": "Curious about 'hello' power?",
+      "spanish": "¿Curioso del poder 'hola'?",
+      "category": "Motivation",
+      "generated_at": "2026-09-10T18:10:18.035767"
+    },
+    {
+      "english": "Surprise! your spanish shines.",
+      "spanish": "¡Sorpresa! tu español brilla.",
+      "category": "Motivation",
+      "generated_at": "2026-09-10T18:10:18.035795"
+    },
+    {
+      "english": "This sound brings joy.",
+      "spanish": "Este sonido trae alegría.",
+      "category": "Motivation",
+      "generated_at": "2026-09-10T18:10:18.035819"
+    },
+    {
+      "english": "Small steps, huge wins.",
+      "spanish": "Pasos pequeños, grandes victorias.",
+      "category": "Motivation",
+      "generated_at": "2026-09-10T18:10:18.035844"
     }
   ],
   "used_english": [
-    "never stop, keep saying \"voy\"",
-    "the secret, practice in one loop",
-    "never be perfect, just continue",
-    "stop waiting, start with \"estoy\"",
-    "never bottle it, say “me da igual”",
     "the secret... ask slowly, then repeat",
     "never say “maybe”, say “claro que sí”",
     "stop perfect, start messy, keep going",
@@ -21001,7 +20996,12 @@
     "one word, endless warmth.",
     "feel the connection grow, listen.",
     "wisdom: patience unlocks joy.",
-    "surprise! your accent is lovely."
+    "surprise! your accent is lovely.",
+    "hear this, progress ignites.",
+    "curious about 'hello' power?",
+    "surprise! your spanish shines.",
+    "this sound brings joy.",
+    "small steps, huge wins."
   ],
-  "last_updated": "2026-09-10T16:55:50.995769"
+  "last_updated": "2026-09-10T18:10:18.035846"
 }
