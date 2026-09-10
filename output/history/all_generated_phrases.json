@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait for “perfect” Spanish,",
-      "spanish": "Nunca esperes “perfecto”, habla ya.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-26T21:28:51.423985"
-    },
-    {
-      "english": "Stop overthinking, say “tranquilo”,",
-      "spanish": "No pienses tanto, di “tranquilo”.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-26T21:28:51.423991"
-    },
-    {
-      "english": "Never apologize mid-conversation, just continue,",
-      "spanish": "Nunca pidas perdón, sigue hablando.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-26T21:28:51.423996"
-    },
-    {
-      "english": "This question doubles your fluency fast,",
-      "spanish": "Esta pregunta duplica tu fluidez.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-26T21:28:51.424001"
-    },
-    {
-      "english": "Stop saying “I want”, say “quiero”",
-      "spanish": "Deja de decir “I want”, di “quiero”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T15:09:53.943859"
-    },
-    {
       "english": "Never rush “pero”, breathe first",
       "spanish": "Nunca corras “pero”, respira primero",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Estás aprendiendo rápido.",
       "category": "Hope",
       "generated_at": "2026-09-10T21:29:13.915738"
+    },
+    {
+      "english": "Your accent? A beautiful story.",
+      "spanish": "Tu acento? Una hermosa historia.",
+      "category": "Success",
+      "generated_at": "2026-09-10T22:50:32.999901"
+    },
+    {
+      "english": "Imagine, they truly get you.",
+      "spanish": "Imagina, te entienden de verdad.",
+      "category": "Success",
+      "generated_at": "2026-09-10T22:50:32.999926"
+    },
+    {
+      "english": "This word? Pure, simple joy.",
+      "spanish": "Esta palabra? Pura, simple alegría.",
+      "category": "Success",
+      "generated_at": "2026-09-10T22:50:32.999940"
+    },
+    {
+      "english": "Your brain is building connections.",
+      "spanish": "Tu cerebro construye conexiones.",
+      "category": "Success",
+      "generated_at": "2026-09-10T22:50:32.999956"
+    },
+    {
+      "english": "Don't stop practicing, it works.",
+      "spanish": "No dejes de practicar, funciona.",
+      "category": "Success",
+      "generated_at": "2026-09-10T22:50:32.999972"
     }
   ],
   "used_english": [
-    "never wait for “perfect” spanish,",
-    "stop overthinking, say “tranquilo”,",
-    "never apologize mid-conversation, just continue,",
-    "this question doubles your fluency fast,",
-    "stop saying “i want”, say “quiero”",
     "never rush “pero”, breathe first",
     "this is why “estoy” always wins",
     "the secret? ask “dónde” confidently",
@@ -21001,7 +20996,12 @@
     "this word unlocks a smile.",
     "listen: progress is happening.",
     "this feeling? understanding.",
-    "surprise! you're learning fast."
+    "surprise! you're learning fast.",
+    "your accent? a beautiful story.",
+    "imagine, they truly get you.",
+    "this word? pure, simple joy.",
+    "your brain is building connections.",
+    "don't stop practicing, it works."
   ],
-  "last_updated": "2026-09-10T21:29:13.915740"
+  "last_updated": "2026-09-10T22:50:32.999974"
 }
