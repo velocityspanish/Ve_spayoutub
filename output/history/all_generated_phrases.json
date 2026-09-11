@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop apologizing, just say “no pasa”.",
-      "spanish": "Deja de disculparte, solo di “no pasa”.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-27T20:11:39.222562"
-    },
-    {
-      "english": "This is why you get stuck, “muy”.",
-      "spanish": "Esto es por qué te atoras, “muy”.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-27T20:11:39.222570"
-    },
-    {
-      "english": "What nobody tells you, “alright”= “vale”.",
-      "spanish": "Lo que nadie te dice, “alright” es “vale”.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-27T20:11:39.222576"
-    },
-    {
-      "english": "The secret? Use “ahí” for spots.",
-      "spanish": "El secreto, usa “ahí” para lugares.",
-      "category": "Inspiration",
-      "generated_at": "2026-04-27T20:11:39.222583"
-    },
-    {
-      "english": "Never say “I’m tired”, say “tengo sueño”",
-      "spanish": "Nunca digas “estoy cansado”, di “tengo sueño”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T21:44:54.905104"
-    },
-    {
       "english": "Stop saying “maybe”, choose “sí”",
       "spanish": "Deja de decir “tal vez”, elige “sí”",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente el progreso ahora.",
       "category": "Motivation",
       "generated_at": "2026-09-11T19:28:20.359548"
+    },
+    {
+      "english": "One phrase, new friendships bloom.",
+      "spanish": "Una frase, florecen amistades.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-11T21:36:43.850383"
+    },
+    {
+      "english": "Small wins, huge progress now.",
+      "spanish": "Pequeñas victorias, gran avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-11T21:36:43.850421"
+    },
+    {
+      "english": "Your patience, a silent power.",
+      "spanish": "Tu paciencia, un poder silente.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-11T21:36:43.850449"
+    },
+    {
+      "english": "Imagine, fluency feels this.",
+      "spanish": "Imagina, la fluidez se siente.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-11T21:36:43.850487"
+    },
+    {
+      "english": "Hear this, your spanish grows.",
+      "spanish": "Oye esto, tu español crece.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-11T21:36:43.850518"
     }
   ],
   "used_english": [
-    "stop apologizing, just say “no pasa”.",
-    "this is why you get stuck, “muy”.",
-    "what nobody tells you, “alright”= “vale”.",
-    "the secret? use “ahí” for spots.",
-    "never say “i’m tired”, say “tengo sueño”",
     "stop saying “maybe”, choose “sí”",
     "what nobody tells you, add “oye”",
     "stop guessing, answer with “así”",
@@ -21001,7 +20996,12 @@
     "your patience pays off.",
     "this word means 'hello'.",
     "listen: you're understood.",
-    "feel the progress now."
+    "feel the progress now.",
+    "one phrase, new friendships bloom.",
+    "small wins, huge progress now.",
+    "your patience, a silent power.",
+    "imagine, fluency feels this.",
+    "hear this, your spanish grows."
   ],
-  "last_updated": "2026-09-11T19:28:20.359550"
+  "last_updated": "2026-09-11T21:36:43.850520"
 }
