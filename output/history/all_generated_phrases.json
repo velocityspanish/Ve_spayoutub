@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop saying “maybe”, choose “sí”",
-      "spanish": "Deja de decir “tal vez”, elige “sí”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T21:44:54.905119"
-    },
-    {
-      "english": "What nobody tells you, add “oye”",
-      "spanish": "Lo que nadie te dice, agrega “oye”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T21:44:54.905127"
-    },
-    {
-      "english": "Stop guessing, answer with “así”",
-      "spanish": "No adivines, responde con “así”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T21:44:54.905154"
-    },
-    {
-      "english": "Never freeze, start with “claro”",
-      "spanish": "Nunca te quedes, empieza con “claro”",
-      "category": "Strength",
-      "generated_at": "2026-04-27T21:44:54.905161"
-    },
-    {
-      "english": "Never say “maybe”, say “claro”",
-      "spanish": "Nunca digas “tal vez”, di “claro”",
-      "category": "Courage",
-      "generated_at": "2026-04-28T15:36:32.022848"
-    },
-    {
       "english": "Stop panicking, start with “¿entiendes?”",
       "spanish": "Para el pánico, empieza con “¿entiendes?”",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Oye esto, tu español crece.",
       "category": "Perseverance",
       "generated_at": "2026-09-11T21:36:43.850518"
+    },
+    {
+      "english": "Curious, what they hear?",
+      "spanish": "¿Curioso, qué oyen?",
+      "category": "Courage",
+      "generated_at": "2026-09-11T22:51:43.719771"
+    },
+    {
+      "english": "Wisdom: Embrace the struggle.",
+      "spanish": "Sabiduría: Abraza la lucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-11T22:51:43.719804"
+    },
+    {
+      "english": "Imagine, fluency unlocked.",
+      "spanish": "Imagina, fluidez desbloqueada.",
+      "category": "Courage",
+      "generated_at": "2026-09-11T22:51:43.719824"
+    },
+    {
+      "english": "Your boldness shines through.",
+      "spanish": "Tu audacia brilla.",
+      "category": "Courage",
+      "generated_at": "2026-09-11T22:51:43.719845"
+    },
+    {
+      "english": "Start today, be brave.",
+      "spanish": "Empieza hoy, sé valiente.",
+      "category": "Courage",
+      "generated_at": "2026-09-11T22:51:43.719864"
     }
   ],
   "used_english": [
-    "stop saying “maybe”, choose “sí”",
-    "what nobody tells you, add “oye”",
-    "stop guessing, answer with “así”",
-    "never freeze, start with “claro”",
-    "never say “maybe”, say “claro”",
     "stop panicking, start with “¿entiendes?”",
     "the secret is rhythm, not speed",
     "stop overthinking, just say “pues sí”",
@@ -21001,7 +20996,12 @@
     "small wins, huge progress now.",
     "your patience, a silent power.",
     "imagine, fluency feels this.",
-    "hear this, your spanish grows."
+    "hear this, your spanish grows.",
+    "curious, what they hear?",
+    "wisdom: embrace the struggle.",
+    "imagine, fluency unlocked.",
+    "your boldness shines through.",
+    "start today, be brave."
   ],
-  "last_updated": "2026-09-11T21:36:43.850520"
+  "last_updated": "2026-09-11T22:51:43.719866"
 }
