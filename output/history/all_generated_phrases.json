@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, reply with “sí, claro”",
-      "spanish": "Nunca esperes, responde “sí, claro”",
-      "category": "Confidence",
-      "generated_at": "2026-04-27T18:04:54.437375"
-    },
-    {
-      "english": "The secret... start with “es verdad”",
-      "spanish": "El secreto... empieza con “es verdad”",
-      "category": "Confidence",
-      "generated_at": "2026-04-27T18:04:54.437383"
-    },
-    {
-      "english": "Never freeze, say “está bien”",
-      "spanish": "Nunca te quedes, di “está bien”",
-      "category": "Confidence",
-      "generated_at": "2026-04-27T18:04:54.437390"
-    },
-    {
-      "english": "This one breath makes you confident",
-      "spanish": "Esta respiración te da confianza",
-      "category": "Confidence",
-      "generated_at": "2026-04-27T18:04:54.437397"
-    },
-    {
-      "english": "Never panic, say “¿qué pasa?”",
-      "spanish": "Nunca entres en pánico, di “¿qué pasa?”",
-      "category": "Inspiration",
-      "generated_at": "2026-04-27T20:11:39.222545"
-    },
-    {
       "english": "Stop apologizing, just say “no pasa”.",
       "spanish": "Deja de disculparte, solo di “no pasa”.",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "El secreto? Repetición simple.",
       "category": "Motivation",
       "generated_at": "2026-09-11T18:12:15.606385"
+    },
+    {
+      "english": "Imagine speaking easily.",
+      "spanish": "Imagina hablar con facilidad.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T19:28:20.359444"
+    },
+    {
+      "english": "Your patience pays off.",
+      "spanish": "Tu paciencia vale oro.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T19:28:20.359479"
+    },
+    {
+      "english": "This word means 'hello'.",
+      "spanish": "Esta palabra es 'hola'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T19:28:20.359502"
+    },
+    {
+      "english": "Listen: you're understood.",
+      "spanish": "Escucha: te entienden.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T19:28:20.359525"
+    },
+    {
+      "english": "Feel the progress now.",
+      "spanish": "Siente el progreso ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T19:28:20.359548"
     }
   ],
   "used_english": [
-    "never wait, reply with “sí, claro”",
-    "the secret... start with “es verdad”",
-    "never freeze, say “está bien”",
-    "this one breath makes you confident",
-    "never panic, say “¿qué pasa?”",
     "stop apologizing, just say “no pasa”.",
     "this is why you get stuck, “muy”.",
     "what nobody tells you, “alright”= “vale”.",
@@ -21001,7 +20996,12 @@
     "this word sparks curiosity.",
     "don't give up, listen.",
     "feel the fluency growing.",
-    "the secret? simple repetition."
+    "the secret? simple repetition.",
+    "imagine speaking easily.",
+    "your patience pays off.",
+    "this word means 'hello'.",
+    "listen: you're understood.",
+    "feel the progress now."
   ],
-  "last_updated": "2026-09-11T18:12:15.606388"
+  "last_updated": "2026-09-11T19:28:20.359550"
 }
