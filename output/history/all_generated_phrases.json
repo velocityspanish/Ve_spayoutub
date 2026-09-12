@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop chatting, start asking back",
-      "spanish": "Deja el monólogo, pregunta de vuelta",
-      "category": "Balance",
-      "generated_at": "2026-04-28T16:56:12.371576"
-    },
-    {
-      "english": "This phrase saves your conversation",
-      "spanish": "Esta frase salva tu charla",
-      "category": "Balance",
-      "generated_at": "2026-04-28T16:56:12.371583"
-    },
-    {
-      "english": "Never apologize, just keep moving",
-      "spanish": "No te disculpes, sigue adelante",
-      "category": "Balance",
-      "generated_at": "2026-04-28T16:56:12.371590"
-    },
-    {
-      "english": "The secret? Say “I mean…” first",
-      "spanish": "El secreto: o sea… primero",
-      "category": "Balance",
-      "generated_at": "2026-04-28T16:56:12.371598"
-    },
-    {
-      "english": "Never explain, just say “de acuerdo”",
-      "spanish": "Nunca expliques, solo di “de acuerdo”",
-      "category": "Hope",
-      "generated_at": "2026-04-28T18:18:16.231084"
-    },
-    {
       "english": "Stop forgetting, say “con gusto”",
       "spanish": "Deja de olvidar, di “con gusto”",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Susurra esto, los corazones conectan.",
       "category": "Love",
       "generated_at": "2026-09-12T16:04:52.755764"
+    },
+    {
+      "english": "Wisdom: Simplicity wins every time.",
+      "spanish": "Sabiduría: Sencillez gana siempre.",
+      "category": "Balance",
+      "generated_at": "2026-09-12T17:42:17.255716"
+    },
+    {
+      "english": "Surprise! You're catching on.",
+      "spanish": "¡Sorpresa! Estás entendiendo.",
+      "category": "Balance",
+      "generated_at": "2026-09-12T17:42:17.255748"
+    },
+    {
+      "english": "Hear this, feel the rhythm.",
+      "spanish": "Escucha esto, siente el ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-09-12T17:42:17.255770"
+    },
+    {
+      "english": "Your patience? It's powerful.",
+      "spanish": "¿Tu paciencia? Es poderosa.",
+      "category": "Balance",
+      "generated_at": "2026-09-12T17:42:17.255790"
+    },
+    {
+      "english": "This moment, embrace it.",
+      "spanish": "Este momento, acéptalo.",
+      "category": "Balance",
+      "generated_at": "2026-09-12T17:42:17.255810"
     }
   ],
   "used_english": [
-    "stop chatting, start asking back",
-    "this phrase saves your conversation",
-    "never apologize, just keep moving",
-    "the secret? say “i mean…” first",
-    "never explain, just say “de acuerdo”",
     "stop forgetting, say “con gusto”",
     "stop switching to english mid-sentence",
     "the secret? short answers, always",
@@ -21001,7 +20996,12 @@
     "your heart speaks 'te amo'.",
     "feel this longing, 'mi amor'.",
     "surprise! you love this word.",
-    "whisper this, hearts connect."
+    "whisper this, hearts connect.",
+    "wisdom: simplicity wins every time.",
+    "surprise! you're catching on.",
+    "hear this, feel the rhythm.",
+    "your patience? it's powerful.",
+    "this moment, embrace it."
   ],
-  "last_updated": "2026-09-12T16:04:52.755766"
+  "last_updated": "2026-09-12T17:42:17.255812"
 }
