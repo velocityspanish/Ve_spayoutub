@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never explain, just say “por favor”",
-      "spanish": "No expliques, solo di “por favor”",
-      "category": "Love",
-      "generated_at": "2026-04-28T21:49:47.080175"
-    },
-    {
-      "english": "Stop rambling, say one clear thing",
-      "spanish": "Deja de hablar mucho, di una cosa",
-      "category": "Love",
-      "generated_at": "2026-04-28T21:49:47.080183"
-    },
-    {
-      "english": "Never rush love, say it softly",
-      "spanish": "No corras el amor, dilo suave",
-      "category": "Love",
-      "generated_at": "2026-04-28T21:49:47.080191"
-    },
-    {
-      "english": "Stop overthinking “te”, just use it",
-      "spanish": "No pienses tanto “te”, úsalo",
-      "category": "Love",
-      "generated_at": "2026-04-28T21:49:47.080198"
-    },
-    {
-      "english": "Stop dating apps, say this",
-      "spanish": "Deja apps de citas, di esto",
-      "category": "Love",
-      "generated_at": "2026-04-29T15:18:03.579983"
-    },
-    {
       "english": "Never flirt fast, use 'lento'",
       "spanish": "Nunca ligues rápido, usa 'lento'",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este sentimiento? Lo estás captando.",
       "category": "Growth",
       "generated_at": "2026-09-12T21:19:30.746217"
+    },
+    {
+      "english": "Unlock your inner confidence.",
+      "spanish": "Desbloquea tu confianza interior.",
+      "category": "Joy",
+      "generated_at": "2026-09-12T22:41:53.997605"
+    },
+    {
+      "english": "Feel the rhythm of Spanish.",
+      "spanish": "Siente el ritmo del español.",
+      "category": "Joy",
+      "generated_at": "2026-09-12T22:41:53.997636"
+    },
+    {
+      "english": "One phrase, endless possibilities.",
+      "spanish": "Una frase, infinitas posibilidades.",
+      "category": "Joy",
+      "generated_at": "2026-09-12T22:41:53.997655"
+    },
+    {
+      "english": "Here's your next big win.",
+      "spanish": "Aquí está tu próxima gran victoria.",
+      "category": "Joy",
+      "generated_at": "2026-09-12T22:41:53.997672"
+    },
+    {
+      "english": "Surprise! You're speaking it.",
+      "spanish": "¡Sorpresa! Lo estás hablando.",
+      "category": "Joy",
+      "generated_at": "2026-09-12T22:41:53.997689"
     }
   ],
   "used_english": [
-    "never explain, just say “por favor”",
-    "stop rambling, say one clear thing",
-    "never rush love, say it softly",
-    "stop overthinking “te”, just use it",
-    "stop dating apps, say this",
     "never flirt fast, use 'lento'",
     "this is why 'te quiero' hits",
     "the secret... say it softly, please",
@@ -21001,7 +20996,12 @@
     "one word, infinite smiles.",
     "listen closely, progress happens.",
     "wisdom: small sounds, big impact.",
-    "this feeling? you're getting it."
+    "this feeling? you're getting it.",
+    "unlock your inner confidence.",
+    "feel the rhythm of spanish.",
+    "one phrase, endless possibilities.",
+    "here's your next big win.",
+    "surprise! you're speaking it."
   ],
-  "last_updated": "2026-09-12T21:19:30.746219"
+  "last_updated": "2026-09-12T22:41:53.997691"
 }
