@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, pause before every reply",
-      "spanish": "El secreto, pausa antes de responder",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-28T20:21:13.451762"
-    },
-    {
-      "english": "Stop rushing, say it slowly",
-      "spanish": "No corras, dímelo despacio",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-28T20:21:13.451769"
-    },
-    {
-      "english": "This is why your Spanish stalls",
-      "spanish": "Por eso tu español se traba",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-28T20:21:13.451776"
-    },
-    {
-      "english": "This changes everything, speak in chunks",
-      "spanish": "Cambia todo, habla en trozos",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-28T20:21:13.451783"
-    },
-    {
-      "english": "Stop saying “thanks later”, say it now",
-      "spanish": "No digas “gracias después”, dilo ahora",
-      "category": "Love",
-      "generated_at": "2026-04-28T21:49:47.080159"
-    },
-    {
       "english": "Never explain, just say “por favor”",
       "spanish": "No expliques, solo di “por favor”",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! El amor suena así.",
       "category": "Love",
       "generated_at": "2026-09-12T18:58:38.595443"
+    },
+    {
+      "english": "This sound unlocks your voice.",
+      "spanish": "Este sonido desata tu voz.",
+      "category": "Growth",
+      "generated_at": "2026-09-12T21:19:30.746102"
+    },
+    {
+      "english": "One word, infinite smiles.",
+      "spanish": "Una palabra, sonrisas infinitas.",
+      "category": "Growth",
+      "generated_at": "2026-09-12T21:19:30.746135"
+    },
+    {
+      "english": "Listen closely, progress happens.",
+      "spanish": "Escucha atentamente, el progreso ocurre.",
+      "category": "Growth",
+      "generated_at": "2026-09-12T21:19:30.746163"
+    },
+    {
+      "english": "Wisdom: Small sounds, big impact.",
+      "spanish": "Sabiduría: Sonidos pequeños, gran impacto.",
+      "category": "Growth",
+      "generated_at": "2026-09-12T21:19:30.746190"
+    },
+    {
+      "english": "This feeling? You're getting it.",
+      "spanish": "¿Este sentimiento? Lo estás captando.",
+      "category": "Growth",
+      "generated_at": "2026-09-12T21:19:30.746217"
     }
   ],
   "used_english": [
-    "the secret, pause before every reply",
-    "stop rushing, say it slowly",
-    "this is why your spanish stalls",
-    "this changes everything, speak in chunks",
-    "stop saying “thanks later”, say it now",
     "never explain, just say “por favor”",
     "stop rambling, say one clear thing",
     "never rush love, say it softly",
@@ -21001,7 +20996,12 @@
     "curious? this word is magic.",
     "your voice, their world opens.",
     "whisper this, feel the warmth.",
-    "surprise! love sounds like this."
+    "surprise! love sounds like this.",
+    "this sound unlocks your voice.",
+    "one word, infinite smiles.",
+    "listen closely, progress happens.",
+    "wisdom: small sounds, big impact.",
+    "this feeling? you're getting it."
   ],
-  "last_updated": "2026-09-12T18:58:38.595445"
+  "last_updated": "2026-09-12T21:19:30.746219"
 }
