@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop panicking, start with “¿entiendes?”",
-      "spanish": "Para el pánico, empieza con “¿entiendes?”",
-      "category": "Courage",
-      "generated_at": "2026-04-28T15:36:32.022864"
-    },
-    {
-      "english": "The secret is rhythm, not speed",
-      "spanish": "El secreto es ritmo, no rapidez",
-      "category": "Courage",
-      "generated_at": "2026-04-28T15:36:32.022873"
-    },
-    {
-      "english": "Stop overthinking, just say “pues sí”",
-      "spanish": "Deja de pensar, solo di “pues sí”",
-      "category": "Courage",
-      "generated_at": "2026-04-28T15:36:32.022880"
-    },
-    {
-      "english": "The secret? One question, then pause",
-      "spanish": "El secreto, una pregunta, y pausa",
-      "category": "Courage",
-      "generated_at": "2026-04-28T15:36:32.022886"
-    },
-    {
-      "english": "Stop overthinking, say one yes",
-      "spanish": "Deja de pensarlo, di un sí",
-      "category": "Balance",
-      "generated_at": "2026-04-28T16:56:12.371561"
-    },
-    {
       "english": "Stop chatting, start asking back",
       "spanish": "Deja el monólogo, pregunta de vuelta",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Empieza hoy, sé valiente.",
       "category": "Courage",
       "generated_at": "2026-09-11T22:51:43.719864"
+    },
+    {
+      "english": "Hear this, love blooms.",
+      "spanish": "Oye esto, florece el amor.",
+      "category": "Love",
+      "generated_at": "2026-09-12T16:04:52.755667"
+    },
+    {
+      "english": "Your heart speaks 'te amo'.",
+      "spanish": "Tu corazón dice 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-09-12T16:04:52.755699"
+    },
+    {
+      "english": "Feel this longing, 'mi amor'.",
+      "spanish": "Siente este anhelo, 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-09-12T16:04:52.755721"
+    },
+    {
+      "english": "Surprise! You love this word.",
+      "spanish": "¡Sorpresa! Te encanta esta palabra.",
+      "category": "Love",
+      "generated_at": "2026-09-12T16:04:52.755743"
+    },
+    {
+      "english": "Whisper this, hearts connect.",
+      "spanish": "Susurra esto, los corazones conectan.",
+      "category": "Love",
+      "generated_at": "2026-09-12T16:04:52.755764"
     }
   ],
   "used_english": [
-    "stop panicking, start with “¿entiendes?”",
-    "the secret is rhythm, not speed",
-    "stop overthinking, just say “pues sí”",
-    "the secret? one question, then pause",
-    "stop overthinking, say one yes",
     "stop chatting, start asking back",
     "this phrase saves your conversation",
     "never apologize, just keep moving",
@@ -21001,7 +20996,12 @@
     "wisdom: embrace the struggle.",
     "imagine, fluency unlocked.",
     "your boldness shines through.",
-    "start today, be brave."
+    "start today, be brave.",
+    "hear this, love blooms.",
+    "your heart speaks 'te amo'.",
+    "feel this longing, 'mi amor'.",
+    "surprise! you love this word.",
+    "whisper this, hearts connect."
   ],
-  "last_updated": "2026-09-11T22:51:43.719866"
+  "last_updated": "2026-09-12T16:04:52.755766"
 }
