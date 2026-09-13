@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop thinking, ask one question",
-      "spanish": "Deja de pensar, pregunta una cosa",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T20:14:07.465406"
-    },
-    {
-      "english": "Never translate, feel the rhythm",
-      "spanish": "No traduzcas, siente el ritmo",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T20:14:07.465413"
-    },
-    {
-      "english": "The secret? Use simple answers",
-      "spanish": "El truco, respuestas simples",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T20:14:07.465420"
-    },
-    {
-      "english": "Stop avoiding verbs, use 'tengo'",
-      "spanish": "No evites verbos, usa 'tengo'",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T20:14:07.465427"
-    },
-    {
-      "english": "Real friends do this without asking.",
-      "spanish": "Los amigos reales hacen esto sin pedir.",
-      "category": "Friendship",
-      "generated_at": "2026-04-29T21:50:51.927763"
-    },
-    {
       "english": "Stop calling these people friends.",
       "spanish": "Deja de llamar amigos a estas personas.",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Corazón valiente, palabras fluidas.",
       "category": "Strength",
       "generated_at": "2026-09-13T19:12:33.341877"
+    },
+    {
+      "english": "Your next word sparks curiosity.",
+      "spanish": "Tu próxima palabra despierta curiosidad.",
+      "category": "Motivation",
+      "generated_at": "2026-09-13T21:17:43.352352"
+    },
+    {
+      "english": "Your patience is so loud.",
+      "spanish": "Tu paciencia es tan sonora.",
+      "category": "Motivation",
+      "generated_at": "2026-09-13T21:17:43.352385"
+    },
+    {
+      "english": "One sentence, many smiles.",
+      "spanish": "Una frase, muchas sonrisas.",
+      "category": "Motivation",
+      "generated_at": "2026-09-13T21:17:43.352412"
+    },
+    {
+      "english": "Your progress speaks volumes now.",
+      "spanish": "Tu progreso habla mucho ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-09-13T21:17:43.352439"
+    },
+    {
+      "english": "Wisdom: Practice, then practice.",
+      "spanish": "Sabiduría: Practica, luego practica.",
+      "category": "Motivation",
+      "generated_at": "2026-09-13T21:17:43.352467"
     }
   ],
   "used_english": [
-    "stop thinking, ask one question",
-    "never translate, feel the rhythm",
-    "the secret? use simple answers",
-    "stop avoiding verbs, use 'tengo'",
-    "real friends do this without asking.",
     "stop calling these people friends.",
     "the test of true friendship.",
     "what i learned about loyalty.",
@@ -21001,7 +20996,12 @@
     "this sounds like courage.",
     "did you hear that progress?",
     "your spanish brain is growing.",
-    "brave heart, fluent words."
+    "brave heart, fluent words.",
+    "your next word sparks curiosity.",
+    "your patience is so loud.",
+    "one sentence, many smiles.",
+    "your progress speaks volumes now.",
+    "wisdom: practice, then practice."
   ],
-  "last_updated": "2026-09-13T19:12:33.341879"
+  "last_updated": "2026-09-13T21:17:43.352470"
 }
