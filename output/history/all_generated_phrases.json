@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study longer, practice smarter",
-      "spanish": "Nunca estudies más, practica mejor",
-      "category": "Motivation",
-      "generated_at": "2026-04-29T16:28:59.037827"
-    },
-    {
-      "english": "Say this, and confidence appears",
-      "spanish": "Di esto, y aparece la confianza",
-      "category": "Motivation",
-      "generated_at": "2026-04-29T16:28:59.037834"
-    },
-    {
-      "english": "Never wait, just repeat the chunk",
-      "spanish": "No esperes, repite el pedazo",
-      "category": "Motivation",
-      "generated_at": "2026-04-29T16:28:59.037841"
-    },
-    {
-      "english": "This one habit unlocks fast Spanish",
-      "spanish": "Este hábito desbloquea español rápido",
-      "category": "Motivation",
-      "generated_at": "2026-04-29T16:28:59.037848"
-    },
-    {
-      "english": "Stop apologizing, say thank you",
-      "spanish": "Deja de disculparte, di gracias",
-      "category": "Gratitude",
-      "generated_at": "2026-04-29T18:11:55.976005"
-    },
-    {
       "english": "This is why Spanish feels easy",
       "spanish": "Por eso el español se siente fácil",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "La chispa de tu viaje, enciéndela.",
       "category": "Inspiration",
       "generated_at": "2026-09-13T16:52:58.163361"
+    },
+    {
+      "english": "They're thinking 'te quiero'.",
+      "spanish": "Están pensando 'te quiero'.",
+      "category": "Love",
+      "generated_at": "2026-09-13T17:57:07.164122"
+    },
+    {
+      "english": "This phrase melts hearts.",
+      "spanish": "Esta frase derrite corazones.",
+      "category": "Love",
+      "generated_at": "2026-09-13T17:57:07.164160"
+    },
+    {
+      "english": "Feel this gentle affection.",
+      "spanish": "Siente este dulce cariño.",
+      "category": "Love",
+      "generated_at": "2026-09-13T17:57:07.164187"
+    },
+    {
+      "english": "Your soulmate hears this.",
+      "spanish": "Tu alma gemela escucha esto.",
+      "category": "Love",
+      "generated_at": "2026-09-13T17:57:07.164213"
+    },
+    {
+      "english": "A secret 'I adore you'.",
+      "spanish": "Un 'te adoro' secreto.",
+      "category": "Love",
+      "generated_at": "2026-09-13T17:57:07.164239"
     }
   ],
   "used_english": [
-    "never study longer, practice smarter",
-    "say this, and confidence appears",
-    "never wait, just repeat the chunk",
-    "this one habit unlocks fast spanish",
-    "stop apologizing, say thank you",
     "this is why spanish feels easy",
     "stop missing chances, thank them now",
     "never say “sorry” again, say “thanks”",
@@ -21001,7 +20996,12 @@
     "your brain is rewiring, wow!",
     "one phrase, new adventure awaits.",
     "small steps, huge progress here.",
-    "your journey's spark, ignite it."
+    "your journey's spark, ignite it.",
+    "they're thinking 'te quiero'.",
+    "this phrase melts hearts.",
+    "feel this gentle affection.",
+    "your soulmate hears this.",
+    "a secret 'i adore you'."
   ],
-  "last_updated": "2026-09-13T16:52:58.163363"
+  "last_updated": "2026-09-13T17:57:07.164241"
 }
