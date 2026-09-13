@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why Spanish feels easy",
-      "spanish": "Por eso el español se siente fácil",
-      "category": "Gratitude",
-      "generated_at": "2026-04-29T18:11:55.976020"
-    },
-    {
-      "english": "Stop missing chances, thank them now",
-      "spanish": "No pierdas oportunidades, agradece ahora",
-      "category": "Gratitude",
-      "generated_at": "2026-04-29T18:11:55.976028"
-    },
-    {
-      "english": "Never say “sorry” again, say “thanks”",
-      "spanish": "No digas “perdón”, di “gracias”",
-      "category": "Gratitude",
-      "generated_at": "2026-04-29T18:11:55.976035"
-    },
-    {
-      "english": "Never rush gratitude, pause first",
-      "spanish": "No apures la gratitud, pausa primero",
-      "category": "Gratitude",
-      "generated_at": "2026-04-29T18:11:55.976042"
-    },
-    {
-      "english": "Never memorize, speak it now",
-      "spanish": "Nunca memorices, dilo ya",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T20:14:07.465392"
-    },
-    {
       "english": "Stop thinking, ask one question",
       "spanish": "Deja de pensar, pregunta una cosa",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Un 'te adoro' secreto.",
       "category": "Love",
       "generated_at": "2026-09-13T17:57:07.164239"
+    },
+    {
+      "english": "Your confidence whispers fluency.",
+      "spanish": "Tu confianza susurra fluidez.",
+      "category": "Strength",
+      "generated_at": "2026-09-13T19:12:33.341749"
+    },
+    {
+      "english": "This sounds like courage.",
+      "spanish": "Esto suena a coraje.",
+      "category": "Strength",
+      "generated_at": "2026-09-13T19:12:33.341798"
+    },
+    {
+      "english": "Did you hear that progress?",
+      "spanish": "¿Oíste ese progreso?",
+      "category": "Strength",
+      "generated_at": "2026-09-13T19:12:33.341824"
+    },
+    {
+      "english": "Your Spanish brain is growing.",
+      "spanish": "Tu cerebro español está creciendo.",
+      "category": "Strength",
+      "generated_at": "2026-09-13T19:12:33.341851"
+    },
+    {
+      "english": "Brave heart, fluent words.",
+      "spanish": "Corazón valiente, palabras fluidas.",
+      "category": "Strength",
+      "generated_at": "2026-09-13T19:12:33.341877"
     }
   ],
   "used_english": [
-    "this is why spanish feels easy",
-    "stop missing chances, thank them now",
-    "never say “sorry” again, say “thanks”",
-    "never rush gratitude, pause first",
-    "never memorize, speak it now",
     "stop thinking, ask one question",
     "never translate, feel the rhythm",
     "the secret? use simple answers",
@@ -21001,7 +20996,12 @@
     "this phrase melts hearts.",
     "feel this gentle affection.",
     "your soulmate hears this.",
-    "a secret 'i adore you'."
+    "a secret 'i adore you'.",
+    "your confidence whispers fluency.",
+    "this sounds like courage.",
+    "did you hear that progress?",
+    "your spanish brain is growing.",
+    "brave heart, fluent words."
   ],
-  "last_updated": "2026-09-13T17:57:07.164241"
+  "last_updated": "2026-09-13T19:12:33.341879"
 }
