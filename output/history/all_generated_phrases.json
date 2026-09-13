@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop calling these people friends.",
-      "spanish": "Deja de llamar amigos a estas personas.",
-      "category": "Friendship",
-      "generated_at": "2026-04-29T21:50:51.927780"
-    },
-    {
-      "english": "The test of true friendship.",
-      "spanish": "La prueba de la verdadera amistad.",
-      "category": "Friendship",
-      "generated_at": "2026-04-29T21:50:51.927808"
-    },
-    {
-      "english": "What I learned about loyalty.",
-      "spanish": "Lo que aprendí sobre la lealtad.",
-      "category": "Friendship",
-      "generated_at": "2026-04-29T21:50:51.927816"
-    },
-    {
-      "english": "Keep these people close forever.",
-      "spanish": "Mantén a estas personas cerca siempre.",
-      "category": "Friendship",
-      "generated_at": "2026-04-29T21:50:51.927824"
-    },
-    {
-      "english": "Stop saying “maybe”, use “hoy”",
-      "spanish": "Deja “quizá”, usa “hoy”",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-01T14:18:53.609979"
-    },
-    {
       "english": "Never panic, start with “estás”",
       "spanish": "Nunca entres en pánico, empieza con “estás”",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: Practica, luego practica.",
       "category": "Motivation",
       "generated_at": "2026-09-13T21:17:43.352467"
+    },
+    {
+      "english": "Your quiet progress whispers loudest.",
+      "spanish": "Tu progreso callado susurra más fuerte.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-13T22:42:32.296952"
+    },
+    {
+      "english": "Wisdom: Embrace the messy middle.",
+      "spanish": "Sabiduría: Abraza el medio caótico.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-13T22:42:32.296990"
+    },
+    {
+      "english": "Feel the calm, speak spanish.",
+      "spanish": "Siente la calma, habla español.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-13T22:42:32.297017"
+    },
+    {
+      "english": "Encouragement: You're not alone.",
+      "spanish": "Ánimo: No estás solo/a.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-13T22:42:32.297045"
+    },
+    {
+      "english": "Surprise! Your brain is lit.",
+      "spanish": "¡Sorpresa! Tu cerebro está encendido.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-13T22:42:32.297071"
     }
   ],
   "used_english": [
-    "stop calling these people friends.",
-    "the test of true friendship.",
-    "what i learned about loyalty.",
-    "keep these people close forever.",
-    "stop saying “maybe”, use “hoy”",
     "never panic, start with “estás”",
     "the secret is simple, say “quiero”",
     "stop overthinking, just say “¿y tú?”",
@@ -21001,7 +20996,12 @@
     "your patience is so loud.",
     "one sentence, many smiles.",
     "your progress speaks volumes now.",
-    "wisdom: practice, then practice."
+    "wisdom: practice, then practice.",
+    "your quiet progress whispers loudest.",
+    "wisdom: embrace the messy middle.",
+    "feel the calm, speak spanish.",
+    "encouragement: you're not alone.",
+    "surprise! your brain is lit."
   ],
-  "last_updated": "2026-09-13T21:17:43.352470"
+  "last_updated": "2026-09-13T22:42:32.297073"
 }
