@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never flirt fast, use 'lento'",
-      "spanish": "Nunca ligues rápido, usa 'lento'",
-      "category": "Love",
-      "generated_at": "2026-04-29T15:18:03.579997"
-    },
-    {
-      "english": "This is why 'te quiero' hits",
-      "spanish": "Por eso 'te quiero' pega",
-      "category": "Love",
-      "generated_at": "2026-04-29T15:18:03.580004"
-    },
-    {
-      "english": "The secret... say it softly, please",
-      "spanish": "El secreto... dilo suave, por favor",
-      "category": "Love",
-      "generated_at": "2026-04-29T15:18:03.580012"
-    },
-    {
-      "english": "Stop overthinking, say 'me gustas'",
-      "spanish": "No sobrepienses, di 'me gustas'",
-      "category": "Love",
-      "generated_at": "2026-04-29T15:18:03.580018"
-    },
-    {
-      "english": "Stop learning silently, start speaking",
-      "spanish": "Deja de aprender en silencio, habla",
-      "category": "Motivation",
-      "generated_at": "2026-04-29T16:28:59.037811"
-    },
-    {
       "english": "Never study longer, practice smarter",
       "spanish": "Nunca estudies más, practica mejor",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Lo estás hablando.",
       "category": "Joy",
       "generated_at": "2026-09-12T22:41:53.997689"
+    },
+    {
+      "english": "Your next word is simple.",
+      "spanish": "Tu próxima palabra es simple.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T16:52:58.163236"
+    },
+    {
+      "english": "Your brain is rewiring, wow!",
+      "spanish": "Tu cerebro se está recableando, ¡wow!",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T16:52:58.163273"
+    },
+    {
+      "english": "One phrase, new adventure awaits.",
+      "spanish": "Una frase, nueva aventura espera.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T16:52:58.163303"
+    },
+    {
+      "english": "Small steps, huge progress here.",
+      "spanish": "Pequeños pasos, gran progreso aquí.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T16:52:58.163332"
+    },
+    {
+      "english": "Your journey's spark, ignite it.",
+      "spanish": "La chispa de tu viaje, enciéndela.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T16:52:58.163361"
     }
   ],
   "used_english": [
-    "never flirt fast, use 'lento'",
-    "this is why 'te quiero' hits",
-    "the secret... say it softly, please",
-    "stop overthinking, say 'me gustas'",
-    "stop learning silently, start speaking",
     "never study longer, practice smarter",
     "say this, and confidence appears",
     "never wait, just repeat the chunk",
@@ -21001,7 +20996,12 @@
     "feel the rhythm of spanish.",
     "one phrase, endless possibilities.",
     "here's your next big win.",
-    "surprise! you're speaking it."
+    "surprise! you're speaking it.",
+    "your next word is simple.",
+    "your brain is rewiring, wow!",
+    "one phrase, new adventure awaits.",
+    "small steps, huge progress here.",
+    "your journey's spark, ignite it."
   ],
-  "last_updated": "2026-09-12T22:41:53.997691"
+  "last_updated": "2026-09-13T16:52:58.163363"
 }
