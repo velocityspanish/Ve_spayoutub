@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret phrase, “Me interesa”",
-      "spanish": "La frase secreta: “Me interesa”",
-      "category": "Joy",
-      "generated_at": "2026-05-01T21:42:18.608131"
-    },
-    {
-      "english": "What nobody tells you, answer fast",
-      "spanish": "Lo que nadie te dice, responde rápido",
-      "category": "Joy",
-      "generated_at": "2026-05-01T21:42:18.608139"
-    },
-    {
-      "english": "Stop freezing, start with “¿Cómo?”",
-      "spanish": "Deja de congelarte, empieza con “¿Cómo?”",
-      "category": "Joy",
-      "generated_at": "2026-05-01T21:42:18.608147"
-    },
-    {
-      "english": "Never overdo, just say “Sin problema”",
-      "spanish": "Nunca lo exageres, solo di “Sin problema”",
-      "category": "Joy",
-      "generated_at": "2026-05-01T21:42:18.608154"
-    },
-    {
-      "english": "Stop hiding, say “estoy listo”",
-      "spanish": "Deja de esconderte, di “estoy listo”",
-      "category": "Motivation",
-      "generated_at": "2026-05-02T14:11:43.610497"
-    },
-    {
       "english": "Never say “I’ll try”, say “lo haré”",
       "spanish": "No digas “lo intentaré”, di “lo haré”",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Su sonrisa? La ganaste.",
       "category": "Mindfulness",
       "generated_at": "2026-09-14T22:22:15.433445"
+    },
+    {
+      "english": "This one sound changes everything.",
+      "spanish": "Este sonido lo cambia todo.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T23:33:22.263403"
+    },
+    {
+      "english": "Wisdom: Patience is fluency.",
+      "spanish": "Sabiduría: Paciencia es fluidez.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T23:33:22.263439"
+    },
+    {
+      "english": "Here's your secret weapon.",
+      "spanish": "Aquí tu arma secreta.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T23:33:22.263466"
+    },
+    {
+      "english": "Your courage sounds beautiful.",
+      "spanish": "Tu coraje suena hermoso.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T23:33:22.263494"
+    },
+    {
+      "english": "Curious? This is important.",
+      "spanish": "¿Curioso? Esto es importante.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T23:33:22.263520"
     }
   ],
   "used_english": [
-    "the secret phrase, “me interesa”",
-    "what nobody tells you, answer fast",
-    "stop freezing, start with “¿cómo?”",
-    "never overdo, just say “sin problema”",
-    "stop hiding, say “estoy listo”",
     "never say “i’ll try”, say “lo haré”",
     "stop googling, ask “¿y tú?”",
     "the secret? say “necesito ayuda”",
@@ -21001,7 +20996,12 @@
     "brave hearts speak spanish.",
     "this unlocks a new world.",
     "are you listening? progress whispers.",
-    "their smile? you earned it."
+    "their smile? you earned it.",
+    "this one sound changes everything.",
+    "wisdom: patience is fluency.",
+    "here's your secret weapon.",
+    "your courage sounds beautiful.",
+    "curious? this is important."
   ],
-  "last_updated": "2026-09-14T22:22:15.433446"
+  "last_updated": "2026-09-14T23:33:22.263522"
 }
