@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “thanks,” say “muchas gracias”",
-      "spanish": "Nunca digas “gracias”, di “muchas gracias”",
-      "category": "Gratitude",
-      "generated_at": "2026-05-01T20:07:44.709933"
-    },
-    {
-      "english": "The secret, say it with feeling",
-      "spanish": "El secreto, dilo con emoción",
-      "category": "Gratitude",
-      "generated_at": "2026-05-01T20:07:44.709942"
-    },
-    {
-      "english": "Stop rushing gratitude, pause after “gracias”",
-      "spanish": "No corras la gratitud, pausa tras “gracias”",
-      "category": "Gratitude",
-      "generated_at": "2026-05-01T20:07:44.709949"
-    },
-    {
-      "english": "Never forget, “con gusto” sounds native",
-      "spanish": "Nunca olvides, “con gusto” suena nativo",
-      "category": "Gratitude",
-      "generated_at": "2026-05-01T20:07:44.709957"
-    },
-    {
-      "english": "Stop guessing “ser”, use “estar” here",
-      "spanish": "Deja de adivinar “ser”, usa “estar” aquí",
-      "category": "Joy",
-      "generated_at": "2026-05-01T21:42:18.608116"
-    },
-    {
       "english": "The secret phrase, “Me interesa”",
       "spanish": "La frase secreta: “Me interesa”",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Aquí está lo que desbloquea fluidez.",
       "category": "Inspiration",
       "generated_at": "2026-09-14T20:45:36.379998"
+    },
+    {
+      "english": "Small sounds, big feelings.",
+      "spanish": "Sonidos pequeños, grandes emociones.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T22:22:15.433360"
+    },
+    {
+      "english": "Brave hearts speak spanish.",
+      "spanish": "Corazones valientes hablan español.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T22:22:15.433391"
+    },
+    {
+      "english": "This unlocks a new world.",
+      "spanish": "Esto abre un mundo nuevo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T22:22:15.433408"
+    },
+    {
+      "english": "Are you listening? Progress whispers.",
+      "spanish": "¿Escuchas? El progreso susurra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T22:22:15.433427"
+    },
+    {
+      "english": "Their smile? You earned it.",
+      "spanish": "¿Su sonrisa? La ganaste.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T22:22:15.433445"
     }
   ],
   "used_english": [
-    "never say “thanks,” say “muchas gracias”",
-    "the secret, say it with feeling",
-    "stop rushing gratitude, pause after “gracias”",
-    "never forget, “con gusto” sounds native",
-    "stop guessing “ser”, use “estar” here",
     "the secret phrase, “me interesa”",
     "what nobody tells you, answer fast",
     "stop freezing, start with “¿cómo?”",
@@ -21001,7 +20996,12 @@
     "small words, big connections.",
     "you belong here, listen.",
     "trust the process, you're doing it.",
-    "here's what unlocks fluency."
+    "here's what unlocks fluency.",
+    "small sounds, big feelings.",
+    "brave hearts speak spanish.",
+    "this unlocks a new world.",
+    "are you listening? progress whispers.",
+    "their smile? you earned it."
   ],
-  "last_updated": "2026-09-14T20:45:36.380000"
+  "last_updated": "2026-09-14T22:22:15.433446"
 }
