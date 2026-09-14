@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never panic, start with “estás”",
-      "spanish": "Nunca entres en pánico, empieza con “estás”",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-01T14:18:53.609998"
-    },
-    {
-      "english": "The secret is simple, say “quiero”",
-      "spanish": "El secreto es simple, di “quiero”",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-01T14:18:53.610006"
-    },
-    {
-      "english": "Stop overthinking, just say “¿y tú?”",
-      "spanish": "Deja de pensar, solo di “¿y tú?”",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-01T14:18:53.610013"
-    },
-    {
-      "english": "Never freeze, grab “lo siento”",
-      "spanish": "No te congeles, usa “lo siento”",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-01T14:18:53.610020"
-    },
-    {
-      "english": "Stop studying grammar first, speak",
-      "spanish": "Deja la gramática primero, habla",
-      "category": "Growth",
-      "generated_at": "2026-05-01T15:59:22.511768"
-    },
-    {
       "english": "Stop switching apps, practice shadowing",
       "spanish": "Deja las apps, practica shadowing",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Tu cerebro está encendido.",
       "category": "Inner Peace",
       "generated_at": "2026-09-13T22:42:32.297071"
+    },
+    {
+      "english": "What if joy sounds like this?",
+      "spanish": "¿Y si la alegría suena así?",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:25:10.199613"
+    },
+    {
+      "english": "One phrase, their world opens.",
+      "spanish": "Una frase, su mundo se abre.",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:25:10.199653"
+    },
+    {
+      "english": "Feel this new connection.",
+      "spanish": "Siente esta conexión nueva.",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:25:10.199679"
+    },
+    {
+      "english": "Wisdom: Kindness travels far.",
+      "spanish": "Sabiduría: La bondad viaja lejos.",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:25:10.199705"
+    },
+    {
+      "english": "Don't underestimate this word.",
+      "spanish": "No subestimes esta palabra.",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:25:10.199733"
     }
   ],
   "used_english": [
-    "never panic, start with “estás”",
-    "the secret is simple, say “quiero”",
-    "stop overthinking, just say “¿y tú?”",
-    "never freeze, grab “lo siento”",
-    "stop studying grammar first, speak",
     "stop switching apps, practice shadowing",
     "never say 'i think', say 'creo'",
     "stop translating, answer instantly",
@@ -21001,7 +20996,12 @@
     "wisdom: embrace the messy middle.",
     "feel the calm, speak spanish.",
     "encouragement: you're not alone.",
-    "surprise! your brain is lit."
+    "surprise! your brain is lit.",
+    "what if joy sounds like this?",
+    "one phrase, their world opens.",
+    "feel this new connection.",
+    "wisdom: kindness travels far.",
+    "don't underestimate this word."
   ],
-  "last_updated": "2026-09-13T22:42:32.297073"
+  "last_updated": "2026-09-14T18:25:10.199735"
 }
