@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze when you forget a word",
-      "spanish": "Nunca te congeles, busca otra",
-      "category": "Creativity",
-      "generated_at": "2026-05-01T17:59:56.672729"
-    },
-    {
-      "english": "The secret... stress the important word",
-      "spanish": "El secreto... marca la palabra clave",
-      "category": "Creativity",
-      "generated_at": "2026-05-01T17:59:56.672735"
-    },
-    {
-      "english": "Urgent fix: add “now” to your speech",
-      "spanish": "Arreglo urgente: di “ahora”",
-      "category": "Creativity",
-      "generated_at": "2026-05-01T17:59:56.672741"
-    },
-    {
-      "english": "Your first sentence must be simple",
-      "spanish": "Tu primera frase, simple",
-      "category": "Creativity",
-      "generated_at": "2026-05-01T17:59:56.672748"
-    },
-    {
-      "english": "Stop “thank you,” say “gracias”",
-      "spanish": "Stop “thank you”, di “gracias”",
-      "category": "Gratitude",
-      "generated_at": "2026-05-01T20:07:44.709913"
-    },
-    {
       "english": "Never say “thanks,” say “muchas gracias”",
       "spanish": "Nunca digas “gracias”, di “muchas gracias”",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu alma gemela susurra 'te amo'.",
       "category": "Love",
       "generated_at": "2026-09-14T19:45:06.280382"
+    },
+    {
+      "english": "This changes your spanish.",
+      "spanish": "Esto cambia tu español.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-14T20:45:36.379881"
+    },
+    {
+      "english": "Small words, big connections.",
+      "spanish": "Palabras pequeñas, grandes conexiones.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-14T20:45:36.379918"
+    },
+    {
+      "english": "You belong here, listen.",
+      "spanish": "Perteneces aquí, escucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-14T20:45:36.379943"
+    },
+    {
+      "english": "Trust the process, you're doing it.",
+      "spanish": "Confía en el proceso, lo haces.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-14T20:45:36.379971"
+    },
+    {
+      "english": "Here's what unlocks fluency.",
+      "spanish": "Aquí está lo que desbloquea fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-14T20:45:36.379998"
     }
   ],
   "used_english": [
-    "never freeze when you forget a word",
-    "the secret... stress the important word",
-    "urgent fix: add “now” to your speech",
-    "your first sentence must be simple",
-    "stop “thank you,” say “gracias”",
     "never say “thanks,” say “muchas gracias”",
     "the secret, say it with feeling",
     "stop rushing gratitude, pause after “gracias”",
@@ -21001,7 +20996,12 @@
     "imagine, whispered 'you're mine'.",
     "your heart's secret language.",
     "feel this tender 'my love'.",
-    "your soulmate whispers 'te amo'."
+    "your soulmate whispers 'te amo'.",
+    "this changes your spanish.",
+    "small words, big connections.",
+    "you belong here, listen.",
+    "trust the process, you're doing it.",
+    "here's what unlocks fluency."
   ],
-  "last_updated": "2026-09-14T19:45:06.280384"
+  "last_updated": "2026-09-14T20:45:36.380000"
 }
