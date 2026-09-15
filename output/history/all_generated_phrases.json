@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Urgent: use “tengo” before everything",
-      "spanish": "Urgente, usa “tengo” antes de todo",
-      "category": "Balance",
-      "generated_at": "2026-05-02T15:48:28.047113"
-    },
-    {
-      "english": "This tiny pause boosts fluency",
-      "spanish": "Esa pausa corta sube fluidez",
-      "category": "Balance",
-      "generated_at": "2026-05-02T15:48:28.047122"
-    },
-    {
-      "english": "Never freeze—finish the thought anyway",
-      "spanish": "No te quedes, termina la idea",
-      "category": "Balance",
-      "generated_at": "2026-05-02T15:48:28.047129"
-    },
-    {
-      "english": "Stop hiding—say it, then smile",
-      "spanish": "Deja de esconder, dilo y sonríe",
-      "category": "Balance",
-      "generated_at": "2026-05-02T15:48:28.047137"
-    },
-    {
-      "english": "Stop texting, say this instead",
-      "spanish": "Deja mensajes, di esto",
-      "category": "Love",
-      "generated_at": "2026-05-02T17:43:33.612883"
-    },
-    {
       "english": "Never confess too fast, whisper",
       "spanish": "Nunca digas rápido, susurra",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra simple desbloquea coraje.",
       "category": "Self Improvement",
       "generated_at": "2026-09-15T17:32:22.879439"
+    },
+    {
+      "english": "What if fluency feels this?",
+      "spanish": "¿Y si la fluidez se siente así?",
+      "category": "Purpose",
+      "generated_at": "2026-09-15T18:44:18.197990"
+    },
+    {
+      "english": "Hear this, connections grow.",
+      "spanish": "Oye esto, las conexiones crecen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-15T18:44:18.198023"
+    },
+    {
+      "english": "Wisdom: Small wins matter.",
+      "spanish": "Sabiduría: Las pequeñas victorias importan.",
+      "category": "Purpose",
+      "generated_at": "2026-09-15T18:44:18.198046"
+    },
+    {
+      "english": "Feel this connection blooming.",
+      "spanish": "Siente esta conexión floreciendo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-15T18:44:18.198070"
+    },
+    {
+      "english": "Your patience? It's a superpower.",
+      "spanish": "¿Tu paciencia? Es un superpoder.",
+      "category": "Purpose",
+      "generated_at": "2026-09-15T18:44:18.198096"
     }
   ],
   "used_english": [
-    "urgent: use “tengo” before everything",
-    "this tiny pause boosts fluency",
-    "never freeze—finish the thought anyway",
-    "stop hiding—say it, then smile",
-    "stop texting, say this instead",
     "never confess too fast, whisper",
     "the secret phrase, you’ll use tonight",
     "never say 'why', say '¿qué tal?'",
@@ -21001,7 +20996,12 @@
     "your next word? pure joy.",
     "feel this? it's progress.",
     "don't forget this feeling.",
-    "this simple word unlocks courage."
+    "this simple word unlocks courage.",
+    "what if fluency feels this?",
+    "hear this, connections grow.",
+    "wisdom: small wins matter.",
+    "feel this connection blooming.",
+    "your patience? it's a superpower."
   ],
-  "last_updated": "2026-09-15T17:32:22.879441"
+  "last_updated": "2026-09-15T18:44:18.198097"
 }
