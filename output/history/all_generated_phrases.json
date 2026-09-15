@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “I’ll try”, say “lo haré”",
-      "spanish": "No digas “lo intentaré”, di “lo haré”",
-      "category": "Motivation",
-      "generated_at": "2026-05-02T14:11:43.610512"
-    },
-    {
-      "english": "Stop Googling, ask “¿y tú?”",
-      "spanish": "Deja el Google, pregunta “¿y tú?”",
-      "category": "Motivation",
-      "generated_at": "2026-05-02T14:11:43.610520"
-    },
-    {
-      "english": "The secret? Say “necesito ayuda”",
-      "spanish": "El secreto: di “necesito ayuda”",
-      "category": "Motivation",
-      "generated_at": "2026-05-02T14:11:43.610528"
-    },
-    {
-      "english": "Stop losing words, use “lo siento”",
-      "spanish": "No pierdas palabras, usa “lo siento”",
-      "category": "Motivation",
-      "generated_at": "2026-05-02T14:11:43.610535"
-    },
-    {
-      "english": "Never chase perfection, send one line",
-      "spanish": "No persigas perfección, manda una frase",
-      "category": "Balance",
-      "generated_at": "2026-05-02T15:48:28.047098"
-    },
-    {
       "english": "Urgent: use “tengo” before everything",
       "spanish": "Urgente, usa “tengo” antes de todo",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? Esto es importante.",
       "category": "Growth",
       "generated_at": "2026-09-14T23:33:22.263520"
+    },
+    {
+      "english": "Curious? Hear this sound.",
+      "spanish": "¿Curioso? Escucha este sonido.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T17:32:22.879345"
+    },
+    {
+      "english": "Your next word? Pure joy.",
+      "spanish": "¿Tu próxima palabra? Pura alegría.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T17:32:22.879376"
+    },
+    {
+      "english": "Feel this? It's progress.",
+      "spanish": "¿Sientes esto? Es progreso.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T17:32:22.879396"
+    },
+    {
+      "english": "Don't forget this feeling.",
+      "spanish": "No olvides esta sensación.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T17:32:22.879417"
+    },
+    {
+      "english": "This simple word unlocks courage.",
+      "spanish": "Esta palabra simple desbloquea coraje.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T17:32:22.879439"
     }
   ],
   "used_english": [
-    "never say “i’ll try”, say “lo haré”",
-    "stop googling, ask “¿y tú?”",
-    "the secret? say “necesito ayuda”",
-    "stop losing words, use “lo siento”",
-    "never chase perfection, send one line",
     "urgent: use “tengo” before everything",
     "this tiny pause boosts fluency",
     "never freeze—finish the thought anyway",
@@ -21001,7 +20996,12 @@
     "wisdom: patience is fluency.",
     "here's your secret weapon.",
     "your courage sounds beautiful.",
-    "curious? this is important."
+    "curious? this is important.",
+    "curious? hear this sound.",
+    "your next word? pure joy.",
+    "feel this? it's progress.",
+    "don't forget this feeling.",
+    "this simple word unlocks courage."
   ],
-  "last_updated": "2026-09-14T23:33:22.263522"
+  "last_updated": "2026-09-15T17:32:22.879441"
 }
