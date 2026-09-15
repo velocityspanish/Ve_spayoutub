@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never confess too fast, whisper",
-      "spanish": "Nunca digas rápido, susurra",
-      "category": "Love",
-      "generated_at": "2026-05-02T17:43:33.612899"
-    },
-    {
-      "english": "The secret phrase, you’ll use tonight",
-      "spanish": "La frase secreta, la usas hoy",
-      "category": "Love",
-      "generated_at": "2026-05-02T17:43:33.612908"
-    },
-    {
-      "english": "Never say 'why', say '¿qué tal?'",
-      "spanish": "No digas 'por qué', di '¿qué tal?'",
-      "category": "Love",
-      "generated_at": "2026-05-02T17:43:33.612916"
-    },
-    {
-      "english": "This tiny word makes you flirty",
-      "spanish": "Esta palabra te pone lindo",
-      "category": "Love",
-      "generated_at": "2026-05-02T17:43:33.612924"
-    },
-    {
-      "english": "Stop overexplaining, say it simply",
-      "spanish": "No expliques de más, dilo simple",
-      "category": "Purpose",
-      "generated_at": "2026-05-02T19:56:37.843702"
-    },
-    {
       "english": "The secret, speak like you text",
       "spanish": "El secreto, habla como texto",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Tu paciencia? Es un superpoder.",
       "category": "Purpose",
       "generated_at": "2026-09-15T18:44:18.198096"
+    },
+    {
+      "english": "What if you could understand?",
+      "spanish": "¿Y si pudieras entender?",
+      "category": "Growth",
+      "generated_at": "2026-09-15T20:01:36.600459"
+    },
+    {
+      "english": "Your voice will surprise you.",
+      "spanish": "Tu voz te sorprenderá.",
+      "category": "Growth",
+      "generated_at": "2026-09-15T20:01:36.600501"
+    },
+    {
+      "english": "Here's your effortless phrase.",
+      "spanish": "Aquí tu frase sin esfuerzo.",
+      "category": "Growth",
+      "generated_at": "2026-09-15T20:01:36.600531"
+    },
+    {
+      "english": "Courage sounds like this.",
+      "spanish": "El coraje suena así.",
+      "category": "Growth",
+      "generated_at": "2026-09-15T20:01:36.600558"
+    },
+    {
+      "english": "Curious? This is for you.",
+      "spanish": "¿Curioso? Esto es para ti.",
+      "category": "Growth",
+      "generated_at": "2026-09-15T20:01:36.600583"
     }
   ],
   "used_english": [
-    "never confess too fast, whisper",
-    "the secret phrase, you’ll use tonight",
-    "never say 'why', say '¿qué tal?'",
-    "this tiny word makes you flirty",
-    "stop overexplaining, say it simply",
     "the secret, speak like you text",
     "stop memorizing, start reacting now",
     "stop guessing verbs, use “está”",
@@ -21001,7 +20996,12 @@
     "hear this, connections grow.",
     "wisdom: small wins matter.",
     "feel this connection blooming.",
-    "your patience? it's a superpower."
+    "your patience? it's a superpower.",
+    "what if you could understand?",
+    "your voice will surprise you.",
+    "here's your effortless phrase.",
+    "courage sounds like this.",
+    "curious? this is for you."
   ],
-  "last_updated": "2026-09-15T18:44:18.198097"
+  "last_updated": "2026-09-15T20:01:36.600586"
 }
