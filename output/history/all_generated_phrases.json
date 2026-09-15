@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say nothing, reply with \"Claro\"",
-      "spanish": "Nunca respondas en blanco, di \"Claro\"",
-      "category": "Growth",
-      "generated_at": "2026-05-02T21:30:02.541037"
-    },
-    {
-      "english": "The secret... ask one opinion",
-      "spanish": "El secreto... pregunta una opinión",
-      "category": "Growth",
-      "generated_at": "2026-05-02T21:30:02.541045"
-    },
-    {
-      "english": "Stop hiding, say \"Lo entiendo\"",
-      "spanish": "Deja de esconderte, di \"Lo entiendo\"",
-      "category": "Growth",
-      "generated_at": "2026-05-02T21:30:02.541053"
-    },
-    {
-      "english": "This one word buys you thinking time",
-      "spanish": "Una palabra te da tiempo",
-      "category": "Growth",
-      "generated_at": "2026-05-02T21:30:02.541060"
-    },
-    {
-      "english": "Stop blanking, say \"Lo siento\"",
-      "spanish": "Deja de trabarte, di \"Lo siento\"",
-      "category": "Joy",
-      "generated_at": "2026-05-03T14:12:41.757903"
-    },
-    {
       "english": "Never say English, use \"vale\"",
       "spanish": "Nunca digas inglés, usa \"vale\"",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Hablas con fluidez.",
       "category": "Courage",
       "generated_at": "2026-09-15T21:59:32.322870"
+    },
+    {
+      "english": "Feel this warm welcome.",
+      "spanish": "Siente esta cálida bienvenida.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-15T23:15:32.707851"
+    },
+    {
+      "english": "Your small victories count.",
+      "spanish": "Tus pequeñas victorias cuentan.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-15T23:15:32.707886"
+    },
+    {
+      "english": "Hear this beautiful greeting.",
+      "spanish": "Oye este hermoso saludo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-15T23:15:32.707914"
+    },
+    {
+      "english": "Curious, what this means?",
+      "spanish": "¿Curioso, qué significa esto?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-15T23:15:32.707939"
+    },
+    {
+      "english": "Your effort sparks joy.",
+      "spanish": "Tu esfuerzo enciende alegría.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-15T23:15:32.707964"
     }
   ],
   "used_english": [
-    "never say nothing, reply with \"claro\"",
-    "the secret... ask one opinion",
-    "stop hiding, say \"lo entiendo\"",
-    "this one word buys you thinking time",
-    "stop blanking, say \"lo siento\"",
     "never say english, use \"vale\"",
     "the secret? say \"¿me entiendes?\"",
     "stop chasing words, use \"tengo\"",
@@ -21001,7 +20996,12 @@
     "feel this confidence grow.",
     "this word is pure power.",
     "dare to speak it.",
-    "surprise! you're fluent now."
+    "surprise! you're fluent now.",
+    "feel this warm welcome.",
+    "your small victories count.",
+    "hear this beautiful greeting.",
+    "curious, what this means?",
+    "your effort sparks joy."
   ],
-  "last_updated": "2026-09-15T21:59:32.322872"
+  "last_updated": "2026-09-15T23:15:32.707966"
 }
