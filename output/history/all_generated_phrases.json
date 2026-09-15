@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, speak like you text",
-      "spanish": "El secreto, habla como texto",
-      "category": "Purpose",
-      "generated_at": "2026-05-02T19:56:37.843718"
-    },
-    {
-      "english": "Stop memorizing, start reacting now",
-      "spanish": "Deja de memorizar, reacciona ya",
-      "category": "Purpose",
-      "generated_at": "2026-05-02T19:56:37.843726"
-    },
-    {
-      "english": "Stop guessing verbs, use “está”",
-      "spanish": "No adivines verbos, usa “está”",
-      "category": "Purpose",
-      "generated_at": "2026-05-02T19:56:37.843734"
-    },
-    {
-      "english": "The secret? Ask back, every time",
-      "spanish": "El secreto, responde y pregunta",
-      "category": "Purpose",
-      "generated_at": "2026-05-02T19:56:37.843742"
-    },
-    {
-      "english": "Stop saying \"I don’t know\", say \"No sé\"",
-      "spanish": "Deja de decir \"no sé\", di \"No sé\"",
-      "category": "Growth",
-      "generated_at": "2026-05-02T21:30:02.541022"
-    },
-    {
       "english": "Never say nothing, reply with \"Claro\"",
       "spanish": "Nunca respondas en blanco, di \"Claro\"",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? Esto es para ti.",
       "category": "Growth",
       "generated_at": "2026-09-15T20:01:36.600583"
+    },
+    {
+      "english": "Your bravery opens doors.",
+      "spanish": "Tu valentía abre puertas.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T21:59:32.322763"
+    },
+    {
+      "english": "Feel this confidence grow.",
+      "spanish": "Siente crecer esta confianza.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T21:59:32.322795"
+    },
+    {
+      "english": "This word is pure power.",
+      "spanish": "Esta palabra es puro poder.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T21:59:32.322820"
+    },
+    {
+      "english": "Dare to speak it.",
+      "spanish": "Atrévete a decirlo.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T21:59:32.322844"
+    },
+    {
+      "english": "Surprise! You're fluent now.",
+      "spanish": "¡Sorpresa! Hablas con fluidez.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T21:59:32.322870"
     }
   ],
   "used_english": [
-    "the secret, speak like you text",
-    "stop memorizing, start reacting now",
-    "stop guessing verbs, use “está”",
-    "the secret? ask back, every time",
-    "stop saying \"i don’t know\", say \"no sé\"",
     "never say nothing, reply with \"claro\"",
     "the secret... ask one opinion",
     "stop hiding, say \"lo entiendo\"",
@@ -21001,7 +20996,12 @@
     "your voice will surprise you.",
     "here's your effortless phrase.",
     "courage sounds like this.",
-    "curious? this is for you."
+    "curious? this is for you.",
+    "your bravery opens doors.",
+    "feel this confidence grow.",
+    "this word is pure power.",
+    "dare to speak it.",
+    "surprise! you're fluent now."
   ],
-  "last_updated": "2026-09-15T20:01:36.600586"
+  "last_updated": "2026-09-15T21:59:32.322872"
 }
