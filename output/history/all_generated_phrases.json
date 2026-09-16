@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop panicking, whisper “tranquilo”",
-      "spanish": "Para, respira, di “tranquilo”",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T21:32:00.060484"
-    },
-    {
-      "english": "The secret? Say it, then pause",
-      "spanish": "El secreto, dilo, luego pausa",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T21:32:00.060493"
-    },
-    {
-      "english": "Never hunt grammar, trust your rhythm",
-      "spanish": "Nunca busques gramática, sigue tu ritmo",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T21:32:00.060501"
-    },
-    {
-      "english": "Stop stalling, just say “bueno”",
-      "spanish": "Deja de frenar, di “bueno”",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T21:32:00.060509"
-    },
-    {
-      "english": "Stop learning alone, meet locals",
-      "spanish": "Deja de aprender solo, conoce locales",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-04T15:11:42.677484"
-    },
-    {
       "english": "Never wait, speak from memory",
       "spanish": "Nunca esperes, habla de memoria",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Ajá! Tu cerebro lo entiende.",
       "category": "Perseverance",
       "generated_at": "2026-09-16T21:58:04.586520"
+    },
+    {
+      "english": "What if this sounds so good?",
+      "spanish": "¿Y si suena tan bien?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T23:20:25.692390"
+    },
+    {
+      "english": "Curiosity? This is your unlock.",
+      "spanish": "¿Curiosidad? Este es tu desbloqueo.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T23:20:25.692431"
+    },
+    {
+      "english": "Small sound, huge understanding.",
+      "spanish": "Sonido pequeño, gran entendimiento.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T23:20:25.692466"
+    },
+    {
+      "english": "Your brain is catching on.",
+      "spanish": "Tu cerebro está captando.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T23:20:25.692526"
+    },
+    {
+      "english": "One word. Infinite possibilities. Go.",
+      "spanish": "Una palabra. Infinitas posibilidades. Vamos.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T23:20:25.692563"
     }
   ],
   "used_english": [
-    "stop panicking, whisper “tranquilo”",
-    "the secret? say it, then pause",
-    "never hunt grammar, trust your rhythm",
-    "stop stalling, just say “bueno”",
-    "stop learning alone, meet locals",
     "never wait, speak from memory",
     "stop perfecting, say it anyway",
     "never practice silently, say one sentence",
@@ -21001,7 +20996,12 @@
     "wisdom: keep trying, always.",
     "your next phrase, pure charm.",
     "feel this small victory.",
-    "aha! your brain gets it."
+    "aha! your brain gets it.",
+    "what if this sounds so good?",
+    "curiosity? this is your unlock.",
+    "small sound, huge understanding.",
+    "your brain is catching on.",
+    "one word. infinite possibilities. go."
   ],
-  "last_updated": "2026-09-16T21:58:04.586522"
+  "last_updated": "2026-09-16T23:20:25.692566"
 }
