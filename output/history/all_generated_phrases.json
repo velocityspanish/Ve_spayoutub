@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'maybe', say 'seguro'",
-      "spanish": "Nunca digas 'tal vez', di 'seguro'",
-      "category": "Joy",
-      "generated_at": "2026-05-03T15:49:37.426887"
-    },
-    {
-      "english": "Stop hunting vocab, just say 'cosas'",
-      "spanish": "Deja buscar palabras, di 'cosas'",
-      "category": "Joy",
-      "generated_at": "2026-05-03T15:49:37.426895"
-    },
-    {
-      "english": "The secret? Ask for repetition, now",
-      "spanish": "El secreto… pide repetir, ahora",
-      "category": "Joy",
-      "generated_at": "2026-05-03T15:49:37.426903"
-    },
-    {
-      "english": "Stop overthinking, say 'yo tengo'",
-      "spanish": "Deja de pensar, di 'yo tengo'",
-      "category": "Joy",
-      "generated_at": "2026-05-03T15:49:37.426911"
-    },
-    {
-      "english": "Stop multitasking, breathe, repeat",
-      "spanish": "Deja multitarea, respira, repite",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T17:47:23.242240"
-    },
-    {
       "english": "The secret? Tiny pauses, always",
       "spanish": "El secreto, micro pausas",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Aquí está tu impulso de confianza.",
       "category": "Inspiration",
       "generated_at": "2026-09-16T17:32:16.636838"
+    },
+    {
+      "english": "Your accent? Beautifully unique.",
+      "spanish": "Tu acento? Hermosamente único.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-16T18:42:44.599735"
+    },
+    {
+      "english": "Listen. Your progress whispers.",
+      "spanish": "Escucha. Tu progreso susurra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-16T18:42:44.599775"
+    },
+    {
+      "english": "Curious? This sound unlocks dreams.",
+      "spanish": "¿Curioso? Este sonido desbloquea sueños.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-16T18:42:44.599805"
+    },
+    {
+      "english": "Your brain is learning now.",
+      "spanish": "Tu cerebro está aprendiendo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-16T18:42:44.599833"
+    },
+    {
+      "english": "This rhythm? It's yours.",
+      "spanish": "¿Este ritmo? Es tuyo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-16T18:42:44.599859"
     }
   ],
   "used_english": [
-    "never say 'maybe', say 'seguro'",
-    "stop hunting vocab, just say 'cosas'",
-    "the secret? ask for repetition, now",
-    "stop overthinking, say 'yo tengo'",
-    "stop multitasking, breathe, repeat",
     "the secret? tiny pauses, always",
     "urgent: speak slower, happier",
     "your breath is your cheat-code",
@@ -21001,7 +20996,12 @@
     "your brain is wired for this.",
     "this rhythm, feel it deeply.",
     "your voice, their joy. listen.",
-    "here's your confidence boost."
+    "here's your confidence boost.",
+    "your accent? beautifully unique.",
+    "listen. your progress whispers.",
+    "curious? this sound unlocks dreams.",
+    "your brain is learning now.",
+    "this rhythm? it's yours."
   ],
-  "last_updated": "2026-09-16T17:32:16.636841"
+  "last_updated": "2026-09-16T18:42:44.599861"
 }
