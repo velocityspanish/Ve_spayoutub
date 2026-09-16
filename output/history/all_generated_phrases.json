@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Tiny pauses, always",
-      "spanish": "El secreto, micro pausas",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T17:47:23.242257"
-    },
-    {
-      "english": "Urgent: speak slower, happier",
-      "spanish": "Urgente, habla más despacio",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T17:47:23.242265"
-    },
-    {
-      "english": "Your breath is your cheat-code",
-      "spanish": "Tu respiración es truco",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T17:47:23.242272"
-    },
-    {
-      "english": "Never chase perfect, choose calm",
-      "spanish": "No busques perfecto, elige calma",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T17:47:23.242280"
-    },
-    {
-      "english": "Stop learning alone, text now",
-      "spanish": "Deja de aprender solo, escribe ya",
-      "category": "Motivation",
-      "generated_at": "2026-05-03T19:56:15.832366"
-    },
-    {
       "english": "Never perfect, just reply—today",
       "spanish": "Nunca perfecto, solo responde hoy",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este ritmo? Es tuyo.",
       "category": "Self Improvement",
       "generated_at": "2026-09-16T18:42:44.599859"
+    },
+    {
+      "english": "This word holds your heart.",
+      "spanish": "Esta palabra guarda tu corazón.",
+      "category": "Love",
+      "generated_at": "2026-09-16T19:51:20.946187"
+    },
+    {
+      "english": "Feel this tender greeting.",
+      "spanish": "Siente este saludo tierno.",
+      "category": "Love",
+      "generated_at": "2026-09-16T19:51:20.946226"
+    },
+    {
+      "english": "Your patience sounds like love.",
+      "spanish": "Tu paciencia suena a amor.",
+      "category": "Love",
+      "generated_at": "2026-09-16T19:51:20.946255"
+    },
+    {
+      "english": "Why this is your next word?",
+      "spanish": "¿Por qué esta es tu próxima palabra?",
+      "category": "Love",
+      "generated_at": "2026-09-16T19:51:20.946282"
+    },
+    {
+      "english": "A whisper of pure devotion.",
+      "spanish": "Un susurro de pura devoción.",
+      "category": "Love",
+      "generated_at": "2026-09-16T19:51:20.946308"
     }
   ],
   "used_english": [
-    "the secret? tiny pauses, always",
-    "urgent: speak slower, happier",
-    "your breath is your cheat-code",
-    "never chase perfect, choose calm",
-    "stop learning alone, text now",
     "never perfect, just reply—today",
     "the secret, use one easy verb",
     "this tiny word builds confidence, 'claro'",
@@ -21001,7 +20996,12 @@
     "listen. your progress whispers.",
     "curious? this sound unlocks dreams.",
     "your brain is learning now.",
-    "this rhythm? it's yours."
+    "this rhythm? it's yours.",
+    "this word holds your heart.",
+    "feel this tender greeting.",
+    "your patience sounds like love.",
+    "why this is your next word?",
+    "a whisper of pure devotion."
   ],
-  "last_updated": "2026-09-16T18:42:44.599861"
+  "last_updated": "2026-09-16T19:51:20.946311"
 }
