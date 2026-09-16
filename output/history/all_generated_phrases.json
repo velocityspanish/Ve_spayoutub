@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say English, use \"vale\"",
-      "spanish": "Nunca digas inglés, usa \"vale\"",
-      "category": "Joy",
-      "generated_at": "2026-05-03T14:12:41.757922"
-    },
-    {
-      "english": "The secret? Say \"¿me entiendes?\"",
-      "spanish": "El secreto, di \"¿me entiendes?\"",
-      "category": "Joy",
-      "generated_at": "2026-05-03T14:12:41.757933"
-    },
-    {
-      "english": "Stop chasing words, use \"tengo\"",
-      "spanish": "Deja de buscar palabras, usa \"tengo\"",
-      "category": "Joy",
-      "generated_at": "2026-05-03T14:12:41.757942"
-    },
-    {
-      "english": "Never fear mistakes, say \"da igual\"",
-      "spanish": "No tengas miedo, di \"da igual\"",
-      "category": "Joy",
-      "generated_at": "2026-05-03T14:12:41.757951"
-    },
-    {
-      "english": "Stop saying 'hi', say '¿Qué tal?'",
-      "spanish": "Deja 'hola', di '¿Qué tal?'",
-      "category": "Joy",
-      "generated_at": "2026-05-03T15:49:37.426873"
-    },
-    {
       "english": "Never say 'maybe', say 'seguro'",
       "spanish": "Nunca digas 'tal vez', di 'seguro'",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu esfuerzo enciende alegría.",
       "category": "Gratitude",
       "generated_at": "2026-09-15T23:15:32.707964"
+    },
+    {
+      "english": "One sound, infinite possibilities.",
+      "spanish": "Un sonido, infinitas posibilidades.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:16.636715"
+    },
+    {
+      "english": "Your brain is wired for this.",
+      "spanish": "Tu cerebro está programado para esto.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:16.636754"
+    },
+    {
+      "english": "This rhythm, feel it deeply.",
+      "spanish": "Este ritmo, siéntelo profundo.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:16.636782"
+    },
+    {
+      "english": "Your voice, their joy. Listen.",
+      "spanish": "Tu voz, su alegría. Escucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:16.636810"
+    },
+    {
+      "english": "Here's your confidence boost.",
+      "spanish": "Aquí está tu impulso de confianza.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:16.636838"
     }
   ],
   "used_english": [
-    "never say english, use \"vale\"",
-    "the secret? say \"¿me entiendes?\"",
-    "stop chasing words, use \"tengo\"",
-    "never fear mistakes, say \"da igual\"",
-    "stop saying 'hi', say '¿qué tal?'",
     "never say 'maybe', say 'seguro'",
     "stop hunting vocab, just say 'cosas'",
     "the secret? ask for repetition, now",
@@ -21001,7 +20996,12 @@
     "your small victories count.",
     "hear this beautiful greeting.",
     "curious, what this means?",
-    "your effort sparks joy."
+    "your effort sparks joy.",
+    "one sound, infinite possibilities.",
+    "your brain is wired for this.",
+    "this rhythm, feel it deeply.",
+    "your voice, their joy. listen.",
+    "here's your confidence boost."
   ],
-  "last_updated": "2026-09-15T23:15:32.707966"
+  "last_updated": "2026-09-16T17:32:16.636841"
 }
