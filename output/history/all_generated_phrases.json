@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never perfect, just reply—today",
-      "spanish": "Nunca perfecto, solo responde hoy",
-      "category": "Motivation",
-      "generated_at": "2026-05-03T19:56:15.832385"
-    },
-    {
-      "english": "The secret, use one easy verb",
-      "spanish": "El secreto, usa un verbo fácil",
-      "category": "Motivation",
-      "generated_at": "2026-05-03T19:56:15.832394"
-    },
-    {
-      "english": "This tiny word builds confidence, 'claro'",
-      "spanish": "Esa palabra crea confianza, 'claro'",
-      "category": "Motivation",
-      "generated_at": "2026-05-03T19:56:15.832401"
-    },
-    {
-      "english": "Stop waiting for 'perfect' day",
-      "spanish": "No esperes por el día perfecto",
-      "category": "Motivation",
-      "generated_at": "2026-05-03T19:56:15.832409"
-    },
-    {
-      "english": "Never say “okay”, say “vale”",
-      "spanish": "Nunca digas “vale”, di “vale”",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-03T21:32:00.060468"
-    },
-    {
       "english": "Stop panicking, whisper “tranquilo”",
       "spanish": "Para, respira, di “tranquilo”",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Un susurro de pura devoción.",
       "category": "Love",
       "generated_at": "2026-09-16T19:51:20.946308"
+    },
+    {
+      "english": "Your effort echoes progress.",
+      "spanish": "Tu esfuerzo resuena progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-16T21:58:04.586401"
+    },
+    {
+      "english": "Wisdom: Keep trying, always.",
+      "spanish": "Sabiduría: Sigue intentando, siempre.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-16T21:58:04.586437"
+    },
+    {
+      "english": "Your next phrase, pure charm.",
+      "spanish": "Tu próxima frase, puro encanto.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-16T21:58:04.586471"
+    },
+    {
+      "english": "Feel this small victory.",
+      "spanish": "Siente esta pequeña victoria.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-16T21:58:04.586496"
+    },
+    {
+      "english": "Aha! Your brain gets it.",
+      "spanish": "¡Ajá! Tu cerebro lo entiende.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-16T21:58:04.586520"
     }
   ],
   "used_english": [
-    "never perfect, just reply—today",
-    "the secret, use one easy verb",
-    "this tiny word builds confidence, 'claro'",
-    "stop waiting for 'perfect' day",
-    "never say “okay”, say “vale”",
     "stop panicking, whisper “tranquilo”",
     "the secret? say it, then pause",
     "never hunt grammar, trust your rhythm",
@@ -21001,7 +20996,12 @@
     "feel this tender greeting.",
     "your patience sounds like love.",
     "why this is your next word?",
-    "a whisper of pure devotion."
+    "a whisper of pure devotion.",
+    "your effort echoes progress.",
+    "wisdom: keep trying, always.",
+    "your next phrase, pure charm.",
+    "feel this small victory.",
+    "aha! your brain gets it."
   ],
-  "last_updated": "2026-09-16T19:51:20.946311"
+  "last_updated": "2026-09-16T21:58:04.586522"
 }
