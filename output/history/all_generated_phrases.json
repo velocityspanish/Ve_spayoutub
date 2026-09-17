@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never miss daily practice, even 30s",
-      "spanish": "Nunca falles, practícalo 30 segundos",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:15:10.779595"
-    },
-    {
-      "english": "The secret? Keep going, no excuses",
-      "spanish": "El secreto, sigue, sin excusas",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:15:10.779604"
-    },
-    {
-      "english": "Never study, only speak your day",
-      "spanish": "Nunca estudies, cuenta tu día",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:15:10.779613"
-    },
-    {
-      "english": "This one habit beats motivation daily",
-      "spanish": "Este hábito gana cada día",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:15:10.779620"
-    },
-    {
-      "english": "Stop ghosting your Spanish, speak now",
-      "spanish": "Deja de ignorar tu español, habla ya",
-      "category": "Patience",
-      "generated_at": "2026-05-04T20:20:13.133105"
-    },
-    {
       "english": "Never wait for courage, just try",
       "spanish": "Nunca esperes valor, inténtalo",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpréndelos con esta frase.",
       "category": "Friendship",
       "generated_at": "2026-09-17T18:50:44.605486"
+    },
+    {
+      "english": "This sounds like a secret.",
+      "spanish": "Esto suena a secreto.",
+      "category": "Balance",
+      "generated_at": "2026-09-17T20:01:21.924640"
+    },
+    {
+      "english": "Small word, huge power.",
+      "spanish": "Palabra pequeña, gran poder.",
+      "category": "Balance",
+      "generated_at": "2026-09-17T20:01:21.924677"
+    },
+    {
+      "english": "This one sound matters.",
+      "spanish": "Este sonido importa.",
+      "category": "Balance",
+      "generated_at": "2026-09-17T20:01:21.924702"
+    },
+    {
+      "english": "Imagine: understanding everyone.",
+      "spanish": "Imagina: entender a todos.",
+      "category": "Balance",
+      "generated_at": "2026-09-17T20:01:21.924730"
+    },
+    {
+      "english": "This opens new friendships.",
+      "spanish": "Esto abre nuevas amistades.",
+      "category": "Balance",
+      "generated_at": "2026-09-17T20:01:21.924757"
     }
   ],
   "used_english": [
-    "never miss daily practice, even 30s",
-    "the secret? keep going, no excuses",
-    "never study, only speak your day",
-    "this one habit beats motivation daily",
-    "stop ghosting your spanish, speak now",
     "never wait for courage, just try",
     "the secret... name it, then say it",
     "stop overthinking, just answer honestly",
@@ -21001,7 +20996,12 @@
     "this makes conversations easy.",
     "wisdom: connect, don't just speak.",
     "your bond will grow stronger.",
-    "surprise them with this phrase."
+    "surprise them with this phrase.",
+    "this sounds like a secret.",
+    "small word, huge power.",
+    "this one sound matters.",
+    "imagine: understanding everyone.",
+    "this opens new friendships."
   ],
-  "last_updated": "2026-09-17T18:50:44.605489"
+  "last_updated": "2026-09-17T20:01:21.924759"
 }
