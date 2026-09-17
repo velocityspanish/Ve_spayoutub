@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait for courage, just try",
-      "spanish": "Nunca esperes valor, inténtalo",
-      "category": "Patience",
-      "generated_at": "2026-05-04T20:20:13.133121"
-    },
-    {
-      "english": "The secret... name it, then say it",
-      "spanish": "El secreto... nómbralo, y dímelo",
-      "category": "Patience",
-      "generated_at": "2026-05-04T20:20:13.133130"
-    },
-    {
-      "english": "Stop overthinking, just answer honestly",
-      "spanish": "Deja de pensar de más, responde sincero",
-      "category": "Patience",
-      "generated_at": "2026-05-04T20:20:13.133137"
-    },
-    {
-      "english": "This one trick boosts speed, repeat",
-      "spanish": "Este truco acelera, repite",
-      "category": "Patience",
-      "generated_at": "2026-05-04T20:20:13.133145"
-    },
-    {
-      "english": "Stop saying “calm down”, try “tranquilo”",
-      "spanish": "Deja de decir “calm down”, di “tranquilo”",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-04T21:52:26.074641"
-    },
-    {
       "english": "Never rush, use “todavía” once",
       "spanish": "Nunca corras, usa “todavía” una vez",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Esto abre nuevas amistades.",
       "category": "Balance",
       "generated_at": "2026-09-17T20:01:21.924757"
+    },
+    {
+      "english": "Your future smile awaits you.",
+      "spanish": "Tu futura sonrisa te espera.",
+      "category": "Happiness",
+      "generated_at": "2026-09-17T21:59:24.101090"
+    },
+    {
+      "english": "One sound unlocks understanding.",
+      "spanish": "Un sonido desvela entendimiento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-17T21:59:24.101126"
+    },
+    {
+      "english": "Wisdom: Small talk, big friends.",
+      "spanish": "Sabiduría: Charla corta, amigos grandes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-17T21:59:24.101154"
+    },
+    {
+      "english": "Your voice will amaze them.",
+      "spanish": "Tu voz los asombrará.",
+      "category": "Happiness",
+      "generated_at": "2026-09-17T21:59:24.101180"
+    },
+    {
+      "english": "Your patience echoes, listen.",
+      "spanish": "Tu paciencia resuena, escucha.",
+      "category": "Happiness",
+      "generated_at": "2026-09-17T21:59:24.101206"
     }
   ],
   "used_english": [
-    "never wait for courage, just try",
-    "the secret... name it, then say it",
-    "stop overthinking, just answer honestly",
-    "this one trick boosts speed, repeat",
-    "stop saying “calm down”, try “tranquilo”",
     "never rush, use “todavía” once",
     "this is why natives smile, “vale”",
     "stop overthinking, say “¿está bien?”",
@@ -21001,7 +20996,12 @@
     "small word, huge power.",
     "this one sound matters.",
     "imagine: understanding everyone.",
-    "this opens new friendships."
+    "this opens new friendships.",
+    "your future smile awaits you.",
+    "one sound unlocks understanding.",
+    "wisdom: small talk, big friends.",
+    "your voice will amaze them.",
+    "your patience echoes, listen."
   ],
-  "last_updated": "2026-09-17T20:01:21.924759"
+  "last_updated": "2026-09-17T21:59:24.101208"
 }
