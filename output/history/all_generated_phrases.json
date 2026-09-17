@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Say it twice, fast",
-      "spanish": "El secreto, dilo dos veces",
-      "category": "Joy",
-      "generated_at": "2026-05-04T16:47:39.261436"
-    },
-    {
-      "english": "Stop overthinking, just react with 'claro'",
-      "spanish": "No pienses tanto, reacciona con claro",
-      "category": "Joy",
-      "generated_at": "2026-05-04T16:47:39.261444"
-    },
-    {
-      "english": "Never wait, add 'ahora' to everything",
-      "spanish": "Nunca esperes, pon 'ahora' en todo",
-      "category": "Joy",
-      "generated_at": "2026-05-04T16:47:39.261451"
-    },
-    {
-      "english": "This tiny phrase makes natives smile",
-      "spanish": "Esta frase pequeña hace sonreír",
-      "category": "Joy",
-      "generated_at": "2026-05-04T16:47:39.261459"
-    },
-    {
-      "english": "Stop quitting, speak one sentence",
-      "spanish": "Deja de rendirte, di una frase",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:15:10.779577"
-    },
-    {
       "english": "Never miss daily practice, even 30s",
       "spanish": "Nunca falles, practícalo 30 segundos",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu libertad empieza aquí.",
       "category": "Forgiveness",
       "generated_at": "2026-09-17T17:31:39.870970"
+    },
+    {
+      "english": "Your friends will be impressed.",
+      "spanish": "Tus amigos quedarán impresionados.",
+      "category": "Friendship",
+      "generated_at": "2026-09-17T18:50:44.605366"
+    },
+    {
+      "english": "This makes conversations easy.",
+      "spanish": "Esto facilita las conversaciones.",
+      "category": "Friendship",
+      "generated_at": "2026-09-17T18:50:44.605403"
+    },
+    {
+      "english": "Wisdom: Connect, don't just speak.",
+      "spanish": "Sabiduría: Conecta, no solo hables.",
+      "category": "Friendship",
+      "generated_at": "2026-09-17T18:50:44.605432"
+    },
+    {
+      "english": "Your bond will grow stronger.",
+      "spanish": "Tu vínculo crecerá más fuerte.",
+      "category": "Friendship",
+      "generated_at": "2026-09-17T18:50:44.605459"
+    },
+    {
+      "english": "Surprise them with this phrase.",
+      "spanish": "Sorpréndelos con esta frase.",
+      "category": "Friendship",
+      "generated_at": "2026-09-17T18:50:44.605486"
     }
   ],
   "used_english": [
-    "the secret? say it twice, fast",
-    "stop overthinking, just react with 'claro'",
-    "never wait, add 'ahora' to everything",
-    "this tiny phrase makes natives smile",
-    "stop quitting, speak one sentence",
     "never miss daily practice, even 30s",
     "the secret? keep going, no excuses",
     "never study, only speak your day",
@@ -21001,7 +20996,12 @@
     "their mistake, your peace.",
     "wisdom: let go, live.",
     "why hold grudges? release.",
-    "your freedom starts here."
+    "your freedom starts here.",
+    "your friends will be impressed.",
+    "this makes conversations easy.",
+    "wisdom: connect, don't just speak.",
+    "your bond will grow stronger.",
+    "surprise them with this phrase."
   ],
-  "last_updated": "2026-09-17T17:31:39.870972"
+  "last_updated": "2026-09-17T18:50:44.605489"
 }
