@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “wait”, say “ahora”",
-      "spanish": "Nunca digas “espera”, di “ahora”",
-      "category": "Creativity",
-      "generated_at": "2026-05-05T18:28:24.538403"
-    },
-    {
-      "english": "Stop overexplaining, just point",
-      "spanish": "No expliques tanto, solo señala",
-      "category": "Creativity",
-      "generated_at": "2026-05-05T18:28:24.538412"
-    },
-    {
-      "english": "Never apologize, just continue",
-      "spanish": "No pidas perdón, sigue",
-      "category": "Creativity",
-      "generated_at": "2026-05-05T18:28:24.538421"
-    },
-    {
-      "english": "This one cue makes speech faster",
-      "spanish": "Esta señal acelera tu habla",
-      "category": "Creativity",
-      "generated_at": "2026-05-05T18:28:24.538429"
-    },
-    {
-      "english": "Stop asking for permission, say \"vale\"",
-      "spanish": "Deja de pedir permiso, di «vale»",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:13:43.716131"
-    },
-    {
       "english": "Never say silence, break with «oye»",
       "spanish": "Nunca te quedes callado, di «oye»",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: la amabilidad abre puertas.",
       "category": "Kindness",
       "generated_at": "2026-09-17T23:11:41.192552"
+    },
+    {
+      "english": "This progress takes time.",
+      "spanish": "Este progreso toma tiempo.",
+      "category": "Patience",
+      "generated_at": "2026-09-18T16:59:02.956191"
+    },
+    {
+      "english": "Breathe. You're learning.",
+      "spanish": "Respira. Estás aprendiendo.",
+      "category": "Patience",
+      "generated_at": "2026-09-18T16:59:02.956226"
+    },
+    {
+      "english": "Small steps, big fluency.",
+      "spanish": "Pasos pequeños, gran fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-09-18T16:59:02.956252"
+    },
+    {
+      "english": "Your brain is listening.",
+      "spanish": "Tu cerebro está escuchando.",
+      "category": "Patience",
+      "generated_at": "2026-09-18T16:59:02.956277"
+    },
+    {
+      "english": "Don't rush this journey.",
+      "spanish": "No apresures este viaje.",
+      "category": "Patience",
+      "generated_at": "2026-09-18T16:59:02.956302"
     }
   ],
   "used_english": [
-    "never say “wait”, say “ahora”",
-    "stop overexplaining, just point",
-    "never apologize, just continue",
-    "this one cue makes speech faster",
-    "stop asking for permission, say \"vale\"",
     "never say silence, break with «oye»",
     "this is why friends notice «perdón»",
     "the secret to fast replies, «¿y tú?»",
@@ -21001,7 +20996,12 @@
     "curious? it's pure warmth.",
     "your effort, their smile.",
     "what if they understood?",
-    "wisdom: kindness opens doors."
+    "wisdom: kindness opens doors.",
+    "this progress takes time.",
+    "breathe. you're learning.",
+    "small steps, big fluency.",
+    "your brain is listening.",
+    "don't rush this journey."
   ],
-  "last_updated": "2026-09-17T23:11:41.192554"
+  "last_updated": "2026-09-18T16:59:02.956304"
 }
