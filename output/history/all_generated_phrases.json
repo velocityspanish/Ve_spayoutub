@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say silence, break with «oye»",
-      "spanish": "Nunca te quedes callado, di «oye»",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:13:43.716149"
-    },
-    {
-      "english": "This is why friends notice «perdón»",
-      "spanish": "Por eso, tus amigos notan «perdón»",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:13:43.716158"
-    },
-    {
-      "english": "The secret to fast replies, «¿y tú?»",
-      "spanish": "El secreto para responder, «¿y tú?»",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:13:43.716167"
-    },
-    {
-      "english": "Never get stuck, use «bueno…» first",
-      "spanish": "Nunca te trabes, usa «bueno…»",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:13:43.716177"
-    },
-    {
-      "english": "Stop using 'love'—say 'te quiero'",
-      "spanish": "Deja de usar 'amor'—di 'te quiero'",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:02:17.215254"
-    },
-    {
       "english": "The secret, add 'de verdad'—wow",
       "spanish": "El secreto, agrega 'de verdad'—guau",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "No apresures este viaje.",
       "category": "Patience",
       "generated_at": "2026-09-18T16:59:02.956302"
+    },
+    {
+      "english": "Your accent, a unique charm.",
+      "spanish": "Tu acento, un encanto único.",
+      "category": "Strength",
+      "generated_at": "2026-09-18T18:06:32.067653"
+    },
+    {
+      "english": "What if they understood you?",
+      "spanish": "¿Y si te entendieran?",
+      "category": "Strength",
+      "generated_at": "2026-09-18T18:06:32.067700"
+    },
+    {
+      "english": "Here's what nobody tells you.",
+      "spanish": "Esto nadie te dice.",
+      "category": "Strength",
+      "generated_at": "2026-09-18T18:06:32.067719"
+    },
+    {
+      "english": "One word changes conversations.",
+      "spanish": "Una palabra cambia conversaciones.",
+      "category": "Strength",
+      "generated_at": "2026-09-18T18:06:32.067736"
+    },
+    {
+      "english": "Feel this progress growing.",
+      "spanish": "Siente este progreso crecer.",
+      "category": "Strength",
+      "generated_at": "2026-09-18T18:06:32.067753"
     }
   ],
   "used_english": [
-    "never say silence, break with «oye»",
-    "this is why friends notice «perdón»",
-    "the secret to fast replies, «¿y tú?»",
-    "never get stuck, use «bueno…» first",
-    "stop using 'love'—say 'te quiero'",
     "the secret, add 'de verdad'—wow",
     "what nobody tells you, whisper 'tú y yo'",
     "stop being formal, go 'tú'",
@@ -21001,7 +20996,12 @@
     "breathe. you're learning.",
     "small steps, big fluency.",
     "your brain is listening.",
-    "don't rush this journey."
+    "don't rush this journey.",
+    "your accent, a unique charm.",
+    "what if they understood you?",
+    "here's what nobody tells you.",
+    "one word changes conversations.",
+    "feel this progress growing."
   ],
-  "last_updated": "2026-09-18T16:59:02.956304"
+  "last_updated": "2026-09-18T18:06:32.067755"
 }
