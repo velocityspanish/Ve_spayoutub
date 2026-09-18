@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, use “hoy” everywhere",
-      "spanish": "El secreto, usa “hoy” en todo",
-      "category": "Purpose",
-      "generated_at": "2026-05-06T15:29:03.294333"
-    },
-    {
-      "english": "Stop translating, copy the rhythm",
-      "spanish": "Deja traducir, copia el ritmo",
-      "category": "Purpose",
-      "generated_at": "2026-05-06T15:29:03.294343"
-    },
-    {
-      "english": "Stop “maybe”, say “claro, sí”",
-      "spanish": "No digas “quizás”, di “claro, sí”",
-      "category": "Purpose",
-      "generated_at": "2026-05-06T15:29:03.294351"
-    },
-    {
-      "english": "Never explain, point with one phrase",
-      "spanish": "No expliques, señala con frase",
-      "category": "Purpose",
-      "generated_at": "2026-05-06T15:29:03.294360"
-    },
-    {
-      "english": "Stop chasing happiness, say \"gracias\"",
-      "spanish": "Deja de buscar felicidad, di \"gracias\"",
-      "category": "Happiness",
-      "generated_at": "2026-05-06T16:30:15.785379"
-    },
-    {
       "english": "Never say \"I'm fine\" today",
       "spanish": "Nunca digas \"estoy bien\" hoy",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Oye esto, florecen amistades.",
       "category": "Friendship",
       "generated_at": "2026-09-18T19:26:50.207911"
+    },
+    {
+      "english": "This sound melts resistance.",
+      "spanish": "Este sonido derrite barreras.",
+      "category": "Success",
+      "generated_at": "2026-09-18T21:31:18.332032"
+    },
+    {
+      "english": "Your next word, a warm hug.",
+      "spanish": "Tu próxima palabra, un abrazo.",
+      "category": "Success",
+      "generated_at": "2026-09-18T21:31:18.332069"
+    },
+    {
+      "english": "Why this phrase unlocks smiles?",
+      "spanish": "¿Por qué esta frase sonríe?",
+      "category": "Success",
+      "generated_at": "2026-09-18T21:31:18.332096"
+    },
+    {
+      "english": "Trust your voice, it's enough.",
+      "spanish": "Confía en tu voz, basta.",
+      "category": "Success",
+      "generated_at": "2026-09-18T21:31:18.332124"
+    },
+    {
+      "english": "A single word, big impact.",
+      "spanish": "Una palabra, gran impacto.",
+      "category": "Success",
+      "generated_at": "2026-09-18T21:31:18.332149"
     }
   ],
   "used_english": [
-    "the secret, use “hoy” everywhere",
-    "stop translating, copy the rhythm",
-    "stop “maybe”, say “claro, sí”",
-    "never explain, point with one phrase",
-    "stop chasing happiness, say \"gracias\"",
     "never say \"i'm fine\" today",
     "the secret to joy, share \"te quiero\"",
     "stop stress, start with \"tranquilo\"",
@@ -21001,7 +20996,12 @@
     "one shared word, real connection.",
     "your patience, their reward.",
     "this small phrase, big welcome.",
-    "hear this, friendships bloom."
+    "hear this, friendships bloom.",
+    "this sound melts resistance.",
+    "your next word, a warm hug.",
+    "why this phrase unlocks smiles?",
+    "trust your voice, it's enough.",
+    "a single word, big impact."
   ],
-  "last_updated": "2026-09-18T19:26:50.207913"
+  "last_updated": "2026-09-18T21:31:18.332152"
 }
