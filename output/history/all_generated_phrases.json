@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, add “de verdad”",
-      "spanish": "El secreto, agrega “de verdad”",
-      "category": "Success",
-      "generated_at": "2026-05-07T15:30:17.609860"
-    },
-    {
-      "english": "Stop translating, speak in chunks",
-      "spanish": "No traduzcas, habla en bloques",
-      "category": "Success",
-      "generated_at": "2026-05-07T15:30:17.609870"
-    },
-    {
-      "english": "Never ask “why”, just say “ah, ya”",
-      "spanish": "No digas “por qué”, di “ah, ya”",
-      "category": "Success",
-      "generated_at": "2026-05-07T15:30:17.609879"
-    },
-    {
-      "english": "Never say “I’m sorry”, keep going",
-      "spanish": "No digas “perdón”, sigue igual",
-      "category": "Success",
-      "generated_at": "2026-05-07T15:30:17.609888"
-    },
-    {
-      "english": "Stop overthinking, use “entiendo”",
-      "spanish": "Deja de sobrepensar, usa «entiendo»",
-      "category": "Hope",
-      "generated_at": "2026-05-07T16:51:51.463772"
-    },
-    {
       "english": "Stop waiting, say “lo busco”",
       "spanish": "No esperes, di «lo busco»",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a decir 'Gracias'.",
       "category": "Joy",
       "generated_at": "2026-09-19T19:10:39.633479"
+    },
+    {
+      "english": "Why this word feels special?",
+      "spanish": "¿Por qué esta palabra se siente especial?",
+      "category": "Wisdom",
+      "generated_at": "2026-09-19T21:21:29.083377"
+    },
+    {
+      "english": "Hear this warmth, feel it.",
+      "spanish": "Escucha esta calidez, siéntela.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-19T21:21:29.083408"
+    },
+    {
+      "english": "Dare to speak this feeling.",
+      "spanish": "Atrévete a decir este sentimiento.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-19T21:21:29.083429"
+    },
+    {
+      "english": "This rhythm makes you dance.",
+      "spanish": "Este ritmo te hace bailar.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-19T21:21:29.083450"
+    },
+    {
+      "english": "Small effort, huge reward.",
+      "spanish": "Pequeño esfuerzo, gran recompensa.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-19T21:21:29.083470"
     }
   ],
   "used_english": [
-    "the secret, add “de verdad”",
-    "stop translating, speak in chunks",
-    "never ask “why”, just say “ah, ya”",
-    "never say “i’m sorry”, keep going",
-    "stop overthinking, use “entiendo”",
     "stop waiting, say “lo busco”",
     "never guess, ask “¿cómo se dice?”",
     "never quit mid-sentence, finish strong",
@@ -21001,7 +20996,12 @@
     "this greeting warms everyone.",
     "curious? this phrase surprises.",
     "your voice brings smiles.",
-    "dare to say 'thank you'."
+    "dare to say 'thank you'.",
+    "why this word feels special?",
+    "hear this warmth, feel it.",
+    "dare to speak this feeling.",
+    "this rhythm makes you dance.",
+    "small effort, huge reward."
   ],
-  "last_updated": "2026-09-19T19:10:39.633481"
+  "last_updated": "2026-09-19T21:21:29.083472"
 }
