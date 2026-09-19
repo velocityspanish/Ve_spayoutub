@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting, say “lo busco”",
-      "spanish": "No esperes, di «lo busco»",
-      "category": "Hope",
-      "generated_at": "2026-05-07T16:51:51.463791"
-    },
-    {
-      "english": "Never guess, ask “¿cómo se dice?”",
-      "spanish": "No adivines, pregunta «¿cómo se dice?»",
-      "category": "Hope",
-      "generated_at": "2026-05-07T16:51:51.463800"
-    },
-    {
-      "english": "Never quit mid-sentence, finish strong",
-      "spanish": "No te rindas, termina con fuerza",
-      "category": "Hope",
-      "generated_at": "2026-05-07T16:51:51.463809"
-    },
-    {
-      "english": "Stop saying “I think”, say “creo”",
-      "spanish": "Deja «I think», di «creo»",
-      "category": "Hope",
-      "generated_at": "2026-05-07T16:51:51.463817"
-    },
-    {
-      "english": "Stop doomscrolling, breathe, say \"estoy\"",
-      "spanish": "Deja el doomscroll, respira, di «estoy»",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-07T18:25:21.944789"
-    },
-    {
       "english": "Never panic, name one feeling",
       "spanish": "Nunca entres en pánico, di un sentimiento",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Pequeño esfuerzo, gran recompensa.",
       "category": "Wisdom",
       "generated_at": "2026-09-19T21:21:29.083470"
+    },
+    {
+      "english": "Why this word? Connection.",
+      "spanish": "¿Por qué esta palabra? Conexión.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T22:33:22.307445"
+    },
+    {
+      "english": "Your accent, a story.",
+      "spanish": "Tu acento, una historia.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T22:33:22.307477"
+    },
+    {
+      "english": "Hear this, friends appear.",
+      "spanish": "Oye esto, aparecen amigos.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T22:33:22.307503"
+    },
+    {
+      "english": "Wisdom: Practice makes beautiful.",
+      "spanish": "Sabiduría: La práctica es bella.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T22:33:22.307530"
+    },
+    {
+      "english": "Start simple, feel proud.",
+      "spanish": "Empieza simple, siéntete orgulloso.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T22:33:22.307555"
     }
   ],
   "used_english": [
-    "stop waiting, say “lo busco”",
-    "never guess, ask “¿cómo se dice?”",
-    "never quit mid-sentence, finish strong",
-    "stop saying “i think”, say “creo”",
-    "stop doomscrolling, breathe, say \"estoy\"",
     "never panic, name one feeling",
     "the secret? soften with \"oye\"",
     "never chase perfection, just respond",
@@ -21001,7 +20996,12 @@
     "hear this warmth, feel it.",
     "dare to speak this feeling.",
     "this rhythm makes you dance.",
-    "small effort, huge reward."
+    "small effort, huge reward.",
+    "why this word? connection.",
+    "your accent, a story.",
+    "hear this, friends appear.",
+    "wisdom: practice makes beautiful.",
+    "start simple, feel proud."
   ],
-  "last_updated": "2026-09-19T21:21:29.083472"
+  "last_updated": "2026-09-19T22:33:22.307557"
 }
