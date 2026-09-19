@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never start with “sorry,” try this",
-      "spanish": "Nunca empieces con “perdón,” usa esto",
-      "category": "Creativity",
-      "generated_at": "2026-05-06T21:51:16.871471"
-    },
-    {
-      "english": "The secret? Replace words with actions",
-      "spanish": "El secreto, cambia palabras por acciones",
-      "category": "Creativity",
-      "generated_at": "2026-05-06T21:51:16.871479"
-    },
-    {
-      "english": "Never fear mistakes, say this first",
-      "spanish": "No tengas miedo, di esto primero",
-      "category": "Creativity",
-      "generated_at": "2026-05-06T21:51:16.871488"
-    },
-    {
-      "english": "Stop memorizing, learn chunks instead",
-      "spanish": "Deja de memorizar, aprende frases juntas",
-      "category": "Creativity",
-      "generated_at": "2026-05-06T21:51:16.871496"
-    },
-    {
-      "english": "Stop using “maybe”, say “claro”",
-      "spanish": "Deja “quizás”, di “claro”",
-      "category": "Success",
-      "generated_at": "2026-05-07T15:30:17.609840"
-    },
-    {
       "english": "The secret, add “de verdad”",
       "spanish": "El secreto, agrega “de verdad”",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta frase se siente poderosa.",
       "category": "Mindfulness",
       "generated_at": "2026-09-19T17:49:11.811315"
+    },
+    {
+      "english": "Pure joy in this phrase.",
+      "spanish": "Alegría pura en esta frase.",
+      "category": "Joy",
+      "generated_at": "2026-09-19T19:10:39.633377"
+    },
+    {
+      "english": "This greeting warms everyone.",
+      "spanish": "Este saludo calienta a todos.",
+      "category": "Joy",
+      "generated_at": "2026-09-19T19:10:39.633414"
+    },
+    {
+      "english": "Curious? This phrase surprises.",
+      "spanish": "¿Curioso? Esta frase sorprende.",
+      "category": "Joy",
+      "generated_at": "2026-09-19T19:10:39.633438"
+    },
+    {
+      "english": "Your voice brings smiles.",
+      "spanish": "Tu voz trae sonrisas.",
+      "category": "Joy",
+      "generated_at": "2026-09-19T19:10:39.633459"
+    },
+    {
+      "english": "Dare to say 'Thank you'.",
+      "spanish": "Atrévete a decir 'Gracias'.",
+      "category": "Joy",
+      "generated_at": "2026-09-19T19:10:39.633479"
     }
   ],
   "used_english": [
-    "never start with “sorry,” try this",
-    "the secret? replace words with actions",
-    "never fear mistakes, say this first",
-    "stop memorizing, learn chunks instead",
-    "stop using “maybe”, say “claro”",
     "the secret, add “de verdad”",
     "stop translating, speak in chunks",
     "never ask “why”, just say “ah, ya”",
@@ -21001,7 +20996,12 @@
     "this sound, pure understanding.",
     "imagine: effortless conversations.",
     "your patience opens gates.",
-    "this phrase feels powerful."
+    "this phrase feels powerful.",
+    "pure joy in this phrase.",
+    "this greeting warms everyone.",
+    "curious? this phrase surprises.",
+    "your voice brings smiles.",
+    "dare to say 'thank you'."
   ],
-  "last_updated": "2026-09-19T17:49:11.811317"
+  "last_updated": "2026-09-19T19:10:39.633481"
 }
