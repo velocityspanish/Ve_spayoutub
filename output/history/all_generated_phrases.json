@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop studying, start saying yes",
-      "spanish": "Deja de estudiar, empieza con “sí”",
-      "category": "Patience",
-      "generated_at": "2026-05-06T18:16:54.212860"
-    },
-    {
-      "english": "Stop explaining, just say “oye”",
-      "spanish": "Deja de explicar, solo di “oye”",
-      "category": "Patience",
-      "generated_at": "2026-05-06T18:16:54.212870"
-    },
-    {
-      "english": "Stop guessing, use “lo mismo”",
-      "spanish": "No adivines, usa “lo mismo”",
-      "category": "Patience",
-      "generated_at": "2026-05-06T18:16:54.212878"
-    },
-    {
-      "english": "This phrase buys you time, “ah”",
-      "spanish": "Esta frase compra tiempo, “ah”",
-      "category": "Patience",
-      "generated_at": "2026-05-06T18:16:54.212886"
-    },
-    {
-      "english": "Stop fearing accents, just speak.",
-      "spanish": "Deja de temer acentos, habla.",
-      "category": "Confidence",
-      "generated_at": "2026-05-06T20:28:30.437542"
-    },
-    {
       "english": "The secret, start with one verb.",
       "spanish": "El secreto, empieza con un verbo.",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este viaje? Lo conquistarás.",
       "category": "Success",
       "generated_at": "2026-09-18T22:54:09.520592"
+    },
+    {
+      "english": "Why this phrase? Magic.",
+      "spanish": "¿Por qué esta frase? Magia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T16:18:30.539621"
+    },
+    {
+      "english": "Listen. Progress happens now.",
+      "spanish": "Escucha. El progreso sucede ahora.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T16:18:30.539653"
+    },
+    {
+      "english": "Aha! You understood that.",
+      "spanish": "¡Ajá! Entendiste eso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T16:18:30.539674"
+    },
+    {
+      "english": "This sound opens laughter.",
+      "spanish": "Este sonido abre la risa.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T16:18:30.539695"
+    },
+    {
+      "english": "Your accent? It's art.",
+      "spanish": "¿Tu acento? Es arte.",
+      "category": "Creativity",
+      "generated_at": "2026-09-19T16:18:30.539715"
     }
   ],
   "used_english": [
-    "stop studying, start saying yes",
-    "stop explaining, just say “oye”",
-    "stop guessing, use “lo mismo”",
-    "this phrase buys you time, “ah”",
-    "stop fearing accents, just speak.",
     "the secret, start with one verb.",
     "this tiny phrase unlocks smooth talk.",
     "never overthink, pick the simplest.",
@@ -21001,7 +20996,12 @@
     "curious? this sound is key.",
     "your progress whispers secrets.",
     "wisdom: fluency is practice.",
-    "this journey? you'll conquer it."
+    "this journey? you'll conquer it.",
+    "why this phrase? magic.",
+    "listen. progress happens now.",
+    "aha! you understood that.",
+    "this sound opens laughter.",
+    "your accent? it's art."
   ],
-  "last_updated": "2026-09-18T22:54:09.520594"
+  "last_updated": "2026-09-19T16:18:30.539716"
 }
