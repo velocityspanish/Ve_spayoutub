@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never panic, name one feeling",
-      "spanish": "Nunca entres en pánico, di un sentimiento",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-07T18:25:21.944808"
-    },
-    {
-      "english": "The secret? soften with \"oye\"",
-      "spanish": "El secreto, suaviza con «oye»",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-07T18:25:21.944817"
-    },
-    {
-      "english": "Never chase perfection, just respond",
-      "spanish": "No persigas perfección, solo responde",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-07T18:25:21.944825"
-    },
-    {
-      "english": "Stop translating, speak your moment",
-      "spanish": "Deja de traducir, di tu momento",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-07T18:25:21.944834"
-    },
-    {
-      "english": "This one line saves your day",
-      "spanish": "Esta frase salva tu día",
-      "category": "Perseverance",
-      "generated_at": "2026-05-07T20:18:23.794139"
-    },
-    {
       "english": "Stop searching words, say “lo siento”",
       "spanish": "Deja buscar, di “lo siento”",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Empieza simple, siéntete orgulloso.",
       "category": "Growth",
       "generated_at": "2026-09-19T22:33:22.307555"
+    },
+    {
+      "english": "Your fluency journey, starts.",
+      "spanish": "Tu viaje de fluidez, empieza.",
+      "category": "Creativity",
+      "generated_at": "2026-09-20T16:42:56.318027"
+    },
+    {
+      "english": "Speak it. Feel it. Grow.",
+      "spanish": "Dilo. Siéntelo. Crece.",
+      "category": "Creativity",
+      "generated_at": "2026-09-20T16:42:56.318060"
+    },
+    {
+      "english": "One question, unlocks answers.",
+      "spanish": "Una pregunta, desbloquea respuestas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-20T16:42:56.318102"
+    },
+    {
+      "english": "This phrase, pure gold.",
+      "spanish": "Esta frase, oro puro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-20T16:42:56.318127"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "spanish": "La curiosidad, tu mejor maestra.",
+      "category": "Creativity",
+      "generated_at": "2026-09-20T16:42:56.318153"
     }
   ],
   "used_english": [
-    "never panic, name one feeling",
-    "the secret? soften with \"oye\"",
-    "never chase perfection, just respond",
-    "stop translating, speak your moment",
-    "this one line saves your day",
     "stop searching words, say “lo siento”",
     "never lose courage, try again",
     "never fear mistakes, you’re practicing",
@@ -21001,7 +20996,12 @@
     "your accent, a story.",
     "hear this, friends appear.",
     "wisdom: practice makes beautiful.",
-    "start simple, feel proud."
+    "start simple, feel proud.",
+    "your fluency journey, starts.",
+    "speak it. feel it. grow.",
+    "one question, unlocks answers.",
+    "this phrase, pure gold.",
+    "curiosity, your best teacher."
   ],
-  "last_updated": "2026-09-19T22:33:22.307557"
+  "last_updated": "2026-09-20T16:42:56.318155"
 }
