@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop freezing, say “va a ser”",
-      "spanish": "No te quedes, di “va a ser”",
-      "category": "Strength",
-      "generated_at": "2026-05-07T21:45:21.361108"
-    },
-    {
-      "english": "Never stall, start with “estoy…”",
-      "spanish": "No te pares, empieza con “estoy…”",
-      "category": "Strength",
-      "generated_at": "2026-05-07T21:45:21.361123"
-    },
-    {
-      "english": "The secret... use “porque” once",
-      "spanish": "El secreto..., usa “porque” una vez",
-      "category": "Strength",
-      "generated_at": "2026-05-07T21:45:21.361137"
-    },
-    {
-      "english": "This phrase turns mistakes into wins",
-      "spanish": "Esta frase convierte errores en wins",
-      "category": "Strength",
-      "generated_at": "2026-05-07T21:45:21.361151"
-    },
-    {
-      "english": "Never translate—use the situation",
-      "spanish": "Nunca traduzcas, usa la situación",
-      "category": "Success",
-      "generated_at": "2026-05-08T14:54:20.682537"
-    },
-    {
       "english": "Never fear verbs, start with 'ser'",
       "spanish": "No temas verbos, empieza con «ser»",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha más, tu amor habla.",
       "category": "Love",
       "generated_at": "2026-09-20T18:01:43.881974"
+    },
+    {
+      "english": "Mistakes? They're progress markers.",
+      "spanish": "Errores? Son marcas de progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T19:16:39.206341"
+    },
+    {
+      "english": "Listen. Your fluency grows daily.",
+      "spanish": "Escucha. Tu fluidez crece a diario.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T19:16:39.206374"
+    },
+    {
+      "english": "One sentence, pure courage.",
+      "spanish": "Una frase, puro coraje.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T19:16:39.206396"
+    },
+    {
+      "english": "Struggle now, shine later.",
+      "spanish": "Lucha ahora, brilla después.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T19:16:39.206417"
+    },
+    {
+      "english": "Why quit? Almost there.",
+      "spanish": "¿Por qué rendirse? Casi llegas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T19:16:39.206437"
     }
   ],
   "used_english": [
-    "stop freezing, say “va a ser”",
-    "never stall, start with “estoy…”",
-    "the secret... use “porque” once",
-    "this phrase turns mistakes into wins",
-    "never translate—use the situation",
     "never fear verbs, start with 'ser'",
     "this tiny pause sounds native",
     "stop asking 'how', ask 'what'",
@@ -21001,7 +20996,12 @@
     "this phrase? pure spanish magic.",
     "one sound, endless romance.",
     "this makes them fall.",
-    "listen closer, your love speaks."
+    "listen closer, your love speaks.",
+    "mistakes? they're progress markers.",
+    "listen. your fluency grows daily.",
+    "one sentence, pure courage.",
+    "struggle now, shine later.",
+    "why quit? almost there."
   ],
-  "last_updated": "2026-09-20T18:01:43.881977"
+  "last_updated": "2026-09-20T19:16:39.206438"
 }
