@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear verbs, start with 'ser'",
-      "spanish": "No temas verbos, empieza con «ser»",
-      "category": "Success",
-      "generated_at": "2026-05-08T14:54:20.682553"
-    },
-    {
-      "english": "This tiny pause sounds native",
-      "spanish": "Una pausa corta suena nativa",
-      "category": "Success",
-      "generated_at": "2026-05-08T14:54:20.682562"
-    },
-    {
-      "english": "Stop asking 'how', ask 'what'",
-      "spanish": "Deja «cómo», pregunta «qué»",
-      "category": "Success",
-      "generated_at": "2026-05-08T14:54:20.682570"
-    },
-    {
-      "english": "Never wait, practice in your head",
-      "spanish": "Nunca esperes, practícalo en tu mente",
-      "category": "Success",
-      "generated_at": "2026-05-08T14:54:20.682579"
-    },
-    {
-      "english": "Never say tomorrow, say today",
-      "spanish": "Nunca digas mañana, di hoy",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T16:16:34.072474"
-    },
-    {
       "english": "The secret, talk slower, smile",
       "spanish": "El secreto, habla más lento, sonríe",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué rendirse? Casi llegas.",
       "category": "Perseverance",
       "generated_at": "2026-09-20T19:16:39.206437"
+    },
+    {
+      "english": "What if this feels easy?",
+      "spanish": "¿Y si se siente fácil?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T21:18:15.764324"
+    },
+    {
+      "english": "This phrase sparks joy.",
+      "spanish": "Esta frase inspira alegría.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T21:18:15.764363"
+    },
+    {
+      "english": "Wisdom: Learn a little daily.",
+      "spanish": "Sabiduría: Aprende un poco a diario.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T21:18:15.764387"
+    },
+    {
+      "english": "This connection feels special.",
+      "spanish": "Esta conexión se siente especial.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T21:18:15.764411"
+    },
+    {
+      "english": "Never doubt your voice.",
+      "spanish": "Nunca dudes de tu voz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-20T21:18:15.764432"
     }
   ],
   "used_english": [
-    "never fear verbs, start with 'ser'",
-    "this tiny pause sounds native",
-    "stop asking 'how', ask 'what'",
-    "never wait, practice in your head",
-    "never say tomorrow, say today",
     "the secret, talk slower, smile",
     "never wait, respond with “claro”",
     "this one pause saves fluency",
@@ -21001,7 +20996,12 @@
     "listen. your fluency grows daily.",
     "one sentence, pure courage.",
     "struggle now, shine later.",
-    "why quit? almost there."
+    "why quit? almost there.",
+    "what if this feels easy?",
+    "this phrase sparks joy.",
+    "wisdom: learn a little daily.",
+    "this connection feels special.",
+    "never doubt your voice."
   ],
-  "last_updated": "2026-09-20T19:16:39.206438"
+  "last_updated": "2026-09-20T21:18:15.764434"
 }
