@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop searching words, say “lo siento”",
-      "spanish": "Deja buscar, di “lo siento”",
-      "category": "Perseverance",
-      "generated_at": "2026-05-07T20:18:23.794157"
-    },
-    {
-      "english": "Never lose courage, try again",
-      "spanish": "No pierdas valor, inténtalo otra vez",
-      "category": "Perseverance",
-      "generated_at": "2026-05-07T20:18:23.794166"
-    },
-    {
-      "english": "Never fear mistakes, you’re practicing",
-      "spanish": "No tengas miedo, estás practicando",
-      "category": "Perseverance",
-      "generated_at": "2026-05-07T20:18:23.794174"
-    },
-    {
-      "english": "This is why your progress sticks",
-      "spanish": "Por eso tu avance se queda",
-      "category": "Perseverance",
-      "generated_at": "2026-05-07T20:18:23.794183"
-    },
-    {
-      "english": "Never explain, answer with “así”",
-      "spanish": "Nunca expliques, responde con “así”",
-      "category": "Strength",
-      "generated_at": "2026-05-07T21:45:21.361084"
-    },
-    {
       "english": "Stop freezing, say “va a ser”",
       "spanish": "No te quedes, di “va a ser”",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "La curiosidad, tu mejor maestra.",
       "category": "Creativity",
       "generated_at": "2026-09-20T16:42:56.318153"
+    },
+    {
+      "english": "What if this word felt like home?",
+      "spanish": "¿Y si esta palabra te sonara a hogar?",
+      "category": "Love",
+      "generated_at": "2026-09-20T18:01:43.881860"
+    },
+    {
+      "english": "This phrase? Pure Spanish magic.",
+      "spanish": "¿Esta frase? Pura magia española.",
+      "category": "Love",
+      "generated_at": "2026-09-20T18:01:43.881896"
+    },
+    {
+      "english": "One sound, endless romance.",
+      "spanish": "Un sonido, romance infinito.",
+      "category": "Love",
+      "generated_at": "2026-09-20T18:01:43.881923"
+    },
+    {
+      "english": "This makes them fall.",
+      "spanish": "Esto les enamora.",
+      "category": "Love",
+      "generated_at": "2026-09-20T18:01:43.881947"
+    },
+    {
+      "english": "Listen closer, your love speaks.",
+      "spanish": "Escucha más, tu amor habla.",
+      "category": "Love",
+      "generated_at": "2026-09-20T18:01:43.881974"
     }
   ],
   "used_english": [
-    "stop searching words, say “lo siento”",
-    "never lose courage, try again",
-    "never fear mistakes, you’re practicing",
-    "this is why your progress sticks",
-    "never explain, answer with “así”",
     "stop freezing, say “va a ser”",
     "never stall, start with “estoy…”",
     "the secret... use “porque” once",
@@ -21001,7 +20996,12 @@
     "speak it. feel it. grow.",
     "one question, unlocks answers.",
     "this phrase, pure gold.",
-    "curiosity, your best teacher."
+    "curiosity, your best teacher.",
+    "what if this word felt like home?",
+    "this phrase? pure spanish magic.",
+    "one sound, endless romance.",
+    "this makes them fall.",
+    "listen closer, your love speaks."
   ],
-  "last_updated": "2026-09-20T16:42:56.318155"
+  "last_updated": "2026-09-20T18:01:43.881977"
 }
