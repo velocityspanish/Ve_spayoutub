@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never ask perfect questions, just start",
-      "spanish": "Nunca pidas perfecto, solo empieza",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-08T20:10:43.144131"
-    },
-    {
-      "english": "This daily 10 seconds changes everything",
-      "spanish": "Estos diez segundos cambian todo",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-08T20:10:43.144140"
-    },
-    {
-      "english": "The secret is thinking in verbs",
-      "spanish": "El secreto es pensar en verbos",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-08T20:10:43.144149"
-    },
-    {
-      "english": "Never fear short answers, use them",
-      "spanish": "No temas respuestas cortas, úsalas",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-08T20:10:43.144158"
-    },
-    {
-      "english": "Never say “I understand”, say “I get it”",
-      "spanish": "Nunca digas “lo entiendo”, di “lo pillo”",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T21:47:21.498560"
-    },
-    {
       "english": "Stop debating, just say “maybe not”",
       "spanish": "Deja el debate, di “puede que no”",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu amabilidad resuena. Gracias.",
       "category": "Gratitude",
       "generated_at": "2026-09-21T18:32:18.722564"
+    },
+    {
+      "english": "This sound means 'I understand.'",
+      "spanish": "Esto suena a 'entiendo'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T19:53:13.568012"
+    },
+    {
+      "english": "Surprise! 'It's okay' is easy.",
+      "spanish": "¡Sorpresa! 'Está bien' fácil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T19:53:13.568048"
+    },
+    {
+      "english": "Curious? It means 'Slow down.'",
+      "spanish": "¿Curioso? Significa 'Despacio'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T19:53:13.568075"
+    },
+    {
+      "english": "This one word brings calm.",
+      "spanish": "Esta palabra trae calma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T19:53:13.568101"
+    },
+    {
+      "english": "Aha! You'll use this often.",
+      "spanish": "¡Ajá! La usarás mucho.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T19:53:13.568127"
     }
   ],
   "used_english": [
-    "never ask perfect questions, just start",
-    "this daily 10 seconds changes everything",
-    "the secret is thinking in verbs",
-    "never fear short answers, use them",
-    "never say “i understand”, say “i get it”",
     "stop debating, just say “maybe not”",
     "this is why “perdón” keeps failing",
     "stop rehearsing, speak through mistakes",
@@ -21001,7 +20996,12 @@
     "this thank you feels warm.",
     "appreciation opens doors, really.",
     "what if joy starts here?",
-    "your kindness echoes. thank you."
+    "your kindness echoes. thank you.",
+    "this sound means 'i understand.'",
+    "surprise! 'it's okay' is easy.",
+    "curious? it means 'slow down.'",
+    "this one word brings calm.",
+    "aha! you'll use this often."
   ],
-  "last_updated": "2026-09-21T18:32:18.722567"
+  "last_updated": "2026-09-21T19:53:13.568129"
 }
