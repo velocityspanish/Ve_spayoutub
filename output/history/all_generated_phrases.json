@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop freezing, use “por qué” now",
-      "spanish": "No te quedes, usa “por qué” ahora",
-      "category": "Motivation",
-      "generated_at": "2026-05-08T18:10:32.263527"
-    },
-    {
-      "english": "Never chase words, chase meaning",
-      "spanish": "No persigas palabras, persigue el sentido",
-      "category": "Motivation",
-      "generated_at": "2026-05-08T18:10:32.263536"
-    },
-    {
-      "english": "This phrase turns fear into action",
-      "spanish": "Esta frase convierte miedo en acción",
-      "category": "Motivation",
-      "generated_at": "2026-05-08T18:10:32.263545"
-    },
-    {
-      "english": "Never forget, add one detail",
-      "spanish": "Nunca olvides, añade un detalle",
-      "category": "Motivation",
-      "generated_at": "2026-05-08T18:10:32.263553"
-    },
-    {
-      "english": "Never be quiet, add a joke",
-      "spanish": "Nunca te calles, mete una broma",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-08T20:10:43.144114"
-    },
-    {
       "english": "Never ask perfect questions, just start",
       "spanish": "Nunca pidas perfecto, solo empieza",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: Di tu verdad.",
       "category": "Growth",
       "generated_at": "2026-09-20T22:46:50.821931"
+    },
+    {
+      "english": "Grateful heart, happy soul.",
+      "spanish": "Corazón agradecido, alma feliz.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:32:18.722445"
+    },
+    {
+      "english": "This thank you feels warm.",
+      "spanish": "Este gracias se siente cálido.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:32:18.722482"
+    },
+    {
+      "english": "Appreciation opens doors, really.",
+      "spanish": "El aprecio abre puertas, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:32:18.722511"
+    },
+    {
+      "english": "What if joy starts here?",
+      "spanish": "¿Qué si la alegría empieza aquí?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:32:18.722536"
+    },
+    {
+      "english": "Your kindness echoes. Thank you.",
+      "spanish": "Tu amabilidad resuena. Gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-21T18:32:18.722564"
     }
   ],
   "used_english": [
-    "stop freezing, use “por qué” now",
-    "never chase words, chase meaning",
-    "this phrase turns fear into action",
-    "never forget, add one detail",
-    "never be quiet, add a joke",
     "never ask perfect questions, just start",
     "this daily 10 seconds changes everything",
     "the secret is thinking in verbs",
@@ -21001,7 +20996,12 @@
     "what if this makes you smile?",
     "curiosity opens spanish doors.",
     "surprise them with this.",
-    "wisdom: speak your truth."
+    "wisdom: speak your truth.",
+    "grateful heart, happy soul.",
+    "this thank you feels warm.",
+    "appreciation opens doors, really.",
+    "what if joy starts here?",
+    "your kindness echoes. thank you."
   ],
-  "last_updated": "2026-09-20T22:46:50.821933"
+  "last_updated": "2026-09-21T18:32:18.722567"
 }
