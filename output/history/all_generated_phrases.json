@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, repeat with emotion",
-      "spanish": "Nunca memorices, repite con emoción",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-09T14:18:14.836966"
-    },
-    {
-      "english": "Never overthink, use “porque” once",
-      "spanish": "No sobrepienses, usa “porque” una vez",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-09T14:18:14.836976"
-    },
-    {
-      "english": "Stop quitting, finish with “y ya”",
-      "spanish": "No te rindas, termina con “y ya”",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-09T14:18:14.836985"
-    },
-    {
-      "english": "The secret is practice in seconds",
-      "spanish": "El secreto es practicar en segundos",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-09T14:18:14.836995"
-    },
-    {
-      "english": "Never quit, say “otra vez”",
-      "spanish": "Nunca te rindas, di “otra vez”",
-      "category": "Perseverance",
-      "generated_at": "2026-05-09T15:54:17.842548"
-    },
-    {
       "english": "Stop hiding, just say “lo siento”",
       "spanish": "Deja de esconderte, di “lo siento”",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Una pregunta, nuevo amigo.",
       "category": "Friendship",
       "generated_at": "2026-09-21T20:48:17.324772"
+    },
+    {
+      "english": "What if 'hello' opened doors?",
+      "spanish": "¿Y si 'hola' abre puertas?",
+      "category": "Balance",
+      "generated_at": "2026-09-21T22:31:12.502883"
+    },
+    {
+      "english": "Feel this rhythm, you'll get it.",
+      "spanish": "Siente este ritmo, lo captas.",
+      "category": "Balance",
+      "generated_at": "2026-09-21T22:31:12.502922"
+    },
+    {
+      "english": "One sound, pure warmth.",
+      "spanish": "Un sonido, pura calidez.",
+      "category": "Balance",
+      "generated_at": "2026-09-21T22:31:12.502974"
+    },
+    {
+      "english": "Dare to say 'please'.",
+      "spanish": "Atrévete a decir 'por favor'.",
+      "category": "Balance",
+      "generated_at": "2026-09-21T22:31:12.503002"
+    },
+    {
+      "english": "Your voice, a beautiful sound.",
+      "spanish": "Tu voz, un sonido hermoso.",
+      "category": "Balance",
+      "generated_at": "2026-09-21T22:31:12.503031"
     }
   ],
   "used_english": [
-    "never memorize, repeat with emotion",
-    "never overthink, use “porque” once",
-    "stop quitting, finish with “y ya”",
-    "the secret is practice in seconds",
-    "never quit, say “otra vez”",
     "stop hiding, just say “lo siento”",
     "the secret? keep going, even wrong",
     "never fear the pause, continue",
@@ -21001,7 +20996,12 @@
     "your smile, their language.",
     "feel this warmth expand.",
     "curious? it means 'cheers!'",
-    "one question, new friend."
+    "one question, new friend.",
+    "what if 'hello' opened doors?",
+    "feel this rhythm, you'll get it.",
+    "one sound, pure warmth.",
+    "dare to say 'please'.",
+    "your voice, a beautiful sound."
   ],
-  "last_updated": "2026-09-21T20:48:17.324775"
+  "last_updated": "2026-09-21T22:31:12.503033"
 }
