@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop debating, just say “maybe not”",
-      "spanish": "Deja el debate, di “puede que no”",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T21:47:21.498581"
-    },
-    {
-      "english": "This is why “perdón” keeps failing",
-      "spanish": "Esto es por qué “perdón” falla",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T21:47:21.498590"
-    },
-    {
-      "english": "Stop rehearsing, speak through mistakes",
-      "spanish": "Deja de ensayar, habla con errores",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T21:47:21.498599"
-    },
-    {
-      "english": "Never wait for perfect, say “así”",
-      "spanish": "Nunca esperes perfecto, di “así”",
-      "category": "Wisdom",
-      "generated_at": "2026-05-08T21:47:21.498608"
-    },
-    {
-      "english": "Never say “maybe”, say “en serio”",
-      "spanish": "Nunca digas “tal vez”, di “en serio”",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-09T14:18:14.836945"
-    },
-    {
       "english": "Never memorize, repeat with emotion",
       "spanish": "Nunca memorices, repite con emoción",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Ajá! La usarás mucho.",
       "category": "Mindfulness",
       "generated_at": "2026-09-21T19:53:13.568127"
+    },
+    {
+      "english": "Want instant friends?",
+      "spanish": "¿Quieres amigos instantáneos?",
+      "category": "Friendship",
+      "generated_at": "2026-09-21T20:48:17.324653"
+    },
+    {
+      "english": "Your smile, their language.",
+      "spanish": "Tu sonrisa, su idioma.",
+      "category": "Friendship",
+      "generated_at": "2026-09-21T20:48:17.324692"
+    },
+    {
+      "english": "Feel this warmth expand.",
+      "spanish": "Siente esta calidez expandirse.",
+      "category": "Friendship",
+      "generated_at": "2026-09-21T20:48:17.324719"
+    },
+    {
+      "english": "Curious? It means 'cheers!'",
+      "spanish": "¿Curioso? ¡Significa 'salud!'",
+      "category": "Friendship",
+      "generated_at": "2026-09-21T20:48:17.324746"
+    },
+    {
+      "english": "One question, new friend.",
+      "spanish": "Una pregunta, nuevo amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-09-21T20:48:17.324772"
     }
   ],
   "used_english": [
-    "stop debating, just say “maybe not”",
-    "this is why “perdón” keeps failing",
-    "stop rehearsing, speak through mistakes",
-    "never wait for perfect, say “así”",
-    "never say “maybe”, say “en serio”",
     "never memorize, repeat with emotion",
     "never overthink, use “porque” once",
     "stop quitting, finish with “y ya”",
@@ -21001,7 +20996,12 @@
     "surprise! 'it's okay' is easy.",
     "curious? it means 'slow down.'",
     "this one word brings calm.",
-    "aha! you'll use this often."
+    "aha! you'll use this often.",
+    "want instant friends?",
+    "your smile, their language.",
+    "feel this warmth expand.",
+    "curious? it means 'cheers!'",
+    "one question, new friend."
   ],
-  "last_updated": "2026-09-21T19:53:13.568129"
+  "last_updated": "2026-09-21T20:48:17.324775"
 }
