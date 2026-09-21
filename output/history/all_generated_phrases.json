@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop hiding, just say “lo siento”",
-      "spanish": "Deja de esconderte, di “lo siento”",
-      "category": "Perseverance",
-      "generated_at": "2026-05-09T15:54:17.842575"
-    },
-    {
-      "english": "The secret? Keep going, even wrong",
-      "spanish": "El secreto, sigue, aunque sea mal",
-      "category": "Perseverance",
-      "generated_at": "2026-05-09T15:54:17.842585"
-    },
-    {
-      "english": "Never fear the pause, continue",
-      "spanish": "No le tengas miedo, sigue",
-      "category": "Perseverance",
-      "generated_at": "2026-05-09T15:54:17.842594"
-    },
-    {
-      "english": "Stop overchecking, trust “ya casi”",
-      "spanish": "Deja de revisar, confía “ya casi”",
-      "category": "Perseverance",
-      "generated_at": "2026-05-09T15:54:17.842603"
-    },
-    {
-      "english": "Never say “I love you” first",
-      "spanish": "Nunca digas “te amo” primero",
-      "category": "Love",
-      "generated_at": "2026-05-09T17:52:01.979979"
-    },
-    {
       "english": "What if you text first?",
       "spanish": "¿Y si tú escribes primero?",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu voz, un sonido hermoso.",
       "category": "Balance",
       "generated_at": "2026-09-21T22:31:12.503031"
+    },
+    {
+      "english": "Dare to speak, unlock worlds.",
+      "spanish": "Atrévete a hablar, abre mundos.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T23:42:56.024722"
+    },
+    {
+      "english": "Your next word, pure magic.",
+      "spanish": "Tu próxima palabra, pura magia.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T23:42:56.024756"
+    },
+    {
+      "english": "This small phrase, huge impact.",
+      "spanish": "Esta frase pequeña, gran impacto.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T23:42:56.024784"
+    },
+    {
+      "english": "Curious? This sound, pure joy.",
+      "spanish": "¿Curioso? Este sonido, pura alegría.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T23:42:56.024811"
+    },
+    {
+      "english": "Never fear a new word.",
+      "spanish": "Nunca temas una palabra nueva.",
+      "category": "Courage",
+      "generated_at": "2026-09-21T23:42:56.024835"
     }
   ],
   "used_english": [
-    "stop hiding, just say “lo siento”",
-    "the secret? keep going, even wrong",
-    "never fear the pause, continue",
-    "stop overchecking, trust “ya casi”",
-    "never say “i love you” first",
     "what if you text first?",
     "stop chasing romance, ask names",
     "the secret is one sweet phrase",
@@ -21001,7 +20996,12 @@
     "feel this rhythm, you'll get it.",
     "one sound, pure warmth.",
     "dare to say 'please'.",
-    "your voice, a beautiful sound."
+    "your voice, a beautiful sound.",
+    "dare to speak, unlock worlds.",
+    "your next word, pure magic.",
+    "this small phrase, huge impact.",
+    "curious? this sound, pure joy.",
+    "never fear a new word."
   ],
-  "last_updated": "2026-09-21T22:31:12.503033"
+  "last_updated": "2026-09-21T23:42:56.024837"
 }
