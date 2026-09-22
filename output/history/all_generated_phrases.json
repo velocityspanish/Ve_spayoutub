@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one breath calms your tongue",
-      "spanish": "Esta respiración calma tu lengua",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T15:55:55.455848"
-    },
-    {
-      "english": "The secret is present tense",
-      "spanish": "El secreto es el presente",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T15:55:55.455858"
-    },
-    {
-      "english": "Never overthink, use \"vale\"",
-      "spanish": "No sobrepienses, usa \"vale\"",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T15:55:55.455866"
-    },
-    {
-      "english": "Stop comparing, say \"yo también\"",
-      "spanish": "Deja comparar, di \"yo también\"",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T15:55:55.455877"
-    },
-    {
-      "english": "Stop scrolling, practice this phrase",
-      "spanish": "Deja el scroll, practica esta frase",
-      "category": "Patience",
-      "generated_at": "2026-05-10T17:53:38.924636"
-    },
-    {
       "english": "Never wait, just say 'ya veo'",
       "spanish": "Nunca esperes, di «ya veo»",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: Perdón, tu libertad.",
       "category": "Forgiveness",
       "generated_at": "2026-09-22T21:53:21.986126"
+    },
+    {
+      "english": "Want peace? Let go.",
+      "spanish": "Deseas paz? Deja ir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T23:21:55.522440"
+    },
+    {
+      "english": "Forgiveness unlocks your heart.",
+      "spanish": "Perdón abre tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T23:21:55.522463"
+    },
+    {
+      "english": "Why hold grudges? Free yourself.",
+      "spanish": "¿Por qué guardar rencor? Libérate.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T23:21:55.522478"
+    },
+    {
+      "english": "Let go of yesterday's pain.",
+      "spanish": "Suelta el dolor de ayer.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T23:21:55.522491"
+    },
+    {
+      "english": "Your burden feels lighter, why?",
+      "spanish": "¿Tu carga se siente ligera, por qué?",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T23:21:55.522505"
     }
   ],
   "used_english": [
-    "this one breath calms your tongue",
-    "the secret is present tense",
-    "never overthink, use \"vale\"",
-    "stop comparing, say \"yo también\"",
-    "stop scrolling, practice this phrase",
     "never wait, just say 'ya veo'",
     "the secret? reply with 'todavía'",
     "never quit, add one more word",
@@ -21001,7 +20996,12 @@
     "curious? it means 'be right back'.",
     "your small voice, heard loud.",
     "one tiny phrase, melts ice.",
-    "wisdom: forgiveness, your freedom."
+    "wisdom: forgiveness, your freedom.",
+    "want peace? let go.",
+    "forgiveness unlocks your heart.",
+    "why hold grudges? free yourself.",
+    "let go of yesterday's pain.",
+    "your burden feels lighter, why?"
   ],
-  "last_updated": "2026-09-22T21:53:21.986128"
+  "last_updated": "2026-09-22T23:21:55.522507"
 }
