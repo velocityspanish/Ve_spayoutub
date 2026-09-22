@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, add a soft “oye”",
-      "spanish": "El secreto, agrega un “oye” suave",
-      "category": "Joy",
-      "generated_at": "2026-05-10T14:21:14.862520"
-    },
-    {
-      "english": "Never say “I don’t know”, try “tal vez”",
-      "spanish": "No digas “no sé”, usa “tal vez”",
-      "category": "Joy",
-      "generated_at": "2026-05-10T14:21:14.862530"
-    },
-    {
-      "english": "This one word stops panic fast",
-      "spanish": "Esta palabra frena el pánico rápido",
-      "category": "Joy",
-      "generated_at": "2026-05-10T14:21:14.862542"
-    },
-    {
-      "english": "This phrase makes you instantly friendlier",
-      "spanish": "Esta frase te hace más amable",
-      "category": "Joy",
-      "generated_at": "2026-05-10T14:21:14.862551"
-    },
-    {
-      "english": "Never numb feelings, name one",
-      "spanish": "Nunca apagues emociones, nombra una",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T15:55:55.455829"
-    },
-    {
       "english": "This one breath calms your tongue",
       "spanish": "Esta respiración calma tu lengua",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué esta frase? Confort instantáneo.",
       "category": "Gratitude",
       "generated_at": "2026-09-22T20:01:52.315137"
+    },
+    {
+      "english": "This ONE word, instant peace.",
+      "spanish": "Esta UNA palabra, paz instantánea.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T21:53:21.986002"
+    },
+    {
+      "english": "Curious? It means 'be right back'.",
+      "spanish": "¿Curioso? Significa 'vuelvo pronto'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T21:53:21.986043"
+    },
+    {
+      "english": "Your small voice, heard loud.",
+      "spanish": "Tu voz pequeña, oída fuerte.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T21:53:21.986072"
+    },
+    {
+      "english": "One tiny phrase, melts ice.",
+      "spanish": "Una frasecita, derrite hielo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T21:53:21.986098"
+    },
+    {
+      "english": "Wisdom: Forgiveness, your freedom.",
+      "spanish": "Sabiduría: Perdón, tu libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-22T21:53:21.986126"
     }
   ],
   "used_english": [
-    "the secret, add a soft “oye”",
-    "never say “i don’t know”, try “tal vez”",
-    "this one word stops panic fast",
-    "this phrase makes you instantly friendlier",
-    "never numb feelings, name one",
     "this one breath calms your tongue",
     "the secret is present tense",
     "never overthink, use \"vale\"",
@@ -21001,7 +20996,12 @@
     "this small act, pure joy.",
     "curious? this sound means 'thanks'.",
     "one word makes them smile.",
-    "why this phrase? instant comfort."
+    "why this phrase? instant comfort.",
+    "this one word, instant peace.",
+    "curious? it means 'be right back'.",
+    "your small voice, heard loud.",
+    "one tiny phrase, melts ice.",
+    "wisdom: forgiveness, your freedom."
   ],
-  "last_updated": "2026-09-22T20:01:52.315139"
+  "last_updated": "2026-09-22T21:53:21.986128"
 }
