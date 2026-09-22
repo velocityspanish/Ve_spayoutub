@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never panic, breathe, say \"tranquilo\"",
-      "spanish": "Nunca entres en pánico, respira, di «tranquilo»",
-      "category": "Hope",
-      "generated_at": "2026-05-09T19:59:00.119250"
-    },
-    {
-      "english": "This is why you stall, wrong order",
-      "spanish": "Por eso te trabas, cambia el orden",
-      "category": "Hope",
-      "generated_at": "2026-05-09T19:59:00.119267"
-    },
-    {
-      "english": "The secret... add one tiny question",
-      "spanish": "El secreto..., agrega una mini pregunta",
-      "category": "Hope",
-      "generated_at": "2026-05-09T19:59:00.119283"
-    },
-    {
-      "english": "The fastest way to sound real",
-      "spanish": "La forma más rápida de sonar real",
-      "category": "Hope",
-      "generated_at": "2026-05-09T19:59:00.119298"
-    },
-    {
-      "english": "Never overthink, use this starter",
-      "spanish": "No sobrepienses, usa este inicio",
-      "category": "Growth",
-      "generated_at": "2026-05-09T21:33:17.960617"
-    },
-    {
       "english": "This verb trick boosts your fluency",
       "spanish": "Este truco de verbos mejora fluidez",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Pequeños esfuerzos, GRAN conexión.",
       "category": "Self Improvement",
       "generated_at": "2026-09-22T17:33:33.652192"
+    },
+    {
+      "english": "What if learning felt this good?",
+      "spanish": "¿Y si aprender se siente así?",
+      "category": "Growth",
+      "generated_at": "2026-09-22T18:33:08.855894"
+    },
+    {
+      "english": "Their smile? Your progress.",
+      "spanish": "¿Su sonrisa? Tu progreso.",
+      "category": "Growth",
+      "generated_at": "2026-09-22T18:33:08.855927"
+    },
+    {
+      "english": "Wisdom: Patience speaks volumes.",
+      "spanish": "Sabiduría: Paciencia dice mucho.",
+      "category": "Growth",
+      "generated_at": "2026-09-22T18:33:08.855950"
+    },
+    {
+      "english": "This phrase, instant welcome.",
+      "spanish": "Esta frase, bienvenida instantánea.",
+      "category": "Growth",
+      "generated_at": "2026-09-22T18:33:08.855974"
+    },
+    {
+      "english": "Dare to ask, grow.",
+      "spanish": "Atrévete a preguntar, crece.",
+      "category": "Growth",
+      "generated_at": "2026-09-22T18:33:08.855992"
     }
   ],
   "used_english": [
-    "never panic, breathe, say \"tranquilo\"",
-    "this is why you stall, wrong order",
-    "the secret... add one tiny question",
-    "the fastest way to sound real",
-    "never overthink, use this starter",
     "this verb trick boosts your fluency",
     "stop swapping nouns, start with actions",
     "never apologize for your accent",
@@ -21001,7 +20996,12 @@
     "feel this rhythm? you got this.",
     "this feeling? absolutely belongs.",
     "your progress sounds amazing, wow.",
-    "small efforts, huge connection."
+    "small efforts, huge connection.",
+    "what if learning felt this good?",
+    "their smile? your progress.",
+    "wisdom: patience speaks volumes.",
+    "this phrase, instant welcome.",
+    "dare to ask, grow."
   ],
-  "last_updated": "2026-09-22T17:33:33.652194"
+  "last_updated": "2026-09-22T18:33:08.855994"
 }
