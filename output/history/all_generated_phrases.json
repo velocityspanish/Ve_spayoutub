@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if you text first?",
-      "spanish": "¿Y si tú escribes primero?",
-      "category": "Love",
-      "generated_at": "2026-05-09T17:52:01.979998"
-    },
-    {
-      "english": "Stop chasing romance, ask names",
-      "spanish": "Deja la romántica, pregunta nombres",
-      "category": "Love",
-      "generated_at": "2026-05-09T17:52:01.980008"
-    },
-    {
-      "english": "The secret is one sweet phrase",
-      "spanish": "El secreto es una frase dulce",
-      "category": "Love",
-      "generated_at": "2026-05-09T17:52:01.980018"
-    },
-    {
-      "english": "Never fear flirting, just smile",
-      "spanish": "No tengas miedo, sonríe",
-      "category": "Love",
-      "generated_at": "2026-05-09T17:52:01.980027"
-    },
-    {
-      "english": "Stop sounding robotic, say \"qué tal\"",
-      "spanish": "Deja de sonar robótico, di «qué tal»",
-      "category": "Hope",
-      "generated_at": "2026-05-09T19:59:00.119226"
-    },
-    {
       "english": "Never panic, breathe, say \"tranquilo\"",
       "spanish": "Nunca entres en pánico, respira, di «tranquilo»",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca temas una palabra nueva.",
       "category": "Courage",
       "generated_at": "2026-09-21T23:42:56.024835"
+    },
+    {
+      "english": "One word brings smiles, really.",
+      "spanish": "Una palabra trae sonrisas, de verdad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-22T17:33:33.652061"
+    },
+    {
+      "english": "Feel this rhythm? You got this.",
+      "spanish": "¿Sientes este ritmo? Tú puedes.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-22T17:33:33.652097"
+    },
+    {
+      "english": "This feeling? Absolutely belongs.",
+      "spanish": "¿Este sentimiento? Absolutamente pertenece.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-22T17:33:33.652125"
+    },
+    {
+      "english": "Your progress sounds amazing, wow.",
+      "spanish": "Tu progreso suena increíble, wow.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-22T17:33:33.652152"
+    },
+    {
+      "english": "Small efforts, HUGE connection.",
+      "spanish": "Pequeños esfuerzos, GRAN conexión.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-22T17:33:33.652192"
     }
   ],
   "used_english": [
-    "what if you text first?",
-    "stop chasing romance, ask names",
-    "the secret is one sweet phrase",
-    "never fear flirting, just smile",
-    "stop sounding robotic, say \"qué tal\"",
     "never panic, breathe, say \"tranquilo\"",
     "this is why you stall, wrong order",
     "the secret... add one tiny question",
@@ -21001,7 +20996,12 @@
     "your next word, pure magic.",
     "this small phrase, huge impact.",
     "curious? this sound, pure joy.",
-    "never fear a new word."
+    "never fear a new word.",
+    "one word brings smiles, really.",
+    "feel this rhythm? you got this.",
+    "this feeling? absolutely belongs.",
+    "your progress sounds amazing, wow.",
+    "small efforts, huge connection."
   ],
-  "last_updated": "2026-09-21T23:42:56.024837"
+  "last_updated": "2026-09-22T17:33:33.652194"
 }
