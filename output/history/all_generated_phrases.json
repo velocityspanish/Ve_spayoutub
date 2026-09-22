@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This verb trick boosts your fluency",
-      "spanish": "Este truco de verbos mejora fluidez",
-      "category": "Growth",
-      "generated_at": "2026-05-09T21:33:17.960632"
-    },
-    {
-      "english": "Stop swapping nouns, start with actions",
-      "spanish": "Deja los sustantivos, empieza con acciones",
-      "category": "Growth",
-      "generated_at": "2026-05-09T21:33:17.960641"
-    },
-    {
-      "english": "Never apologize for your accent",
-      "spanish": "Nunca pidas perdón por tu acento",
-      "category": "Growth",
-      "generated_at": "2026-05-09T21:33:17.960650"
-    },
-    {
-      "english": "This question makes natives respond faster",
-      "spanish": "Esta pregunta hace responder más rápido",
-      "category": "Growth",
-      "generated_at": "2026-05-09T21:33:17.960658"
-    },
-    {
-      "english": "Never ask “are you okay?”",
-      "spanish": "Nunca preguntes “¿estás bien?”",
-      "category": "Joy",
-      "generated_at": "2026-05-10T14:21:14.862503"
-    },
-    {
       "english": "The secret, add a soft “oye”",
       "spanish": "El secreto, agrega un “oye” suave",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a preguntar, crece.",
       "category": "Growth",
       "generated_at": "2026-09-22T18:33:08.855992"
+    },
+    {
+      "english": "Your patience feels like sunshine.",
+      "spanish": "Tu paciencia se siente sol.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-22T20:01:52.315019"
+    },
+    {
+      "english": "This small act, pure joy.",
+      "spanish": "Este acto pequeño, gozo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-22T20:01:52.315055"
+    },
+    {
+      "english": "Curious? This sound means 'thanks'.",
+      "spanish": "¿Curioso? Este sonido es 'gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-22T20:01:52.315083"
+    },
+    {
+      "english": "One word makes them smile.",
+      "spanish": "Una palabra les hace sonreír.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-22T20:01:52.315110"
+    },
+    {
+      "english": "Why this phrase? Instant comfort.",
+      "spanish": "¿Por qué esta frase? Confort instantáneo.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-22T20:01:52.315137"
     }
   ],
   "used_english": [
-    "this verb trick boosts your fluency",
-    "stop swapping nouns, start with actions",
-    "never apologize for your accent",
-    "this question makes natives respond faster",
-    "never ask “are you okay?”",
     "the secret, add a soft “oye”",
     "never say “i don’t know”, try “tal vez”",
     "this one word stops panic fast",
@@ -21001,7 +20996,12 @@
     "their smile? your progress.",
     "wisdom: patience speaks volumes.",
     "this phrase, instant welcome.",
-    "dare to ask, grow."
+    "dare to ask, grow.",
+    "your patience feels like sunshine.",
+    "this small act, pure joy.",
+    "curious? this sound means 'thanks'.",
+    "one word makes them smile.",
+    "why this phrase? instant comfort."
   ],
-  "last_updated": "2026-09-22T18:33:08.855994"
+  "last_updated": "2026-09-22T20:01:52.315139"
 }
