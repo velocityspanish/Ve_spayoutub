@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, just say 'ya veo'",
-      "spanish": "Nunca esperes, di «ya veo»",
-      "category": "Patience",
-      "generated_at": "2026-05-10T17:53:38.924655"
-    },
-    {
-      "english": "The secret? Reply with 'todavía'",
-      "spanish": "El secreto, responde con «todavía»",
-      "category": "Patience",
-      "generated_at": "2026-05-10T17:53:38.924665"
-    },
-    {
-      "english": "Never quit, add one more word",
-      "spanish": "No te rindas, añade otra palabra",
-      "category": "Patience",
-      "generated_at": "2026-05-10T17:53:38.924674"
-    },
-    {
-      "english": "This tiny reset fixes everything",
-      "spanish": "Este mini reinicio lo arregla todo",
-      "category": "Patience",
-      "generated_at": "2026-05-10T17:53:38.924683"
-    },
-    {
-      "english": "Stop guessing, point, then say",
-      "spanish": "No adivines, señala, y di",
-      "category": "Strength",
-      "generated_at": "2026-05-10T20:00:50.232088"
-    },
-    {
       "english": "This one question opens real talk",
       "spanish": "Esta pregunta abre conversación real",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Tu carga se siente ligera, por qué?",
       "category": "Forgiveness",
       "generated_at": "2026-09-22T23:21:55.522505"
+    },
+    {
+      "english": "Still struggling? Try this.",
+      "spanish": "¿Sigues luchando? Prueba esto.",
+      "category": "Patience",
+      "generated_at": "2026-09-23T17:47:05.190959"
+    },
+    {
+      "english": "This small step, huge progress.",
+      "spanish": "Este pequeño paso, gran progreso.",
+      "category": "Patience",
+      "generated_at": "2026-09-23T17:47:05.190992"
+    },
+    {
+      "english": "Why quit now? Keep going.",
+      "spanish": "¿Por qué rendirse ahora? Sigue.",
+      "category": "Patience",
+      "generated_at": "2026-09-23T17:47:05.191013"
+    },
+    {
+      "english": "Your effort? It counts, really.",
+      "spanish": "¿Tu esfuerzo? Cuenta, de verdad.",
+      "category": "Patience",
+      "generated_at": "2026-09-23T17:47:05.191034"
+    },
+    {
+      "english": "The key? Just keep practicing.",
+      "spanish": "La clave? Solo sigue practicando.",
+      "category": "Patience",
+      "generated_at": "2026-09-23T17:47:05.191056"
     }
   ],
   "used_english": [
-    "never wait, just say 'ya veo'",
-    "the secret? reply with 'todavía'",
-    "never quit, add one more word",
-    "this tiny reset fixes everything",
-    "stop guessing, point, then say",
     "this one question opens real talk",
     "never say please first, go direct",
     "this saves you, say it like this",
@@ -21001,7 +20996,12 @@
     "forgiveness unlocks your heart.",
     "why hold grudges? free yourself.",
     "let go of yesterday's pain.",
-    "your burden feels lighter, why?"
+    "your burden feels lighter, why?",
+    "still struggling? try this.",
+    "this small step, huge progress.",
+    "why quit now? keep going.",
+    "your effort? it counts, really.",
+    "the key? just keep practicing."
   ],
-  "last_updated": "2026-09-22T23:21:55.522507"
+  "last_updated": "2026-09-23T17:47:05.191058"
 }
