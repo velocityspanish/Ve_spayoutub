@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop saying perfect, say real",
-      "spanish": "No digas perfecto, di real",
-      "category": "Purpose",
-      "generated_at": "2026-05-11T17:26:06.020626"
-    },
-    {
-      "english": "Never translate, describe with emotion",
-      "spanish": "No traduzcas, describe con emoción",
-      "category": "Purpose",
-      "generated_at": "2026-05-11T17:26:06.020635"
-    },
-    {
-      "english": "Stop reviewing, start responding",
-      "spanish": "Deja de repasar, responde",
-      "category": "Purpose",
-      "generated_at": "2026-05-11T17:26:06.020645"
-    },
-    {
-      "english": "The secret? Use the present",
-      "spanish": "El secreto, usa el presente",
-      "category": "Purpose",
-      "generated_at": "2026-05-11T17:26:06.020653"
-    },
-    {
-      "english": "Stop studying, start speaking today",
-      "spanish": "Deja de estudiar, empieza hoy",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-11T18:58:47.162632"
-    },
-    {
       "english": "The secret, add emotion to verbs",
       "spanish": "El secreto, mete emoción a verbos",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Ajá! Paz interior instantánea.",
       "category": "Forgiveness",
       "generated_at": "2026-09-23T22:08:18.871636"
+    },
+    {
+      "english": "This tiny word feels huge.",
+      "spanish": "Esta palabra diminuta se siente enorme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-23T23:16:27.525927"
+    },
+    {
+      "english": "Your progress sounds amazing.",
+      "spanish": "Tu progreso suena asombroso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-23T23:16:27.525963"
+    },
+    {
+      "english": "Wisdom: patience creates beauty.",
+      "spanish": "Sabiduría: la paciencia crea belleza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-23T23:16:27.525992"
+    },
+    {
+      "english": "This simple phrase, your superpower.",
+      "spanish": "Esta frase simple, tu superpoder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-23T23:16:27.526018"
+    },
+    {
+      "english": "Your effort? It matters.",
+      "spanish": "¿Tu esfuerzo? Importa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-23T23:16:27.526043"
     }
   ],
   "used_english": [
-    "stop saying perfect, say real",
-    "never translate, describe with emotion",
-    "stop reviewing, start responding",
-    "the secret? use the present",
-    "stop studying, start speaking today",
     "the secret, add emotion to verbs",
     "stop fixing yourself mid-sentence",
     "never argue, just agree once",
@@ -21001,7 +20996,12 @@
     "wisdom: forgive to fly.",
     "why hold on? release it.",
     "this phrase frees your soul.",
-    "aha! instant inner peace."
+    "aha! instant inner peace.",
+    "this tiny word feels huge.",
+    "your progress sounds amazing.",
+    "wisdom: patience creates beauty.",
+    "this simple phrase, your superpower.",
+    "your effort? it matters."
   ],
-  "last_updated": "2026-09-23T22:08:18.871637"
+  "last_updated": "2026-09-23T23:16:27.526045"
 }
