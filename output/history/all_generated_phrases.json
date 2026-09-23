@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one question opens real talk",
-      "spanish": "Esta pregunta abre conversación real",
-      "category": "Strength",
-      "generated_at": "2026-05-10T20:00:50.232113"
-    },
-    {
-      "english": "Never say please first, go direct",
-      "spanish": "Nunca digas por favor primero, directo",
-      "category": "Strength",
-      "generated_at": "2026-05-10T20:00:50.232135"
-    },
-    {
-      "english": "This saves you, say it like this",
-      "spanish": "Esto te salva, dilo así",
-      "category": "Strength",
-      "generated_at": "2026-05-10T20:00:50.232156"
-    },
-    {
-      "english": "Stop switching tense, keep one",
-      "spanish": "No cambies de tiempo, mantén uno",
-      "category": "Strength",
-      "generated_at": "2026-05-10T20:00:50.232173"
-    },
-    {
-      "english": "Stop pausing, just say \"pues\"",
-      "spanish": "Deja la pausa, solo di \"pues\"",
-      "category": "Success",
-      "generated_at": "2026-05-10T21:37:48.299069"
-    },
-    {
       "english": "Never say \"good\", say \"genial\"",
       "spanish": "Nunca digas \"bien\", di \"genial\"",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "La clave? Solo sigue practicando.",
       "category": "Patience",
       "generated_at": "2026-09-23T17:47:05.191056"
+    },
+    {
+      "english": "One word, instant confidence.",
+      "spanish": "Una palabra, confianza instantánea.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:54:06.410326"
+    },
+    {
+      "english": "Why is this phrase essential?",
+      "spanish": "¿Por qué esta frase es esencial?",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:54:06.410359"
+    },
+    {
+      "english": "Dare to start, beautifully.",
+      "spanish": "Atrévete a empezar, bellamente.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:54:06.410386"
+    },
+    {
+      "english": "Your voice echoes. Listen.",
+      "spanish": "Tu voz resuena. Escucha.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:54:06.410412"
+    },
+    {
+      "english": "Feel this spark, speak now.",
+      "spanish": "Siente esta chispa, habla ahora.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:54:06.410437"
     }
   ],
   "used_english": [
-    "this one question opens real talk",
-    "never say please first, go direct",
-    "this saves you, say it like this",
-    "stop switching tense, keep one",
-    "stop pausing, just say \"pues\"",
     "never say \"good\", say \"genial\"",
     "this is why natives speed up",
     "never translate, describe what you see",
@@ -21001,7 +20996,12 @@
     "this small step, huge progress.",
     "why quit now? keep going.",
     "your effort? it counts, really.",
-    "the key? just keep practicing."
+    "the key? just keep practicing.",
+    "one word, instant confidence.",
+    "why is this phrase essential?",
+    "dare to start, beautifully.",
+    "your voice echoes. listen.",
+    "feel this spark, speak now."
   ],
-  "last_updated": "2026-09-23T17:47:05.191058"
+  "last_updated": "2026-09-23T18:54:06.410440"
 }
