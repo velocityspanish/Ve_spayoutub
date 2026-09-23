@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say \"good\", say \"genial\"",
-      "spanish": "Nunca digas \"bien\", di \"genial\"",
-      "category": "Success",
-      "generated_at": "2026-05-10T21:37:48.299086"
-    },
-    {
-      "english": "This is why natives speed up",
-      "spanish": "Por eso los nativos van rápido",
-      "category": "Success",
-      "generated_at": "2026-05-10T21:37:48.299095"
-    },
-    {
-      "english": "Never translate, describe what you see",
-      "spanish": "No traduzcas, describe lo que ves",
-      "category": "Success",
-      "generated_at": "2026-05-10T21:37:48.299104"
-    },
-    {
-      "english": "This one word earns respect fast",
-      "spanish": "Una palabra te da respeto",
-      "category": "Success",
-      "generated_at": "2026-05-10T21:37:48.299113"
-    },
-    {
-      "english": "Stop blanking, say “en serio”",
-      "spanish": "Deja el bloqueo, di “en serio”",
-      "category": "Love",
-      "generated_at": "2026-05-11T15:57:12.514515"
-    },
-    {
       "english": "The secret? Compliment, then ask",
       "spanish": "El secreto, felicita, luego pregunta",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente esta chispa, habla ahora.",
       "category": "Courage",
       "generated_at": "2026-09-23T18:54:06.410437"
+    },
+    {
+      "english": "The secret? Just listen.",
+      "spanish": "El secreto: solo escucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-23T19:58:49.288151"
+    },
+    {
+      "english": "Why is this so important?",
+      "spanish": "¿Por qué es crucial?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-23T19:58:49.288176"
+    },
+    {
+      "english": "Feel this, you're learning.",
+      "spanish": "Siente esto, aprendes.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-23T19:58:49.288190"
+    },
+    {
+      "english": "Believe it. You can speak.",
+      "spanish": "Créelo. Puedes hablar.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-23T19:58:49.288205"
+    },
+    {
+      "english": "Wisdom: Embrace mistakes.",
+      "spanish": "Sabiduría: Acepta errores.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-23T19:58:49.288218"
     }
   ],
   "used_english": [
-    "never say \"good\", say \"genial\"",
-    "this is why natives speed up",
-    "never translate, describe what you see",
-    "this one word earns respect fast",
-    "stop blanking, say “en serio”",
     "the secret? compliment, then ask",
     "stop texting cold, add “después”",
     "never confess fast, start with “me gustas”",
@@ -21001,7 +20996,12 @@
     "why is this phrase essential?",
     "dare to start, beautifully.",
     "your voice echoes. listen.",
-    "feel this spark, speak now."
+    "feel this spark, speak now.",
+    "the secret? just listen.",
+    "why is this so important?",
+    "feel this, you're learning.",
+    "believe it. you can speak.",
+    "wisdom: embrace mistakes."
   ],
-  "last_updated": "2026-09-23T18:54:06.410440"
+  "last_updated": "2026-09-23T19:58:49.288219"
 }
