@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, add emotion to verbs",
-      "spanish": "El secreto, mete emoción a verbos",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-11T18:58:47.162651"
-    },
-    {
-      "english": "Stop fixing yourself mid-sentence",
-      "spanish": "No te corrijas a mitad",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-11T18:58:47.162661"
-    },
-    {
-      "english": "Never argue, just agree once",
-      "spanish": "Nunca discutas, di que sí",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-11T18:58:47.162670"
-    },
-    {
-      "english": "This one habit makes progress fast",
-      "spanish": "Este hábito acelera tu avance",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-11T18:58:47.162679"
-    },
-    {
-      "english": "Stop apologizing, say “te perdono”",
-      "spanish": "Deja de pedir perdón, di “te perdono”",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-11T20:48:22.771323"
-    },
-    {
       "english": "Never say sorry, use “disculpa”",
       "spanish": "Nunca digas perdón, usa “disculpa”",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Tu esfuerzo? Importa.",
       "category": "Mindfulness",
       "generated_at": "2026-09-23T23:16:27.526043"
+    },
+    {
+      "english": "Future you will thank you.",
+      "spanish": "Tu futuro yo, te agradecerá.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T17:47:40.801671"
+    },
+    {
+      "english": "Wisdom: Breathe it in.",
+      "spanish": "Sabiduría: Respíralo profundo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T17:47:40.801701"
+    },
+    {
+      "english": "Feel this rhythm, you're fluent.",
+      "spanish": "Siente este ritmo, eres fluido.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T17:47:40.801724"
+    },
+    {
+      "english": "Surprise them with 'thank you'.",
+      "spanish": "Sorpréndelos con 'gracias'.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T17:47:40.801746"
+    },
+    {
+      "english": "Curiosity unlocked this word.",
+      "spanish": "La curiosidad, desbloqueó esta palabra.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T17:47:40.801768"
     }
   ],
   "used_english": [
-    "the secret, add emotion to verbs",
-    "stop fixing yourself mid-sentence",
-    "never argue, just agree once",
-    "this one habit makes progress fast",
-    "stop apologizing, say “te perdono”",
     "never say sorry, use “disculpa”",
     "this is why forgiveness feels lighter",
     "stop replaying fights, say “ya fue”",
@@ -21001,7 +20996,12 @@
     "your progress sounds amazing.",
     "wisdom: patience creates beauty.",
     "this simple phrase, your superpower.",
-    "your effort? it matters."
+    "your effort? it matters.",
+    "future you will thank you.",
+    "wisdom: breathe it in.",
+    "feel this rhythm, you're fluent.",
+    "surprise them with 'thank you'.",
+    "curiosity unlocked this word."
   ],
-  "last_updated": "2026-09-23T23:16:27.526045"
+  "last_updated": "2026-09-24T17:47:40.801770"
 }
