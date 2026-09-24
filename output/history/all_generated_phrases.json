@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never punish yourself, forgive today",
-      "spanish": "Nunca te castigues, perdona hoy",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-12T17:12:36.551774"
-    },
-    {
-      "english": "Stop waiting, say 'lo siento'",
-      "spanish": "Deja de esperar, di 'lo siento'",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-12T17:12:36.551784"
-    },
-    {
-      "english": "Never silence it, use 'gracias'",
-      "spanish": "No lo calles, usa 'gracias'",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-12T17:12:36.551794"
-    },
-    {
-      "english": "This phrase turns blame into peace",
-      "spanish": "Esta frase cambia culpa por paz",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-12T17:12:36.551804"
-    },
-    {
-      "english": "Stop guessing, trust this pause",
-      "spanish": "Deja de adivinar, confía en pausa",
-      "category": "Creativity",
-      "generated_at": "2026-05-12T18:56:29.091130"
-    },
-    {
       "english": "The secret... use one linking word",
       "spanish": "El secreto... usa una palabra puente",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "práctica diaria, grandes sueños.",
       "category": "Self Improvement",
       "generated_at": "2026-09-24T22:08:20.204728"
+    },
+    {
+      "english": "Listen, what is this?",
+      "spanish": "Escucha, ¿qué es esto?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-24T23:37:14.462978"
+    },
+    {
+      "english": "Surprise! Spanish for 'me too'.",
+      "spanish": "¡Sorpresa! 'Yo también' en español.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-24T23:37:14.463002"
+    },
+    {
+      "english": "Here's a small, huge word.",
+      "spanish": "Aquí una palabra pequeña, enorme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-24T23:37:14.463016"
+    },
+    {
+      "english": "Dare to say 'I want'.",
+      "spanish": "Atrévete a decir 'quiero'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-24T23:37:14.463029"
+    },
+    {
+      "english": "Feel this, instant connection.",
+      "spanish": "Siente esto, conexión instantánea.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-24T23:37:14.463044"
     }
   ],
   "used_english": [
-    "never punish yourself, forgive today",
-    "stop waiting, say 'lo siento'",
-    "never silence it, use 'gracias'",
-    "this phrase turns blame into peace",
-    "stop guessing, trust this pause",
     "the secret... use one linking word",
     "stop switching topics, finish your thought",
     "this phrase saves awkward moments fast",
@@ -21001,7 +20996,12 @@
     "wisdom: connection is speaking.",
     "surprise them, say 'please'.",
     "this simple word, your power.",
-    "daily practice, big dreams."
+    "daily practice, big dreams.",
+    "listen, what is this?",
+    "surprise! spanish for 'me too'.",
+    "here's a small, huge word.",
+    "dare to say 'i want'.",
+    "feel this, instant connection."
   ],
-  "last_updated": "2026-09-24T22:08:20.204730"
+  "last_updated": "2026-09-24T23:37:14.463045"
 }
