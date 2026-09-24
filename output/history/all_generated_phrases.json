@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret is, breathe, then answer",
-      "spanish": "El secreto es, respira, y responde",
-      "category": "Patience",
-      "generated_at": "2026-05-11T21:57:02.052183"
-    },
-    {
-      "english": "Never start with your best word",
-      "spanish": "Nunca empieces con tu mejor palabra",
-      "category": "Patience",
-      "generated_at": "2026-05-11T21:57:02.052194"
-    },
-    {
-      "english": "Stop translating, use the same word",
-      "spanish": "Deja de traducir, usa la misma palabra",
-      "category": "Patience",
-      "generated_at": "2026-05-11T21:57:02.052203"
-    },
-    {
-      "english": "The pause is your power, continue",
-      "spanish": "La pausa es tu poder, sigue",
-      "category": "Patience",
-      "generated_at": "2026-05-11T21:57:02.052213"
-    },
-    {
-      "english": "Stop holding that anger, say it",
-      "spanish": "Deja esa rabia, díselo",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-12T15:45:59.462996"
-    },
-    {
       "english": "Never burn bridges, use this",
       "spanish": "Nunca quiebres puentes, usa esto",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si 'sí' cambiara todo?",
       "category": "Joy",
       "generated_at": "2026-09-24T18:52:16.735269"
+    },
+    {
+      "english": "Curious? Say 'please' more.",
+      "spanish": "¿Curioso? Di más 'por favor'.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T20:17:27.142050"
+    },
+    {
+      "english": "Why wait? Speak this now.",
+      "spanish": "¿Por qué esperar? Di esto ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T20:17:27.142084"
+    },
+    {
+      "english": "This simple word brings warmth.",
+      "spanish": "Esta simple palabra trae calidez.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T20:17:27.142112"
+    },
+    {
+      "english": "Feel this magic? You're speaking.",
+      "spanish": "¿Sientes esta magia? Estás hablando.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T20:17:27.142139"
+    },
+    {
+      "english": "Surprise them with 'good morning'.",
+      "spanish": "Sorpréndelos con 'buenos días'.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T20:17:27.142186"
     }
   ],
   "used_english": [
-    "the secret is, breathe, then answer",
-    "never start with your best word",
-    "stop translating, use the same word",
-    "the pause is your power, continue",
-    "stop holding that anger, say it",
     "never burn bridges, use this",
     "the secret? forgive, then speak",
     "stop defending, start with 'te perdono'",
@@ -21001,7 +20996,12 @@
     "want confidence? say this.",
     "here’s your daily spark.",
     "why hesitate? just begin.",
-    "what if 'yes' changed everything?"
+    "what if 'yes' changed everything?",
+    "curious? say 'please' more.",
+    "why wait? speak this now.",
+    "this simple word brings warmth.",
+    "feel this magic? you're speaking.",
+    "surprise them with 'good morning'."
   ],
-  "last_updated": "2026-09-24T18:52:16.735271"
+  "last_updated": "2026-09-24T20:17:27.142189"
 }
