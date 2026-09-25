@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “maybe”, go certain",
-      "spanish": "Nunca digas “quizá”, di seguro",
-      "category": "Balance",
-      "generated_at": "2026-05-13T17:37:00.076228"
-    },
-    {
-      "english": "The secret? Ask with “por qué”",
-      "spanish": "El secreto, pregunta con “por qué”",
-      "category": "Balance",
-      "generated_at": "2026-05-13T17:37:00.076239"
-    },
-    {
-      "english": "What nobody tells you: rhythm",
-      "spanish": "Lo que nadie dice, es el ritmo",
-      "category": "Balance",
-      "generated_at": "2026-05-13T17:37:00.076249"
-    },
-    {
-      "english": "Stop freezing, say one opinion",
-      "spanish": "Deja helarte, di una opinión",
-      "category": "Balance",
-      "generated_at": "2026-05-13T17:37:00.076258"
-    },
-    {
-      "english": "Stop saying “stress” in Spanish",
-      "spanish": "Deja “estrés”, di otra cosa",
-      "category": "Creativity",
-      "generated_at": "2026-05-13T18:57:26.837491"
-    },
-    {
       "english": "Never say “how” first, listen",
       "spanish": "Nunca digas “cómo”, escucha primero",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si 'sí' significara posibilidad?",
       "category": "Success",
       "generated_at": "2026-09-25T22:06:03.412518"
+    },
+    {
+      "english": "Why wait? Say 'hello'.",
+      "spanish": "¿Por qué esperar? Di 'hola'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-25T23:40:39.982131"
+    },
+    {
+      "english": "Feel the connection, speak now.",
+      "spanish": "Siente la conexión, habla.",
+      "category": "Happiness",
+      "generated_at": "2026-09-25T23:40:39.982168"
+    },
+    {
+      "english": "Future you, celebrating this.",
+      "spanish": "Tu futuro, celebrando esto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-25T23:40:39.982195"
+    },
+    {
+      "english": "Small progress, huge smile.",
+      "spanish": "Pequeño progreso, gran sonrisa.",
+      "category": "Happiness",
+      "generated_at": "2026-09-25T23:40:39.982221"
+    },
+    {
+      "english": "Wisdom: Kindness costs nothing.",
+      "spanish": "Sabiduría: Amabilidad no cuesta.",
+      "category": "Happiness",
+      "generated_at": "2026-09-25T23:40:39.982248"
     }
   ],
   "used_english": [
-    "never say “maybe”, go certain",
-    "the secret? ask with “por qué”",
-    "what nobody tells you: rhythm",
-    "stop freezing, say one opinion",
-    "stop saying “stress” in spanish",
     "never say “how” first, listen",
     "stop building sentences, start stories",
     "this tiny pause sells confidence",
@@ -21001,7 +20996,12 @@
     "dare to understand, listen.",
     "future you, smiling now.",
     "never stop listening, really.",
-    "what if 'yes' meant possibility?"
+    "what if 'yes' meant possibility?",
+    "why wait? say 'hello'.",
+    "feel the connection, speak now.",
+    "future you, celebrating this.",
+    "small progress, huge smile.",
+    "wisdom: kindness costs nothing."
   ],
-  "last_updated": "2026-09-25T22:06:03.412520"
+  "last_updated": "2026-09-25T23:40:39.982250"
 }
