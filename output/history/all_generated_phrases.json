@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear mistakes, start with “oye”",
-      "spanish": "No temas errores, empieza con “oye”",
-      "category": "Kindness",
-      "generated_at": "2026-05-12T20:43:17.824438"
-    },
-    {
-      "english": "This is why you sound kind, “perdón” softly",
-      "spanish": "Por eso suenas amable, “perdón” suave",
-      "category": "Kindness",
-      "generated_at": "2026-05-12T20:43:17.824448"
-    },
-    {
-      "english": "The secret, thank them first, “gracias”",
-      "spanish": "El secreto, agradéceles primero, “gracias”",
-      "category": "Kindness",
-      "generated_at": "2026-05-12T20:43:17.824458"
-    },
-    {
-      "english": "Never rush, smile, say “tranquilo” back",
-      "spanish": "No corras, sonríe, di “tranquilo” de vuelta",
-      "category": "Kindness",
-      "generated_at": "2026-05-12T20:43:17.824467"
-    },
-    {
-      "english": "Stop chasing happiness, choose one now",
-      "spanish": "Deja de perseguir la felicidad, elige una ahora",
-      "category": "Happiness",
-      "generated_at": "2026-05-12T22:02:36.600778"
-    },
-    {
       "english": "Don’t fear silence, add a pause",
       "spanish": "No temas el silencio, agrega pausa",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Cree esto: entiendes.",
       "category": "Strength",
       "generated_at": "2026-09-25T17:49:36.170097"
+    },
+    {
+      "english": "Future you needs this.",
+      "spanish": "Tu futuro te necesita esto.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T19:09:14.177456"
+    },
+    {
+      "english": "This one word? Magic.",
+      "spanish": "¿Una palabra? Magia.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T19:09:14.177490"
+    },
+    {
+      "english": "Wisdom: Listen more.",
+      "spanish": "Sabiduría: Escucha más.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T19:09:14.177510"
+    },
+    {
+      "english": "Your voice, their world.",
+      "spanish": "Tu voz, su mundo.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T19:09:14.177531"
+    },
+    {
+      "english": "Curious? Learn 'today'.",
+      "spanish": "¿Curioso? Aprende 'hoy'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T19:09:14.177552"
     }
   ],
   "used_english": [
-    "never fear mistakes, start with “oye”",
-    "this is why you sound kind, “perdón” softly",
-    "the secret, thank them first, “gracias”",
-    "never rush, smile, say “tranquilo” back",
-    "stop chasing happiness, choose one now",
     "don’t fear silence, add a pause",
     "this one habit lifts your mood",
     "stop overthinking, just say “te entiendo”",
@@ -21001,7 +20996,12 @@
     "this sound means 'i'm listening'.",
     "curious? try this new word.",
     "your voice adds value, always.",
-    "believe this: you understand."
+    "believe this: you understand.",
+    "future you needs this.",
+    "this one word? magic.",
+    "wisdom: listen more.",
+    "your voice, their world.",
+    "curious? learn 'today'."
   ],
-  "last_updated": "2026-09-25T17:49:36.170099"
+  "last_updated": "2026-09-25T19:09:14.177554"
 }
