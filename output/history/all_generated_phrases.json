@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, repeat one sentence daily",
-      "spanish": "El secreto, repite una frase diaria",
-      "category": "Wisdom",
-      "generated_at": "2026-05-13T15:52:28.055467"
-    },
-    {
-      "english": "Stop switching verbs, use one",
-      "spanish": "No cambies verbos, usa uno",
-      "category": "Wisdom",
-      "generated_at": "2026-05-13T15:52:28.055477"
-    },
-    {
-      "english": "Never say “how are you” too soon",
-      "spanish": "Nunca digas “¿cómo estás?” tan pronto",
-      "category": "Wisdom",
-      "generated_at": "2026-05-13T15:52:28.055488"
-    },
-    {
-      "english": "This phrase gets you invited faster",
-      "spanish": "Esta frase, te invitan más rápido",
-      "category": "Wisdom",
-      "generated_at": "2026-05-13T15:52:28.055498"
-    },
-    {
-      "english": "Stop translating, describe the vibe",
-      "spanish": "Deja traducir, describe el ambiente",
-      "category": "Balance",
-      "generated_at": "2026-05-13T17:37:00.076210"
-    },
-    {
       "english": "Never say “maybe”, go certain",
       "spanish": "Nunca digas “quizá”, di seguro",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu voz interior habla ahora.",
       "category": "Mindfulness",
       "generated_at": "2026-09-25T20:17:10.817036"
+    },
+    {
+      "english": "Curious? This means 'wait'.",
+      "spanish": "¿Curioso? Esto significa 'espera'.",
+      "category": "Success",
+      "generated_at": "2026-09-25T22:06:03.412403"
+    },
+    {
+      "english": "Dare to understand, listen.",
+      "spanish": "Atrévete a entender, escucha.",
+      "category": "Success",
+      "generated_at": "2026-09-25T22:06:03.412438"
+    },
+    {
+      "english": "Future you, smiling now.",
+      "spanish": "Futuro tú, sonriendo ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-25T22:06:03.412464"
+    },
+    {
+      "english": "Never stop listening, really.",
+      "spanish": "Nunca dejes de escuchar, de verdad.",
+      "category": "Success",
+      "generated_at": "2026-09-25T22:06:03.412490"
+    },
+    {
+      "english": "What if 'yes' meant possibility?",
+      "spanish": "¿Y si 'sí' significara posibilidad?",
+      "category": "Success",
+      "generated_at": "2026-09-25T22:06:03.412518"
     }
   ],
   "used_english": [
-    "the secret, repeat one sentence daily",
-    "stop switching verbs, use one",
-    "never say “how are you” too soon",
-    "this phrase gets you invited faster",
-    "stop translating, describe the vibe",
     "never say “maybe”, go certain",
     "the secret? ask with “por qué”",
     "what nobody tells you: rhythm",
@@ -21001,7 +20996,12 @@
     "one sound, total connection.",
     "dare to pause, you'll hear.",
     "curious? 'hold on' means this.",
-    "your inner voice speaks now."
+    "your inner voice speaks now.",
+    "curious? this means 'wait'.",
+    "dare to understand, listen.",
+    "future you, smiling now.",
+    "never stop listening, really.",
+    "what if 'yes' meant possibility?"
   ],
-  "last_updated": "2026-09-25T20:17:10.817038"
+  "last_updated": "2026-09-25T22:06:03.412520"
 }
