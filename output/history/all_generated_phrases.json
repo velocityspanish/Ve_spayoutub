@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Don’t fear silence, add a pause",
-      "spanish": "No temas el silencio, agrega pausa",
-      "category": "Happiness",
-      "generated_at": "2026-05-12T22:02:36.600799"
-    },
-    {
-      "english": "This one habit lifts your mood",
-      "spanish": "Este hábito sube tu ánimo",
-      "category": "Happiness",
-      "generated_at": "2026-05-12T22:02:36.600810"
-    },
-    {
-      "english": "Stop overthinking, just say “te entiendo”",
-      "spanish": "Deja de sobrepensar, di “te entiendo”",
-      "category": "Happiness",
-      "generated_at": "2026-05-12T22:02:36.600819"
-    },
-    {
-      "english": "Never be heavy, use “qué bueno”",
-      "spanish": "No seas pesado, usa “qué bueno”",
-      "category": "Happiness",
-      "generated_at": "2026-05-12T22:02:36.600829"
-    },
-    {
-      "english": "Never perfect, aim for “good enough”",
-      "spanish": "Nunca perfecto, apunta “suficiente”",
-      "category": "Wisdom",
-      "generated_at": "2026-05-13T15:52:28.055450"
-    },
-    {
       "english": "The secret, repeat one sentence daily",
       "spanish": "El secreto, repite una frase diaria",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? Aprende 'hoy'.",
       "category": "Positive Life",
       "generated_at": "2026-09-25T19:09:14.177552"
+    },
+    {
+      "english": "Future you is listening.",
+      "spanish": "Tu futuro te escucha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T20:17:10.816941"
+    },
+    {
+      "english": "One sound, total connection.",
+      "spanish": "Un sonido, conexión total.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T20:17:10.816973"
+    },
+    {
+      "english": "Dare to pause, you'll hear.",
+      "spanish": "Atrévete a pausar, oirás.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T20:17:10.816995"
+    },
+    {
+      "english": "Curious? 'Hold on' means this.",
+      "spanish": "¿Curioso? 'Espera' significa esto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T20:17:10.817016"
+    },
+    {
+      "english": "Your inner voice speaks now.",
+      "spanish": "Tu voz interior habla ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T20:17:10.817036"
     }
   ],
   "used_english": [
-    "don’t fear silence, add a pause",
-    "this one habit lifts your mood",
-    "stop overthinking, just say “te entiendo”",
-    "never be heavy, use “qué bueno”",
-    "never perfect, aim for “good enough”",
     "the secret, repeat one sentence daily",
     "stop switching verbs, use one",
     "never say “how are you” too soon",
@@ -21001,7 +20996,12 @@
     "this one word? magic.",
     "wisdom: listen more.",
     "your voice, their world.",
-    "curious? learn 'today'."
+    "curious? learn 'today'.",
+    "future you is listening.",
+    "one sound, total connection.",
+    "dare to pause, you'll hear.",
+    "curious? 'hold on' means this.",
+    "your inner voice speaks now."
   ],
-  "last_updated": "2026-09-25T19:09:14.177554"
+  "last_updated": "2026-09-25T20:17:10.817038"
 }
