@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, use smaller sentences",
-      "spanish": "El secreto, usa frases cortas",
-      "category": "Patience",
-      "generated_at": "2026-05-13T22:04:14.629314"
-    },
-    {
-      "english": "This changes your patience instantly",
-      "spanish": "Esto cambia tu paciencia, ya",
-      "category": "Patience",
-      "generated_at": "2026-05-13T22:04:14.629325"
-    },
-    {
-      "english": "Never overreact, slow your rhythm",
-      "spanish": "Nunca te alteres, baja el ritmo",
-      "category": "Patience",
-      "generated_at": "2026-05-13T22:04:14.629335"
-    },
-    {
-      "english": "Stop quitting, finish the thought",
-      "spanish": "No te rindas, termina la idea",
-      "category": "Patience",
-      "generated_at": "2026-05-13T22:04:14.629345"
-    },
-    {
-      "english": "Stop clenching, say “estoy bien”",
-      "spanish": "Deja de apretar, di “estoy bien”",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T15:22:36.323650"
-    },
-    {
       "english": "Never hide your smile, say “sonríe”",
       "spanish": "Nunca escondas tu sonrisa, di “sonríe”",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu mirada, mi idioma favorito.",
       "category": "Love",
       "generated_at": "2026-09-26T18:23:29.617218"
+    },
+    {
+      "english": "This tiny word, big magic.",
+      "spanish": "Esta palabra pequeña, gran magia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:32:47.112015"
+    },
+    {
+      "english": "Curious? What does 'hold on' mean?",
+      "spanish": "¿Curioso? ¿Qué significa 'aguanta'?",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:32:47.112050"
+    },
+    {
+      "english": "Dare to understand. Listen deeply.",
+      "spanish": "Atrévete a entender. Escucha atentamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:32:47.112077"
+    },
+    {
+      "english": "Small steps, big progress. Trust.",
+      "spanish": "Pasos pequeños, gran progreso. Confía.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:32:47.112104"
+    },
+    {
+      "english": "Why wait? Say 'hello' first.",
+      "spanish": "¿Por qué esperar? Di 'hola' primero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:32:47.112130"
     }
   ],
   "used_english": [
-    "the secret, use smaller sentences",
-    "this changes your patience instantly",
-    "never overreact, slow your rhythm",
-    "stop quitting, finish the thought",
-    "stop clenching, say “estoy bien”",
     "never hide your smile, say “sonríe”",
     "this is why your day brightens",
     "what nobody tells you, breathe, luego",
@@ -21001,7 +20996,12 @@
     "curious? 'i love you' sounds like this.",
     "whispers can build bridges, you know?",
     "feel this spark? that's connection.",
-    "your gaze is my favorite language."
+    "your gaze is my favorite language.",
+    "this tiny word, big magic.",
+    "curious? what does 'hold on' mean?",
+    "dare to understand. listen deeply.",
+    "small steps, big progress. trust.",
+    "why wait? say 'hello' first."
   ],
-  "last_updated": "2026-09-26T18:23:29.617220"
+  "last_updated": "2026-09-26T19:32:47.112132"
 }
