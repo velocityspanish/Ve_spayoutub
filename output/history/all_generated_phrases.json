@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, use the magic “también”",
-      "spanish": "Para, usa el mágico “también”",
-      "category": "Love",
-      "generated_at": "2026-05-13T20:48:21.500002"
-    },
-    {
-      "english": "Never start with silence, jump in",
-      "spanish": "Nunca empieces con silencio, entra",
-      "category": "Love",
-      "generated_at": "2026-05-13T20:48:21.500013"
-    },
-    {
-      "english": "Stop asking, start offering help",
-      "spanish": "Para, ofrece ayuda primero",
-      "category": "Love",
-      "generated_at": "2026-05-13T20:48:21.500044"
-    },
-    {
-      "english": "This phrase makes “yes” feel natural",
-      "spanish": "Esta frase hace “sí” natural",
-      "category": "Love",
-      "generated_at": "2026-05-13T20:48:21.500061"
-    },
-    {
-      "english": "Never guess, repeat what you heard",
-      "spanish": "Nunca adivines, repite lo que oíste",
-      "category": "Patience",
-      "generated_at": "2026-05-13T22:04:14.629293"
-    },
-    {
       "english": "The secret, use smaller sentences",
       "spanish": "El secreto, usa frases cortas",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Desbloquea tu voz. Escucha.",
       "category": "Courage",
       "generated_at": "2026-09-26T16:55:19.402831"
+    },
+    {
+      "english": "A silent look, your whole story.",
+      "spanish": "Una mirada callada, tu historia.",
+      "category": "Love",
+      "generated_at": "2026-09-26T18:23:29.617102"
+    },
+    {
+      "english": "Curious? 'I love you' sounds like this.",
+      "spanish": "¿Curioso? 'Te amo' suena así.",
+      "category": "Love",
+      "generated_at": "2026-09-26T18:23:29.617138"
+    },
+    {
+      "english": "Whispers can build bridges, you know?",
+      "spanish": "Los susurros construyen puentes, ¿sabes?",
+      "category": "Love",
+      "generated_at": "2026-09-26T18:23:29.617164"
+    },
+    {
+      "english": "Feel this spark? That's connection.",
+      "spanish": "¿Sientes esta chispa? Es conexión.",
+      "category": "Love",
+      "generated_at": "2026-09-26T18:23:29.617191"
+    },
+    {
+      "english": "Your gaze is my favorite language.",
+      "spanish": "Tu mirada, mi idioma favorito.",
+      "category": "Love",
+      "generated_at": "2026-09-26T18:23:29.617218"
     }
   ],
   "used_english": [
-    "stop, use the magic “también”",
-    "never start with silence, jump in",
-    "stop asking, start offering help",
-    "this phrase makes “yes” feel natural",
-    "never guess, repeat what you heard",
     "the secret, use smaller sentences",
     "this changes your patience instantly",
     "never overreact, slow your rhythm",
@@ -21001,7 +20996,12 @@
     "momentum is building. go!",
     "small steps, giant leap.",
     "curious? 'how are you?'",
-    "unlock your voice. listen."
+    "unlock your voice. listen.",
+    "a silent look, your whole story.",
+    "curious? 'i love you' sounds like this.",
+    "whispers can build bridges, you know?",
+    "feel this spark? that's connection.",
+    "your gaze is my favorite language."
   ],
-  "last_updated": "2026-09-26T16:55:19.402833"
+  "last_updated": "2026-09-26T18:23:29.617220"
 }
