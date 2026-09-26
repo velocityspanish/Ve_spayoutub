@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never hide your smile, say “sonríe”",
-      "spanish": "Nunca escondas tu sonrisa, di “sonríe”",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T15:22:36.323673"
-    },
-    {
-      "english": "This is why your day brightens",
-      "spanish": "Por eso tu día se ilumina",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T15:22:36.323684"
-    },
-    {
-      "english": "What nobody tells you, breathe, luego",
-      "spanish": "Lo que nadie te dice, respira, luego",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T15:22:36.323694"
-    },
-    {
-      "english": "The secret feeling? “Me alegro” now",
-      "spanish": "El secreto, “me alegro”, ahora",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T15:22:36.323705"
-    },
-    {
-      "english": "Stop sounding polite, say this",
-      "spanish": "Deja sonar educado, di esto",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:02:35.277136"
-    },
-    {
       "english": "Never say 'I don't know' again",
       "spanish": "Nunca digas 'no sé' así",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué esperar? Di 'hola' primero.",
       "category": "Creativity",
       "generated_at": "2026-09-26T19:32:47.112130"
+    },
+    {
+      "english": "This simple word, true peace.",
+      "spanish": "Esta simple palabra, paz real.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-26T21:55:00.101710"
+    },
+    {
+      "english": "Your heart needs freedom.",
+      "spanish": "Tu corazón necesita libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-26T21:55:00.101741"
+    },
+    {
+      "english": "Letting go feels so good.",
+      "spanish": "Soltar se siente tan bien.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-26T21:55:00.101762"
+    },
+    {
+      "english": "Wisdom: Forgive, you bloom.",
+      "spanish": "Sabiduría: Perdona, floreces.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-26T21:55:00.101783"
+    },
+    {
+      "english": "Surprise them, forgive them.",
+      "spanish": "Sorpréndelos, perdónalos.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-26T21:55:00.101804"
     }
   ],
   "used_english": [
-    "never hide your smile, say “sonríe”",
-    "this is why your day brightens",
-    "what nobody tells you, breathe, luego",
-    "the secret feeling? “me alegro” now",
-    "stop sounding polite, say this",
     "never say 'i don't know' again",
     "the secret... use fewer words",
     "never explain, just show agreement",
@@ -21001,7 +20996,12 @@
     "curious? what does 'hold on' mean?",
     "dare to understand. listen deeply.",
     "small steps, big progress. trust.",
-    "why wait? say 'hello' first."
+    "why wait? say 'hello' first.",
+    "this simple word, true peace.",
+    "your heart needs freedom.",
+    "letting go feels so good.",
+    "wisdom: forgive, you bloom.",
+    "surprise them, forgive them."
   ],
-  "last_updated": "2026-09-26T19:32:47.112132"
+  "last_updated": "2026-09-26T21:55:00.101806"
 }
