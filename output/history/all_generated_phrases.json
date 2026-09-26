@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'I don't know' again",
-      "spanish": "Nunca digas 'no sé' así",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:02:35.277154"
-    },
-    {
-      "english": "The secret... use fewer words",
-      "spanish": "El secreto... usa menos palabras",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:02:35.277164"
-    },
-    {
-      "english": "Never explain, just show agreement",
-      "spanish": "Nunca expliques, solo di que sí",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:02:35.277174"
-    },
-    {
-      "english": "This is how you sound natural",
-      "spanish": "Así suenas, súper natural",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:02:35.277184"
-    },
-    {
-      "english": "Stop chasing, say “te extraño”",
-      "spanish": "Deja de buscar, di “te extraño”",
-      "category": "Love",
-      "generated_at": "2026-05-14T18:54:42.106331"
-    },
-    {
       "english": "Never hide it, say “me enamoré”",
       "spanish": "Nunca lo escondas, di “me enamoré”",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpréndelos, perdónalos.",
       "category": "Forgiveness",
       "generated_at": "2026-09-26T21:55:00.101804"
+    },
+    {
+      "english": "Still stuck? Try this phrase.",
+      "spanish": "¿Todavía atascado? Prueba esta frase.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-26T23:13:54.388026"
+    },
+    {
+      "english": "Your mistakes? They're lessons.",
+      "spanish": "Tus errores? Son lecciones.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-26T23:13:54.388063"
+    },
+    {
+      "english": "Dare to speak, imperfectly.",
+      "spanish": "Atrévete a hablar, imperfectamente.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-26T23:13:54.388118"
+    },
+    {
+      "english": "One more try. You can.",
+      "spanish": "Un intento más. Puedes.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-26T23:13:54.388145"
+    },
+    {
+      "english": "This habit builds Spanish power.",
+      "spanish": "Este hábito construye poder en español.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-26T23:13:54.388173"
     }
   ],
   "used_english": [
-    "never say 'i don't know' again",
-    "the secret... use fewer words",
-    "never explain, just show agreement",
-    "this is how you sound natural",
-    "stop chasing, say “te extraño”",
     "never hide it, say “me enamoré”",
     "this is why love feels safe",
     "the secret? tell the truth gently",
@@ -21001,7 +20996,12 @@
     "your heart needs freedom.",
     "letting go feels so good.",
     "wisdom: forgive, you bloom.",
-    "surprise them, forgive them."
+    "surprise them, forgive them.",
+    "still stuck? try this phrase.",
+    "your mistakes? they're lessons.",
+    "dare to speak, imperfectly.",
+    "one more try. you can.",
+    "this habit builds spanish power."
   ],
-  "last_updated": "2026-09-26T21:55:00.101806"
+  "last_updated": "2026-09-26T23:13:54.388175"
 }
