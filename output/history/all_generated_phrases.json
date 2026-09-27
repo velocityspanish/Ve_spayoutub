@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... answer slower, smile",
-      "spanish": "El secreto… responde más lento, sonríe",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:59.430946"
-    },
-    {
-      "english": "Never explain, just repeat part",
-      "spanish": "No expliques, repite solo una parte",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:59.430957"
-    },
-    {
-      "english": "Stop memorizing, use it today",
-      "spanish": "Deja de memorizar, úsalo hoy",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:59.430967"
-    },
-    {
-      "english": "Stop searching, respond with one",
-      "spanish": "Deja de buscar, responde con uno",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:59.430978"
-    },
-    {
-      "english": "Stop memorizing, start remixing today",
-      "spanish": "Deja memorizar, empieza a remixar hoy",
-      "category": "Growth",
-      "generated_at": "2026-05-29T18:13:14.622416"
-    },
-    {
       "english": "The secret? Use real questions, now",
       "spanish": "El secreto, usa preguntas reales, ya",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "El mundo necesita tu bondad.",
       "category": "Kindness",
       "generated_at": "2026-09-27T21:55:35.726366"
+    },
+    {
+      "english": "Why this word? Instant warmth.",
+      "spanish": "¿Por qué esta palabra? Calor instantáneo.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T23:27:37.456900"
+    },
+    {
+      "english": "Surprise! Spanish 'you' matters.",
+      "spanish": "¡Sorpresa! El 'tú' español importa.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T23:27:37.456936"
+    },
+    {
+      "english": "Dare to listen, hear everything.",
+      "spanish": "Atrévete a escuchar, oye todo.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T23:27:37.456963"
+    },
+    {
+      "english": "Momentum is building, keep going.",
+      "spanish": "El impulso está creciendo, sigue.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T23:27:37.456990"
+    },
+    {
+      "english": "Future you? So proud.",
+      "spanish": "¿Tu yo futuro? Muy orgulloso.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T23:27:37.457014"
     }
   ],
   "used_english": [
-    "the secret... answer slower, smile",
-    "never explain, just repeat part",
-    "stop memorizing, use it today",
-    "stop searching, respond with one",
-    "stop memorizing, start remixing today",
     "the secret? use real questions, now",
     "stop hunting words, steal phrases",
     "this one pause sounds powerful, try",
@@ -21001,7 +20996,12 @@
     "why not spread kindness today?",
     "this simple word means 'friend'.",
     "feel this warmth? that's 'gracias'.",
-    "the world needs your kindness."
+    "the world needs your kindness.",
+    "why this word? instant warmth.",
+    "surprise! spanish 'you' matters.",
+    "dare to listen, hear everything.",
+    "momentum is building, keep going.",
+    "future you? so proud."
   ],
-  "last_updated": "2026-09-27T21:55:35.726368"
+  "last_updated": "2026-09-27T23:27:37.457016"
 }
