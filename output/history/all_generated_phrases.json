@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your confidence grows, one sentence",
-      "spanish": "Tu confianza crece, una frase",
-      "category": "Balance",
-      "generated_at": "2026-05-29T05:51:09.652447"
-    },
-    {
-      "english": "This tiny word saves conversations",
-      "spanish": "Esta palabra salva conversaciones",
-      "category": "Balance",
-      "generated_at": "2026-05-29T05:51:09.652459"
-    },
-    {
-      "english": "Stop sounding tense, use 'tranquilo'",
-      "spanish": "Deja sonar tenso, di 'tranquilo'",
-      "category": "Balance",
-      "generated_at": "2026-05-29T05:51:09.652469"
-    },
-    {
-      "english": "Never quit mid-idea, finish",
-      "spanish": "No te rindas a medias, termina",
-      "category": "Balance",
-      "generated_at": "2026-05-29T05:51:09.652479"
-    },
-    {
-      "english": "Stop listing, say one feeling",
-      "spanish": "Para de listar, di un sentimiento",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:59.430929"
-    },
-    {
       "english": "The secret... answer slower, smile",
       "spanish": "El secreto… responde más lento, sonríe",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Sistema de apoyo desbloqueado: 'Apoyo'.",
       "category": "Friendship",
       "generated_at": "2026-09-27T19:58:23.954790"
+    },
+    {
+      "english": "Small gestures, big hearts.",
+      "spanish": "Pequeños gestos, grandes corazones.",
+      "category": "Kindness",
+      "generated_at": "2026-09-27T21:55:35.726248"
+    },
+    {
+      "english": "Why not spread kindness today?",
+      "spanish": "¿Por qué no esparcir bondad hoy?",
+      "category": "Kindness",
+      "generated_at": "2026-09-27T21:55:35.726285"
+    },
+    {
+      "english": "This simple word means 'friend'.",
+      "spanish": "Esta palabra simple significa 'amigo'.",
+      "category": "Kindness",
+      "generated_at": "2026-09-27T21:55:35.726313"
+    },
+    {
+      "english": "Feel this warmth? That's 'gracias'.",
+      "spanish": "¿Sientes este calor? Es 'gracias'.",
+      "category": "Kindness",
+      "generated_at": "2026-09-27T21:55:35.726339"
+    },
+    {
+      "english": "The world needs your kindness.",
+      "spanish": "El mundo necesita tu bondad.",
+      "category": "Kindness",
+      "generated_at": "2026-09-27T21:55:35.726366"
     }
   ],
   "used_english": [
-    "your confidence grows, one sentence",
-    "this tiny word saves conversations",
-    "stop sounding tense, use 'tranquilo'",
-    "never quit mid-idea, finish",
-    "stop listing, say one feeling",
     "the secret... answer slower, smile",
     "never explain, just repeat part",
     "stop memorizing, use it today",
@@ -21001,7 +20996,12 @@
     "connect deeper. say 'amigo'.",
     "your circle grows. 'colega' is key.",
     "together is better. always, 'juntos'.",
-    "support system unlocked: 'apoyo'."
+    "support system unlocked: 'apoyo'.",
+    "small gestures, big hearts.",
+    "why not spread kindness today?",
+    "this simple word means 'friend'.",
+    "feel this warmth? that's 'gracias'.",
+    "the world needs your kindness."
   ],
-  "last_updated": "2026-09-27T19:58:23.954793"
+  "last_updated": "2026-09-27T21:55:35.726368"
 }
