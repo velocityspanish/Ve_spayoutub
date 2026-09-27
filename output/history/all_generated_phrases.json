@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'no way', say 'ni hablar'",
-      "spanish": "Nunca digas 'no way', di 'ni hablar'",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T21:59:22.901423"
-    },
-    {
-      "english": "The secret? Keep it simple, please",
-      "spanish": "El secreto, simple y listo, porfa",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T21:59:22.901433"
-    },
-    {
-      "english": "Never translate, say what you mean",
-      "spanish": "No traduzcas, di lo que quieres decir",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T21:59:22.901443"
-    },
-    {
-      "english": "This one word makes you sound native",
-      "spanish": "Una palabra, suenas nativo",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T21:59:22.901453"
-    },
-    {
-      "english": "Stop trying perfect, sound friendly",
-      "spanish": "No busques perfecto, suena amable",
-      "category": "Balance",
-      "generated_at": "2026-05-29T05:51:09.652426"
-    },
-    {
       "english": "Your confidence grows, one sentence",
       "spanish": "Tu confianza crece, una frase",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Aquí está tu victoria diaria.",
       "category": "Wisdom",
       "generated_at": "2026-09-27T18:55:10.496685"
+    },
+    {
+      "english": "Friendship: A shared journey.",
+      "spanish": "Amistad: Un viaje compartido.",
+      "category": "Friendship",
+      "generated_at": "2026-09-27T19:58:23.954657"
+    },
+    {
+      "english": "Connect deeper. Say 'amigo'.",
+      "spanish": "Conecta más profundo. Di 'amigo'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-27T19:58:23.954710"
+    },
+    {
+      "english": "Your circle grows. 'Colega' is key.",
+      "spanish": "Tu círculo crece. 'Colega' es clave.",
+      "category": "Friendship",
+      "generated_at": "2026-09-27T19:58:23.954738"
+    },
+    {
+      "english": "Together is better. Always, 'juntos'.",
+      "spanish": "Juntos es mejor. Siempre, 'juntos'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-27T19:58:23.954764"
+    },
+    {
+      "english": "Support system unlocked: 'Apoyo'.",
+      "spanish": "Sistema de apoyo desbloqueado: 'Apoyo'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-27T19:58:23.954790"
     }
   ],
   "used_english": [
-    "never say 'no way', say 'ni hablar'",
-    "the secret? keep it simple, please",
-    "never translate, say what you mean",
-    "this one word makes you sound native",
-    "stop trying perfect, sound friendly",
     "your confidence grows, one sentence",
     "this tiny word saves conversations",
     "stop sounding tense, use 'tranquilo'",
@@ -21001,7 +20996,12 @@
     "this simple word warms hearts.",
     "dare to connect. say 'hi!'",
     "momentum builds. keep moving.",
-    "here's your daily win."
+    "here's your daily win.",
+    "friendship: a shared journey.",
+    "connect deeper. say 'amigo'.",
+    "your circle grows. 'colega' is key.",
+    "together is better. always, 'juntos'.",
+    "support system unlocked: 'apoyo'."
   ],
-  "last_updated": "2026-09-27T18:55:10.496687"
+  "last_updated": "2026-09-27T19:58:23.954793"
 }
