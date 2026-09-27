@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Speak in chunks, not sentences",
-      "spanish": "El secreto: di por partes, no frases",
-      "category": "Creativity",
-      "generated_at": "2026-05-14T20:28:22.274142"
-    },
-    {
-      "english": "Never explain, just add “anyway”",
-      "spanish": "No expliques, solo “de todas formas”",
-      "category": "Creativity",
-      "generated_at": "2026-05-14T20:28:22.274155"
-    },
-    {
-      "english": "This changes your Spanish in one week",
-      "spanish": "Así mejoras tu español en una semana",
-      "category": "Creativity",
-      "generated_at": "2026-05-14T20:28:22.274166"
-    },
-    {
-      "english": "Never say “maybe”, say “sure thing”",
-      "spanish": "No digas “quizá”, di “seguro”",
-      "category": "Creativity",
-      "generated_at": "2026-05-14T20:28:22.274177"
-    },
-    {
-      "english": "Stop saying 'really', say 'de verdad'",
-      "spanish": "Deja de decir 'really', di 'de verdad'",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T21:59:22.901406"
-    },
-    {
       "english": "Never say 'no way', say 'ni hablar'",
       "spanish": "Nunca digas 'no way', di 'ni hablar'",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente esto. Estás progresando.",
       "category": "Inspiration",
       "generated_at": "2026-09-27T17:35:31.339492"
+    },
+    {
+      "english": "Unlock fluency. Listen closely.",
+      "spanish": "Desbloquea fluidez. Escucha atento.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T18:55:10.496569"
+    },
+    {
+      "english": "This simple word warms hearts.",
+      "spanish": "Esta palabra simple calienta corazones.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T18:55:10.496607"
+    },
+    {
+      "english": "Dare to connect. Say 'Hi!'",
+      "spanish": "Atrévete a conectar. ¡Di '¡Hola!'",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T18:55:10.496633"
+    },
+    {
+      "english": "Momentum builds. Keep moving.",
+      "spanish": "El impulso se acumula. Sigue adelante.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T18:55:10.496660"
+    },
+    {
+      "english": "Here's your daily win.",
+      "spanish": "Aquí está tu victoria diaria.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-27T18:55:10.496685"
     }
   ],
   "used_english": [
-    "the secret? speak in chunks, not sentences",
-    "never explain, just add “anyway”",
-    "this changes your spanish in one week",
-    "never say “maybe”, say “sure thing”",
-    "stop saying 'really', say 'de verdad'",
     "never say 'no way', say 'ni hablar'",
     "the secret? keep it simple, please",
     "never translate, say what you mean",
@@ -21001,7 +20996,12 @@
     "this phrase unlocks kindness.",
     "curious? say 'what is this?'",
     "your voice matters here.",
-    "feel this. you are progressing."
+    "feel this. you are progressing.",
+    "unlock fluency. listen closely.",
+    "this simple word warms hearts.",
+    "dare to connect. say 'hi!'",
+    "momentum builds. keep moving.",
+    "here's your daily win."
   ],
-  "last_updated": "2026-09-27T17:35:31.339494"
+  "last_updated": "2026-09-27T18:55:10.496687"
 }
