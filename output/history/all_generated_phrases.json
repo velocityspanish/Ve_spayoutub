@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never hide it, say “me enamoré”",
-      "spanish": "Nunca lo escondas, di “me enamoré”",
-      "category": "Love",
-      "generated_at": "2026-05-14T18:54:42.106354"
-    },
-    {
-      "english": "This is why love feels safe",
-      "spanish": "Por eso el amor se siente seguro",
-      "category": "Love",
-      "generated_at": "2026-05-14T18:54:42.106364"
-    },
-    {
-      "english": "The secret? Tell the truth gently",
-      "spanish": "El secreto, di la verdad con cariño",
-      "category": "Love",
-      "generated_at": "2026-05-14T18:54:42.106375"
-    },
-    {
-      "english": "What nobody tells you, text tonight",
-      "spanish": "Lo que nadie dice, manda un mensaje hoy",
-      "category": "Love",
-      "generated_at": "2026-05-14T18:54:42.106385"
-    },
-    {
-      "english": "Stop translating, say it with feeling",
-      "spanish": "Deja de traducir, dilo con emoción",
-      "category": "Creativity",
-      "generated_at": "2026-05-14T20:28:22.274121"
-    },
-    {
       "english": "The secret? Speak in chunks, not sentences",
       "spanish": "El secreto: di por partes, no frases",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "Este hábito construye poder en español.",
       "category": "Perseverance",
       "generated_at": "2026-09-26T23:13:54.388173"
+    },
+    {
+      "english": "Mistakes? They're your best teachers.",
+      "spanish": "¿Errores? Son tus mejores maestros.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T17:35:31.339371"
+    },
+    {
+      "english": "This phrase unlocks kindness.",
+      "spanish": "Esta frase desbloquea amabilidad.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T17:35:31.339410"
+    },
+    {
+      "english": "Curious? Say 'What is this?'",
+      "spanish": "¿Curioso? Di '¿Qué es esto?'",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T17:35:31.339438"
+    },
+    {
+      "english": "Your voice matters here.",
+      "spanish": "Tu voz importa aquí.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T17:35:31.339464"
+    },
+    {
+      "english": "Feel this. You are progressing.",
+      "spanish": "Siente esto. Estás progresando.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T17:35:31.339492"
     }
   ],
   "used_english": [
-    "never hide it, say “me enamoré”",
-    "this is why love feels safe",
-    "the secret? tell the truth gently",
-    "what nobody tells you, text tonight",
-    "stop translating, say it with feeling",
     "the secret? speak in chunks, not sentences",
     "never explain, just add “anyway”",
     "this changes your spanish in one week",
@@ -21001,7 +20996,12 @@
     "your mistakes? they're lessons.",
     "dare to speak, imperfectly.",
     "one more try. you can.",
-    "this habit builds spanish power."
+    "this habit builds spanish power.",
+    "mistakes? they're your best teachers.",
+    "this phrase unlocks kindness.",
+    "curious? say 'what is this?'",
+    "your voice matters here.",
+    "feel this. you are progressing."
   ],
-  "last_updated": "2026-09-26T23:13:54.388175"
+  "last_updated": "2026-09-27T17:35:31.339494"
 }
