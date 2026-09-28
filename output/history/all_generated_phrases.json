@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... add a smile, siempre",
-      "spanish": "El secreto... pon una sonrisa, siempre",
-      "category": "Wisdom",
-      "generated_at": "2026-05-29T22:23:46.272364"
-    },
-    {
-      "english": "Never overthink, just say the vibe",
-      "spanish": "No pienses de más, solo di la vibra",
-      "category": "Wisdom",
-      "generated_at": "2026-05-29T22:23:46.272375"
-    },
-    {
-      "english": "Stop stopping, finish the sentence",
-      "spanish": "Deja de parar, termina la frase",
-      "category": "Wisdom",
-      "generated_at": "2026-05-29T22:23:46.272384"
-    },
-    {
-      "english": "Never joke too soon, start safely",
-      "spanish": "Nunca bromees tan pronto, empieza seguro",
-      "category": "Wisdom",
-      "generated_at": "2026-05-29T22:23:46.272395"
-    },
-    {
-      "english": "Never say “tomorrow”, say “now”",
-      "spanish": "Nunca digas “mañana”, di “ahora”",
-      "category": "Strength",
-      "generated_at": "2026-05-30T14:42:31.485291"
-    },
-    {
       "english": "The secret? Talk with one link",
       "spanish": "El secreto, habla con un enlace",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Impulso: Tu mente encuentra descanso.",
       "category": "Inner Peace",
       "generated_at": "2026-09-28T22:24:59.448862"
+    },
+    {
+      "english": "Unlock potential. Speak 'can'.",
+      "spanish": "Desbloquea potencial. Di 'puedo'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-28T23:46:31.778249"
+    },
+    {
+      "english": "Curious? 'Slowly' means 'poco a poco'.",
+      "spanish": "¿Curioso? 'Lento' es 'poco a poco'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-28T23:46:31.778285"
+    },
+    {
+      "english": "Your vibe attracts friends.",
+      "spanish": "Tu vibra atrae amigos.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-28T23:46:31.778312"
+    },
+    {
+      "english": "Feel the progress? That's 'yes'.",
+      "spanish": "¿Sientes el progreso? Eso es 'sí'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-28T23:46:31.778340"
+    },
+    {
+      "english": "Surprise! 'Why?' is simple.",
+      "spanish": "¡Sorpresa! '¿Por qué?' es fácil.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-28T23:46:31.778367"
     }
   ],
   "used_english": [
-    "the secret... add a smile, siempre",
-    "never overthink, just say the vibe",
-    "stop stopping, finish the sentence",
-    "never joke too soon, start safely",
-    "never say “tomorrow”, say “now”",
     "the secret? talk with one link",
     "stop googling, answer immediately",
     "never fear, use this exact phrase",
@@ -21001,7 +20996,12 @@
     "your inner voice sings freedom.",
     "want calm? just breathe, say 'ya'.",
     "wisdom: true calm is within.",
-    "momentum: your mind finds rest."
+    "momentum: your mind finds rest.",
+    "unlock potential. speak 'can'.",
+    "curious? 'slowly' means 'poco a poco'.",
+    "your vibe attracts friends.",
+    "feel the progress? that's 'yes'.",
+    "surprise! 'why?' is simple."
   ],
-  "last_updated": "2026-09-28T22:24:59.448864"
+  "last_updated": "2026-09-28T23:46:31.778369"
 }
