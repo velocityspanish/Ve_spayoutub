@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why you’ll improve fast",
-      "spanish": "Por eso mejorarás muy rápido",
-      "category": "Hope",
-      "generated_at": "2026-05-29T21:10:23.922088"
-    },
-    {
-      "english": "The secret? Try, then adjust",
-      "spanish": "El secreto, prueba y ajusta",
-      "category": "Hope",
-      "generated_at": "2026-05-29T21:10:23.922099"
-    },
-    {
-      "english": "Never fear the quiet moments",
-      "spanish": "No tengas miedo al silencio",
-      "category": "Hope",
-      "generated_at": "2026-05-29T21:10:23.922109"
-    },
-    {
-      "english": "This one phrase calms you down",
-      "spanish": "Esta frase te calma de verdad",
-      "category": "Hope",
-      "generated_at": "2026-05-29T21:10:23.922119"
-    },
-    {
-      "english": "Never say “sorry” first, use this",
-      "spanish": "Nunca digas “perdón” primero, usa esto",
-      "category": "Wisdom",
-      "generated_at": "2026-05-29T22:23:46.272343"
-    },
-    {
       "english": "The secret... add a smile, siempre",
       "spanish": "El secreto... pon una sonrisa, siempre",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha profundo. Comprende más.",
       "category": "Kindness",
       "generated_at": "2026-09-28T21:05:54.615695"
+    },
+    {
+      "english": "Surprise, peace is a verb.",
+      "spanish": "Sorpresa, paz es un verbo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T22:24:59.448738"
+    },
+    {
+      "english": "Your inner voice sings freedom.",
+      "spanish": "Tu voz interior canta libertad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T22:24:59.448778"
+    },
+    {
+      "english": "Want calm? Just breathe, say 'ya'.",
+      "spanish": "¿Quieres calma? Solo respira, di 'ya'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T22:24:59.448807"
+    },
+    {
+      "english": "Wisdom: True calm is within.",
+      "spanish": "Sabiduría: La calma verdadera está dentro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T22:24:59.448834"
+    },
+    {
+      "english": "Momentum: Your mind finds rest.",
+      "spanish": "Impulso: Tu mente encuentra descanso.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T22:24:59.448862"
     }
   ],
   "used_english": [
-    "this is why you’ll improve fast",
-    "the secret? try, then adjust",
-    "never fear the quiet moments",
-    "this one phrase calms you down",
-    "never say “sorry” first, use this",
     "the secret... add a smile, siempre",
     "never overthink, just say the vibe",
     "stop stopping, finish the sentence",
@@ -21001,7 +20996,12 @@
     "feel this. you're progressing.",
     "one word can build bridges.",
     "why wait? spread warmth now.",
-    "listen deeply. understand more."
+    "listen deeply. understand more.",
+    "surprise, peace is a verb.",
+    "your inner voice sings freedom.",
+    "want calm? just breathe, say 'ya'.",
+    "wisdom: true calm is within.",
+    "momentum: your mind finds rest."
   ],
-  "last_updated": "2026-09-28T21:05:54.615697"
+  "last_updated": "2026-09-28T22:24:59.448864"
 }
