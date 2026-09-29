@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Speak slower than you think",
-      "spanish": "El secreto, habla más lento",
-      "category": "Confidence",
-      "generated_at": "2026-05-30T16:05:53.379685"
-    },
-    {
-      "english": "Stop translating, start describing right now",
-      "spanish": "Deja de traducir, describe ahora",
-      "category": "Confidence",
-      "generated_at": "2026-05-30T16:05:53.379695"
-    },
-    {
-      "english": "Never freeze, look, then answer",
-      "spanish": "Nunca te bloquees, mira y responde",
-      "category": "Confidence",
-      "generated_at": "2026-05-30T16:05:53.379705"
-    },
-    {
-      "english": "The secret? Learn one chunk, repeat",
-      "spanish": "El secreto, aprende una frase, repite",
-      "category": "Confidence",
-      "generated_at": "2026-05-30T16:05:53.379716"
-    },
-    {
-      "english": "Stop fighting, breathe, suéltalo",
-      "spanish": "Deja de pelear, respira, suéltalo",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T18:02:45.574748"
-    },
-    {
       "english": "Never chase calm, it chases you",
       "spanish": "Nunca persigas la calma, ella va",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu paciencia da grandes frutos.",
       "category": "Patience",
       "generated_at": "2026-09-29T00:42:02.438038"
+    },
+    {
+      "english": "Hesitant? Speak 'Claro!'",
+      "spanish": "Dudando? Di '¡Claro!'",
+      "category": "Courage",
+      "generated_at": "2026-09-29T18:29:47.742283"
+    },
+    {
+      "english": "This one word means 'Yes!'",
+      "spanish": "Esta palabra significa '¡Sí!'",
+      "category": "Courage",
+      "generated_at": "2026-09-29T18:29:47.742312"
+    },
+    {
+      "english": "Feeling lost? Say 'Aquí'.",
+      "spanish": "¿Te sientes perdido? Di 'Aquí'.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T18:29:47.742327"
+    },
+    {
+      "english": "Progress is not perfect.",
+      "spanish": "El progreso no es perfecto.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T18:29:47.742341"
+    },
+    {
+      "english": "Ready for anything? 'Listo!'",
+      "spanish": "¿Listo para todo? ¡'Listo!'",
+      "category": "Courage",
+      "generated_at": "2026-09-29T18:29:47.742367"
     }
   ],
   "used_english": [
-    "the secret? speak slower than you think",
-    "stop translating, start describing right now",
-    "never freeze, look, then answer",
-    "the secret? learn one chunk, repeat",
-    "stop fighting, breathe, suéltalo",
     "never chase calm, it chases you",
     "this is why you’re tense, escucha",
     "the secret? choose nhẹ, then act",
@@ -21001,7 +20996,12 @@
     "progress takes time, breathe.",
     "why rush? enjoy the journey.",
     "slowly is the new fast.",
-    "your patience yields big rewards."
+    "your patience yields big rewards.",
+    "hesitant? speak 'claro!'",
+    "this one word means 'yes!'",
+    "feeling lost? say 'aquí'.",
+    "progress is not perfect.",
+    "ready for anything? 'listo!'"
   ],
-  "last_updated": "2026-09-29T00:42:02.438040"
+  "last_updated": "2026-09-29T18:29:47.742369"
 }
