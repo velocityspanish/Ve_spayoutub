@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Talk with one link",
-      "spanish": "El secreto, habla con un enlace",
-      "category": "Strength",
-      "generated_at": "2026-05-30T14:42:31.485312"
-    },
-    {
-      "english": "Stop Googling, answer immediately",
-      "spanish": "Deja Googlear, responde ya",
-      "category": "Strength",
-      "generated_at": "2026-05-30T14:42:31.485338"
-    },
-    {
-      "english": "Never fear, use this exact phrase",
-      "spanish": "No temas, usa esta frase exacta",
-      "category": "Strength",
-      "generated_at": "2026-05-30T14:42:31.485348"
-    },
-    {
-      "english": "This phrase unlocks real conversations",
-      "spanish": "Esta frase abre conversaciones reales",
-      "category": "Strength",
-      "generated_at": "2026-05-30T14:42:31.485358"
-    },
-    {
-      "english": "Never overthink, just say one truth",
-      "spanish": "Nunca sobrepienses, solo di una verdad",
-      "category": "Confidence",
-      "generated_at": "2026-05-30T16:05:53.379668"
-    },
-    {
       "english": "The secret? Speak slower than you think",
       "spanish": "El secreto, habla más lento",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! '¿Por qué?' es fácil.",
       "category": "Positive Life",
       "generated_at": "2026-09-28T23:46:31.778367"
+    },
+    {
+      "english": "Wait for it...",
+      "spanish": "Espera...",
+      "category": "Patience",
+      "generated_at": "2026-09-29T00:42:02.437922"
+    },
+    {
+      "english": "Progress takes time, breathe.",
+      "spanish": "Progreso toma tiempo, respira.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T00:42:02.437959"
+    },
+    {
+      "english": "Why rush? enjoy the journey.",
+      "spanish": "¿Por qué apresurarse? Disfruta.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T00:42:02.437986"
+    },
+    {
+      "english": "Slowly is the new fast.",
+      "spanish": "Lentamente es lo nuevo rápido.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T00:42:02.438011"
+    },
+    {
+      "english": "Your patience yields big rewards.",
+      "spanish": "Tu paciencia da grandes frutos.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T00:42:02.438038"
     }
   ],
   "used_english": [
-    "the secret? talk with one link",
-    "stop googling, answer immediately",
-    "never fear, use this exact phrase",
-    "this phrase unlocks real conversations",
-    "never overthink, just say one truth",
     "the secret? speak slower than you think",
     "stop translating, start describing right now",
     "never freeze, look, then answer",
@@ -21001,7 +20996,12 @@
     "curious? 'slowly' means 'poco a poco'.",
     "your vibe attracts friends.",
     "feel the progress? that's 'yes'.",
-    "surprise! 'why?' is simple."
+    "surprise! 'why?' is simple.",
+    "wait for it...",
+    "progress takes time, breathe.",
+    "why rush? enjoy the journey.",
+    "slowly is the new fast.",
+    "your patience yields big rewards."
   ],
-  "last_updated": "2026-09-28T23:46:31.778369"
+  "last_updated": "2026-09-29T00:42:02.438040"
 }
