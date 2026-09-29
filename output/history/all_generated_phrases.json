@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... switch to action",
-      "spanish": "El secreto... pasa a actuar",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T20:11:43.880545"
-    },
-    {
-      "english": "Never fight feelings, name them",
-      "spanish": "No pelees con lo que sientes",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T20:11:43.880557"
-    },
-    {
-      "english": "This one phrase resets your mood",
-      "spanish": "Esta frase te reordena por dentro",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T20:11:43.880568"
-    },
-    {
-      "english": "Your calm starts with one word",
-      "spanish": "Tu calma empieza con una palabra",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T20:11:43.880579"
-    },
-    {
-      "english": "Stop begging, say what you need",
-      "spanish": "No ruegues, di lo que necesitas",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T21:49:06.661726"
-    },
-    {
       "english": "Never explain, just change the vibe",
       "spanish": "No expliques, cambia la vibra",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "No temas errores. Aprende 'errores'.",
       "category": "Courage",
       "generated_at": "2026-09-29T19:48:50.080916"
+    },
+    {
+      "english": "What if 'hello' opens worlds?",
+      "spanish": "¿Y si 'hola' abre mundos?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-29T21:17:02.519387"
+    },
+    {
+      "english": "This tiny word builds connection.",
+      "spanish": "Esta pequeña palabra une.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-29T21:17:02.519428"
+    },
+    {
+      "english": "Dare to be understood, truly.",
+      "spanish": "Atrévete a ser comprendido, de verdad.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-29T21:17:02.519457"
+    },
+    {
+      "english": "Surprise! 'Of course' is simple.",
+      "spanish": "¡Sorpresa! 'Claro que sí' es fácil.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-29T21:17:02.519486"
+    },
+    {
+      "english": "Listen: progress sounds like this.",
+      "spanish": "Escucha: el progreso suena así.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-29T21:17:02.519514"
     }
   ],
   "used_english": [
-    "the secret... switch to action",
-    "never fight feelings, name them",
-    "this one phrase resets your mood",
-    "your calm starts with one word",
-    "stop begging, say what you need",
     "never explain, just change the vibe",
     "the secret? use one soft filler",
     "stop spiraling, name one emotion",
@@ -21001,7 +20996,12 @@
     "what if 'go for it' means this?",
     "this simple word builds bravery.",
     "embrace discomfort. feel alive.",
-    "don't fear mistakes. learn 'errores'."
+    "don't fear mistakes. learn 'errores'.",
+    "what if 'hello' opens worlds?",
+    "this tiny word builds connection.",
+    "dare to be understood, truly.",
+    "surprise! 'of course' is simple.",
+    "listen: progress sounds like this."
   ],
-  "last_updated": "2026-09-29T19:48:50.080918"
+  "last_updated": "2026-09-29T21:17:02.519516"
 }
