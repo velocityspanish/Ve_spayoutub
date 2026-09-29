@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never explain, just change the vibe",
-      "spanish": "No expliques, cambia la vibra",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T21:49:06.661749"
-    },
-    {
-      "english": "The secret? Use one soft filler",
-      "spanish": "El secreto, usa un suavizador",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T21:49:06.661760"
-    },
-    {
-      "english": "Stop spiraling, name one emotion",
-      "spanish": "Deja el espiral, di una emoción",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T21:49:06.661771"
-    },
-    {
-      "english": "This one breath fixes everything",
-      "spanish": "Una respiración lo arregla todo",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T21:49:06.661781"
-    },
-    {
-      "english": "Stop saying 'good'—say this",
-      "spanish": "Deja de decir “bueno”—di esto",
-      "category": "Success",
-      "generated_at": "2026-05-31T14:48:18.058475"
-    },
-    {
       "english": "Never rush, slow down your 'tú'",
       "spanish": "Nunca corras, baja tu “tú”",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha: el progreso suena así.",
       "category": "Inspiration",
       "generated_at": "2026-09-29T21:17:02.519514"
+    },
+    {
+      "english": "Want real connection? Listen.",
+      "spanish": "¡Conexión real! Escucha.",
+      "category": "Friendship",
+      "generated_at": "2026-09-29T22:52:50.852010"
+    },
+    {
+      "english": "Surprise! 'Slowly' is powerful.",
+      "spanish": "¡Sorpresa! 'Despacio' es poder.",
+      "category": "Friendship",
+      "generated_at": "2026-09-29T22:52:50.852045"
+    },
+    {
+      "english": "Your mistakes are lessons.",
+      "spanish": "Tus errores son lecciones.",
+      "category": "Friendship",
+      "generated_at": "2026-09-29T22:52:50.852072"
+    },
+    {
+      "english": "Feel this? That's connection.",
+      "spanish": "¿Sientes esto? Es conexión.",
+      "category": "Friendship",
+      "generated_at": "2026-09-29T22:52:50.852099"
+    },
+    {
+      "english": "Momentum builds. Go!",
+      "spanish": "El impulso crece. ¡Vamos!",
+      "category": "Friendship",
+      "generated_at": "2026-09-29T22:52:50.852123"
     }
   ],
   "used_english": [
-    "never explain, just change the vibe",
-    "the secret? use one soft filler",
-    "stop spiraling, name one emotion",
-    "this one breath fixes everything",
-    "stop saying 'good'—say this",
     "never rush, slow down your 'tú'",
     "the secret? say it confidently once",
     "stop memorizing, practice with one question",
@@ -21001,7 +20996,12 @@
     "this tiny word builds connection.",
     "dare to be understood, truly.",
     "surprise! 'of course' is simple.",
-    "listen: progress sounds like this."
+    "listen: progress sounds like this.",
+    "want real connection? listen.",
+    "surprise! 'slowly' is powerful.",
+    "your mistakes are lessons.",
+    "feel this? that's connection.",
+    "momentum builds. go!"
   ],
-  "last_updated": "2026-09-29T21:17:02.519516"
+  "last_updated": "2026-09-29T22:52:50.852125"
 }
