@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never chase calm, it chases you",
-      "spanish": "Nunca persigas la calma, ella va",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T18:02:45.574768"
-    },
-    {
-      "english": "This is why you’re tense, escucha",
-      "spanish": "Esto es por qué te pones tenso, escucha",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T18:02:45.574779"
-    },
-    {
-      "english": "The secret? Choose nhẹ, then act",
-      "spanish": "El secreto, elige “suave”, y actúa",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T18:02:45.574790"
-    },
-    {
-      "english": "Stop spiraling, say “tranqui” first",
-      "spanish": "Para la espiral, di “tranqui” primero",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T18:02:45.574801"
-    },
-    {
-      "english": "Never apologize, just soften words",
-      "spanish": "Nunca pidas perdón, suaviza la frase",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-30T20:11:43.880523"
-    },
-    {
       "english": "The secret... switch to action",
       "spanish": "El secreto... pasa a actuar",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Listo para todo? ¡'Listo!'",
       "category": "Courage",
       "generated_at": "2026-09-29T18:29:47.742367"
+    },
+    {
+      "english": "Unlock your courage. Try 'atrévete'.",
+      "spanish": "Desbloquea tu coraje. Prueba 'atrévete'.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T19:48:50.080798"
+    },
+    {
+      "english": "What if 'go for it' means this?",
+      "spanish": "¿Y si 'lánzate' significa esto?",
+      "category": "Courage",
+      "generated_at": "2026-09-29T19:48:50.080835"
+    },
+    {
+      "english": "This simple word builds bravery.",
+      "spanish": "Esta palabra simple crea valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T19:48:50.080863"
+    },
+    {
+      "english": "Embrace discomfort. Feel alive.",
+      "spanish": "Abraza la incomodidad. Siéntete vivo.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T19:48:50.080890"
+    },
+    {
+      "english": "Don't fear mistakes. Learn 'errores'.",
+      "spanish": "No temas errores. Aprende 'errores'.",
+      "category": "Courage",
+      "generated_at": "2026-09-29T19:48:50.080916"
     }
   ],
   "used_english": [
-    "never chase calm, it chases you",
-    "this is why you’re tense, escucha",
-    "the secret? choose nhẹ, then act",
-    "stop spiraling, say “tranqui” first",
-    "never apologize, just soften words",
     "the secret... switch to action",
     "never fight feelings, name them",
     "this one phrase resets your mood",
@@ -21001,7 +20996,12 @@
     "this one word means 'yes!'",
     "feeling lost? say 'aquí'.",
     "progress is not perfect.",
-    "ready for anything? 'listo!'"
+    "ready for anything? 'listo!'",
+    "unlock your courage. try 'atrévete'.",
+    "what if 'go for it' means this?",
+    "this simple word builds bravery.",
+    "embrace discomfort. feel alive.",
+    "don't fear mistakes. learn 'errores'."
   ],
-  "last_updated": "2026-09-29T18:29:47.742369"
+  "last_updated": "2026-09-29T19:48:50.080918"
 }
