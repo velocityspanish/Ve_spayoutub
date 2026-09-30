@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never freeze, say 'está bien'",
-      "spanish": "Nunca te paralices, di “está bien”",
-      "category": "Courage",
-      "generated_at": "2026-05-31T16:09:42.821393"
-    },
-    {
-      "english": "Never say “okay”, use “perfecto”",
-      "spanish": "No digas “vale”, di “perfecto”",
-      "category": "Courage",
-      "generated_at": "2026-05-31T16:09:42.821404"
-    },
-    {
-      "english": "The secret, speak in tiny loops",
-      "spanish": "El secreto, habla en bucles cortos",
-      "category": "Courage",
-      "generated_at": "2026-05-31T16:09:42.821416"
-    },
-    {
-      "english": "Stop chasing perfection, be understood",
-      "spanish": "Deja la perfección, sé entendido",
-      "category": "Courage",
-      "generated_at": "2026-05-31T16:09:42.821426"
-    },
-    {
-      "english": "Stop rehearsing, apologize like this",
-      "spanish": "Deja ensayar, perdona así",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-31T18:01:59.957708"
-    },
-    {
       "english": "Never demand, say you understand",
       "spanish": "Nunca exijas, di que entiendes",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "Palabras cortas, gran impacto.",
       "category": "Positive Life",
       "generated_at": "2026-09-29T23:59:51.337626"
+    },
+    {
+      "english": "Slowly builds lasting power.",
+      "spanish": "Despacio construye poder duradero.",
+      "category": "Patience",
+      "generated_at": "2026-09-30T18:18:41.380433"
+    },
+    {
+      "english": "Curious? 'I understand' is key.",
+      "spanish": "¿Curioso? 'Entiendo' es clave.",
+      "category": "Patience",
+      "generated_at": "2026-09-30T18:18:41.380475"
+    },
+    {
+      "english": "Wait for this magic word.",
+      "spanish": "Espera esta palabra mágica.",
+      "category": "Patience",
+      "generated_at": "2026-09-30T18:18:41.380502"
+    },
+    {
+      "english": "Wisdom: 'Little by little' wins.",
+      "spanish": "Sabiduría: 'Poco a poco' gana.",
+      "category": "Patience",
+      "generated_at": "2026-09-30T18:18:41.380532"
+    },
+    {
+      "english": "Feel this flow? That's you.",
+      "spanish": "¿Sientes este flujo? Eres tú.",
+      "category": "Patience",
+      "generated_at": "2026-09-30T18:18:41.380559"
     }
   ],
   "used_english": [
-    "never freeze, say 'está bien'",
-    "never say “okay”, use “perfecto”",
-    "the secret, speak in tiny loops",
-    "stop chasing perfection, be understood",
-    "stop rehearsing, apologize like this",
     "never demand, say you understand",
     "this is why grudges grow fast",
     "stop arguing, say “i get it”",
@@ -21001,7 +20996,12 @@
     "what if 'together' is key?",
     "surprise! 'patience' opens doors.",
     "momentum: feel it building now.",
-    "small words, huge impact, always."
+    "small words, huge impact, always.",
+    "slowly builds lasting power.",
+    "curious? 'i understand' is key.",
+    "wait for this magic word.",
+    "wisdom: 'little by little' wins.",
+    "feel this flow? that's you."
   ],
-  "last_updated": "2026-09-29T23:59:51.337628"
+  "last_updated": "2026-09-30T18:18:41.380561"
 }
