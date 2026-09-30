@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never quit on boring days",
-      "spanish": "No abandones días aburridos",
-      "category": "Positive Life",
-      "generated_at": "2026-05-31T20:14:58.508421"
-    },
-    {
-      "english": "The secret? Celebrate tiny wins",
-      "spanish": "El secreto, celebra victorias pequeñas",
-      "category": "Positive Life",
-      "generated_at": "2026-05-31T20:14:58.508433"
-    },
-    {
-      "english": "Never block yourself, ask for help",
-      "spanish": "Nunca te frenes, pide ayuda",
-      "category": "Positive Life",
-      "generated_at": "2026-05-31T20:14:58.508444"
-    },
-    {
-      "english": "This phrase makes questions feel easy",
-      "spanish": "Esta frase hace preguntas fáciles",
-      "category": "Positive Life",
-      "generated_at": "2026-05-31T20:14:58.508454"
-    },
-    {
-      "english": "Stop saying “good”,",
-      "spanish": "Deja “bien”, di “¡genial!”",
-      "category": "Friendship",
-      "generated_at": "2026-05-31T21:46:05.091276"
-    },
-    {
       "english": "Never say “fine”, say this",
       "spanish": "Nunca digas “estoy bien”",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Ánimo: Tu zona de confort se expande.",
       "category": "Friendship",
       "generated_at": "2026-09-30T20:04:00.415473"
+    },
+    {
+      "english": "This tiny word, true love.",
+      "spanish": "Esta palabra, amor verdadero.",
+      "category": "Love",
+      "generated_at": "2026-09-30T21:13:24.110537"
+    },
+    {
+      "english": "Curious? What is 'te amo'?",
+      "spanish": "Curioso? Qué es 'te amo'?",
+      "category": "Love",
+      "generated_at": "2026-09-30T21:13:24.110577"
+    },
+    {
+      "english": "Wisdom: Love needs courage.",
+      "spanish": "Sabiduría: Amor necesita coraje.",
+      "category": "Love",
+      "generated_at": "2026-09-30T21:13:24.110593"
+    },
+    {
+      "english": "Encouragement: You can love, deeply.",
+      "spanish": "Ánimo: Puedes amar, profundamente.",
+      "category": "Love",
+      "generated_at": "2026-09-30T21:13:24.110608"
+    },
+    {
+      "english": "Surprise! 'Mi amor' is sweet.",
+      "spanish": "Sorpresa! 'Mi amor' es dulce.",
+      "category": "Love",
+      "generated_at": "2026-09-30T21:13:24.110623"
     }
   ],
   "used_english": [
-    "never quit on boring days",
-    "the secret? celebrate tiny wins",
-    "never block yourself, ask for help",
-    "this phrase makes questions feel easy",
-    "stop saying “good”,",
     "never say “fine”, say this",
     "stop “maybe”, sound sure instead",
     "never overtalk, use this",
@@ -21001,7 +20996,12 @@
     "what if 'i'm here' means everything?",
     "wisdom: shared silence speaks volumes.",
     "feel this connection? that's 'contigo'.",
-    "encouragement: your comfort zone expands."
+    "encouragement: your comfort zone expands.",
+    "this tiny word, true love.",
+    "curious? what is 'te amo'?",
+    "wisdom: love needs courage.",
+    "encouragement: you can love, deeply.",
+    "surprise! 'mi amor' is sweet."
   ],
-  "last_updated": "2026-09-30T20:04:00.415475"
+  "last_updated": "2026-09-30T21:13:24.110625"
 }
