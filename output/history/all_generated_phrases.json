@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never rush, slow down your 'tú'",
-      "spanish": "Nunca corras, baja tu “tú”",
-      "category": "Success",
-      "generated_at": "2026-05-31T14:48:18.058495"
-    },
-    {
-      "english": "The secret? Say it confidently once",
-      "spanish": "El secreto, dilo una vez",
-      "category": "Success",
-      "generated_at": "2026-05-31T14:48:18.058506"
-    },
-    {
-      "english": "Stop memorizing, practice with one question",
-      "spanish": "Deja de memorizar, pregunta una cosa",
-      "category": "Success",
-      "generated_at": "2026-05-31T14:48:18.058516"
-    },
-    {
-      "english": "This one word gets instant respect",
-      "spanish": "Esta palabra gana respeto",
-      "category": "Success",
-      "generated_at": "2026-05-31T14:48:18.058527"
-    },
-    {
-      "english": "Never explain, just use 'claro'",
-      "spanish": "Nunca expliques, usa “claro”",
-      "category": "Courage",
-      "generated_at": "2026-05-31T16:09:42.821374"
-    },
-    {
       "english": "Never freeze, say 'está bien'",
       "spanish": "Nunca te paralices, di “está bien”",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "El impulso crece. ¡Vamos!",
       "category": "Friendship",
       "generated_at": "2026-09-29T22:52:50.852123"
+    },
+    {
+      "english": "Your voice deserves to be heard.",
+      "spanish": "Tu voz merece ser oída.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-29T23:59:51.337507"
+    },
+    {
+      "english": "What if 'together' is key?",
+      "spanish": "¿Qué tal si 'juntos' es la clave?",
+      "category": "Positive Life",
+      "generated_at": "2026-09-29T23:59:51.337544"
+    },
+    {
+      "english": "Surprise! 'Patience' opens doors.",
+      "spanish": "¡Sorpresa! 'Paciencia' abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-29T23:59:51.337572"
+    },
+    {
+      "english": "Momentum: Feel it building now.",
+      "spanish": "Impulso: Siente cómo crece.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-29T23:59:51.337599"
+    },
+    {
+      "english": "Small words, huge impact, always.",
+      "spanish": "Palabras cortas, gran impacto.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-29T23:59:51.337626"
     }
   ],
   "used_english": [
-    "never rush, slow down your 'tú'",
-    "the secret? say it confidently once",
-    "stop memorizing, practice with one question",
-    "this one word gets instant respect",
-    "never explain, just use 'claro'",
     "never freeze, say 'está bien'",
     "never say “okay”, use “perfecto”",
     "the secret, speak in tiny loops",
@@ -21001,7 +20996,12 @@
     "surprise! 'slowly' is powerful.",
     "your mistakes are lessons.",
     "feel this? that's connection.",
-    "momentum builds. go!"
+    "momentum builds. go!",
+    "your voice deserves to be heard.",
+    "what if 'together' is key?",
+    "surprise! 'patience' opens doors.",
+    "momentum: feel it building now.",
+    "small words, huge impact, always."
   ],
-  "last_updated": "2026-09-29T22:52:50.852125"
+  "last_updated": "2026-09-29T23:59:51.337628"
 }
