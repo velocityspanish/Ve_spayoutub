@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “fine”, say this",
-      "spanish": "Nunca digas “estoy bien”",
-      "category": "Friendship",
-      "generated_at": "2026-05-31T21:46:05.091296"
-    },
-    {
-      "english": "Stop “maybe”, sound sure instead",
-      "spanish": "Me parece, sí, claro",
-      "category": "Friendship",
-      "generated_at": "2026-05-31T21:46:05.091309"
-    },
-    {
-      "english": "Never overtalk, use this",
-      "spanish": "Vale, ya entendí",
-      "category": "Friendship",
-      "generated_at": "2026-05-31T21:46:05.091319"
-    },
-    {
-      "english": "This single word saves friends",
-      "spanish": "Perdón… pero escucha",
-      "category": "Friendship",
-      "generated_at": "2026-05-31T21:46:05.091330"
-    },
-    {
-      "english": "Never say “hard” again, say “difícil”",
-      "spanish": "Nunca digas “difícil”, piensa fácil",
-      "category": "Happiness",
-      "generated_at": "2026-06-01T18:41:16.526586"
-    },
-    {
       "english": "Stop faking smiles, use “sonríe”",
       "spanish": "Deja la sonrisa falsa, di “sonríe”",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpresa! 'Mi amor' es dulce.",
       "category": "Love",
       "generated_at": "2026-09-30T21:13:24.110623"
+    },
+    {
+      "english": "This one word: your calm.",
+      "spanish": "Esta palabra: tu calma.",
+      "category": "Balance",
+      "generated_at": "2026-09-30T22:53:15.226293"
+    },
+    {
+      "english": "Small habits, big power.",
+      "spanish": "Pequeños hábitos, gran poder.",
+      "category": "Balance",
+      "generated_at": "2026-09-30T22:53:15.226328"
+    },
+    {
+      "english": "Momentum is your new superpower.",
+      "spanish": "El impulso es tu nuevo superpoder.",
+      "category": "Balance",
+      "generated_at": "2026-09-30T22:53:15.226359"
+    },
+    {
+      "english": "Wisdom: listen to truly understand.",
+      "spanish": "Sabiduría: escucha para entender.",
+      "category": "Balance",
+      "generated_at": "2026-09-30T22:53:15.226385"
+    },
+    {
+      "english": "Your bravery starts here, now.",
+      "spanish": "Tu valentía empieza aquí, ahora.",
+      "category": "Balance",
+      "generated_at": "2026-09-30T22:53:15.226412"
     }
   ],
   "used_english": [
-    "never say “fine”, say this",
-    "stop “maybe”, sound sure instead",
-    "never overtalk, use this",
-    "this single word saves friends",
-    "never say “hard” again, say “difícil”",
     "stop faking smiles, use “sonríe”",
     "the secret... thank people, then glow",
     "never chase approval, choose “mejor”",
@@ -21001,7 +20996,12 @@
     "curious? what is 'te amo'?",
     "wisdom: love needs courage.",
     "encouragement: you can love, deeply.",
-    "surprise! 'mi amor' is sweet."
+    "surprise! 'mi amor' is sweet.",
+    "this one word: your calm.",
+    "small habits, big power.",
+    "momentum is your new superpower.",
+    "wisdom: listen to truly understand.",
+    "your bravery starts here, now."
   ],
-  "last_updated": "2026-09-30T21:13:24.110625"
+  "last_updated": "2026-09-30T22:53:15.226415"
 }
