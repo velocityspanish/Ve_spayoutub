@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never sound harsh, use «un poquito»",
-      "spanish": "No suenes duro, usa «un poquito»",
-      "category": "Wisdom",
-      "generated_at": "2026-06-01T19:56:10.700879"
-    },
-    {
-      "english": "This one word keeps you fluent",
-      "spanish": "Una palabra te mantiene fluido",
-      "category": "Wisdom",
-      "generated_at": "2026-06-01T19:56:10.700891"
-    },
-    {
-      "english": "Stop guessing verbs, copy this rhythm",
-      "spanish": "Deja de adivinar, copia este ritmo",
-      "category": "Wisdom",
-      "generated_at": "2026-06-01T19:56:10.700902"
-    },
-    {
-      "english": "Never apologize, soften with «perdón»",
-      "spanish": "No pidas disculpas, di «perdón»",
-      "category": "Wisdom",
-      "generated_at": "2026-06-01T19:56:10.700914"
-    },
-    {
-      "english": "Never learn tense first, learn feelings",
-      "spanish": "Nunca aprendas tiempos, aprende sentimientos",
-      "category": "Inspiration",
-      "generated_at": "2026-06-01T20:54:31.739614"
-    },
-    {
       "english": "The secret? Practice in real moments",
       "spanish": "El secreto, practica en momentos reales",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra diminuta cambia estados de ánimo.",
       "category": "Self Improvement",
       "generated_at": "2026-10-01T00:14:33.281609"
+    },
+    {
+      "english": "Your rhythm is here.",
+      "spanish": "Tu ritmo está aquí.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:47:55.408239"
+    },
+    {
+      "english": "Curious? This sounds 'calm'.",
+      "spanish": "Curioso? Esto suena 'calma'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:47:55.408274"
+    },
+    {
+      "english": "Wisdom: Progress takes breath.",
+      "spanish": "Sabiduría: Progreso toma respiro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:47:55.408301"
+    },
+    {
+      "english": "Dare to bloom, say 'florece'.",
+      "spanish": "Atrévete a florecer, di 'florece'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:47:55.408328"
+    },
+    {
+      "english": "Momentum feels like this.",
+      "spanish": "El impulso se siente así.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:47:55.408353"
     }
   ],
   "used_english": [
-    "never sound harsh, use «un poquito»",
-    "this one word keeps you fluent",
-    "stop guessing verbs, copy this rhythm",
-    "never apologize, soften with «perdón»",
-    "never learn tense first, learn feelings",
     "the secret? practice in real moments",
     "stop rewriting sentences, say it once",
     "never translate thoughts, speak them outward",
@@ -21001,7 +20996,12 @@
     "why is this word a superpower?",
     "feel this? connection happens.",
     "want a shortcut? listen more.",
-    "this tiny word changes moods."
+    "this tiny word changes moods.",
+    "your rhythm is here.",
+    "curious? this sounds 'calm'.",
+    "wisdom: progress takes breath.",
+    "dare to bloom, say 'florece'.",
+    "momentum feels like this."
   ],
-  "last_updated": "2026-10-01T00:14:33.281611"
+  "last_updated": "2026-10-01T18:47:55.408355"
 }
