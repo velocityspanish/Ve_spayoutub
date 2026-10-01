@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say nothing, add one",
-      "spanish": "Nunca digas nada, agrega una",
-      "category": "Growth",
-      "generated_at": "2026-06-01T22:55:05.067142"
-    },
-    {
-      "english": "The secret? Use 'quiero' early",
-      "spanish": "El secreto... usa «quiero» temprano",
-      "category": "Growth",
-      "generated_at": "2026-06-01T22:55:05.067149"
-    },
-    {
-      "english": "Stop overexplaining, point to it",
-      "spanish": "Deja de sobreexplicar, señala eso",
-      "category": "Growth",
-      "generated_at": "2026-06-01T22:55:05.067156"
-    },
-    {
-      "english": "Never chase perfect grammar, just start",
-      "spanish": "No persigas gramática perfecta, empieza",
-      "category": "Growth",
-      "generated_at": "2026-06-01T22:55:05.067162"
-    },
-    {
-      "english": "Stop texting, send this one",
-      "spanish": "Deja de enviar mensajes, manda esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-02T17:26:01.305295"
-    },
-    {
       "english": "This is why friends reply fast",
       "spanish": "Por eso tus amigos responden rápido",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpresa! 'Tú' tiene capas.",
       "category": "Success",
       "generated_at": "2026-10-01T21:34:20.550915"
+    },
+    {
+      "english": "Curious? 'Always' sounds like this.",
+      "spanish": "¿Curioso? 'Siempre' suena así.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T23:02:44.953841"
+    },
+    {
+      "english": "Surprise! Your journey starts now.",
+      "spanish": "¡Sorpresa! Tu viaje empieza ahora.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T23:02:44.953878"
+    },
+    {
+      "english": "Wisdom: connection starts simply.",
+      "spanish": "Sabiduría: conexión empieza simple.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T23:02:44.953906"
+    },
+    {
+      "english": "Want calm? Say 'paz' softly.",
+      "spanish": "¿Quieres paz? Di 'paz' suave.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T23:02:44.953933"
+    },
+    {
+      "english": "This feeling? pure joy, 'alegría'.",
+      "spanish": "¿Este sentimiento? Alegría pura.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T23:02:44.953982"
     }
   ],
   "used_english": [
-    "never say nothing, add one",
-    "the secret? use 'quiero' early",
-    "stop overexplaining, point to it",
-    "never chase perfect grammar, just start",
-    "stop texting, send this one",
     "this is why friends reply fast",
     "stop overthinking, send one compliment",
     "never ghost—check in, softly",
@@ -21001,7 +20996,12 @@
     "want more? just listen closely.",
     "curious? the key is 'por qué'.",
     "feel this vibe? that's 'hoy'.",
-    "surprise! 'you' has layers."
+    "surprise! 'you' has layers.",
+    "curious? 'always' sounds like this.",
+    "surprise! your journey starts now.",
+    "wisdom: connection starts simply.",
+    "want calm? say 'paz' softly.",
+    "this feeling? pure joy, 'alegría'."
   ],
-  "last_updated": "2026-10-01T21:34:20.550917"
+  "last_updated": "2026-10-01T23:02:44.953986"
 }
