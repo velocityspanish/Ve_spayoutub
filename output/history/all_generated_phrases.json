@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop faking smiles, use “sonríe”",
-      "spanish": "Deja la sonrisa falsa, di “sonríe”",
-      "category": "Happiness",
-      "generated_at": "2026-06-01T18:41:16.526609"
-    },
-    {
-      "english": "The secret... thank people, then glow",
-      "spanish": "El secreto... di gracias, y brillas",
-      "category": "Happiness",
-      "generated_at": "2026-06-01T18:41:16.526621"
-    },
-    {
-      "english": "Never chase approval, choose “mejor”",
-      "spanish": "No busques aprobación, elige “mejor”",
-      "category": "Happiness",
-      "generated_at": "2026-06-01T18:41:16.526632"
-    },
-    {
-      "english": "This one phrase turns stress into hope",
-      "spanish": "Esta frase cambia el estrés en esperanza",
-      "category": "Happiness",
-      "generated_at": "2026-06-01T18:41:16.526643"
-    },
-    {
-      "english": "Never say 'I forgot', say this",
-      "spanish": "Nunca digas «se me olvidó», así",
-      "category": "Wisdom",
-      "generated_at": "2026-06-01T19:56:10.700855"
-    },
-    {
       "english": "Never sound harsh, use «un poquito»",
       "spanish": "No suenes duro, usa «un poquito»",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu valentía empieza aquí, ahora.",
       "category": "Balance",
       "generated_at": "2026-09-30T22:53:15.226412"
+    },
+    {
+      "english": "Your Spanish rhythm starts now.",
+      "spanish": "Tu ritmo español empieza ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T00:14:33.281540"
+    },
+    {
+      "english": "Why is this word a superpower?",
+      "spanish": "¿Por qué esta palabra es un superpoder?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T00:14:33.281565"
+    },
+    {
+      "english": "Feel this? Connection happens.",
+      "spanish": "¿Sientes esto? La conexión ocurre.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T00:14:33.281580"
+    },
+    {
+      "english": "Want a shortcut? Listen more.",
+      "spanish": "¿Quieres un atajo? Escucha más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T00:14:33.281595"
+    },
+    {
+      "english": "This tiny word changes moods.",
+      "spanish": "Esta palabra diminuta cambia estados de ánimo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T00:14:33.281609"
     }
   ],
   "used_english": [
-    "stop faking smiles, use “sonríe”",
-    "the secret... thank people, then glow",
-    "never chase approval, choose “mejor”",
-    "this one phrase turns stress into hope",
-    "never say 'i forgot', say this",
     "never sound harsh, use «un poquito»",
     "this one word keeps you fluent",
     "stop guessing verbs, copy this rhythm",
@@ -21001,7 +20996,12 @@
     "small habits, big power.",
     "momentum is your new superpower.",
     "wisdom: listen to truly understand.",
-    "your bravery starts here, now."
+    "your bravery starts here, now.",
+    "your spanish rhythm starts now.",
+    "why is this word a superpower?",
+    "feel this? connection happens.",
+    "want a shortcut? listen more.",
+    "this tiny word changes moods."
   ],
-  "last_updated": "2026-09-30T22:53:15.226415"
+  "last_updated": "2026-10-01T00:14:33.281611"
 }
