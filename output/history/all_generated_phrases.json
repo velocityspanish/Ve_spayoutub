@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Practice in real moments",
-      "spanish": "El secreto, practica en momentos reales",
-      "category": "Inspiration",
-      "generated_at": "2026-06-01T20:54:31.739633"
-    },
-    {
-      "english": "Stop rewriting sentences, say it once",
-      "spanish": "Deja de reescribir frases, di una vez",
-      "category": "Inspiration",
-      "generated_at": "2026-06-01T20:54:31.739644"
-    },
-    {
-      "english": "Never translate thoughts, speak them outward",
-      "spanish": "Nunca traduzcas pensamientos, sácalos",
-      "category": "Inspiration",
-      "generated_at": "2026-06-01T20:54:31.739654"
-    },
-    {
-      "english": "Stop avoiding small talks, start asking",
-      "spanish": "Deja de evitar conversaciones, empieza preguntando",
-      "category": "Inspiration",
-      "generated_at": "2026-06-01T20:54:31.739664"
-    },
-    {
-      "english": "Never overexplain, just nod back",
-      "spanish": "Nunca expliques, solo asiente",
-      "category": "Confidence",
-      "generated_at": "2026-06-01T22:13:14.687705"
-    },
-    {
       "english": "The secret... ask with confidence",
       "spanish": "El secreto..., pregunta con confianza",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "El impulso se siente así.",
       "category": "Purpose",
       "generated_at": "2026-10-01T18:47:55.408353"
+    },
+    {
+      "english": "Surprise! 'Please' is magical.",
+      "spanish": "Sorpresa! 'Por favor' es mágico.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T20:10:59.250711"
+    },
+    {
+      "english": "Breathe deep, it's 'tranquilo'.",
+      "spanish": "Respira hondo, es 'tranquilo'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T20:10:59.250735"
+    },
+    {
+      "english": "What if 'home' is a feeling?",
+      "spanish": "¿Y si 'hogar' es un sentimiento?",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T20:10:59.250749"
+    },
+    {
+      "english": "Your patience blooms, yes!",
+      "spanish": "Tu paciencia florece, ¡sí!",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T20:10:59.250763"
+    },
+    {
+      "english": "Ready for anything? Say 'listo!'.",
+      "spanish": "¿Listo para todo? Di 'listo!'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T20:10:59.250777"
     }
   ],
   "used_english": [
-    "the secret? practice in real moments",
-    "stop rewriting sentences, say it once",
-    "never translate thoughts, speak them outward",
-    "stop avoiding small talks, start asking",
-    "never overexplain, just nod back",
     "the secret... ask with confidence",
     "what nobody tells you, you’ll cope",
     "stop editing mid-sentence, breathe",
@@ -21001,7 +20996,12 @@
     "curious? this sounds 'calm'.",
     "wisdom: progress takes breath.",
     "dare to bloom, say 'florece'.",
-    "momentum feels like this."
+    "momentum feels like this.",
+    "surprise! 'please' is magical.",
+    "breathe deep, it's 'tranquilo'.",
+    "what if 'home' is a feeling?",
+    "your patience blooms, yes!",
+    "ready for anything? say 'listo!'."
   ],
-  "last_updated": "2026-10-01T18:47:55.408355"
+  "last_updated": "2026-10-01T20:10:59.250779"
 }
