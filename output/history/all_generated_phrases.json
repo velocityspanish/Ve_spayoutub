@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... ask with confidence",
-      "spanish": "El secreto..., pregunta con confianza",
-      "category": "Confidence",
-      "generated_at": "2026-06-01T22:13:14.687725"
-    },
-    {
-      "english": "What nobody tells you, you’ll cope",
-      "spanish": "Lo que nadie dice, puedes con eso",
-      "category": "Confidence",
-      "generated_at": "2026-06-01T22:13:14.687737"
-    },
-    {
-      "english": "Stop editing mid-sentence, breathe",
-      "spanish": "No edites a mitad, respira",
-      "category": "Confidence",
-      "generated_at": "2026-06-01T22:13:14.687748"
-    },
-    {
-      "english": "Never wait, start speaking now",
-      "spanish": "Nunca esperes, habla ya",
-      "category": "Confidence",
-      "generated_at": "2026-06-01T22:13:14.687759"
-    },
-    {
-      "english": "Stop fearing 'mistakes', say this",
-      "spanish": "Deja de temer «errores», di esto",
-      "category": "Growth",
-      "generated_at": "2026-06-01T22:55:05.067124"
-    },
-    {
       "english": "Never say nothing, add one",
       "spanish": "Nunca digas nada, agrega una",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Listo para todo? Di 'listo!'.",
       "category": "Purpose",
       "generated_at": "2026-10-01T20:10:59.250777"
+    },
+    {
+      "english": "This word sparks instant connection.",
+      "spanish": "Esta palabra crea conexión.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:34:20.550798"
+    },
+    {
+      "english": "Want more? Just listen closely.",
+      "spanish": "Más? Solo escucha atento.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:34:20.550834"
+    },
+    {
+      "english": "Curious? The key is 'por qué'.",
+      "spanish": "Curioso? La clave es 'por qué'.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:34:20.550862"
+    },
+    {
+      "english": "Feel this vibe? That's 'hoy'.",
+      "spanish": "Sientes esto? Es 'hoy'.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:34:20.550889"
+    },
+    {
+      "english": "Surprise! 'You' has layers.",
+      "spanish": "Sorpresa! 'Tú' tiene capas.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:34:20.550915"
     }
   ],
   "used_english": [
-    "the secret... ask with confidence",
-    "what nobody tells you, you’ll cope",
-    "stop editing mid-sentence, breathe",
-    "never wait, start speaking now",
-    "stop fearing 'mistakes', say this",
     "never say nothing, add one",
     "the secret? use 'quiero' early",
     "stop overexplaining, point to it",
@@ -21001,7 +20996,12 @@
     "breathe deep, it's 'tranquilo'.",
     "what if 'home' is a feeling?",
     "your patience blooms, yes!",
-    "ready for anything? say 'listo!'."
+    "ready for anything? say 'listo!'.",
+    "this word sparks instant connection.",
+    "want more? just listen closely.",
+    "curious? the key is 'por qué'.",
+    "feel this vibe? that's 'hoy'.",
+    "surprise! 'you' has layers."
   ],
-  "last_updated": "2026-10-01T20:10:59.250779"
+  "last_updated": "2026-10-01T21:34:20.550917"
 }
