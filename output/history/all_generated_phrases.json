@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why friends reply fast",
-      "spanish": "Por eso tus amigos responden rápido",
-      "category": "Friendship",
-      "generated_at": "2026-06-02T17:26:01.305320"
-    },
-    {
-      "english": "Stop overthinking, send one compliment",
-      "spanish": "Deja de pensar, manda un cumplido",
-      "category": "Friendship",
-      "generated_at": "2026-06-02T17:26:01.305332"
-    },
-    {
-      "english": "Never ghost—check in, softly",
-      "spanish": "No desaparezcas, revisa, despacio",
-      "category": "Friendship",
-      "generated_at": "2026-06-02T17:26:01.305344"
-    },
-    {
-      "english": "This phrase turns tension into warmth",
-      "spanish": "Esta frase convierte tensión en cariño",
-      "category": "Friendship",
-      "generated_at": "2026-06-02T17:26:01.305355"
-    },
-    {
-      "english": "Stop asking “how to” , start doing",
-      "spanish": "Deja de preguntar “cómo”, empieza haciendo",
-      "category": "Inspiration",
-      "generated_at": "2026-06-02T18:40:18.661554"
-    },
-    {
       "english": "The secret? Practice one useful story",
       "spanish": "El secreto, practica una historia útil",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Este sentimiento? Alegría pura.",
       "category": "Joy",
       "generated_at": "2026-10-01T23:02:44.953982"
+    },
+    {
+      "english": "Unlock confidence, say 'claro'.",
+      "spanish": "Desbloquea confianza, di 'claro'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-02T00:17:55.028073"
+    },
+    {
+      "english": "This sounds 'relaxing', try it.",
+      "spanish": "Esto suena 'relajante', inténtalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-02T00:17:55.028106"
+    },
+    {
+      "english": "One word: instant connection.",
+      "spanish": "Una palabra: conexión instantánea.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-02T00:17:55.028129"
+    },
+    {
+      "english": "Dare to sound like a native.",
+      "spanish": "Atrévete a sonar nativo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-02T00:17:55.028150"
+    },
+    {
+      "english": "Want to understand? Listen more.",
+      "spanish": "¿Quieres entender? Escucha más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-02T00:17:55.028173"
     }
   ],
   "used_english": [
-    "this is why friends reply fast",
-    "stop overthinking, send one compliment",
-    "never ghost—check in, softly",
-    "this phrase turns tension into warmth",
-    "stop asking “how to” , start doing",
     "the secret? practice one useful story",
     "stop studying endings, say whole chunks",
     "never translate, just describe the scene",
@@ -21001,7 +20996,12 @@
     "surprise! your journey starts now.",
     "wisdom: connection starts simply.",
     "want calm? say 'paz' softly.",
-    "this feeling? pure joy, 'alegría'."
+    "this feeling? pure joy, 'alegría'.",
+    "unlock confidence, say 'claro'.",
+    "this sounds 'relaxing', try it.",
+    "one word: instant connection.",
+    "dare to sound like a native.",
+    "want to understand? listen more."
   ],
-  "last_updated": "2026-10-01T23:02:44.953986"
+  "last_updated": "2026-10-02T00:17:55.028175"
 }
