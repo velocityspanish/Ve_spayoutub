@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Practice one useful story",
-      "spanish": "El secreto, practica una historia útil",
-      "category": "Inspiration",
-      "generated_at": "2026-06-02T18:40:18.661575"
-    },
-    {
-      "english": "Stop studying endings, say whole chunks",
-      "spanish": "Deja de estudiar finales, di frases completas",
-      "category": "Inspiration",
-      "generated_at": "2026-06-02T18:40:18.661587"
-    },
-    {
-      "english": "Never translate, just describe the scene",
-      "spanish": "No traduzcas, describe la escena",
-      "category": "Inspiration",
-      "generated_at": "2026-06-02T18:40:18.661599"
-    },
-    {
-      "english": "The secret? Ask questions you actually need",
-      "spanish": "El secreto, pregunta lo que necesitas",
-      "category": "Inspiration",
-      "generated_at": "2026-06-02T18:40:18.661610"
-    },
-    {
-      "english": "Stop, say this kind thanks",
-      "spanish": "Para, di este gracias amable",
-      "category": "Kindness",
-      "generated_at": "2026-06-02T20:07:12.439314"
-    },
-    {
       "english": "Never ignore, offer one help",
       "spanish": "Nunca ignores, ofrece una ayuda",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Quieres entender? Escucha más.",
       "category": "Self Improvement",
       "generated_at": "2026-10-02T00:17:55.028173"
+    },
+    {
+      "english": "Feel this pause, embrace it.",
+      "spanish": "Siente esta pausa, abrázala.",
+      "category": "Purpose",
+      "generated_at": "2026-10-02T18:15:26.160223"
+    },
+    {
+      "english": "Curious? 'Slowly' unlocks fluency.",
+      "spanish": "¿Curioso? 'Despacio' desbloquea fluidez.",
+      "category": "Purpose",
+      "generated_at": "2026-10-02T18:15:26.160246"
+    },
+    {
+      "english": "Surprise! 'Thank you' is so easy.",
+      "spanish": "¡Sorpresa! 'Gracias' es muy fácil.",
+      "category": "Purpose",
+      "generated_at": "2026-10-02T18:15:26.160262"
+    },
+    {
+      "english": "Your progress? So proud.",
+      "spanish": "¿Tu progreso? Muy orgulloso.",
+      "category": "Purpose",
+      "generated_at": "2026-10-02T18:15:26.160276"
+    },
+    {
+      "english": "Encouragement: You can do it.",
+      "spanish": "Ánimo: Puedes hacerlo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-02T18:15:26.160291"
     }
   ],
   "used_english": [
-    "the secret? practice one useful story",
-    "stop studying endings, say whole chunks",
-    "never translate, just describe the scene",
-    "the secret? ask questions you actually need",
-    "stop, say this kind thanks",
     "never ignore, offer one help",
     "the secret, wish them well today",
     "stop scrolling, send this gentle line",
@@ -21001,7 +20996,12 @@
     "this sounds 'relaxing', try it.",
     "one word: instant connection.",
     "dare to sound like a native.",
-    "want to understand? listen more."
+    "want to understand? listen more.",
+    "feel this pause, embrace it.",
+    "curious? 'slowly' unlocks fluency.",
+    "surprise! 'thank you' is so easy.",
+    "your progress? so proud.",
+    "encouragement: you can do it."
   ],
-  "last_updated": "2026-10-02T00:17:55.028175"
+  "last_updated": "2026-10-02T18:15:26.160292"
 }
