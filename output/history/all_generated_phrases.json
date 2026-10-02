@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say it, show it",
-      "spanish": "Nunca lo digas, demuéstralo",
-      "category": "Love",
-      "generated_at": "2026-06-02T22:54:55.998676"
-    },
-    {
-      "english": "What nobody tells you, romance grows",
-      "spanish": "Lo que nadie dice, el amor crece",
-      "category": "Love",
-      "generated_at": "2026-06-02T22:54:55.998686"
-    },
-    {
-      "english": "The secret, soften with “contigo”",
-      "spanish": "El secreto, suaviza con “contigo”",
-      "category": "Love",
-      "generated_at": "2026-06-02T22:54:55.998695"
-    },
-    {
-      "english": "Never rush—say it like music",
-      "spanish": "No corras, dilo como música",
-      "category": "Love",
-      "generated_at": "2026-06-02T22:54:55.998704"
-    },
-    {
-      "english": "Stop saying 'I don't know'",
-      "spanish": "Deja de decir 'no sé'",
-      "category": "Strength",
-      "generated_at": "2026-06-03T18:00:55.287433"
-    },
-    {
       "english": "Never practice perfect answers",
       "spanish": "Nunca practiques respuestas perfectas",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Sientes esta conexión? Es 'usted'.",
       "category": "Confidence",
       "generated_at": "2026-10-02T21:10:43.290514"
+    },
+    {
+      "english": "Feel this pause? Breathe.",
+      "spanish": "Siente esta pausa, respira.",
+      "category": "Patience",
+      "generated_at": "2026-10-02T22:51:40.577172"
+    },
+    {
+      "english": "Progress whispers, listen closely.",
+      "spanish": "El progreso susurra, escucha atento.",
+      "category": "Patience",
+      "generated_at": "2026-10-02T22:51:40.577201"
+    },
+    {
+      "english": "This word builds bridges.",
+      "spanish": "Esta palabra construye puentes.",
+      "category": "Patience",
+      "generated_at": "2026-10-02T22:51:40.577218"
+    },
+    {
+      "english": "Never stop learning, just listen.",
+      "spanish": "Nunca dejes de aprender, solo escucha.",
+      "category": "Patience",
+      "generated_at": "2026-10-02T22:51:40.577236"
+    },
+    {
+      "english": "Your effort matters, truly.",
+      "spanish": "Tu esfuerzo importa, de verdad.",
+      "category": "Patience",
+      "generated_at": "2026-10-02T22:51:40.577253"
     }
   ],
   "used_english": [
-    "never say it, show it",
-    "what nobody tells you, romance grows",
-    "the secret, soften with “contigo”",
-    "never rush—say it like music",
-    "stop saying 'i don't know'",
     "never practice perfect answers",
     "stop overthinking, just respond",
     "the secret? learn verbs in pairs",
@@ -21001,7 +20996,12 @@
     "curious? this word means 'magic'.",
     "momentum starts with this word.",
     "surprise! 'yes' can sound so easy.",
-    "feel this connection? it's 'usted'."
+    "feel this connection? it's 'usted'.",
+    "feel this pause? breathe.",
+    "progress whispers, listen closely.",
+    "this word builds bridges.",
+    "never stop learning, just listen.",
+    "your effort matters, truly."
   ],
-  "last_updated": "2026-10-02T21:10:43.290515"
+  "last_updated": "2026-10-02T22:51:40.577255"
 }
