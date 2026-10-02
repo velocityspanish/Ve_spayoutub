@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear silence, use this",
-      "spanish": "Nunca temas el silencio, usa esto",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-02T21:52:04.790938"
-    },
-    {
-      "english": "The secret: slow your Spanish heart",
-      "spanish": "El secreto: baja tu corazón",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-02T21:52:04.790948"
-    },
-    {
-      "english": "Stop arguing with your mind",
-      "spanish": "Deja de pelear con tu mente",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-02T21:52:04.790956"
-    },
-    {
-      "english": "Never overthink, choose calm words",
-      "spanish": "Nunca sobrepienses, elige palabras",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-02T21:52:04.790965"
-    },
-    {
-      "english": "Stop using “I love you” too soon",
-      "spanish": "Deja de decir “te amo” tan pronto",
-      "category": "Love",
-      "generated_at": "2026-06-02T22:54:55.998659"
-    },
-    {
       "english": "Never say it, show it",
       "spanish": "Nunca lo digas, demuéstralo",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Ánimo: Eres comprendido.",
       "category": "Strength",
       "generated_at": "2026-10-02T19:47:15.236908"
+    },
+    {
+      "english": "Your voice sounds amazing, say 'hola'.",
+      "spanish": "Tu voz suena genial, di 'hola'.",
+      "category": "Confidence",
+      "generated_at": "2026-10-02T21:10:43.290423"
+    },
+    {
+      "english": "Curious? This word means 'magic'.",
+      "spanish": "¿Curioso? Esta palabra es 'mágico'.",
+      "category": "Confidence",
+      "generated_at": "2026-10-02T21:10:43.290458"
+    },
+    {
+      "english": "Momentum starts with this word.",
+      "spanish": "El ánimo empieza con esta palabra.",
+      "category": "Confidence",
+      "generated_at": "2026-10-02T21:10:43.290477"
+    },
+    {
+      "english": "Surprise! 'Yes' can sound so easy.",
+      "spanish": "¡Sorpresa! 'Sí' suena tan fácil.",
+      "category": "Confidence",
+      "generated_at": "2026-10-02T21:10:43.290496"
+    },
+    {
+      "english": "Feel this connection? It's 'usted'.",
+      "spanish": "¿Sientes esta conexión? Es 'usted'.",
+      "category": "Confidence",
+      "generated_at": "2026-10-02T21:10:43.290514"
     }
   ],
   "used_english": [
-    "never fear silence, use this",
-    "the secret: slow your spanish heart",
-    "stop arguing with your mind",
-    "never overthink, choose calm words",
-    "stop using “i love you” too soon",
     "never say it, show it",
     "what nobody tells you, romance grows",
     "the secret, soften with “contigo”",
@@ -21001,7 +20996,12 @@
     "feel the shift? that's progress.",
     "start anywhere, start now.",
     "curious? 'of course' is easy.",
-    "encouragement: you’re understood."
+    "encouragement: you’re understood.",
+    "your voice sounds amazing, say 'hola'.",
+    "curious? this word means 'magic'.",
+    "momentum starts with this word.",
+    "surprise! 'yes' can sound so easy.",
+    "feel this connection? it's 'usted'."
   ],
-  "last_updated": "2026-10-02T19:47:15.236910"
+  "last_updated": "2026-10-02T21:10:43.290515"
 }
