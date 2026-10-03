@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one phrase buys confidence",
-      "spanish": "Esta frase compra confianza",
-      "category": "Courage",
-      "generated_at": "2026-06-03T22:57:13.145757"
-    },
-    {
-      "english": "Stop translating, start narrating out loud",
-      "spanish": "Deja traducir, narra en voz alta",
-      "category": "Courage",
-      "generated_at": "2026-06-03T22:57:13.145768"
-    },
-    {
-      "english": "The secret is tiny sentences today",
-      "spanish": "El secreto son frases cortas hoy",
-      "category": "Courage",
-      "generated_at": "2026-06-03T22:57:13.145780"
-    },
-    {
-      "english": "Never sound perfect, sound real",
-      "spanish": "Nunca suenes perfecto, suena real",
-      "category": "Courage",
-      "generated_at": "2026-06-03T22:57:13.145791"
-    },
-    {
-      "english": "Stop underusing “gracias”, say it twice",
-      "spanish": "Deja de subestimar “gracias”, dilo dos veces",
-      "category": "Gratitude",
-      "generated_at": "2026-06-04T16:21:16.394985"
-    },
-    {
       "english": "Never forget, thank them for effort",
       "spanish": "Nunca olvides, da gracias por el esfuerzo",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu acento importa, abrázalo.",
       "category": "Inspiration",
       "generated_at": "2026-10-03T19:41:25.763305"
+    },
+    {
+      "english": "Friendship's sweet sound?",
+      "spanish": "¿El dulce sonido de la amistad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T22:02:50.305345"
+    },
+    {
+      "english": "One word connects us.",
+      "spanish": "Una palabra nos conecta.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T22:02:50.305365"
+    },
+    {
+      "english": "Your laughter is gold.",
+      "spanish": "Tu risa es oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T22:02:50.305379"
+    },
+    {
+      "english": "Feel this bond?",
+      "spanish": "¿Sientes este vínculo?",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T22:02:50.305392"
+    },
+    {
+      "english": "Trust this feeling always.",
+      "spanish": "Confía en este sentimiento siempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T22:02:50.305406"
     }
   ],
   "used_english": [
-    "this one phrase buys confidence",
-    "stop translating, start narrating out loud",
-    "the secret is tiny sentences today",
-    "never sound perfect, sound real",
-    "stop underusing “gracias”, say it twice",
     "never forget, thank them for effort",
     "this is why “te lo agradezco” works",
     "the secret? thank, then share a memory",
@@ -21001,7 +20996,12 @@
     "curious? the sound of 'now'.",
     "encouragement: you sound amazing.",
     "surprise! 'tomorrow' is hopeful.",
-    "your accent matters, embrace it."
+    "your accent matters, embrace it.",
+    "friendship's sweet sound?",
+    "one word connects us.",
+    "your laughter is gold.",
+    "feel this bond?",
+    "trust this feeling always."
   ],
-  "last_updated": "2026-10-03T19:41:25.763307"
+  "last_updated": "2026-10-03T22:02:50.305408"
 }
