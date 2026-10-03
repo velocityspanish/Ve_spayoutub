@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What nobody tells you, keep going",
-      "spanish": "Lo que nadie dice, sigue",
-      "category": "Perseverance",
-      "generated_at": "2026-06-03T20:18:20.245662"
-    },
-    {
-      "english": "Stop skipping reps, do it daily",
-      "spanish": "Deja saltarte reps, hazlo diario",
-      "category": "Perseverance",
-      "generated_at": "2026-06-03T20:18:20.245674"
-    },
-    {
-      "english": "Never quit after one bad day",
-      "spanish": "Nunca renuncies tras un mal día",
-      "category": "Perseverance",
-      "generated_at": "2026-06-03T20:18:20.245685"
-    },
-    {
-      "english": "The secret? Practice with one verb",
-      "spanish": "El secreto: practica con un verbo",
-      "category": "Perseverance",
-      "generated_at": "2026-06-03T20:18:20.245697"
-    },
-    {
-      "english": "Stop guessing, use this template",
-      "spanish": "Deja de adivinar, usa esta plantilla",
-      "category": "Growth",
-      "generated_at": "2026-06-03T21:53:40.110627"
-    },
-    {
       "english": "Never sound robotic, add emotion",
       "spanish": "Nunca suenes robótico, añade emoción",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Tus palabras importan.",
       "category": "Courage",
       "generated_at": "2026-10-03T17:02:58.571348"
+    },
+    {
+      "english": "The secret? Speak more often.",
+      "spanish": "El secreto: habla más a menudo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-03T18:34:26.366151"
+    },
+    {
+      "english": "Breathe deep, feel 'peace'.",
+      "spanish": "Respira hondo, siente 'paz'.",
+      "category": "Kindness",
+      "generated_at": "2026-10-03T18:34:26.366185"
+    },
+    {
+      "english": "This word opens opportunities.",
+      "spanish": "Esta palabra abre oportunidades.",
+      "category": "Kindness",
+      "generated_at": "2026-10-03T18:34:26.366212"
+    },
+    {
+      "english": "Want clarity? Listen carefully.",
+      "spanish": "¿Quieres claridad? Escucha atentamente.",
+      "category": "Kindness",
+      "generated_at": "2026-10-03T18:34:26.366239"
+    },
+    {
+      "english": "Why this word matters so much.",
+      "spanish": "¿Por qué esta palabra importa tanto?",
+      "category": "Kindness",
+      "generated_at": "2026-10-03T18:34:26.366265"
     }
   ],
   "used_english": [
-    "what nobody tells you, keep going",
-    "stop skipping reps, do it daily",
-    "never quit after one bad day",
-    "the secret? practice with one verb",
-    "stop guessing, use this template",
     "never sound robotic, add emotion",
     "the secret, speak in present mode",
     "stop reviewing, start shadowing now",
@@ -21001,7 +20996,12 @@
     "momentum begins with 'yo'.",
     "feel this courage grow, now.",
     "curious? 'you can' is powerful.",
-    "surprise! your words matter."
+    "surprise! your words matter.",
+    "the secret? speak more often.",
+    "breathe deep, feel 'peace'.",
+    "this word opens opportunities.",
+    "want clarity? listen carefully.",
+    "why this word matters so much."
   ],
-  "last_updated": "2026-10-03T17:02:58.571350"
+  "last_updated": "2026-10-03T18:34:26.366267"
 }
