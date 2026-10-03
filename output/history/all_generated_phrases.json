@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never overthink, ask “¿en serio?”",
-      "spanish": "No pienses de más, di “¿en serio?”",
-      "category": "Patience",
-      "generated_at": "2026-06-03T18:44:57.754996"
-    },
-    {
-      "english": "Stop guessing genders, use “uno”",
-      "spanish": "Deja de adivinar géneros, usa “uno”",
-      "category": "Patience",
-      "generated_at": "2026-06-03T18:44:57.755008"
-    },
-    {
-      "english": "The secret? Say it like a joke",
-      "spanish": "El secreto, dilo como un chiste",
-      "category": "Patience",
-      "generated_at": "2026-06-03T18:44:57.755020"
-    },
-    {
-      "english": "Never quit “pero,” just pivot",
-      "spanish": "No abandones “pero”, solo cambia",
-      "category": "Patience",
-      "generated_at": "2026-06-03T18:44:57.755031"
-    },
-    {
-      "english": "Never fear pauses, you’re learning",
-      "spanish": "Nunca temas pausas, estás aprendiendo",
-      "category": "Perseverance",
-      "generated_at": "2026-06-03T20:18:20.245643"
-    },
-    {
       "english": "What nobody tells you, keep going",
       "spanish": "Lo que nadie dice, sigue",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! Gratitud tiene nombres.",
       "category": "Gratitude",
       "generated_at": "2026-10-03T00:03:06.239701"
+    },
+    {
+      "english": "Dare to begin, always.",
+      "spanish": "Atrévete a empezar, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-10-03T17:02:58.571274"
+    },
+    {
+      "english": "Momentum begins with 'yo'.",
+      "spanish": "El impulso empieza con 'yo'.",
+      "category": "Courage",
+      "generated_at": "2026-10-03T17:02:58.571300"
+    },
+    {
+      "english": "Feel this courage grow, now.",
+      "spanish": "Siente crecer este coraje, ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-03T17:02:58.571316"
+    },
+    {
+      "english": "Curious? 'You can' is powerful.",
+      "spanish": "¿Curioso? 'Tú puedes' es fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-10-03T17:02:58.571333"
+    },
+    {
+      "english": "Surprise! Your words matter.",
+      "spanish": "¡Sorpresa! Tus palabras importan.",
+      "category": "Courage",
+      "generated_at": "2026-10-03T17:02:58.571348"
     }
   ],
   "used_english": [
-    "never overthink, ask “¿en serio?”",
-    "stop guessing genders, use “uno”",
-    "the secret? say it like a joke",
-    "never quit “pero,” just pivot",
-    "never fear pauses, you’re learning",
     "what nobody tells you, keep going",
     "stop skipping reps, do it daily",
     "never quit after one bad day",
@@ -21001,7 +20996,12 @@
     "the simplest way to express thanks?",
     "feel this gratitude? it's magic.",
     "never underestimate this powerful word.",
-    "surprise! gratitude has many names."
+    "surprise! gratitude has many names.",
+    "dare to begin, always.",
+    "momentum begins with 'yo'.",
+    "feel this courage grow, now.",
+    "curious? 'you can' is powerful.",
+    "surprise! your words matter."
   ],
-  "last_updated": "2026-10-03T00:03:06.239703"
+  "last_updated": "2026-10-03T17:02:58.571350"
 }
