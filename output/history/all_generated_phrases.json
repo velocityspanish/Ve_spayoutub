@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never practice perfect answers",
-      "spanish": "Nunca practiques respuestas perfectas",
-      "category": "Strength",
-      "generated_at": "2026-06-03T18:00:55.287455"
-    },
-    {
-      "english": "Stop overthinking, just respond",
-      "spanish": "Deja de sobrepensar, responde",
-      "category": "Strength",
-      "generated_at": "2026-06-03T18:00:55.287467"
-    },
-    {
-      "english": "The secret? Learn verbs in pairs",
-      "spanish": "El secreto, aprende verbos en pares",
-      "category": "Strength",
-      "generated_at": "2026-06-03T18:00:55.287479"
-    },
-    {
-      "english": "Never fear small conversations",
-      "spanish": "No temas conversaciones pequeñas",
-      "category": "Strength",
-      "generated_at": "2026-06-03T18:00:55.287491"
-    },
-    {
-      "english": "Stop saying “later,” say “ahora”",
-      "spanish": "Deja de decir “luego”, di “ahora”",
-      "category": "Patience",
-      "generated_at": "2026-06-03T18:44:57.754978"
-    },
-    {
       "english": "Never overthink, ask “¿en serio?”",
       "spanish": "No pienses de más, di “¿en serio?”",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu esfuerzo importa, de verdad.",
       "category": "Patience",
       "generated_at": "2026-10-02T22:51:40.577253"
+    },
+    {
+      "english": "Future you, thanks you for this.",
+      "spanish": "Tu futuro te lo agradece.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-03T00:03:06.239620"
+    },
+    {
+      "english": "The simplest way to express thanks?",
+      "spanish": "¿La forma más fácil de agradecer?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-03T00:03:06.239648"
+    },
+    {
+      "english": "Feel this gratitude? It's magic.",
+      "spanish": "¿Sientes gratitud? Es magia.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-03T00:03:06.239666"
+    },
+    {
+      "english": "Never underestimate this powerful word.",
+      "spanish": "No subestimes esta palabra.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-03T00:03:06.239683"
+    },
+    {
+      "english": "Surprise! Gratitude has many names.",
+      "spanish": "¡Sorpresa! Gratitud tiene nombres.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-03T00:03:06.239701"
     }
   ],
   "used_english": [
-    "never practice perfect answers",
-    "stop overthinking, just respond",
-    "the secret? learn verbs in pairs",
-    "never fear small conversations",
-    "stop saying “later,” say “ahora”",
     "never overthink, ask “¿en serio?”",
     "stop guessing genders, use “uno”",
     "the secret? say it like a joke",
@@ -21001,7 +20996,12 @@
     "progress whispers, listen closely.",
     "this word builds bridges.",
     "never stop learning, just listen.",
-    "your effort matters, truly."
+    "your effort matters, truly.",
+    "future you, thanks you for this.",
+    "the simplest way to express thanks?",
+    "feel this gratitude? it's magic.",
+    "never underestimate this powerful word.",
+    "surprise! gratitude has many names."
   ],
-  "last_updated": "2026-10-02T22:51:40.577255"
+  "last_updated": "2026-10-03T00:03:06.239703"
 }
