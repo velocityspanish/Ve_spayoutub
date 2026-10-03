@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never forget, thank them for effort",
-      "spanish": "Nunca olvides, da gracias por el esfuerzo",
-      "category": "Gratitude",
-      "generated_at": "2026-06-04T16:21:16.395006"
-    },
-    {
-      "english": "This is why “te lo agradezco” works",
-      "spanish": "Esto es por qué “te lo agradezco” funciona",
-      "category": "Gratitude",
-      "generated_at": "2026-06-04T16:21:16.395019"
-    },
-    {
-      "english": "The secret? Thank, then share a memory",
-      "spanish": "El secreto: agradece, luego comparte un recuerdo",
-      "category": "Gratitude",
-      "generated_at": "2026-06-04T16:21:16.395030"
-    },
-    {
-      "english": "Stop waiting, send a quick thanks",
-      "spanish": "No esperes, manda un gracias rápido",
-      "category": "Gratitude",
-      "generated_at": "2026-06-04T16:21:16.395041"
-    },
-    {
-      "english": "Never say “sorry”, just thank",
-      "spanish": "Nunca digas “lo siento”, solo gracias",
-      "category": "Positive Life",
-      "generated_at": "2026-06-04T17:46:27.093994"
-    },
-    {
       "english": "Stop using English at work",
       "spanish": "Deja de usar inglés en trabajo",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Confía en este sentimiento siempre.",
       "category": "Friendship",
       "generated_at": "2026-10-03T22:02:50.305406"
+    },
+    {
+      "english": "Friendship's secret? 'Juntos'.",
+      "spanish": "Amistad: ¿secreto? 'Juntos'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:25:48.123719"
+    },
+    {
+      "english": "This word means 'always with you'.",
+      "spanish": "Esta palabra significa 'siempre contigo'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:25:48.123755"
+    },
+    {
+      "english": "Surprise! Your friends need this.",
+      "spanish": "¡Sorpresa! Tus amigos necesitan esto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:25:48.123783"
+    },
+    {
+      "english": "Curious? Say 'mi gente' today.",
+      "spanish": "¿Curioso? Di 'mi gente' hoy.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:25:48.123810"
+    },
+    {
+      "english": "One word for shared adventures.",
+      "spanish": "Una palabra, aventuras compartidas.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:25:48.123837"
     }
   ],
   "used_english": [
-    "never forget, thank them for effort",
-    "this is why “te lo agradezco” works",
-    "the secret? thank, then share a memory",
-    "stop waiting, send a quick thanks",
-    "never say “sorry”, just thank",
     "stop using english at work",
     "never overdo, just one question",
     "stop blaming yourself, try “otra vez”",
@@ -21001,7 +20996,12 @@
     "one word connects us.",
     "your laughter is gold.",
     "feel this bond?",
-    "trust this feeling always."
+    "trust this feeling always.",
+    "friendship's secret? 'juntos'.",
+    "this word means 'always with you'.",
+    "surprise! your friends need this.",
+    "curious? say 'mi gente' today.",
+    "one word for shared adventures."
   ],
-  "last_updated": "2026-10-03T22:02:50.305408"
+  "last_updated": "2026-10-03T23:25:48.123839"
 }
