@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overcorrecting, keep moving forward",
-      "spanish": "Deja de corregir, sigue",
-      "category": "Balance",
-      "generated_at": "2026-06-05T15:56:34.566731"
-    },
-    {
-      "english": "Never say “maybe”, say “I’m going”",
-      "spanish": "No digas “quizás”, di “voy”",
-      "category": "Balance",
-      "generated_at": "2026-06-05T15:56:34.566744"
-    },
-    {
-      "english": "This tiny pause fixes your flow",
-      "spanish": "Esa pausa arregla tu ritmo",
-      "category": "Balance",
-      "generated_at": "2026-06-05T15:56:34.566757"
-    },
-    {
-      "english": "Stop memorizing, start describing out loud",
-      "spanish": "Deja memorizar, describe en voz alta",
-      "category": "Balance",
-      "generated_at": "2026-06-05T15:56:34.566767"
-    },
-    {
-      "english": "Never study alone, borrow momentum",
-      "spanish": "Nunca estudies solo, toma impulso",
-      "category": "Wisdom",
-      "generated_at": "2026-06-05T17:20:23.495315"
-    },
-    {
       "english": "Never ask 'why', ask 'how do you'",
       "spanish": "No preguntes 'por qué', pregunta 'cómo'",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? El secreto es 'yo'.",
       "category": "Inner Peace",
       "generated_at": "2026-10-04T22:15:39.028599"
+    },
+    {
+      "english": "Your voice matters, hear this.",
+      "spanish": "Tu voz importa, oye esto.",
+      "category": "Joy",
+      "generated_at": "2026-10-04T23:40:33.210058"
+    },
+    {
+      "english": "Unlock joy with one word.",
+      "spanish": "Desbloquea alegría con una palabra.",
+      "category": "Joy",
+      "generated_at": "2026-10-04T23:40:33.210090"
+    },
+    {
+      "english": "Wisdom: Every journey starts.",
+      "spanish": "Sabiduría: Cada viaje empieza.",
+      "category": "Joy",
+      "generated_at": "2026-10-04T23:40:33.210109"
+    },
+    {
+      "english": "Feel this? Pure 'gratitude'.",
+      "spanish": "¿Sientes esto? Pura 'gratitud'.",
+      "category": "Joy",
+      "generated_at": "2026-10-04T23:40:33.210127"
+    },
+    {
+      "english": "Dare to shine, say 'brilla'.",
+      "spanish": "Atrévete a brillar, di 'brilla'.",
+      "category": "Joy",
+      "generated_at": "2026-10-04T23:40:33.210145"
     }
   ],
   "used_english": [
-    "stop overcorrecting, keep moving forward",
-    "never say “maybe”, say “i’m going”",
-    "this tiny pause fixes your flow",
-    "stop memorizing, start describing out loud",
-    "never study alone, borrow momentum",
     "never ask 'why', ask 'how do you'",
     "never quit mid-story, keep going",
     "this is why natives reply kindly",
@@ -21001,7 +20996,12 @@
     "what if simplicity wins?",
     "wisdom: just breathe it.",
     "your presence matters, always.",
-    "curious? the secret is 'yo'."
+    "curious? the secret is 'yo'.",
+    "your voice matters, hear this.",
+    "unlock joy with one word.",
+    "wisdom: every journey starts.",
+    "feel this? pure 'gratitude'.",
+    "dare to shine, say 'brilla'."
   ],
-  "last_updated": "2026-10-04T22:15:39.028601"
+  "last_updated": "2026-10-04T23:40:33.210147"
 }
