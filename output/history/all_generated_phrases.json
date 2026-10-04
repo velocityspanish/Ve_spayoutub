@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, add one “by the way”",
-      "spanish": "El secreto, mete un “por cierto”",
-      "category": "Strength",
-      "generated_at": "2026-06-04T19:23:38.701621"
-    },
-    {
-      "english": "Stop hunting words, build chunks",
-      "spanish": "Deja de buscar palabras, arma bloques",
-      "category": "Strength",
-      "generated_at": "2026-06-04T19:23:38.701634"
-    },
-    {
-      "english": "This tiny word boosts every sentence",
-      "spanish": "Esta palabra pequeña mejora todo",
-      "category": "Strength",
-      "generated_at": "2026-06-04T19:23:38.701646"
-    },
-    {
-      "english": "Stop overthinking, speak the feeling",
-      "spanish": "Deja de sobrepensar, di la emoción",
-      "category": "Strength",
-      "generated_at": "2026-06-04T19:23:38.701657"
-    },
-    {
-      "english": "Never rush, breathe, then say it",
-      "spanish": "Nunca corras, respira, y di",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-04T20:59:36.753549"
-    },
-    {
       "english": "Stop training Spanish in silence",
       "spanish": "Deja de practicar español en silencio",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Eres más comprendido de lo que crees.",
       "category": "Hope",
       "generated_at": "2026-10-04T17:20:43.278058"
+    },
+    {
+      "english": "Why forgive? It frees you.",
+      "spanish": "¿Por qué perdonar? Te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-04T18:32:45.206017"
+    },
+    {
+      "english": "This word lifts burdens.",
+      "spanish": "Esta palabra alivia cargas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-04T18:32:45.206051"
+    },
+    {
+      "english": "Curious? 'I forgive you' sounds calm.",
+      "spanish": "¿Curioso? 'Te perdono' suena tranquilo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-04T18:32:45.206078"
+    },
+    {
+      "english": "Wisdom: Forgiveness heals the soul.",
+      "spanish": "Sabiduría: El perdón sana el alma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-04T18:32:45.206104"
+    },
+    {
+      "english": "You don't have to forget.",
+      "spanish": "No tienes que olvidar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-04T18:32:45.206130"
     }
   ],
   "used_english": [
-    "the secret, add one “by the way”",
-    "stop hunting words, build chunks",
-    "this tiny word boosts every sentence",
-    "stop overthinking, speak the feeling",
-    "never rush, breathe, then say it",
     "stop training spanish in silence",
     "never memorize, live the moment",
     "stop overthinking, listen first, trust",
@@ -21001,7 +20996,12 @@
     "want to connect? listen.",
     "surprise! 'together' feels amazing.",
     "embrace the rhythm, flow.",
-    "you are more understood than you think."
+    "you are more understood than you think.",
+    "why forgive? it frees you.",
+    "this word lifts burdens.",
+    "curious? 'i forgive you' sounds calm.",
+    "wisdom: forgiveness heals the soul.",
+    "you don't have to forget."
   ],
-  "last_updated": "2026-10-04T17:20:43.278061"
+  "last_updated": "2026-10-04T18:32:45.206132"
 }
