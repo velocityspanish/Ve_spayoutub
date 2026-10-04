@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Start with one clear word",
-      "spanish": "El secreto, empieza con una palabra",
-      "category": "Courage",
-      "generated_at": "2026-06-04T22:15:56.604993"
-    },
-    {
-      "english": "Stop overthinking, just say 'sí' first",
-      "spanish": "Deja de pensar, di 'sí' primero",
-      "category": "Courage",
-      "generated_at": "2026-06-04T22:15:56.605005"
-    },
-    {
-      "english": "Never apologize, just try again",
-      "spanish": "No pidas perdón, inténtalo otra vez",
-      "category": "Courage",
-      "generated_at": "2026-06-04T22:15:56.605018"
-    },
-    {
-      "english": "Your accent is your superpower",
-      "spanish": "Tu acento es tu superpoder",
-      "category": "Courage",
-      "generated_at": "2026-06-04T22:15:56.605030"
-    },
-    {
-      "english": "Stop translating, just paraphrase",
-      "spanish": "Deja de traducir, parafrasea",
-      "category": "Balance",
-      "generated_at": "2026-06-05T15:56:34.566712"
-    },
-    {
       "english": "Stop overcorrecting, keep moving forward",
       "spanish": "Deja de corregir, sigue",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: Empieza, imperfecto.",
       "category": "Courage",
       "generated_at": "2026-10-04T19:54:49.571370"
+    },
+    {
+      "english": "Your calm is a choice.",
+      "spanish": "Tu calma es una elección.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-04T22:15:39.028504"
+    },
+    {
+      "english": "What if simplicity wins?",
+      "spanish": "¿Qué si la simplicidad gana?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-04T22:15:39.028535"
+    },
+    {
+      "english": "Wisdom: Just breathe it.",
+      "spanish": "Sabiduría: Solo respíralo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-04T22:15:39.028556"
+    },
+    {
+      "english": "Your presence matters, always.",
+      "spanish": "Tu presencia importa, siempre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-04T22:15:39.028578"
+    },
+    {
+      "english": "Curious? The secret is 'yo'.",
+      "spanish": "¿Curioso? El secreto es 'yo'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-04T22:15:39.028599"
     }
   ],
   "used_english": [
-    "the secret? start with one clear word",
-    "stop overthinking, just say 'sí' first",
-    "never apologize, just try again",
-    "your accent is your superpower",
-    "stop translating, just paraphrase",
     "stop overcorrecting, keep moving forward",
     "never say “maybe”, say “i’m going”",
     "this tiny pause fixes your flow",
@@ -21001,7 +20996,12 @@
     "your courage blooms now.",
     "this single word is bravery.",
     "surprise! you're already strong.",
-    "wisdom: begin, imperfectly."
+    "wisdom: begin, imperfectly.",
+    "your calm is a choice.",
+    "what if simplicity wins?",
+    "wisdom: just breathe it.",
+    "your presence matters, always.",
+    "curious? the secret is 'yo'."
   ],
-  "last_updated": "2026-10-04T19:54:49.571372"
+  "last_updated": "2026-10-04T22:15:39.028601"
 }
