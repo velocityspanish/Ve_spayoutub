@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop training Spanish in silence",
-      "spanish": "Deja de practicar español en silencio",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-04T20:59:36.753574"
-    },
-    {
-      "english": "Never memorize, live the moment",
-      "spanish": "Nunca memorices, vive el momento",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-04T20:59:36.753587"
-    },
-    {
-      "english": "Stop overthinking, listen first, trust",
-      "spanish": "Deja de sobrepensar, escucha primero",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-04T20:59:36.753598"
-    },
-    {
-      "english": "Never fear “wrong”, choose curiosity",
-      "spanish": "No temas “mal”, elige curiosidad",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-04T20:59:36.753611"
-    },
-    {
-      "english": "This is why you’ll speak today",
-      "spanish": "Por eso hablarás hoy",
-      "category": "Courage",
-      "generated_at": "2026-06-04T22:15:56.604970"
-    },
-    {
       "english": "The secret? Start with one clear word",
       "spanish": "El secreto, empieza con una palabra",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "No tienes que olvidar.",
       "category": "Forgiveness",
       "generated_at": "2026-10-04T18:32:45.206130"
+    },
+    {
+      "english": "Dare to speak, my friend.",
+      "spanish": "Atrévete a hablar, mi amigo.",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:54:49.571240"
+    },
+    {
+      "english": "Your courage blooms now.",
+      "spanish": "Tu valentía florece ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:54:49.571290"
+    },
+    {
+      "english": "This single word is bravery.",
+      "spanish": "Esta sola palabra es valentía.",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:54:49.571317"
+    },
+    {
+      "english": "Surprise! You're already strong.",
+      "spanish": "¡Sorpresa! Ya eres fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:54:49.571344"
+    },
+    {
+      "english": "Wisdom: Begin, imperfectly.",
+      "spanish": "Sabiduría: Empieza, imperfecto.",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:54:49.571370"
     }
   ],
   "used_english": [
-    "stop training spanish in silence",
-    "never memorize, live the moment",
-    "stop overthinking, listen first, trust",
-    "never fear “wrong”, choose curiosity",
-    "this is why you’ll speak today",
     "the secret? start with one clear word",
     "stop overthinking, just say 'sí' first",
     "never apologize, just try again",
@@ -21001,7 +20996,12 @@
     "this word lifts burdens.",
     "curious? 'i forgive you' sounds calm.",
     "wisdom: forgiveness heals the soul.",
-    "you don't have to forget."
+    "you don't have to forget.",
+    "dare to speak, my friend.",
+    "your courage blooms now.",
+    "this single word is bravery.",
+    "surprise! you're already strong.",
+    "wisdom: begin, imperfectly."
   ],
-  "last_updated": "2026-10-04T18:32:45.206132"
+  "last_updated": "2026-10-04T19:54:49.571372"
 }
