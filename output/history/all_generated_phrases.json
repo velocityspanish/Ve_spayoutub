@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop using English at work",
-      "spanish": "Deja de usar inglés en trabajo",
-      "category": "Positive Life",
-      "generated_at": "2026-06-04T17:46:27.094048"
-    },
-    {
-      "english": "Never overdo, just one question",
-      "spanish": "Nunca te pases, solo una pregunta",
-      "category": "Positive Life",
-      "generated_at": "2026-06-04T17:46:27.094063"
-    },
-    {
-      "english": "Stop blaming yourself, try “otra vez”",
-      "spanish": "No te culpes, prueba “otra vez”",
-      "category": "Positive Life",
-      "generated_at": "2026-06-04T17:46:27.094075"
-    },
-    {
-      "english": "Never fear accents, say it your way",
-      "spanish": "No temas el acento, dilo a tu modo",
-      "category": "Positive Life",
-      "generated_at": "2026-06-04T17:46:27.094087"
-    },
-    {
-      "english": "Stop saying “hello” first, try this",
-      "spanish": "Deja de decir “hola” primero, prueba esto",
-      "category": "Strength",
-      "generated_at": "2026-06-04T19:23:38.701599"
-    },
-    {
       "english": "The secret, add one “by the way”",
       "spanish": "El secreto, mete un “por cierto”",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Una palabra, aventuras compartidas.",
       "category": "Friendship",
       "generated_at": "2026-10-03T23:25:48.123837"
+    },
+    {
+      "english": "This tiny word means 'why'.",
+      "spanish": "Esta palabra significa 'por qué'.",
+      "category": "Hope",
+      "generated_at": "2026-10-04T17:20:43.277945"
+    },
+    {
+      "english": "Want to connect? Listen.",
+      "spanish": "¿Quieres conectar? Escucha.",
+      "category": "Hope",
+      "generated_at": "2026-10-04T17:20:43.277980"
+    },
+    {
+      "english": "Surprise! 'Together' feels amazing.",
+      "spanish": "¡Sorpresa! 'Juntos' se siente genial.",
+      "category": "Hope",
+      "generated_at": "2026-10-04T17:20:43.278008"
+    },
+    {
+      "english": "Embrace the rhythm, flow.",
+      "spanish": "Abraza el ritmo, fluye.",
+      "category": "Hope",
+      "generated_at": "2026-10-04T17:20:43.278033"
+    },
+    {
+      "english": "You are more understood than you think.",
+      "spanish": "Eres más comprendido de lo que crees.",
+      "category": "Hope",
+      "generated_at": "2026-10-04T17:20:43.278058"
     }
   ],
   "used_english": [
-    "stop using english at work",
-    "never overdo, just one question",
-    "stop blaming yourself, try “otra vez”",
-    "never fear accents, say it your way",
-    "stop saying “hello” first, try this",
     "the secret, add one “by the way”",
     "stop hunting words, build chunks",
     "this tiny word boosts every sentence",
@@ -21001,7 +20996,12 @@
     "this word means 'always with you'.",
     "surprise! your friends need this.",
     "curious? say 'mi gente' today.",
-    "one word for shared adventures."
+    "one word for shared adventures.",
+    "this tiny word means 'why'.",
+    "want to connect? listen.",
+    "surprise! 'together' feels amazing.",
+    "embrace the rhythm, flow.",
+    "you are more understood than you think."
   ],
-  "last_updated": "2026-10-03T23:25:48.123839"
+  "last_updated": "2026-10-04T17:20:43.278061"
 }
