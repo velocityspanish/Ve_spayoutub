@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... use 'me' first",
-      "spanish": "El secreto... usa 'me' primero",
-      "category": "Patience",
-      "generated_at": "2026-06-05T18:58:00.098101"
-    },
-    {
-      "english": "This trick makes Spanish feel automatic",
-      "spanish": "Este truco hace el español automático",
-      "category": "Patience",
-      "generated_at": "2026-06-05T18:58:00.098114"
-    },
-    {
-      "english": "Stop translating, describe what you see",
-      "spanish": "No traduzcas, describe lo que ves",
-      "category": "Patience",
-      "generated_at": "2026-06-05T18:58:00.098125"
-    },
-    {
-      "english": "Never delay, answer with 'sí, pero'",
-      "spanish": "No esperes, responde con 'sí, pero'",
-      "category": "Patience",
-      "generated_at": "2026-06-05T18:58:00.098139"
-    },
-    {
-      "english": "The secret... end sentences with “¿no?”",
-      "spanish": "El secreto... termina con “¿no?”",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T20:49:40.119604"
-    },
-    {
       "english": "The secret... practice one weekday sentence",
       "spanish": "El secreto... practica una frase diaria",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca dudes del poder de tu voz.",
       "category": "Gratitude",
       "generated_at": "2026-10-05T21:51:34.144626"
+    },
+    {
+      "english": "What if 'slowly' unlocks fluency?",
+      "spanish": "What if 'slowly' unlocks fluency?",
+      "category": "Motivation",
+      "generated_at": "2026-10-05T23:04:27.738092"
+    },
+    {
+      "english": "Surprise! 'It's complicated' is simple.",
+      "spanish": "Surprise! 'It's complicated' is simple.",
+      "category": "Motivation",
+      "generated_at": "2026-10-05T23:04:27.738127"
+    },
+    {
+      "english": "Want to belong? Say 'aquí'.",
+      "spanish": "Want to belong? Say 'here'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-05T23:04:27.738156"
+    },
+    {
+      "english": "Feel this calm? It's 'calma'.",
+      "spanish": "Feel this calm? It's 'calm'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-05T23:04:27.738184"
+    },
+    {
+      "english": "Encouragement: You're making progress.",
+      "spanish": "Encouragement: You're making progress.",
+      "category": "Motivation",
+      "generated_at": "2026-10-05T23:04:27.738209"
     }
   ],
   "used_english": [
-    "the secret... use 'me' first",
-    "this trick makes spanish feel automatic",
-    "stop translating, describe what you see",
-    "never delay, answer with 'sí, pero'",
-    "the secret... end sentences with “¿no?”",
     "the secret... practice one weekday sentence",
     "stop apologizing, say “gracias, listo”",
     "never quit, even after one mistake",
@@ -21001,7 +20996,12 @@
     "your effort sparks something new.",
     "this sounds like progress, yes!",
     "one word builds entire worlds.",
-    "never doubt your voice's power."
+    "never doubt your voice's power.",
+    "what if 'slowly' unlocks fluency?",
+    "surprise! 'it's complicated' is simple.",
+    "want to belong? say 'aquí'.",
+    "feel this calm? it's 'calma'.",
+    "encouragement: you're making progress."
   ],
-  "last_updated": "2026-10-05T21:51:34.144628"
+  "last_updated": "2026-10-05T23:04:27.738212"
 }
