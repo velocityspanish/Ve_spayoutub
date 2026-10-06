@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study grammar first, listen",
-      "spanish": "Nunca estudies gramática primero, escucha",
-      "category": "Wisdom",
-      "generated_at": "2026-06-06T20:12:50.234185"
-    },
-    {
-      "english": "Stop chasing perfect, chase readable",
-      "spanish": "Deja de buscar perfecto, busca claro",
-      "category": "Wisdom",
-      "generated_at": "2026-06-06T20:12:50.234198"
-    },
-    {
-      "english": "Never panic, use 'Estoy bien'",
-      "spanish": "Nunca entres en pánico, usa «Estoy bien»",
-      "category": "Wisdom",
-      "generated_at": "2026-06-06T20:12:50.234211"
-    },
-    {
-      "english": "Stop thinking in English, speak Spanish",
-      "spanish": "Deja de pensar en inglés, habla español",
-      "category": "Wisdom",
-      "generated_at": "2026-06-06T20:12:50.234223"
-    },
-    {
-      "english": "Stop freezing, say “tranquilo” first",
-      "spanish": "Deja de congelarte, di “tranquilo” primero",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T21:54:23.361428"
-    },
-    {
       "english": "Never text “hey”, ask this",
       "spanish": "Nunca mandes “hey”, pregunta esto",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Este lazo, es destino.",
       "category": "Love",
       "generated_at": "2026-10-06T21:27:18.600032"
+    },
+    {
+      "english": "Feel this peace? Say 'tranquilo'.",
+      "spanish": "Siente esta paz? Di 'tranquilo'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-06T22:57:03.755351"
+    },
+    {
+      "english": "Your calm voice, say 'suave'.",
+      "spanish": "Tu voz calmada, di 'suave'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-06T22:57:03.755386"
+    },
+    {
+      "english": "Want to connect deeply? Listen.",
+      "spanish": "¿Quieres conectar profundamente? Escucha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-06T22:57:03.755432"
+    },
+    {
+      "english": "Momentum starts with just this.",
+      "spanish": "El impulso comienza solo con esto.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-06T22:57:03.755461"
+    },
+    {
+      "english": "Dare to start, feel freedom.",
+      "spanish": "Atrévete a empezar, siente libertad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-06T22:57:03.755488"
     }
   ],
   "used_english": [
-    "never study grammar first, listen",
-    "stop chasing perfect, chase readable",
-    "never panic, use 'estoy bien'",
-    "stop thinking in english, speak spanish",
-    "stop freezing, say “tranquilo” first",
     "never text “hey”, ask this",
     "the secret? laugh together, always",
     "never dodge, say “cuéntame” today",
@@ -21001,7 +20996,12 @@
     "this feeling? pure 'te amo'.",
     "what if 'forever' is real?",
     "your soulmate is calling.",
-    "this bond, it's destiny."
+    "this bond, it's destiny.",
+    "feel this peace? say 'tranquilo'.",
+    "your calm voice, say 'suave'.",
+    "want to connect deeply? listen.",
+    "momentum starts with just this.",
+    "dare to start, feel freedom."
   ],
-  "last_updated": "2026-10-06T21:27:18.600034"
+  "last_updated": "2026-10-06T22:57:03.755490"
 }
