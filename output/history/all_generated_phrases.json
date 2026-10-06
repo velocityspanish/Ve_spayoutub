@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... ask, then pause",
-      "spanish": "El secreto... pregunta, y espera",
-      "category": "Motivation",
-      "generated_at": "2026-06-05T22:08:37.596841"
-    },
-    {
-      "english": "Never explain, just point",
-      "spanish": "Nunca expliques, solo señala",
-      "category": "Motivation",
-      "generated_at": "2026-06-05T22:08:37.596852"
-    },
-    {
-      "english": "Stop deleting, send the voice",
-      "spanish": "Deja de borrar, manda la voz",
-      "category": "Motivation",
-      "generated_at": "2026-06-05T22:08:37.596864"
-    },
-    {
-      "english": "Stop switching, keep one tense",
-      "spanish": "Deja de cambiar, usa un tiempo",
-      "category": "Motivation",
-      "generated_at": "2026-06-05T22:08:37.596876"
-    },
-    {
-      "english": "Never say “I’m trying,” say this",
-      "spanish": "Nunca digas “estoy intentando”, di esto",
-      "category": "Inspiration",
-      "generated_at": "2026-06-06T14:43:23.846141"
-    },
-    {
       "english": "Stop perfecting, start storytelling today",
       "spanish": "Deja de perfeccionar, cuenta historias hoy",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Acepta el desafío hoy.",
       "category": "Courage",
       "generated_at": "2026-10-06T00:41:28.646194"
+    },
+    {
+      "english": "Wisdom: Connect with silence.",
+      "spanish": "Sabiduría: Conecta con calma.",
+      "category": "Creativity",
+      "generated_at": "2026-10-06T01:35:18.450697"
+    },
+    {
+      "english": "Feel this simple power.",
+      "spanish": "Siente este poder simple.",
+      "category": "Creativity",
+      "generated_at": "2026-10-06T01:35:18.450722"
+    },
+    {
+      "english": "Momentum starts with a breath.",
+      "spanish": "El impulso empieza con un respiro.",
+      "category": "Creativity",
+      "generated_at": "2026-10-06T01:35:18.450738"
+    },
+    {
+      "english": "Encouragement: Your voice resonates.",
+      "spanish": "Ánimo: Tu voz resuena.",
+      "category": "Creativity",
+      "generated_at": "2026-10-06T01:35:18.450755"
+    },
+    {
+      "english": "This word is your superpower.",
+      "spanish": "Esta palabra es tu superpoder.",
+      "category": "Creativity",
+      "generated_at": "2026-10-06T01:35:18.450771"
     }
   ],
   "used_english": [
-    "the secret... ask, then pause",
-    "never explain, just point",
-    "stop deleting, send the voice",
-    "stop switching, keep one tense",
-    "never say “i’m trying,” say this",
     "stop perfecting, start storytelling today",
     "never translate—summarize in your own words",
     "this one question boosts every conversation",
@@ -21001,7 +20996,12 @@
     "what if you conquer?",
     "your moment, seize it.",
     "speak up, bold voice.",
-    "embrace the challenge today."
+    "embrace the challenge today.",
+    "wisdom: connect with silence.",
+    "feel this simple power.",
+    "momentum starts with a breath.",
+    "encouragement: your voice resonates.",
+    "this word is your superpower."
   ],
-  "last_updated": "2026-10-06T00:41:28.646196"
+  "last_updated": "2026-10-06T01:35:18.450773"
 }
