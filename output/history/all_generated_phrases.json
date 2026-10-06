@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop perfecting, start storytelling today",
-      "spanish": "Deja de perfeccionar, cuenta historias hoy",
-      "category": "Inspiration",
-      "generated_at": "2026-06-06T14:43:23.846161"
-    },
-    {
-      "english": "Never translate—summarize in your own words",
-      "spanish": "Nunca traduzcas, resume con tus palabras",
-      "category": "Inspiration",
-      "generated_at": "2026-06-06T14:43:23.846173"
-    },
-    {
-      "english": "This one question boosts every conversation",
-      "spanish": "Esta pregunta mejora cualquier conversación",
-      "category": "Inspiration",
-      "generated_at": "2026-06-06T14:43:23.846184"
-    },
-    {
-      "english": "Stop choosing words, use ready phrases",
-      "spanish": "Deja elegir palabras, usa frases listas",
-      "category": "Inspiration",
-      "generated_at": "2026-06-06T14:43:23.846195"
-    },
-    {
-      "english": "Stop rushing, feel the breath first",
-      "spanish": "Deja de correr, siente la respiración primero",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-06T16:06:29.034371"
-    },
-    {
       "english": "The secret: say one sentence, repeat",
       "spanish": "El secreto: di una frase, repite",
       "category": "Mindfulness",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra es tu superpoder.",
       "category": "Creativity",
       "generated_at": "2026-10-06T01:35:18.450771"
+    },
+    {
+      "english": "Your journey starts, 'ahora'.",
+      "spanish": "Tu viaje empieza, 'ahora'.",
+      "category": "Success",
+      "generated_at": "2026-10-06T18:50:03.050788"
+    },
+    {
+      "english": "What if 'yes' opens doors?",
+      "spanish": "¿Y si 'sí' abre puertas?",
+      "category": "Success",
+      "generated_at": "2026-10-06T18:50:03.050822"
+    },
+    {
+      "english": "Listen closely: 'despacio' wins.",
+      "spanish": "Escucha atentamente: 'despacio' gana.",
+      "category": "Success",
+      "generated_at": "2026-10-06T18:50:03.050850"
+    },
+    {
+      "english": "One word connects continents: 'hola'.",
+      "spanish": "Una palabra une continentes: 'hola'.",
+      "category": "Success",
+      "generated_at": "2026-10-06T18:50:03.050876"
+    },
+    {
+      "english": "Curious? The rhythm is 'hoy'.",
+      "spanish": "¿Curioso? El ritmo es 'hoy'.",
+      "category": "Success",
+      "generated_at": "2026-10-06T18:50:03.050902"
     }
   ],
   "used_english": [
-    "stop perfecting, start storytelling today",
-    "never translate—summarize in your own words",
-    "this one question boosts every conversation",
-    "stop choosing words, use ready phrases",
-    "stop rushing, feel the breath first",
     "the secret: say one sentence, repeat",
     "stop self-judging, talk anyway today",
     "this tiny pause makes you fluent",
@@ -21001,7 +20996,12 @@
     "feel this simple power.",
     "momentum starts with a breath.",
     "encouragement: your voice resonates.",
-    "this word is your superpower."
+    "this word is your superpower.",
+    "your journey starts, 'ahora'.",
+    "what if 'yes' opens doors?",
+    "listen closely: 'despacio' wins.",
+    "one word connects continents: 'hola'.",
+    "curious? the rhythm is 'hoy'."
   ],
-  "last_updated": "2026-10-06T01:35:18.450773"
+  "last_updated": "2026-10-06T18:50:03.050905"
 }
