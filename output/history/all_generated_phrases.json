@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... practice one weekday sentence",
-      "spanish": "El secreto... practica una frase diaria",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T20:49:40.119627"
-    },
-    {
-      "english": "Stop apologizing, say “gracias, listo”",
-      "spanish": "Deja de disculparte, di “gracias, listo”",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T20:49:40.119639"
-    },
-    {
-      "english": "Never quit, even after one mistake",
-      "spanish": "No te rindas, ni con un error",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T20:49:40.119651"
-    },
-    {
-      "english": "This phrase turns awkward into friendly",
-      "spanish": "Esta frase vuelve todo amigable",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T20:49:40.119663"
-    },
-    {
-      "english": "Never fear 'again', try it",
-      "spanish": "Nunca temas 'otra vez', inténtalo",
-      "category": "Motivation",
-      "generated_at": "2026-06-05T22:08:37.596822"
-    },
-    {
       "english": "The secret... ask, then pause",
       "spanish": "El secreto... pregunta, y espera",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "Encouragement: You're making progress.",
       "category": "Motivation",
       "generated_at": "2026-10-05T23:04:27.738209"
+    },
+    {
+      "english": "Your strength, unchained now.",
+      "spanish": "Tu fuerza, desatada ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-06T00:41:28.646083"
+    },
+    {
+      "english": "What if you conquer?",
+      "spanish": "¿Y si conquistas?",
+      "category": "Courage",
+      "generated_at": "2026-10-06T00:41:28.646118"
+    },
+    {
+      "english": "Your moment, seize it.",
+      "spanish": "Tu momento, tómalo.",
+      "category": "Courage",
+      "generated_at": "2026-10-06T00:41:28.646144"
+    },
+    {
+      "english": "Speak up, bold voice.",
+      "spanish": "Habla fuerte, voz audaz.",
+      "category": "Courage",
+      "generated_at": "2026-10-06T00:41:28.646168"
+    },
+    {
+      "english": "Embrace the challenge today.",
+      "spanish": "Acepta el desafío hoy.",
+      "category": "Courage",
+      "generated_at": "2026-10-06T00:41:28.646194"
     }
   ],
   "used_english": [
-    "the secret... practice one weekday sentence",
-    "stop apologizing, say “gracias, listo”",
-    "never quit, even after one mistake",
-    "this phrase turns awkward into friendly",
-    "never fear 'again', try it",
     "the secret... ask, then pause",
     "never explain, just point",
     "stop deleting, send the voice",
@@ -21001,7 +20996,12 @@
     "surprise! 'it's complicated' is simple.",
     "want to belong? say 'aquí'.",
     "feel this calm? it's 'calma'.",
-    "encouragement: you're making progress."
+    "encouragement: you're making progress.",
+    "your strength, unchained now.",
+    "what if you conquer?",
+    "your moment, seize it.",
+    "speak up, bold voice.",
+    "embrace the challenge today."
   ],
-  "last_updated": "2026-10-05T23:04:27.738212"
+  "last_updated": "2026-10-06T00:41:28.646196"
 }
