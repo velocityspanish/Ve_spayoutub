@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret: say one sentence, repeat",
-      "spanish": "El secreto: di una frase, repite",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-06T16:06:29.034392"
-    },
-    {
-      "english": "Stop self-judging, talk anyway today",
-      "spanish": "Deja de juzgarte, habla igual hoy",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-06T16:06:29.034405"
-    },
-    {
-      "english": "This tiny pause makes you fluent",
-      "spanish": "Esta pausa te vuelve fluido",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-06T16:06:29.034417"
-    },
-    {
-      "english": "Stop chasing perfection, choose clarity",
-      "spanish": "Deja la perfección, elige claridad",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-06T16:06:29.034428"
-    },
-    {
-      "english": "Never say “thanks later”, say this",
-      "spanish": "Nunca digas “gracias después”, di esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T18:05:16.873798"
-    },
-    {
       "english": "This is why you’ll sound friendly",
       "spanish": "Esto es por qué sonarás amable",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso? El ritmo es 'hoy'.",
       "category": "Success",
       "generated_at": "2026-10-06T18:50:03.050902"
+    },
+    {
+      "english": "Future you thanks this pause.",
+      "spanish": "Tu yo futuro agradece esta pausa.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T19:59:57.939393"
+    },
+    {
+      "english": "Surprise! 'Slowly' sounds so good.",
+      "spanish": "¡Sorpresa! 'Despacio' suena muy bien.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T19:59:57.939425"
+    },
+    {
+      "english": "Wisdom: Embrace the quiet moments.",
+      "spanish": "Sabiduría: Abraza los momentos tranquilos.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T19:59:57.939444"
+    },
+    {
+      "english": "Encouragement: You're doing great.",
+      "spanish": "Ánimo: Lo estás haciendo genial.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T19:59:57.939462"
+    },
+    {
+      "english": "This rhythm, feel its power.",
+      "spanish": "Este ritmo, siente su poder.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T19:59:57.939479"
     }
   ],
   "used_english": [
-    "the secret: say one sentence, repeat",
-    "stop self-judging, talk anyway today",
-    "this tiny pause makes you fluent",
-    "stop chasing perfection, choose clarity",
-    "never say “thanks later”, say this",
     "this is why you’ll sound friendly",
     "the secret? speak, then smile",
     "never fear awkward, use “¿y tú?”",
@@ -21001,7 +20996,12 @@
     "what if 'yes' opens doors?",
     "listen closely: 'despacio' wins.",
     "one word connects continents: 'hola'.",
-    "curious? the rhythm is 'hoy'."
+    "curious? the rhythm is 'hoy'.",
+    "future you thanks this pause.",
+    "surprise! 'slowly' sounds so good.",
+    "wisdom: embrace the quiet moments.",
+    "encouragement: you're doing great.",
+    "this rhythm, feel its power."
   ],
-  "last_updated": "2026-10-06T18:50:03.050905"
+  "last_updated": "2026-10-06T19:59:57.939481"
 }
