@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop being shy, offer help first",
-      "spanish": "Deja la timidez, ofrece ayuda primero",
-      "category": "Kindness",
-      "generated_at": "2026-06-07T16:18:26.472907"
-    },
-    {
-      "english": "Never forget names, it melts hearts",
-      "spanish": "No olvides nombres, derrites corazones",
-      "category": "Kindness",
-      "generated_at": "2026-06-07T16:18:26.472921"
-    },
-    {
-      "english": "This tiny phrase saves friendships",
-      "spanish": "Esta frase corta salva amistades",
-      "category": "Kindness",
-      "generated_at": "2026-06-07T16:18:26.472934"
-    },
-    {
-      "english": "Stop correcting, encourage with “bien”",
-      "spanish": "No corrijas, anima con “bien”",
-      "category": "Kindness",
-      "generated_at": "2026-06-07T16:18:26.472946"
-    },
-    {
-      "english": "Stop translating, listen, then answer",
-      "spanish": "Deja traducir, escucha, y responde",
-      "category": "Joy",
-      "generated_at": "2026-06-07T18:04:22.784035"
-    },
-    {
       "english": "Never quit after one “weird” word",
       "spanish": "No te rindas por una palabra rara",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a escuchar, entiende más.",
       "category": "Wisdom",
       "generated_at": "2026-10-07T19:17:41.606145"
+    },
+    {
+      "english": "What if they're listening?",
+      "spanish": "¿Y si te escuchan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-07T20:27:16.134051"
+    },
+    {
+      "english": "Unlock your confidence today.",
+      "spanish": "Libera tu confianza hoy.",
+      "category": "Purpose",
+      "generated_at": "2026-10-07T20:27:16.134079"
+    },
+    {
+      "english": "Curious? The sound is 'arte'.",
+      "spanish": "¿Curioso? El sonido es 'arte'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-07T20:27:16.134095"
+    },
+    {
+      "english": "Your journey, start it now.",
+      "spanish": "Tu viaje, empíezalo ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-07T20:27:16.134111"
+    },
+    {
+      "english": "Surprise! 'Gratitud' feels good.",
+      "spanish": "¡Sorpresa! 'Gratitud' se siente bien.",
+      "category": "Purpose",
+      "generated_at": "2026-10-07T20:27:16.134127"
     }
   ],
   "used_english": [
-    "stop being shy, offer help first",
-    "never forget names, it melts hearts",
-    "this tiny phrase saves friendships",
-    "stop correcting, encourage with “bien”",
-    "stop translating, listen, then answer",
     "never quit after one “weird” word",
     "stop perfecting, just start speaking",
     "never learn alone, voice-note someone",
@@ -21001,7 +20996,12 @@
     "what if 'slow' builds strength?",
     "surprise! 'juntos' feels powerful.",
     "this sounds like your victory.",
-    "dare to listen, understand more."
+    "dare to listen, understand more.",
+    "what if they're listening?",
+    "unlock your confidence today.",
+    "curious? the sound is 'arte'.",
+    "your journey, start it now.",
+    "surprise! 'gratitud' feels good."
   ],
-  "last_updated": "2026-10-07T19:17:41.606147"
+  "last_updated": "2026-10-07T20:27:16.134129"
 }
