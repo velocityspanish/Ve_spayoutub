@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, use “quiero” now",
-      "spanish": "El secreto, usa “quiero” ya",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T20:15:51.554850"
-    },
-    {
-      "english": "Never learn perfect, learn fast",
-      "spanish": "No aprendas perfecto, aprende rápido",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T20:15:51.554864"
-    },
-    {
-      "english": "Stop over-explaining, say less",
-      "spanish": "Deja de explicar tanto, di menos",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T20:15:51.554877"
-    },
-    {
-      "english": "This one word earns instant trust",
-      "spanish": "Una palabra gana confianza",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T20:15:51.554889"
-    },
-    {
-      "english": "Never quit before the sentence lands",
-      "spanish": "Nunca te rindas, antes de que llegue",
-      "category": "Perseverance",
-      "generated_at": "2026-06-07T21:57:10.432338"
-    },
-    {
       "english": "Stop waiting, practice with strangers today",
       "spanish": "Deja de esperar, practica con extraños",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Un sonido cambia todo.",
       "category": "Motivation",
       "generated_at": "2026-10-07T21:47:31.938035"
+    },
+    {
+      "english": "Feel this rhythm, it's alive.",
+      "spanish": "Siente este ritmo, está vivo.",
+      "category": "Growth",
+      "generated_at": "2026-10-07T23:30:38.477206"
+    },
+    {
+      "english": "Curious? The 'why' is simple.",
+      "spanish": "¿Curioso? El 'por qué' es simple.",
+      "category": "Growth",
+      "generated_at": "2026-10-07T23:30:38.477246"
+    },
+    {
+      "english": "Wisdom: Patience brings color.",
+      "spanish": "Sabiduría: La paciencia trae color.",
+      "category": "Growth",
+      "generated_at": "2026-10-07T23:30:38.477275"
+    },
+    {
+      "english": "Your moment starts now, friend.",
+      "spanish": "Tu momento empieza ahora, amigo.",
+      "category": "Growth",
+      "generated_at": "2026-10-07T23:30:38.477304"
+    },
+    {
+      "english": "Encouragement: Speak, you'll soar.",
+      "spanish": "Ánimo: Habla, volarás.",
+      "category": "Growth",
+      "generated_at": "2026-10-07T23:30:38.477332"
     }
   ],
   "used_english": [
-    "the secret, use “quiero” now",
-    "never learn perfect, learn fast",
-    "stop over-explaining, say less",
-    "this one word earns instant trust",
-    "never quit before the sentence lands",
     "stop waiting, practice with strangers today",
     "what nobody tells you, consistency wins",
     "the secret, start answering with “sí”",
@@ -21001,7 +20996,12 @@
     "curious? 'ayuda' means help.",
     "why wait? 'ahora' means now.",
     "your courage sings loudly.",
-    "one sound changes perspective."
+    "one sound changes perspective.",
+    "feel this rhythm, it's alive.",
+    "curious? the 'why' is simple.",
+    "wisdom: patience brings color.",
+    "your moment starts now, friend.",
+    "encouragement: speak, you'll soar."
   ],
-  "last_updated": "2026-10-07T21:47:31.938043"
+  "last_updated": "2026-10-07T23:30:38.477334"
 }
