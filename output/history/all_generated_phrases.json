@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never text “hey”, ask this",
-      "spanish": "Nunca mandes “hey”, pregunta esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T21:54:23.361453"
-    },
-    {
-      "english": "The secret? Laugh together, always",
-      "spanish": "El secreto, reír juntos, siempre",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T21:54:23.361478"
-    },
-    {
-      "english": "Never dodge, say “cuéntame” today",
-      "spanish": "Nunca te evadas, di “cuéntame” hoy",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T21:54:23.361492"
-    },
-    {
-      "english": "Stop complaining, swap in this",
-      "spanish": "Deja de quejarte, cambia por esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-06T21:54:23.361505"
-    },
-    {
-      "english": "What nobody tells you, you’re closer",
-      "spanish": "Lo que nadie te dice, estás más cerca",
-      "category": "Purpose",
-      "generated_at": "2026-06-07T14:54:26.056606"
-    },
-    {
       "english": "Never wait for perfection, start now",
       "spanish": "Nunca esperes perfección, empieza ya",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a empezar, siente libertad.",
       "category": "Inner Peace",
       "generated_at": "2026-10-06T22:57:03.755488"
+    },
+    {
+      "english": "Curiosity: What is 'serenity'?",
+      "spanish": "Curiosidad: ¿Qué es 'serenidad'?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-07T00:13:23.576112"
+    },
+    {
+      "english": "This single word calms everything.",
+      "spanish": "Esta palabra calma todo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-07T00:13:23.576138"
+    },
+    {
+      "english": "Wisdom: Find calm within.",
+      "spanish": "Sabiduría: Encuentra calma interior.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-07T00:13:23.576152"
+    },
+    {
+      "english": "Your strength starts now.",
+      "spanish": "Tu fortaleza empieza ahora.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-07T00:13:23.576166"
+    },
+    {
+      "english": "Surprise! 'Paz' is achievable.",
+      "spanish": "¡Sorpresa! 'Paz' es alcanzable.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-07T00:13:23.576181"
     }
   ],
   "used_english": [
-    "never text “hey”, ask this",
-    "the secret? laugh together, always",
-    "never dodge, say “cuéntame” today",
-    "stop complaining, swap in this",
-    "what nobody tells you, you’re closer",
     "never wait for perfection, start now",
     "stop googling, ask a real human",
     "your brain loves patterns, use this",
@@ -21001,7 +20996,12 @@
     "your calm voice, say 'suave'.",
     "want to connect deeply? listen.",
     "momentum starts with just this.",
-    "dare to start, feel freedom."
+    "dare to start, feel freedom.",
+    "curiosity: what is 'serenity'?",
+    "this single word calms everything.",
+    "wisdom: find calm within.",
+    "your strength starts now.",
+    "surprise! 'paz' is achievable."
   ],
-  "last_updated": "2026-10-06T22:57:03.755490"
+  "last_updated": "2026-10-07T00:13:23.576183"
 }
