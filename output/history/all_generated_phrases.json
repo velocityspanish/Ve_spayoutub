@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never quit after one “weird” word",
-      "spanish": "No te rindas por una palabra rara",
-      "category": "Joy",
-      "generated_at": "2026-06-07T18:04:22.784058"
-    },
-    {
-      "english": "Stop perfecting, just start speaking",
-      "spanish": "Deja perfeccionar, empieza a hablar",
-      "category": "Joy",
-      "generated_at": "2026-06-07T18:04:22.784072"
-    },
-    {
-      "english": "Never learn alone, voice-note someone",
-      "spanish": "Nunca aprendas solo, voz a alguien",
-      "category": "Joy",
-      "generated_at": "2026-06-07T18:04:22.784084"
-    },
-    {
-      "english": "Stop hunting verbs, use “tener”",
-      "spanish": "Deja buscar verbos, usa “tener”",
-      "category": "Joy",
-      "generated_at": "2026-06-07T18:04:22.784098"
-    },
-    {
-      "english": "Stop saying “thanks” too late",
-      "spanish": "Deja de decir “gracias” tarde",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T20:15:51.554827"
-    },
-    {
       "english": "The secret, use “quiero” now",
       "spanish": "El secreto, usa “quiero” ya",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! 'Gratitud' se siente bien.",
       "category": "Purpose",
       "generated_at": "2026-10-07T20:27:16.134127"
+    },
+    {
+      "english": "Future you, thank this moment.",
+      "spanish": "Tu futuro, agradece hoy.",
+      "category": "Motivation",
+      "generated_at": "2026-10-07T21:47:31.937896"
+    },
+    {
+      "english": "Curious? 'Ayuda' means help.",
+      "spanish": "¿Curioso? 'Ayuda' significa.",
+      "category": "Motivation",
+      "generated_at": "2026-10-07T21:47:31.937952"
+    },
+    {
+      "english": "Why wait? 'Ahora' means now.",
+      "spanish": "¿Por qué esperar? 'Ahora' es ya.",
+      "category": "Motivation",
+      "generated_at": "2026-10-07T21:47:31.937980"
+    },
+    {
+      "english": "Your courage sings loudly.",
+      "spanish": "Tu coraje canta fuerte.",
+      "category": "Motivation",
+      "generated_at": "2026-10-07T21:47:31.938006"
+    },
+    {
+      "english": "One sound changes perspective.",
+      "spanish": "Un sonido cambia todo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-07T21:47:31.938035"
     }
   ],
   "used_english": [
-    "never quit after one “weird” word",
-    "stop perfecting, just start speaking",
-    "never learn alone, voice-note someone",
-    "stop hunting verbs, use “tener”",
-    "stop saying “thanks” too late",
     "the secret, use “quiero” now",
     "never learn perfect, learn fast",
     "stop over-explaining, say less",
@@ -21001,7 +20996,12 @@
     "unlock your confidence today.",
     "curious? the sound is 'arte'.",
     "your journey, start it now.",
-    "surprise! 'gratitud' feels good."
+    "surprise! 'gratitud' feels good.",
+    "future you, thank this moment.",
+    "curious? 'ayuda' means help.",
+    "why wait? 'ahora' means now.",
+    "your courage sings loudly.",
+    "one sound changes perspective."
   ],
-  "last_updated": "2026-10-07T20:27:16.134129"
+  "last_updated": "2026-10-07T21:47:31.938043"
 }
