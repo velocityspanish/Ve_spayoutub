@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait for perfection, start now",
-      "spanish": "Nunca esperes perfección, empieza ya",
-      "category": "Purpose",
-      "generated_at": "2026-06-07T14:54:26.056628"
-    },
-    {
-      "english": "Stop Googling, ask a real human",
-      "spanish": "Deja de buscar, pregunta a alguien",
-      "category": "Purpose",
-      "generated_at": "2026-06-07T14:54:26.056643"
-    },
-    {
-      "english": "Your brain loves patterns, use this",
-      "spanish": "A tu cerebro le encantan patrones, usa esto",
-      "category": "Purpose",
-      "generated_at": "2026-06-07T14:54:26.056656"
-    },
-    {
-      "english": "Never study “topics”, study questions",
-      "spanish": "No estudies “temas”, estudia preguntas",
-      "category": "Purpose",
-      "generated_at": "2026-06-07T14:54:26.056668"
-    },
-    {
-      "english": "Stop using silence, say “por favor”",
-      "spanish": "Deja el silencio, di “por favor”",
-      "category": "Kindness",
-      "generated_at": "2026-06-07T16:18:26.472884"
-    },
-    {
       "english": "Stop being shy, offer help first",
       "spanish": "Deja la timidez, ofrece ayuda primero",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "¡Sorpresa! 'Paz' es alcanzable.",
       "category": "Inner Peace",
       "generated_at": "2026-10-07T00:13:23.576181"
+    },
+    {
+      "english": "Your effort ripples outwards.",
+      "spanish": "Tu esfuerzo reverbera.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-07T19:17:41.605989"
+    },
+    {
+      "english": "What if 'slow' builds strength?",
+      "spanish": "¿Y si 'despacio' fortalece?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-07T19:17:41.606038"
+    },
+    {
+      "english": "Surprise! 'Juntos' feels powerful.",
+      "spanish": "¡Sorpresa! 'Juntos' se siente fuerte.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-07T19:17:41.606075"
+    },
+    {
+      "english": "This sounds like your victory.",
+      "spanish": "Esto suena a tu victoria.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-07T19:17:41.606110"
+    },
+    {
+      "english": "Dare to listen, understand more.",
+      "spanish": "Atrévete a escuchar, entiende más.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-07T19:17:41.606145"
     }
   ],
   "used_english": [
-    "never wait for perfection, start now",
-    "stop googling, ask a real human",
-    "your brain loves patterns, use this",
-    "never study “topics”, study questions",
-    "stop using silence, say “por favor”",
     "stop being shy, offer help first",
     "never forget names, it melts hearts",
     "this tiny phrase saves friendships",
@@ -21001,7 +20996,12 @@
     "this single word calms everything.",
     "wisdom: find calm within.",
     "your strength starts now.",
-    "surprise! 'paz' is achievable."
+    "surprise! 'paz' is achievable.",
+    "your effort ripples outwards.",
+    "what if 'slow' builds strength?",
+    "surprise! 'juntos' feels powerful.",
+    "this sounds like your victory.",
+    "dare to listen, understand more."
   ],
-  "last_updated": "2026-10-07T00:13:23.576183"
+  "last_updated": "2026-10-07T19:17:41.606147"
 }
