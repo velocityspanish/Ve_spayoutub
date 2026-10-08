@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “I don't know”, try this",
-      "spanish": "Nunca digas “no sé”, usa esto",
-      "category": "Patience",
-      "generated_at": "2026-06-08T19:22:05.861892"
-    },
-    {
-      "english": "Stop switching, say one simple idea",
-      "spanish": "Deja cambiar, di una idea simple",
-      "category": "Patience",
-      "generated_at": "2026-06-08T19:22:05.861906"
-    },
-    {
-      "english": "Stop perfect tense, just speak",
-      "spanish": "Deja el perfecto, solo habla",
-      "category": "Patience",
-      "generated_at": "2026-06-08T19:22:05.861918"
-    },
-    {
-      "english": "Never ask “how?”, ask “what do you do”",
-      "spanish": "No preguntes “¿cómo?”, pregunta “¿qué haces?”",
-      "category": "Patience",
-      "generated_at": "2026-06-08T19:22:05.861930"
-    },
-    {
-      "english": "Stop avoiding small talk, say this",
-      "spanish": "Deja el small talk, di esto",
-      "category": "Growth",
-      "generated_at": "2026-06-08T21:12:42.657443"
-    },
-    {
       "english": "The secret... ask back, instantly",
       "spanish": "El secreto... pregunta de vuelta, ya",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a hablar, suavemente.",
       "category": "Perseverance",
       "generated_at": "2026-10-08T20:31:36.381351"
+    },
+    {
+      "english": "This word unlocks new worlds.",
+      "spanish": "Esta palabra abre mundos.",
+      "category": "Confidence",
+      "generated_at": "2026-10-08T21:50:17.607239"
+    },
+    {
+      "english": "Your effort sparks new things.",
+      "spanish": "Tu esfuerzo ilumina.",
+      "category": "Confidence",
+      "generated_at": "2026-10-08T21:50:17.607267"
+    },
+    {
+      "english": "Feel this freedom now.",
+      "spanish": "Siente esta libertad.",
+      "category": "Confidence",
+      "generated_at": "2026-10-08T21:50:17.607281"
+    },
+    {
+      "english": "Curious? 'Ya' means 'already'.",
+      "spanish": "¿Curioso? 'Ya' es 'ahora'.",
+      "category": "Confidence",
+      "generated_at": "2026-10-08T21:50:17.607297"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "spanish": "Eres capaz, créelo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-08T21:50:17.607312"
     }
   ],
   "used_english": [
-    "never say “i don't know”, try this",
-    "stop switching, say one simple idea",
-    "stop perfect tense, just speak",
-    "never ask “how?”, ask “what do you do”",
-    "stop avoiding small talk, say this",
     "the secret... ask back, instantly",
     "never overthink endings, just finish",
     "stop 'learning', start using right now",
@@ -21001,7 +20996,12 @@
     "feeling stuck? say 'todavía'.",
     "one mistake is a lesson.",
     "your progress is visible now.",
-    "dare to speak, even softly."
+    "dare to speak, even softly.",
+    "this word unlocks new worlds.",
+    "your effort sparks new things.",
+    "feel this freedom now.",
+    "curious? 'ya' means 'already'.",
+    "you are capable, believe it."
   ],
-  "last_updated": "2026-10-08T20:31:36.381354"
+  "last_updated": "2026-10-08T21:50:17.607314"
 }
