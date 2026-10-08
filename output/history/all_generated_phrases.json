@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait for motivation, act now",
-      "spanish": "No esperes motivación, actúa ya",
-      "category": "Motivation",
-      "generated_at": "2026-06-08T17:55:08.812557"
-    },
-    {
-      "english": "Stop sounding perfect, sound present",
-      "spanish": "Deja sonar perfecto, suena presente",
-      "category": "Motivation",
-      "generated_at": "2026-06-08T17:55:08.812570"
-    },
-    {
-      "english": "Never explain, just answer quickly",
-      "spanish": "No expliques, responde rápido",
-      "category": "Motivation",
-      "generated_at": "2026-06-08T17:55:08.812582"
-    },
-    {
-      "english": "This tiny goal makes you unstoppable",
-      "spanish": "Este objetivo te hace imparable",
-      "category": "Motivation",
-      "generated_at": "2026-06-08T17:55:08.812596"
-    },
-    {
-      "english": "Stop translating, start reacting instantly",
-      "spanish": "Deja de traducir, reacciona al instante",
-      "category": "Patience",
-      "generated_at": "2026-06-08T19:22:05.861870"
-    },
-    {
       "english": "Never say “I don't know”, try this",
       "spanish": "Nunca digas “no sé”, usa esto",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si perdonar se siente bien?",
       "category": "Forgiveness",
       "generated_at": "2026-10-08T19:11:05.087756"
+    },
+    {
+      "english": "What if you're almost there?",
+      "spanish": "¿Y si ya casi llegas?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-08T20:31:36.381225"
+    },
+    {
+      "english": "Feeling stuck? Say 'todavía'.",
+      "spanish": "¿Te sientes atascado? Di 'todavía'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-08T20:31:36.381267"
+    },
+    {
+      "english": "One mistake is a lesson.",
+      "spanish": "Un error es una lección.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-08T20:31:36.381294"
+    },
+    {
+      "english": "Your progress is visible now.",
+      "spanish": "Tu progreso es visible ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-08T20:31:36.381323"
+    },
+    {
+      "english": "Dare to speak, even softly.",
+      "spanish": "Atrévete a hablar, suavemente.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-08T20:31:36.381351"
     }
   ],
   "used_english": [
-    "never wait for motivation, act now",
-    "stop sounding perfect, sound present",
-    "never explain, just answer quickly",
-    "this tiny goal makes you unstoppable",
-    "stop translating, start reacting instantly",
     "never say “i don't know”, try this",
     "stop switching, say one simple idea",
     "stop perfect tense, just speak",
@@ -21001,7 +20996,12 @@
     "this releases your heart.",
     "peace begins with 'lo siento'.",
     "you don't need their apology.",
-    "what if forgiving feels good?"
+    "what if forgiving feels good?",
+    "what if you're almost there?",
+    "feeling stuck? say 'todavía'.",
+    "one mistake is a lesson.",
+    "your progress is visible now.",
+    "dare to speak, even softly."
   ],
-  "last_updated": "2026-10-08T19:11:05.087759"
+  "last_updated": "2026-10-08T20:31:36.381354"
 }
