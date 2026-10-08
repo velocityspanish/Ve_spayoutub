@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting, practice with strangers today",
-      "spanish": "Deja de esperar, practica con extraños",
-      "category": "Perseverance",
-      "generated_at": "2026-06-07T21:57:10.432356"
-    },
-    {
-      "english": "What nobody tells you, consistency wins",
-      "spanish": "Lo que nadie te dice, gana la constancia",
-      "category": "Perseverance",
-      "generated_at": "2026-06-07T21:57:10.432368"
-    },
-    {
-      "english": "The secret, start answering with “sí”",
-      "spanish": "El secreto, responde con “sí” primero",
-      "category": "Perseverance",
-      "generated_at": "2026-06-07T21:57:10.432381"
-    },
-    {
-      "english": "Never study longer, speak sooner",
-      "spanish": "Nunca estudies más, habla antes",
-      "category": "Perseverance",
-      "generated_at": "2026-06-07T21:57:10.432393"
-    },
-    {
-      "english": "Stop practicing, start performing today",
-      "spanish": "Deja de practicar, actúa hoy",
-      "category": "Confidence",
-      "generated_at": "2026-06-08T16:50:47.172322"
-    },
-    {
       "english": "Stop sounding careful, sound human",
       "spanish": "Deja de sonar cuidadoso, sé humano",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "Ánimo: Habla, volarás.",
       "category": "Growth",
       "generated_at": "2026-10-07T23:30:38.477332"
+    },
+    {
+      "english": "Your journey starts with 'vamos'.",
+      "spanish": "Tu viaje empieza con 'vamos'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T00:31:37.359414"
+    },
+    {
+      "english": "Wisdom: Speak small, connect large.",
+      "spanish": "Sabiduría: Habla poco, conecta mucho.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T00:31:37.359456"
+    },
+    {
+      "english": "Surprise! You are ready now.",
+      "spanish": "¡Sorpresa! Estás listo ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T00:31:37.359485"
+    },
+    {
+      "english": "Want peace? Say 'tranquilo'.",
+      "spanish": "¿Quieres paz? Di 'tranquilo'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T00:31:37.359512"
+    },
+    {
+      "english": "Feel this connection? 'Amigos'.",
+      "spanish": "¿Sientes esta conexión? 'Amigos'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T00:31:37.359540"
     }
   ],
   "used_english": [
-    "stop waiting, practice with strangers today",
-    "what nobody tells you, consistency wins",
-    "the secret, start answering with “sí”",
-    "never study longer, speak sooner",
-    "stop practicing, start performing today",
     "stop sounding careful, sound human",
     "stop rehearsing, answer anyway",
     "never feel behind, start speaking",
@@ -21001,7 +20996,12 @@
     "curious? the 'why' is simple.",
     "wisdom: patience brings color.",
     "your moment starts now, friend.",
-    "encouragement: speak, you'll soar."
+    "encouragement: speak, you'll soar.",
+    "your journey starts with 'vamos'.",
+    "wisdom: speak small, connect large.",
+    "surprise! you are ready now.",
+    "want peace? say 'tranquilo'.",
+    "feel this connection? 'amigos'."
   ],
-  "last_updated": "2026-10-07T23:30:38.477334"
+  "last_updated": "2026-10-08T00:31:37.359543"
 }
