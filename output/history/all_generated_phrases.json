@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... ask back, instantly",
-      "spanish": "El secreto... pregunta de vuelta, ya",
-      "category": "Growth",
-      "generated_at": "2026-06-08T21:12:42.657467"
-    },
-    {
-      "english": "Never overthink endings, just finish",
-      "spanish": "No sobrepienses finales, termina",
-      "category": "Growth",
-      "generated_at": "2026-06-08T21:12:42.657480"
-    },
-    {
-      "english": "Stop 'learning', start using right now",
-      "spanish": "Deja de 'aprender', úsalo ahorita",
-      "category": "Growth",
-      "generated_at": "2026-06-08T21:12:42.657492"
-    },
-    {
-      "english": "This tiny habit boosts speaking fast",
-      "spanish": "Este hábito sube tu hablar rápido",
-      "category": "Growth",
-      "generated_at": "2026-06-08T21:12:42.657504"
-    },
-    {
-      "english": "Never start with 'because,' use this",
-      "spanish": "Nunca empieces con 'porque', usa esto",
-      "category": "Creativity",
-      "generated_at": "2026-06-08T22:18:30.951097"
-    },
-    {
       "english": "Never memorize, steal these patterns",
       "spanish": "No memorices, roba estos patrones",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "Eres capaz, créelo.",
       "category": "Confidence",
       "generated_at": "2026-10-08T21:50:17.607312"
+    },
+    {
+      "english": "Curious? 'Lo haré' means 'I will'.",
+      "spanish": "¿Curioso? 'Lo haré' significa 'I will'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T23:41:45.515894"
+    },
+    {
+      "english": "This quiet sound calms you.",
+      "spanish": "Este sonido silencioso te calma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T23:41:45.515937"
+    },
+    {
+      "english": "Your courage echoes loudly now.",
+      "spanish": "Tu coraje resuena fuerte ahora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T23:41:45.515967"
+    },
+    {
+      "english": "Want to connect? Say 'hola'.",
+      "spanish": "¿Quieres conectar? Di 'hola'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T23:41:45.515995"
+    },
+    {
+      "english": "Feeling doubt? Breathe this word.",
+      "spanish": "¿Sientes duda? Respira esta palabra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-08T23:41:45.516024"
     }
   ],
   "used_english": [
-    "the secret... ask back, instantly",
-    "never overthink endings, just finish",
-    "stop 'learning', start using right now",
-    "this tiny habit boosts speaking fast",
-    "never start with 'because,' use this",
     "never memorize, steal these patterns",
     "stop searching, answer with a feeling",
     "stop perfecting, just say 'así'",
@@ -21001,7 +20996,12 @@
     "your effort sparks new things.",
     "feel this freedom now.",
     "curious? 'ya' means 'already'.",
-    "you are capable, believe it."
+    "you are capable, believe it.",
+    "curious? 'lo haré' means 'i will'.",
+    "this quiet sound calms you.",
+    "your courage echoes loudly now.",
+    "want to connect? say 'hola'.",
+    "feeling doubt? breathe this word."
   ],
-  "last_updated": "2026-10-08T21:50:17.607314"
+  "last_updated": "2026-10-08T23:41:45.516027"
 }
