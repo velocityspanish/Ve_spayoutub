@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop sounding careful, sound human",
-      "spanish": "Deja de sonar cuidadoso, sé humano",
-      "category": "Confidence",
-      "generated_at": "2026-06-08T16:50:47.172345"
-    },
-    {
-      "english": "Stop rehearsing, answer anyway",
-      "spanish": "No ensayes, responde igual",
-      "category": "Confidence",
-      "generated_at": "2026-06-08T16:50:47.172358"
-    },
-    {
-      "english": "Never feel behind, start speaking",
-      "spanish": "No te sientas atrás, habla ya",
-      "category": "Confidence",
-      "generated_at": "2026-06-08T16:50:47.172371"
-    },
-    {
-      "english": "This changes your confidence fast",
-      "spanish": "Esto cambia tu confianza rápido",
-      "category": "Confidence",
-      "generated_at": "2026-06-08T16:50:47.172383"
-    },
-    {
-      "english": "Stop learning alone, start sharing today",
-      "spanish": "Deja aprender solo, comparte hoy",
-      "category": "Motivation",
-      "generated_at": "2026-06-08T17:55:08.812537"
-    },
-    {
       "english": "Never wait for motivation, act now",
       "spanish": "No esperes motivación, actúa ya",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Sientes esta conexión? 'Amigos'.",
       "category": "Purpose",
       "generated_at": "2026-10-08T00:31:37.359540"
+    },
+    {
+      "english": "Why hold on? Let go.",
+      "spanish": "¿Por qué aferrarse? Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-08T19:11:05.087635"
+    },
+    {
+      "english": "This releases your heart.",
+      "spanish": "Esto libera tu corazón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-08T19:11:05.087673"
+    },
+    {
+      "english": "Peace begins with 'lo siento'.",
+      "spanish": "La paz empieza con 'lo siento'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-08T19:11:05.087701"
+    },
+    {
+      "english": "You don't need their apology.",
+      "spanish": "No necesitas su perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-08T19:11:05.087729"
+    },
+    {
+      "english": "What if forgiving feels good?",
+      "spanish": "¿Y si perdonar se siente bien?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-08T19:11:05.087756"
     }
   ],
   "used_english": [
-    "stop sounding careful, sound human",
-    "stop rehearsing, answer anyway",
-    "never feel behind, start speaking",
-    "this changes your confidence fast",
-    "stop learning alone, start sharing today",
     "never wait for motivation, act now",
     "stop sounding perfect, sound present",
     "never explain, just answer quickly",
@@ -21001,7 +20996,12 @@
     "wisdom: speak small, connect large.",
     "surprise! you are ready now.",
     "want peace? say 'tranquilo'.",
-    "feel this connection? 'amigos'."
+    "feel this connection? 'amigos'.",
+    "why hold on? let go.",
+    "this releases your heart.",
+    "peace begins with 'lo siento'.",
+    "you don't need their apology.",
+    "what if forgiving feels good?"
   ],
-  "last_updated": "2026-10-08T00:31:37.359543"
+  "last_updated": "2026-10-08T19:11:05.087759"
 }
