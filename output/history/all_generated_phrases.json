@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'who cares'—try this",
-      "spanish": "Nunca digas 'a mí qué'—di esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-09T15:58:04.082563"
-    },
-    {
-      "english": "The secret to friend energy: 'vamos'",
-      "spanish": "El secreto, energía amiga: 'vamos'",
-      "category": "Friendship",
-      "generated_at": "2026-06-09T15:58:04.082577"
-    },
-    {
-      "english": "Stop ghosting, answer with 'curious!'",
-      "spanish": "No desaparezcas, responde con 'qué curioso!'",
-      "category": "Friendship",
-      "generated_at": "2026-06-09T15:58:04.082590"
-    },
-    {
-      "english": "Never leave them guessing, add this",
-      "spanish": "No los dejes en duda, usa esto",
-      "category": "Friendship",
-      "generated_at": "2026-06-09T15:58:04.082604"
-    },
-    {
-      "english": "Stop guessing, say “Estoy bien, gracias”",
-      "spanish": "Deja de adivinar, di “Estoy bien, gracias”",
-      "category": "Gratitude",
-      "generated_at": "2026-06-09T17:25:17.818177"
-    },
-    {
       "english": "Never fear “por qué” questions",
       "spanish": "Nunca temas preguntas con “por qué”",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Coraje, di 'atrevete' hoy.",
       "category": "Strength",
       "generated_at": "2026-10-09T00:46:37.251691"
+    },
+    {
+      "english": "This feeling, pure 'alegría'.",
+      "spanish": "Esta sensación, pura alegría.",
+      "category": "Success",
+      "generated_at": "2026-10-09T18:41:51.522634"
+    },
+    {
+      "english": "Unlock your words, listen closely.",
+      "spanish": "Desbloquea tus palabras, escucha atentamente.",
+      "category": "Success",
+      "generated_at": "2026-10-09T18:41:51.522673"
+    },
+    {
+      "english": "Momentum starts with 'buenos días'.",
+      "spanish": "El impulso empieza con 'buenos días'.",
+      "category": "Success",
+      "generated_at": "2026-10-09T18:41:51.522702"
+    },
+    {
+      "english": "Wisdom: ' Poco a poco' wins.",
+      "spanish": "Sabiduría: 'Poco a poco' gana.",
+      "category": "Success",
+      "generated_at": "2026-10-09T18:41:51.522729"
+    },
+    {
+      "english": "Your effort sparks 'un camino'.",
+      "spanish": "Tu esfuerzo enciende un camino.",
+      "category": "Success",
+      "generated_at": "2026-10-09T18:41:51.522757"
     }
   ],
   "used_english": [
-    "never say 'who cares'—try this",
-    "the secret to friend energy: 'vamos'",
-    "stop ghosting, answer with 'curious!'",
-    "never leave them guessing, add this",
-    "stop guessing, say “estoy bien, gracias”",
     "never fear “por qué” questions",
     "the secret... say it with warmth",
     "never rush, let “muchas” breathe",
@@ -21001,7 +20996,12 @@
     "curious? 'valentía' means bravery.",
     "you can, just begin.",
     "what if this is your moment?",
-    "courage, say 'atrevete' today."
+    "courage, say 'atrevete' today.",
+    "this feeling, pure 'alegría'.",
+    "unlock your words, listen closely.",
+    "momentum starts with 'buenos días'.",
+    "wisdom: ' poco a poco' wins.",
+    "your effort sparks 'un camino'."
   ],
-  "last_updated": "2026-10-09T00:46:37.251693"
+  "last_updated": "2026-10-09T18:41:51.522760"
 }
