@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear “por qué” questions",
-      "spanish": "Nunca temas preguntas con “por qué”",
-      "category": "Gratitude",
-      "generated_at": "2026-06-09T17:25:17.818200"
-    },
-    {
-      "english": "The secret... say it with warmth",
-      "spanish": "El secreto... dilo con calidez",
-      "category": "Gratitude",
-      "generated_at": "2026-06-09T17:25:17.818214"
-    },
-    {
-      "english": "Never rush, let “muchas” breathe",
-      "spanish": "No corras, deja respirar “muchas”",
-      "category": "Gratitude",
-      "generated_at": "2026-06-09T17:25:17.818228"
-    },
-    {
-      "english": "The secret... thank first, then explain",
-      "spanish": "El secreto... agradece primero, luego explica",
-      "category": "Gratitude",
-      "generated_at": "2026-06-09T17:25:17.818240"
-    },
-    {
-      "english": "Stop hiding, say what you want",
-      "spanish": "Deja de esconderte, di lo que quieres",
-      "category": "Courage",
-      "generated_at": "2026-06-09T19:13:14.285887"
-    },
-    {
       "english": "Never use “maybe”, choose certainty",
       "spanish": "Nunca digas “quizás”, elige certeza",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu esfuerzo enciende un camino.",
       "category": "Success",
       "generated_at": "2026-10-09T18:41:51.522757"
+    },
+    {
+      "english": "Wondering how to connect?",
+      "spanish": "¿Preguntándote cómo conectar?",
+      "category": "Hope",
+      "generated_at": "2026-10-09T20:01:33.475566"
+    },
+    {
+      "english": "Curious? 'Mejor' means better.",
+      "spanish": "¿Curioso? 'Mejor' significa mejor.",
+      "category": "Hope",
+      "generated_at": "2026-10-09T20:01:33.475596"
+    },
+    {
+      "english": "Embrace 'poco a poco' always.",
+      "spanish": "Abraza 'poco a poco' siempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-09T20:01:33.475612"
+    },
+    {
+      "english": "Your past mistakes, they taught you.",
+      "spanish": "Tus errores pasados, te enseñaron.",
+      "category": "Hope",
+      "generated_at": "2026-10-09T20:01:33.475627"
+    },
+    {
+      "english": "Dare to try, even small.",
+      "spanish": "Atrévete a intentar, incluso pequeño.",
+      "category": "Hope",
+      "generated_at": "2026-10-09T20:01:33.475641"
     }
   ],
   "used_english": [
-    "never fear “por qué” questions",
-    "the secret... say it with warmth",
-    "never rush, let “muchas” breathe",
-    "the secret... thank first, then explain",
-    "stop hiding, say what you want",
     "never use “maybe”, choose certainty",
     "stop overthinking, just add “pero”",
     "never explain, just give one example",
@@ -21001,7 +20996,12 @@
     "unlock your words, listen closely.",
     "momentum starts with 'buenos días'.",
     "wisdom: ' poco a poco' wins.",
-    "your effort sparks 'un camino'."
+    "your effort sparks 'un camino'.",
+    "wondering how to connect?",
+    "curious? 'mejor' means better.",
+    "embrace 'poco a poco' always.",
+    "your past mistakes, they taught you.",
+    "dare to try, even small."
   ],
-  "last_updated": "2026-10-09T18:41:51.522760"
+  "last_updated": "2026-10-09T20:01:33.475643"
 }
