@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never use “maybe”, choose certainty",
-      "spanish": "Nunca digas “quizás”, elige certeza",
-      "category": "Courage",
-      "generated_at": "2026-06-09T19:13:14.285912"
-    },
-    {
-      "english": "Stop overthinking, just add “pero”",
-      "spanish": "Deja de pensar, solo di “pero”",
-      "category": "Courage",
-      "generated_at": "2026-06-09T19:13:14.285926"
-    },
-    {
-      "english": "Never explain, just give one example",
-      "spanish": "No expliques, solo un ejemplo",
-      "category": "Courage",
-      "generated_at": "2026-06-09T19:13:14.285939"
-    },
-    {
-      "english": "The secret, use “exacto” once",
-      "spanish": "El secreto, usa “exacto” una vez",
-      "category": "Courage",
-      "generated_at": "2026-06-09T19:13:14.285953"
-    },
-    {
-      "english": "Never study silently, speak aloud",
-      "spanish": "Nunca estudies en silencio, habla en voz alta",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-09T21:02:41.638793"
-    },
-    {
       "english": "Never ask “how?”, ask “where?”",
       "spanish": "Nunca digas “cómo?”, di “dónde?”",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Atrévete a intentar, incluso pequeño.",
       "category": "Hope",
       "generated_at": "2026-10-09T20:01:33.475641"
+    },
+    {
+      "english": "Want true calm? Say 'quietud'.",
+      "spanish": "Quieres calma real? Di 'quietud'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-09T21:29:12.766859"
+    },
+    {
+      "english": "This quiet speaks volumes.",
+      "spanish": "Este silencio dice mucho.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-09T21:29:12.766894"
+    },
+    {
+      "english": "Breathe this in, my friend.",
+      "spanish": "Respira esto, amigo mío.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-09T21:29:12.766923"
+    },
+    {
+      "english": "Unlock inner strength today.",
+      "spanish": "Desbloquea la fuerza interior hoy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-09T21:29:12.766950"
+    },
+    {
+      "english": "Your moment of peace awaits.",
+      "spanish": "Tu momento de paz espera.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-09T21:29:12.766977"
     }
   ],
   "used_english": [
-    "never use “maybe”, choose certainty",
-    "stop overthinking, just add “pero”",
-    "never explain, just give one example",
-    "the secret, use “exacto” once",
-    "never study silently, speak aloud",
     "never ask “how?”, ask “where?”",
     "the secret... train your ear daily",
     "stop translating, react immediately",
@@ -21001,7 +20996,12 @@
     "curious? 'mejor' means better.",
     "embrace 'poco a poco' always.",
     "your past mistakes, they taught you.",
-    "dare to try, even small."
+    "dare to try, even small.",
+    "want true calm? say 'quietud'.",
+    "this quiet speaks volumes.",
+    "breathe this in, my friend.",
+    "unlock inner strength today.",
+    "your moment of peace awaits."
   ],
-  "last_updated": "2026-10-09T20:01:33.475643"
+  "last_updated": "2026-10-09T21:29:12.766980"
 }
