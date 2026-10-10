@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say one word, start here",
-      "spanish": "Nunca digas una sola, empieza aquí",
-      "category": "Growth",
-      "generated_at": "2026-06-10T22:45:58.568034"
-    },
-    {
-      "english": "Never study alone, trade voice-notes",
-      "spanish": "No estudies solo, intercambia notas de voz",
-      "category": "Growth",
-      "generated_at": "2026-06-10T22:45:58.568047"
-    },
-    {
-      "english": "The secret? Use 'hoy' today, always",
-      "spanish": "El secreto, usa 'hoy' hoy, siempre",
-      "category": "Growth",
-      "generated_at": "2026-06-10T22:45:58.568060"
-    },
-    {
-      "english": "Stop scrolling, learn with one sentence",
-      "spanish": "Deja de scrollear, aprende con una frase",
-      "category": "Growth",
-      "generated_at": "2026-06-10T22:45:58.568073"
-    },
-    {
-      "english": "Stop learning verbs, learn situations",
-      "spanish": "Deja verbos, aprende situaciones",
-      "category": "Joy",
-      "generated_at": "2026-06-11T16:56:33.471006"
-    },
-    {
       "english": "Never panic, say “tranquilo” first",
       "spanish": "Nunca entres en pánico, di “tranquilo”",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Buena compañía? Simplemente 'agusto'.",
       "category": "Friendship",
       "generated_at": "2026-10-10T22:20:00.265088"
+    },
+    {
+      "english": "The answer? Breathe it in.",
+      "spanish": "La respuesta, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T23:56:53.015955"
+    },
+    {
+      "english": "Believe you already have.",
+      "spanish": "Cree que ya lo tienes.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T23:56:53.015992"
+    },
+    {
+      "english": "One sound creates peace.",
+      "spanish": "Un sonido crea paz.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T23:56:53.016019"
+    },
+    {
+      "english": "Your spirit shines so bright.",
+      "spanish": "Tu espíritu brilla mucho.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T23:56:53.016047"
+    },
+    {
+      "english": "The journey? Start it now.",
+      "spanish": "El viaje, empieza ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-10T23:56:53.016074"
     }
   ],
   "used_english": [
-    "never say one word, start here",
-    "never study alone, trade voice-notes",
-    "the secret? use 'hoy' today, always",
-    "stop scrolling, learn with one sentence",
-    "stop learning verbs, learn situations",
     "never panic, say “tranquilo” first",
     "the secret, add body language",
     "never say “maybe”, lock it",
@@ -21001,7 +20996,12 @@
     "real friends understand 'juntos'.",
     "want a loyal friend? 'lealtad'.",
     "your tribe: find your 'comunidad'.",
-    "good company? simply 'agusto'."
+    "good company? simply 'agusto'.",
+    "the answer? breathe it in.",
+    "believe you already have.",
+    "one sound creates peace.",
+    "your spirit shines so bright.",
+    "the journey? start it now."
   ],
-  "last_updated": "2026-10-10T22:20:00.265090"
+  "last_updated": "2026-10-10T23:56:53.016076"
 }
