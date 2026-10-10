@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never thankless, use 'gracias de verdad'",
-      "spanish": "Nunca sin gratitud, usa 'gracias de verdad'",
-      "category": "Gratitude",
-      "generated_at": "2026-06-10T19:34:52.200923"
-    },
-    {
-      "english": "This is why 'muchas gracias' wins",
-      "spanish": "Por eso 'muchas gracias' gana",
-      "category": "Gratitude",
-      "generated_at": "2026-06-10T19:34:52.200937"
-    },
-    {
-      "english": "The secret? Gratitude sounds warmer, faster",
-      "spanish": "El secreto: la gratitud suena más cálida",
-      "category": "Gratitude",
-      "generated_at": "2026-06-10T19:34:52.200949"
-    },
-    {
-      "english": "Stop awkward pauses, smile, then 'gracias'",
-      "spanish": "Corta las pausas, sonríe, luego 'gracias'",
-      "category": "Gratitude",
-      "generated_at": "2026-06-10T19:34:52.200961"
-    },
-    {
-      "english": "Stop doubting, say 'estoy aprendiendo'",
-      "spanish": "Deja de dudar, di 'estoy aprendiendo'",
-      "category": "Positive Life",
-      "generated_at": "2026-06-10T21:26:48.215661"
-    },
-    {
       "english": "The secret... repeat with feeling, wow",
       "spanish": "El secreto... repite con emoción, ¡guau!",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha más de cerca, oye 'alma'.",
       "category": "Confidence",
       "generated_at": "2026-10-10T19:08:56.815976"
+    },
+    {
+      "english": "Curious? 'Espera' means wait.",
+      "spanish": "¿Curioso? 'Espera' significa esperar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T20:28:39.176044"
+    },
+    {
+      "english": "Dare to begin, find flow.",
+      "spanish": "Atrévete a empezar, encuentra fluidez.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T20:28:39.176081"
+    },
+    {
+      "english": "Your small steps matter.",
+      "spanish": "Tus pequeños pasos importan.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T20:28:39.176107"
+    },
+    {
+      "english": "Why 'ahora'? Because now.",
+      "spanish": "¿Por qué 'ahora'? Porque ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T20:28:39.176133"
+    },
+    {
+      "english": "This quiet voice, 'susurro'.",
+      "spanish": "Esta voz callada, 'susurro'.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T20:28:39.176160"
     }
   ],
   "used_english": [
-    "never thankless, use 'gracias de verdad'",
-    "this is why 'muchas gracias' wins",
-    "the secret? gratitude sounds warmer, faster",
-    "stop awkward pauses, smile, then 'gracias'",
-    "stop doubting, say 'estoy aprendiendo'",
     "the secret... repeat with feeling, wow",
     "stop hiding, sing one sentence",
     "never fear mistakes, they're practice",
@@ -21001,7 +20996,12 @@
     "curious? 'juntos' means together.",
     "one word unlocks confidence.",
     "what if 'simple' is strong?",
-    "listen closer, hear 'alma'."
+    "listen closer, hear 'alma'.",
+    "curious? 'espera' means wait.",
+    "dare to begin, find flow.",
+    "your small steps matter.",
+    "why 'ahora'? because now.",
+    "this quiet voice, 'susurro'."
   ],
-  "last_updated": "2026-10-10T19:08:56.815978"
+  "last_updated": "2026-10-10T20:28:39.176163"
 }
