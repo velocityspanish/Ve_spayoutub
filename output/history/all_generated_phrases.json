@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never speak alone, join a chorus",
-      "spanish": "Nunca hables solo, únete",
-      "category": "Strength",
-      "generated_at": "2026-06-10T17:58:05.784052"
-    },
-    {
-      "english": "Stop overthinking, use one opener",
-      "spanish": "Para de pensar, usa esto",
-      "category": "Strength",
-      "generated_at": "2026-06-10T17:58:05.784065"
-    },
-    {
-      "english": "Never wait for 'perfect day'",
-      "spanish": "Nunca esperes 'día perfecto'",
-      "category": "Strength",
-      "generated_at": "2026-06-10T17:58:05.784078"
-    },
-    {
-      "english": "Stop asking permission, just try",
-      "spanish": "No pidas permiso, intenta",
-      "category": "Strength",
-      "generated_at": "2026-06-10T17:58:05.784091"
-    },
-    {
-      "english": "Stop rushing gratitude, say this first",
-      "spanish": "Deja la prisa, di esto primero",
-      "category": "Gratitude",
-      "generated_at": "2026-06-10T19:34:52.200901"
-    },
-    {
       "english": "Never thankless, use 'gracias de verdad'",
       "spanish": "Nunca sin gratitud, usa 'gracias de verdad'",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente este progreso, celébralo.",
       "category": "Motivation",
       "generated_at": "2026-10-10T17:41:12.443694"
+    },
+    {
+      "english": "This sound, your power.",
+      "spanish": "Este sonido, tu poder.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T19:08:56.815858"
+    },
+    {
+      "english": "Curious? 'Juntos' means together.",
+      "spanish": "¿Curioso? 'Juntos' significa juntos.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T19:08:56.815894"
+    },
+    {
+      "english": "One word unlocks confidence.",
+      "spanish": "Una palabra desbloquea confianza.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T19:08:56.815922"
+    },
+    {
+      "english": "What if 'simple' is strong?",
+      "spanish": "¿Y si 'simple' es fuerte?",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T19:08:56.815949"
+    },
+    {
+      "english": "Listen closer, hear 'alma'.",
+      "spanish": "Escucha más de cerca, oye 'alma'.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T19:08:56.815976"
     }
   ],
   "used_english": [
-    "never speak alone, join a chorus",
-    "stop overthinking, use one opener",
-    "never wait for 'perfect day'",
-    "stop asking permission, just try",
-    "stop rushing gratitude, say this first",
     "never thankless, use 'gracias de verdad'",
     "this is why 'muchas gracias' wins",
     "the secret? gratitude sounds warmer, faster",
@@ -21001,7 +20996,12 @@
     "your progress feels so good.",
     "curious? 'libertad' means freedom.",
     "what if speaking unlocks it?",
-    "feel this progress, celebrate it."
+    "feel this progress, celebrate it.",
+    "this sound, your power.",
+    "curious? 'juntos' means together.",
+    "one word unlocks confidence.",
+    "what if 'simple' is strong?",
+    "listen closer, hear 'alma'."
   ],
-  "last_updated": "2026-10-10T17:41:12.443696"
+  "last_updated": "2026-10-10T19:08:56.815978"
 }
