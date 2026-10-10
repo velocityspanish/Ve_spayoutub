@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, learn like a movie",
-      "spanish": "Nunca memorices, aprende como una película",
-      "category": "Motivation",
-      "generated_at": "2026-06-10T16:36:56.261742"
-    },
-    {
-      "english": "What nobody tells you, your fear lies",
-      "spanish": "Lo que nadie te dice, tu miedo miente",
-      "category": "Motivation",
-      "generated_at": "2026-06-10T16:36:56.261755"
-    },
-    {
-      "english": "Never quit after the first mistake",
-      "spanish": "Nunca pares tras el primer error",
-      "category": "Motivation",
-      "generated_at": "2026-06-10T16:36:56.261768"
-    },
-    {
-      "english": "Stop doom-scrolling Spanish, talk today",
-      "spanish": "Deja el doom-scroll, habla hoy",
-      "category": "Motivation",
-      "generated_at": "2026-06-10T16:36:56.261780"
-    },
-    {
-      "english": "Stop memorizing lists, learn this",
-      "spanish": "Deja listas, aprende esto",
-      "category": "Strength",
-      "generated_at": "2026-06-10T17:58:05.784030"
-    },
-    {
       "english": "Never speak alone, join a chorus",
       "spanish": "Nunca hables solo, únete",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu voz brilla, di 'brillo'.",
       "category": "Joy",
       "generated_at": "2026-10-10T00:23:04.546013"
+    },
+    {
+      "english": "Why wait? The moment is now.",
+      "spanish": "¿Por qué esperar? El momento es ahora.",
+      "category": "Motivation",
+      "generated_at": "2026-10-10T17:41:12.443570"
+    },
+    {
+      "english": "Your progress feels so good.",
+      "spanish": "Tu progreso se siente bien.",
+      "category": "Motivation",
+      "generated_at": "2026-10-10T17:41:12.443609"
+    },
+    {
+      "english": "Curious? 'Libertad' means freedom.",
+      "spanish": "¿Curioso? 'Libertad' significa libertad.",
+      "category": "Motivation",
+      "generated_at": "2026-10-10T17:41:12.443638"
+    },
+    {
+      "english": "What if speaking unlocks it?",
+      "spanish": "¿Y si hablar lo desbloquea?",
+      "category": "Motivation",
+      "generated_at": "2026-10-10T17:41:12.443666"
+    },
+    {
+      "english": "Feel this progress, celebrate it.",
+      "spanish": "Siente este progreso, celébralo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-10T17:41:12.443694"
     }
   ],
   "used_english": [
-    "never memorize, learn like a movie",
-    "what nobody tells you, your fear lies",
-    "never quit after the first mistake",
-    "stop doom-scrolling spanish, talk today",
-    "stop memorizing lists, learn this",
     "never speak alone, join a chorus",
     "stop overthinking, use one opener",
     "never wait for 'perfect day'",
@@ -21001,7 +20996,12 @@
     "your courage unlocks 'poder'.",
     "surprise! 'verdad' means truth.",
     "what if 'espera' means hope?",
-    "your voice shines, say 'brillo'."
+    "your voice shines, say 'brillo'.",
+    "why wait? the moment is now.",
+    "your progress feels so good.",
+    "curious? 'libertad' means freedom.",
+    "what if speaking unlocks it?",
+    "feel this progress, celebrate it."
   ],
-  "last_updated": "2026-10-10T00:23:04.546015"
+  "last_updated": "2026-10-10T17:41:12.443696"
 }
