@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never skip these 3 words",
-      "spanish": "Nunca saltes estas tres palabras",
-      "category": "Growth",
-      "generated_at": "2026-06-09T22:17:30.898834"
-    },
-    {
-      "english": "The secret: ask, then act",
-      "spanish": "El secreto, pregunta y actúa",
-      "category": "Growth",
-      "generated_at": "2026-06-09T22:17:30.898846"
-    },
-    {
-      "english": "Stop saying 'um', use 'pues'",
-      "spanish": "Deja 'um', usa 'pues'",
-      "category": "Growth",
-      "generated_at": "2026-06-09T22:17:30.898858"
-    },
-    {
-      "english": "This one cue improves listening",
-      "spanish": "Esta señal mejora tu escucha",
-      "category": "Growth",
-      "generated_at": "2026-06-09T22:17:30.898870"
-    },
-    {
-      "english": "Stop practicing alone, speak out loud",
-      "spanish": "Deja practicar solo, habla en voz alta",
-      "category": "Motivation",
-      "generated_at": "2026-06-10T16:36:56.261722"
-    },
-    {
       "english": "Never memorize, learn like a movie",
       "spanish": "Nunca memorices, aprende como una película",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu futuro ama este esfuerzo.",
       "category": "Purpose",
       "generated_at": "2026-10-09T23:06:15.548401"
+    },
+    {
+      "english": "Listen closely, feel 'sueño'.",
+      "spanish": "Escucha bien, siente 'sueño'.",
+      "category": "Joy",
+      "generated_at": "2026-10-10T00:23:04.545913"
+    },
+    {
+      "english": "Your courage unlocks 'poder'.",
+      "spanish": "Tu coraje libera 'poder'.",
+      "category": "Joy",
+      "generated_at": "2026-10-10T00:23:04.545947"
+    },
+    {
+      "english": "Surprise! 'verdad' means truth.",
+      "spanish": "¡Sorpresa! 'verdad' significa verdad.",
+      "category": "Joy",
+      "generated_at": "2026-10-10T00:23:04.545970"
+    },
+    {
+      "english": "What if 'espera' means hope?",
+      "spanish": "¿Y si 'espera' significa esperanza?",
+      "category": "Joy",
+      "generated_at": "2026-10-10T00:23:04.545991"
+    },
+    {
+      "english": "Your voice shines, say 'brillo'.",
+      "spanish": "Tu voz brilla, di 'brillo'.",
+      "category": "Joy",
+      "generated_at": "2026-10-10T00:23:04.546013"
     }
   ],
   "used_english": [
-    "never skip these 3 words",
-    "the secret: ask, then act",
-    "stop saying 'um', use 'pues'",
-    "this one cue improves listening",
-    "stop practicing alone, speak out loud",
     "never memorize, learn like a movie",
     "what nobody tells you, your fear lies",
     "never quit after the first mistake",
@@ -21001,7 +20996,12 @@
     "what if words unlock doors?",
     "encouragement: keep that flame.",
     "surprise! 'sol' means sunshine.",
-    "future you loves this effort."
+    "future you loves this effort.",
+    "listen closely, feel 'sueño'.",
+    "your courage unlocks 'poder'.",
+    "surprise! 'verdad' means truth.",
+    "what if 'espera' means hope?",
+    "your voice shines, say 'brillo'."
   ],
-  "last_updated": "2026-10-09T23:06:15.548403"
+  "last_updated": "2026-10-10T00:23:04.546015"
 }
