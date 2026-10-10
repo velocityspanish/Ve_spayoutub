@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... repeat with feeling, wow",
-      "spanish": "El secreto... repite con emoción, ¡guau!",
-      "category": "Positive Life",
-      "generated_at": "2026-06-10T21:26:48.215683"
-    },
-    {
-      "english": "Stop hiding, sing one sentence",
-      "spanish": "Deja de esconderte, canta una frase",
-      "category": "Positive Life",
-      "generated_at": "2026-06-10T21:26:48.215696"
-    },
-    {
-      "english": "Never fear mistakes, they're practice",
-      "spanish": "No temas errores, son práctica",
-      "category": "Positive Life",
-      "generated_at": "2026-06-10T21:26:48.215709"
-    },
-    {
-      "english": "Stop scrolling, practice 30 seconds",
-      "spanish": "Deja de scrollear, practica 30 segundos",
-      "category": "Positive Life",
-      "generated_at": "2026-06-10T21:26:48.215722"
-    },
-    {
-      "english": "Stop memorizing sentences, use this",
-      "spanish": "Deja de memorizar frases, usa esto",
-      "category": "Growth",
-      "generated_at": "2026-06-10T22:45:58.568011"
-    },
-    {
       "english": "Never say one word, start here",
       "spanish": "Nunca digas una sola, empieza aquí",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta voz callada, 'susurro'.",
       "category": "Happiness",
       "generated_at": "2026-10-10T20:28:39.176160"
+    },
+    {
+      "english": "Send this to your pact.",
+      "spanish": "Envía esto a tu pacto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T22:20:00.264966"
+    },
+    {
+      "english": "Real friends understand 'juntos'.",
+      "spanish": "Amigos reales entienden 'juntos'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T22:20:00.265004"
+    },
+    {
+      "english": "Want a loyal friend? 'Lealtad'.",
+      "spanish": "¿Quieres un amigo leal? 'Lealtad'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T22:20:00.265033"
+    },
+    {
+      "english": "Your tribe: find your 'comunidad'.",
+      "spanish": "Tu tribu: encuentra tu 'comunidad'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T22:20:00.265061"
+    },
+    {
+      "english": "Good company? Simply 'agusto'.",
+      "spanish": "¿Buena compañía? Simplemente 'agusto'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T22:20:00.265088"
     }
   ],
   "used_english": [
-    "the secret... repeat with feeling, wow",
-    "stop hiding, sing one sentence",
-    "never fear mistakes, they're practice",
-    "stop scrolling, practice 30 seconds",
-    "stop memorizing sentences, use this",
     "never say one word, start here",
     "never study alone, trade voice-notes",
     "the secret? use 'hoy' today, always",
@@ -21001,7 +20996,12 @@
     "dare to begin, find flow.",
     "your small steps matter.",
     "why 'ahora'? because now.",
-    "this quiet voice, 'susurro'."
+    "this quiet voice, 'susurro'.",
+    "send this to your pact.",
+    "real friends understand 'juntos'.",
+    "want a loyal friend? 'lealtad'.",
+    "your tribe: find your 'comunidad'.",
+    "good company? simply 'agusto'."
   ],
-  "last_updated": "2026-10-10T20:28:39.176163"
+  "last_updated": "2026-10-10T22:20:00.265090"
 }
