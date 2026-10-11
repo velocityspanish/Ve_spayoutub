@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “sorry” first—breathe",
-      "spanish": "Nunca digas “lo siento” primero, respira",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T19:35:54.268883"
-    },
-    {
-      "english": "The secret, forgive faster than facts",
-      "spanish": "El secreto, perdona más rápido que los hechos",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T19:35:54.268897"
-    },
-    {
-      "english": "Stop holding grudges, say this",
-      "spanish": "Deja el rencor, di esto",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T19:35:54.268910"
-    },
-    {
-      "english": "Never punish them, choose peace",
-      "spanish": "Nunca los castigas, elige paz",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T19:35:54.268923"
-    },
-    {
-      "english": "Stop rushing, say “gracias” twice",
-      "spanish": "Deja de correr, di “gracias” dos veces",
-      "category": "Gratitude",
-      "generated_at": "2026-06-11T21:25:01.300317"
-    },
-    {
       "english": "Never thank later, do it now",
       "spanish": "Nunca agradezcas después, hazlo ahora",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Siente este flujo: 'armonía'.",
       "category": "Strength",
       "generated_at": "2026-10-11T19:22:34.515797"
+    },
+    {
+      "english": "Feel this linguistic superpower.",
+      "spanish": "Siente este superpoder lingüístico.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T20:48:51.556521"
+    },
+    {
+      "english": "Curious? It's 'sí', means yes.",
+      "spanish": "¿Curioso? Es 'sí', significa sí.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T20:48:51.556560"
+    },
+    {
+      "english": "Start small, connect deeply.",
+      "spanish": "Empieza pequeño, conecta profundo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T20:48:51.556588"
+    },
+    {
+      "english": "Why are you waiting?",
+      "spanish": "¿Por qué estás esperando?",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T20:48:51.556613"
+    },
+    {
+      "english": "Your journey, one 'hola'.",
+      "spanish": "Tu viaje, un 'hola'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T20:48:51.556654"
     }
   ],
   "used_english": [
-    "never say “sorry” first—breathe",
-    "the secret, forgive faster than facts",
-    "stop holding grudges, say this",
-    "never punish them, choose peace",
-    "stop rushing, say “gracias” twice",
     "never thank later, do it now",
     "this is why gratitude melts stress",
     "the secret: heartfelt thanks, not scripts",
@@ -21001,7 +20996,12 @@
     "this small word: 'quizás'.",
     "your spirit needs this freedom.",
     "believe in your 'potencial'.",
-    "feel this flow: 'armonía'."
+    "feel this flow: 'armonía'.",
+    "feel this linguistic superpower.",
+    "curious? it's 'sí', means yes.",
+    "start small, connect deeply.",
+    "why are you waiting?",
+    "your journey, one 'hola'."
   ],
-  "last_updated": "2026-10-11T19:22:34.515800"
+  "last_updated": "2026-10-11T20:48:51.556657"
 }
