@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop blaming, say “fue un malentendido”",
-      "spanish": "Deja de culpar, di “fue un malentendido”",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T18:14:49.859997"
-    },
-    {
-      "english": "This one line resets the vibe",
-      "spanish": "Esta frase reinicia el ambiente",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T18:14:49.860010"
-    },
-    {
-      "english": "Stop replaying it, say “ya está”",
-      "spanish": "Deja de repasarlo, di “ya está”",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T18:14:49.860024"
-    },
-    {
-      "english": "What nobody tells you, lead with empathy",
-      "spanish": "Lo que nadie te dice, empieza con empatía",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T18:14:49.860037"
-    },
-    {
-      "english": "Stop apologizing, say it confidently",
-      "spanish": "Deja de pedir perdón, dilo con confianza",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T19:35:54.268861"
-    },
-    {
       "english": "Never say “sorry” first—breathe",
       "spanish": "Nunca digas “lo siento” primero, respira",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "Tienes esta fuerza interior.",
       "category": "Motivation",
       "generated_at": "2026-10-11T17:56:08.390665"
+    },
+    {
+      "english": "Curious? 'Resiliencia' is key.",
+      "spanish": "Curioso? 'Resiliencia' es clave.",
+      "category": "Strength",
+      "generated_at": "2026-10-11T19:22:34.515667"
+    },
+    {
+      "english": "This small word: 'quizás'.",
+      "spanish": "Esta pequeña palabra: 'quizás'.",
+      "category": "Strength",
+      "generated_at": "2026-10-11T19:22:34.515705"
+    },
+    {
+      "english": "Your spirit needs this freedom.",
+      "spanish": "Tu espíritu necesita esta libertad.",
+      "category": "Strength",
+      "generated_at": "2026-10-11T19:22:34.515742"
+    },
+    {
+      "english": "Believe in your 'potencial'.",
+      "spanish": "Cree en tu 'potencial'.",
+      "category": "Strength",
+      "generated_at": "2026-10-11T19:22:34.515770"
+    },
+    {
+      "english": "Feel this flow: 'armonía'.",
+      "spanish": "Siente este flujo: 'armonía'.",
+      "category": "Strength",
+      "generated_at": "2026-10-11T19:22:34.515797"
     }
   ],
   "used_english": [
-    "stop blaming, say “fue un malentendido”",
-    "this one line resets the vibe",
-    "stop replaying it, say “ya está”",
-    "what nobody tells you, lead with empathy",
-    "stop apologizing, say it confidently",
     "never say “sorry” first—breathe",
     "the secret, forgive faster than facts",
     "stop holding grudges, say this",
@@ -21001,7 +20996,12 @@
     "this one word, immense power.",
     "curious? 'mañana' means tomorrow.",
     "smallest effort, biggest gain.",
-    "you have this inner strength."
+    "you have this inner strength.",
+    "curious? 'resiliencia' is key.",
+    "this small word: 'quizás'.",
+    "your spirit needs this freedom.",
+    "believe in your 'potencial'.",
+    "feel this flow: 'armonía'."
   ],
-  "last_updated": "2026-10-11T17:56:08.390667"
+  "last_updated": "2026-10-11T19:22:34.515800"
 }
