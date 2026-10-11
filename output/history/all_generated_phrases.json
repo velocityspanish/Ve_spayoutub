@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never thank later, do it now",
-      "spanish": "Nunca agradezcas después, hazlo ahora",
-      "category": "Gratitude",
-      "generated_at": "2026-06-11T21:25:01.300340"
-    },
-    {
-      "english": "This is why gratitude melts stress",
-      "spanish": "Por eso, la gratitud derrite estrés",
-      "category": "Gratitude",
-      "generated_at": "2026-06-11T21:25:01.300354"
-    },
-    {
-      "english": "The secret: heartfelt thanks, not scripts",
-      "spanish": "El secreto: gracias de verdad, no guiones",
-      "category": "Gratitude",
-      "generated_at": "2026-06-11T21:25:01.300366"
-    },
-    {
-      "english": "Never say “thanks” only once",
-      "spanish": "No digas “gracias” solo una vez",
-      "category": "Gratitude",
-      "generated_at": "2026-06-11T21:25:01.300378"
-    },
-    {
-      "english": "Stop saying “I’m busy”, try this",
-      "spanish": "Deja de decir “Estoy ocupado”, usa esto",
-      "category": "Love",
-      "generated_at": "2026-06-11T22:46:37.618299"
-    },
-    {
       "english": "Stop practicing alone, send this",
       "spanish": "No practiques solo, manda esto",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu viaje, un 'hola'.",
       "category": "Motivation",
       "generated_at": "2026-10-11T20:48:51.556654"
+    },
+    {
+      "english": "Why resist? embrace 'gracias'.",
+      "spanish": "¿Por qué resistir? abraza gracias.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T22:44:28.585506"
+    },
+    {
+      "english": "A grateful heart, it shines.",
+      "spanish": "Un corazón agradecido, brilla.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T22:44:28.585538"
+    },
+    {
+      "english": "Want more? say 'gracias'.",
+      "spanish": "¿Quieres más? di 'gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T22:44:28.585559"
+    },
+    {
+      "english": "Curious? 'alegría' means joy.",
+      "spanish": "¿Curioso? alegría significa gozo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T22:44:28.585582"
+    },
+    {
+      "english": "A happy heart, wins.",
+      "spanish": "Un corazón feliz, gana.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-11T22:44:28.585602"
     }
   ],
   "used_english": [
-    "never thank later, do it now",
-    "this is why gratitude melts stress",
-    "the secret: heartfelt thanks, not scripts",
-    "never say “thanks” only once",
-    "stop saying “i’m busy”, try this",
     "stop practicing alone, send this",
     "never hide your feelings, say “te quiero”",
     "this love phrase makes natives melt",
@@ -21001,7 +20996,12 @@
     "curious? it's 'sí', means yes.",
     "start small, connect deeply.",
     "why are you waiting?",
-    "your journey, one 'hola'."
+    "your journey, one 'hola'.",
+    "why resist? embrace 'gracias'.",
+    "a grateful heart, it shines.",
+    "want more? say 'gracias'.",
+    "curious? 'alegría' means joy.",
+    "a happy heart, wins."
   ],
-  "last_updated": "2026-10-11T20:48:51.556657"
+  "last_updated": "2026-10-11T22:44:28.585603"
 }
