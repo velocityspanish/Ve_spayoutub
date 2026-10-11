@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never panic, say “tranquilo” first",
-      "spanish": "Nunca entres en pánico, di “tranquilo”",
-      "category": "Joy",
-      "generated_at": "2026-06-11T16:56:33.471029"
-    },
-    {
-      "english": "The secret, add body language",
-      "spanish": "El secreto, usa lenguaje corporal",
-      "category": "Joy",
-      "generated_at": "2026-06-11T16:56:33.471042"
-    },
-    {
-      "english": "Never say “maybe”, lock it",
-      "spanish": "No digas “tal vez”, decide",
-      "category": "Joy",
-      "generated_at": "2026-06-11T16:56:33.471054"
-    },
-    {
-      "english": "This one rule makes speech smoother",
-      "spanish": "Una regla, tu habla fluye",
-      "category": "Joy",
-      "generated_at": "2026-06-11T16:56:33.471067"
-    },
-    {
-      "english": "The secret? Say “no pasa nada” first",
-      "spanish": "El secreto, di “no pasa nada” primero",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-11T18:14:49.859975"
-    },
-    {
       "english": "Stop blaming, say “fue un malentendido”",
       "spanish": "Deja de culpar, di “fue un malentendido”",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "El viaje, empieza ahora.",
       "category": "Positive Life",
       "generated_at": "2026-10-10T23:56:53.016074"
+    },
+    {
+      "english": "Unlock your voice, they're listening.",
+      "spanish": "Desbloquea tu voz, te escuchan.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T17:56:08.390540"
+    },
+    {
+      "english": "This one word, immense power.",
+      "spanish": "Esta palabra, poder inmenso.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T17:56:08.390579"
+    },
+    {
+      "english": "Curious? 'Mañana' means tomorrow.",
+      "spanish": "¿Curioso? 'Mañana' significa mañana.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T17:56:08.390609"
+    },
+    {
+      "english": "Smallest effort, biggest gain.",
+      "spanish": "Pequeño esfuerzo, mayor ganancia.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T17:56:08.390637"
+    },
+    {
+      "english": "You have this inner strength.",
+      "spanish": "Tienes esta fuerza interior.",
+      "category": "Motivation",
+      "generated_at": "2026-10-11T17:56:08.390665"
     }
   ],
   "used_english": [
-    "never panic, say “tranquilo” first",
-    "the secret, add body language",
-    "never say “maybe”, lock it",
-    "this one rule makes speech smoother",
-    "the secret? say “no pasa nada” first",
     "stop blaming, say “fue un malentendido”",
     "this one line resets the vibe",
     "stop replaying it, say “ya está”",
@@ -21001,7 +20996,12 @@
     "believe you already have.",
     "one sound creates peace.",
     "your spirit shines so bright.",
-    "the journey? start it now."
+    "the journey? start it now.",
+    "unlock your voice, they're listening.",
+    "this one word, immense power.",
+    "curious? 'mañana' means tomorrow.",
+    "smallest effort, biggest gain.",
+    "you have this inner strength."
   ],
-  "last_updated": "2026-10-10T23:56:53.016076"
+  "last_updated": "2026-10-11T17:56:08.390667"
 }
