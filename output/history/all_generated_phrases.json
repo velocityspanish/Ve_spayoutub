@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop practicing alone, send this",
-      "spanish": "No practiques solo, manda esto",
-      "category": "Love",
-      "generated_at": "2026-06-11T22:46:37.618322"
-    },
-    {
-      "english": "Never hide your feelings, say “te quiero”",
-      "spanish": "No escondas tus sentimientos, di “te quiero”",
-      "category": "Love",
-      "generated_at": "2026-06-11T22:46:37.618335"
-    },
-    {
-      "english": "This love phrase makes natives melt",
-      "spanish": "Esta frase de amor derrite",
-      "category": "Love",
-      "generated_at": "2026-06-11T22:46:37.618348"
-    },
-    {
-      "english": "Stop overexplaining, say “como quieras”",
-      "spanish": "Deja de explicar, di “como quieras”",
-      "category": "Love",
-      "generated_at": "2026-06-11T22:46:37.618361"
-    },
-    {
-      "english": "Stop memorizing, master chunks today",
-      "spanish": "Deja de memorizar, domina bloques hoy",
-      "category": "Purpose",
-      "generated_at": "2026-06-12T16:21:22.466617"
-    },
-    {
       "english": "The secret is speaking first, listen",
       "spanish": "El secreto, habla primero, escucha",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Un corazón feliz, gana.",
       "category": "Gratitude",
       "generated_at": "2026-10-11T22:44:28.585602"
+    },
+    {
+      "english": "Friendship has its own language.",
+      "spanish": "La amistad tiene su idioma.",
+      "category": "Friendship",
+      "generated_at": "2026-10-12T00:03:47.798468"
+    },
+    {
+      "english": "What's your friend's secret word?",
+      "spanish": "¿Cuál es tu palabra secreta?",
+      "category": "Friendship",
+      "generated_at": "2026-10-12T00:03:47.798508"
+    },
+    {
+      "english": "Wisdom: real friends listen.",
+      "spanish": "Sabiduría: los amigos escuchan.",
+      "category": "Friendship",
+      "generated_at": "2026-10-12T00:03:47.798537"
+    },
+    {
+      "english": "This shared joy feels amazing.",
+      "spanish": "Esta alegría compartida es genial.",
+      "category": "Friendship",
+      "generated_at": "2026-10-12T00:03:47.798565"
+    },
+    {
+      "english": "Encouragement: your bond is strong.",
+      "spanish": "Ánimo: vuestro vínculo es fuerte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-12T00:03:47.798593"
     }
   ],
   "used_english": [
-    "stop practicing alone, send this",
-    "never hide your feelings, say “te quiero”",
-    "this love phrase makes natives melt",
-    "stop overexplaining, say “como quieras”",
-    "stop memorizing, master chunks today",
     "the secret is speaking first, listen",
     "never wait, answer with a story",
     "the secret to flow, short sentences",
@@ -21001,7 +20996,12 @@
     "a grateful heart, it shines.",
     "want more? say 'gracias'.",
     "curious? 'alegría' means joy.",
-    "a happy heart, wins."
+    "a happy heart, wins.",
+    "friendship has its own language.",
+    "what's your friend's secret word?",
+    "wisdom: real friends listen.",
+    "this shared joy feels amazing.",
+    "encouragement: your bond is strong."
   ],
-  "last_updated": "2026-10-11T22:44:28.585603"
+  "last_updated": "2026-10-12T00:03:47.798596"
 }
