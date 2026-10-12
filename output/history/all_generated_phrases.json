@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Start with 'Estoy aquí'",
-      "spanish": "El secreto, empieza con 'Estoy aquí'",
-      "category": "Joy",
-      "generated_at": "2026-06-12T17:38:45.268157"
-    },
-    {
-      "english": "Stop overthinking, just make it playful",
-      "spanish": "Deja de pensar, hazlo más divertido",
-      "category": "Joy",
-      "generated_at": "2026-06-12T17:38:45.268171"
-    },
-    {
-      "english": "Stop translating, try '¿En serio?'",
-      "spanish": "Deja de traducir, prueba '¿En serio?'",
-      "category": "Joy",
-      "generated_at": "2026-06-12T17:38:45.268186"
-    },
-    {
-      "english": "Never quit today, celebrate small wins",
-      "spanish": "No te rindas hoy, celebra pequeñas victorias",
-      "category": "Joy",
-      "generated_at": "2026-06-12T17:38:45.268199"
-    },
-    {
-      "english": "Stop deleting, keep the sentence",
-      "spanish": "Deja de borrar, termina la frase",
-      "category": "Creativity",
-      "generated_at": "2026-06-12T19:05:05.504931"
-    },
-    {
       "english": "Stop freezing, use 'sí, claro'",
       "spanish": "Deja de congelarte, di 'sí, claro'",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "¿El mejor regalo? 'Gracias'.",
       "category": "Creativity",
       "generated_at": "2026-10-12T21:37:45.835490"
+    },
+    {
+      "english": "Feel this pulse, 'ahora'.",
+      "spanish": "Siente este pulso, 'ahora'.",
+      "category": "Success",
+      "generated_at": "2026-10-12T22:24:45.306086"
+    },
+    {
+      "english": "Listen closer: 'Despacito'.",
+      "spanish": "Escucha más de cerca: 'Despacito'.",
+      "category": "Success",
+      "generated_at": "2026-10-12T22:24:45.306117"
+    },
+    {
+      "english": "You have this power within.",
+      "spanish": "Tienes este poder dentro.",
+      "category": "Success",
+      "generated_at": "2026-10-12T22:24:45.306138"
+    },
+    {
+      "english": "Wondering 'how'? Just start.",
+      "spanish": "¿Preguntando 'cómo'? Solo empieza.",
+      "category": "Success",
+      "generated_at": "2026-10-12T22:24:45.306159"
+    },
+    {
+      "english": "This journey has its rhythm.",
+      "spanish": "Este viaje tiene su ritmo.",
+      "category": "Success",
+      "generated_at": "2026-10-12T22:24:45.306180"
     }
   ],
   "used_english": [
-    "the secret? start with 'estoy aquí'",
-    "stop overthinking, just make it playful",
-    "stop translating, try '¿en serio?'",
-    "never quit today, celebrate small wins",
-    "stop deleting, keep the sentence",
     "stop freezing, use 'sí, claro'",
     "stop waiting, answer in past-time",
     "the secret? turn questions into stories",
@@ -21001,7 +20996,12 @@
     "why wait? 'ahora' is calling.",
     "your quiet confidence, 'segura'.",
     "feel this power: 'ganas'.",
-    "the best gift? 'gracias'."
+    "the best gift? 'gracias'.",
+    "feel this pulse, 'ahora'.",
+    "listen closer: 'despacito'.",
+    "you have this power within.",
+    "wondering 'how'? just start.",
+    "this journey has its rhythm."
   ],
-  "last_updated": "2026-10-12T21:37:45.835492"
+  "last_updated": "2026-10-12T22:24:45.306182"
 }
