@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret is speaking first, listen",
-      "spanish": "El secreto, habla primero, escucha",
-      "category": "Purpose",
-      "generated_at": "2026-06-12T16:21:22.466638"
-    },
-    {
-      "english": "Never wait, answer with a story",
-      "spanish": "No esperes, responde con una historia",
-      "category": "Purpose",
-      "generated_at": "2026-06-12T16:21:22.466652"
-    },
-    {
-      "english": "The secret to flow, short sentences",
-      "spanish": "El secreto del fluido, frases cortas",
-      "category": "Purpose",
-      "generated_at": "2026-06-12T16:21:22.466666"
-    },
-    {
-      "english": "Stop translating, talk around the word",
-      "spanish": "Deja de traducir, habla alrededor",
-      "category": "Purpose",
-      "generated_at": "2026-06-12T16:21:22.466678"
-    },
-    {
-      "english": "Never freeze, use one safe phrase",
-      "spanish": "Nunca te congeles, usa esta frase",
-      "category": "Joy",
-      "generated_at": "2026-06-12T17:38:45.268131"
-    },
-    {
       "english": "The secret? Start with 'Estoy aquí'",
       "spanish": "El secreto, empieza con 'Estoy aquí'",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Ánimo: vuestro vínculo es fuerte.",
       "category": "Friendship",
       "generated_at": "2026-10-12T00:03:47.798593"
+    },
+    {
+      "english": "Unlock magic, say 'por favor'.",
+      "spanish": "Desbloquea magia, di 'por favor'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-12T21:37:45.835417"
+    },
+    {
+      "english": "Why wait? 'Ahora' is calling.",
+      "spanish": "¿Por qué esperar? 'Ahora' te llama.",
+      "category": "Creativity",
+      "generated_at": "2026-10-12T21:37:45.835445"
+    },
+    {
+      "english": "Your quiet confidence, 'segura'.",
+      "spanish": "Tu confianza tranquila, 'segura'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-12T21:37:45.835461"
+    },
+    {
+      "english": "Feel this power: 'ganas'.",
+      "spanish": "Siente este poder: 'ganas'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-12T21:37:45.835476"
+    },
+    {
+      "english": "The best gift? 'Gracias'.",
+      "spanish": "¿El mejor regalo? 'Gracias'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-12T21:37:45.835490"
     }
   ],
   "used_english": [
-    "the secret is speaking first, listen",
-    "never wait, answer with a story",
-    "the secret to flow, short sentences",
-    "stop translating, talk around the word",
-    "never freeze, use one safe phrase",
     "the secret? start with 'estoy aquí'",
     "stop overthinking, just make it playful",
     "stop translating, try '¿en serio?'",
@@ -21001,7 +20996,12 @@
     "what's your friend's secret word?",
     "wisdom: real friends listen.",
     "this shared joy feels amazing.",
-    "encouragement: your bond is strong."
+    "encouragement: your bond is strong.",
+    "unlock magic, say 'por favor'.",
+    "why wait? 'ahora' is calling.",
+    "your quiet confidence, 'segura'.",
+    "feel this power: 'ganas'.",
+    "the best gift? 'gracias'."
   ],
-  "last_updated": "2026-10-12T00:03:47.798596"
+  "last_updated": "2026-10-12T21:37:45.835492"
 }
