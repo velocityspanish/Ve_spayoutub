@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop freezing, use 'sí, claro'",
-      "spanish": "Deja de congelarte, di 'sí, claro'",
-      "category": "Creativity",
-      "generated_at": "2026-06-12T19:05:05.504954"
-    },
-    {
-      "english": "Stop waiting, answer in past-time",
-      "spanish": "No esperes, responde en pasado",
-      "category": "Creativity",
-      "generated_at": "2026-06-12T19:05:05.504968"
-    },
-    {
-      "english": "The secret? Turn questions into stories",
-      "spanish": "El secreto, convierte preguntas en historias",
-      "category": "Creativity",
-      "generated_at": "2026-06-12T19:05:05.504980"
-    },
-    {
-      "english": "Stop overexplaining, add a feeling",
-      "spanish": "No expliques tanto, añade un sentimiento",
-      "category": "Creativity",
-      "generated_at": "2026-06-12T19:05:05.504994"
-    },
-    {
-      "english": "Never study alone, record your voice",
-      "spanish": "Nunca estudies solo, graba tu voz",
-      "category": "Inspiration",
-      "generated_at": "2026-06-12T21:03:31.059541"
-    },
-    {
       "english": "Never panic, begin with “estoy”",
       "spanish": "No entres en pánico, empieza con “estoy”",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Este viaje tiene su ritmo.",
       "category": "Success",
       "generated_at": "2026-10-12T22:24:45.306180"
+    },
+    {
+      "english": "Whispers of progress, listen.",
+      "spanish": "Susurros de progreso, escucha.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-12T23:30:46.378016"
+    },
+    {
+      "english": "The future smiles, say 'hola'.",
+      "spanish": "El futuro sonríe, di 'hola'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-12T23:30:46.378068"
+    },
+    {
+      "english": "Tiny steps, massive journeys.",
+      "spanish": "Pequeños pasos, viajes masivos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-12T23:30:46.378105"
+    },
+    {
+      "english": "Dare to simply exist, breathe.",
+      "spanish": "Atrévete a existir, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-12T23:30:46.378142"
+    },
+    {
+      "english": "Embrace the unknown, find courage.",
+      "spanish": "Abraza lo desconocido, encuentra coraje.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-12T23:30:46.378178"
     }
   ],
   "used_english": [
-    "stop freezing, use 'sí, claro'",
-    "stop waiting, answer in past-time",
-    "the secret? turn questions into stories",
-    "stop overexplaining, add a feeling",
-    "never study alone, record your voice",
     "never panic, begin with “estoy”",
     "the secret to fluency, talk imperfectly",
     "stop scrolling, ask a real question",
@@ -21001,7 +20996,12 @@
     "listen closer: 'despacito'.",
     "you have this power within.",
     "wondering 'how'? just start.",
-    "this journey has its rhythm."
+    "this journey has its rhythm.",
+    "whispers of progress, listen.",
+    "the future smiles, say 'hola'.",
+    "tiny steps, massive journeys.",
+    "dare to simply exist, breathe.",
+    "embrace the unknown, find courage."
   ],
-  "last_updated": "2026-10-12T22:24:45.306182"
+  "last_updated": "2026-10-12T23:30:46.378181"
 }
