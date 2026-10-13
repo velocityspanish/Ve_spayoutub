@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... lose your fear faster",
-      "spanish": "El secreto... pierde el miedo rápido",
-      "category": "Perseverance",
-      "generated_at": "2026-06-13T20:19:04.707616"
-    },
-    {
-      "english": "Never skip practice, even tired",
-      "spanish": "Nunca saltes práctica, aunque cansado",
-      "category": "Perseverance",
-      "generated_at": "2026-06-13T20:19:04.707630"
-    },
-    {
-      "english": "Stop deleting, keep going now",
-      "spanish": "Deja de borrar, sigue ya",
-      "category": "Perseverance",
-      "generated_at": "2026-06-13T20:19:04.707643"
-    },
-    {
-      "english": "Your progress is happening silently",
-      "spanish": "Tu progreso pasa en silencio",
-      "category": "Perseverance",
-      "generated_at": "2026-06-13T20:19:04.707657"
-    },
-    {
-      "english": "Never flirt softly, say it boldly",
-      "spanish": "Nunca coquetees suave, dilo valiente",
-      "category": "Love",
-      "generated_at": "2026-06-13T21:56:11.134810"
-    },
-    {
       "english": "This is why “me importas” hits",
       "spanish": "Por eso “me importas” pega",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Soltar se siente increíble.",
       "category": "Forgiveness",
       "generated_at": "2026-10-13T21:44:30.004858"
+    },
+    {
+      "english": "Why resist? Just breathe.",
+      "spanish": "¿Por qué resistir? Solo respira.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:13:34.788555"
+    },
+    {
+      "english": "This connection feels so deep.",
+      "spanish": "Esta conexión se siente profunda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:13:34.788587"
+    },
+    {
+      "english": "Your moment is precious, savor.",
+      "spanish": "Tu momento es precioso, saborea.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:13:34.788610"
+    },
+    {
+      "english": "Never doubt your quiet strength.",
+      "spanish": "Nunca dudes tu fuerza silenciosa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:13:34.788634"
+    },
+    {
+      "english": "What if peace starts within?",
+      "spanish": "¿Y si la paz empieza adentro?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:13:34.788655"
     }
   ],
   "used_english": [
-    "the secret... lose your fear faster",
-    "never skip practice, even tired",
-    "stop deleting, keep going now",
-    "your progress is happening silently",
-    "never flirt softly, say it boldly",
     "this is why “me importas” hits",
     "the secret: say “te necesito”",
     "stop texting “i miss you”, do this",
@@ -21001,7 +20996,12 @@
     "this frees you, truly.",
     "your true strength? forgive.",
     "never too late to heal.",
-    "letting go feels amazing."
+    "letting go feels amazing.",
+    "why resist? just breathe.",
+    "this connection feels so deep.",
+    "your moment is precious, savor.",
+    "never doubt your quiet strength.",
+    "what if peace starts within?"
   ],
-  "last_updated": "2026-10-13T21:44:30.004860"
+  "last_updated": "2026-10-13T23:13:34.788657"
 }
