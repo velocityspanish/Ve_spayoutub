@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Ask one follow-up",
-      "spanish": "El secreto, pregunta una sola cosa",
-      "category": "Success",
-      "generated_at": "2026-06-13T18:08:06.174413"
-    },
-    {
-      "english": "Stop rehearsing, talk like you text",
-      "spanish": "Deja de ensayar, habla como texto",
-      "category": "Success",
-      "generated_at": "2026-06-13T18:08:06.174427"
-    },
-    {
-      "english": "Never freeze, ask for clarification",
-      "spanish": "Nunca te quedes, pide aclaración",
-      "category": "Success",
-      "generated_at": "2026-06-13T18:08:06.174441"
-    },
-    {
-      "english": "Never panic, speak in short bursts",
-      "spanish": "Nunca entres en pánico, frases cortas",
-      "category": "Success",
-      "generated_at": "2026-06-13T18:08:06.174454"
-    },
-    {
-      "english": "Never quit, say it again",
-      "spanish": "Nunca te rindas, repítelo",
-      "category": "Perseverance",
-      "generated_at": "2026-06-13T20:19:04.707595"
-    },
-    {
       "english": "The secret... lose your fear faster",
       "spanish": "El secreto... pierde el miedo rápido",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu conexión se siente real.",
       "category": "Joy",
       "generated_at": "2026-10-13T20:31:24.785129"
+    },
+    {
+      "english": "Unburden your heart now.",
+      "spanish": "Descarga tu alma hoy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-13T21:44:30.004704"
+    },
+    {
+      "english": "This frees you, truly.",
+      "spanish": "Esto te libera, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-13T21:44:30.004776"
+    },
+    {
+      "english": "Your true strength? Forgive.",
+      "spanish": "¿Tu fuerza real? Perdona.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-13T21:44:30.004806"
+    },
+    {
+      "english": "Never too late to heal.",
+      "spanish": "Nunca tarde para sanar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-13T21:44:30.004832"
+    },
+    {
+      "english": "Letting go feels amazing.",
+      "spanish": "Soltar se siente increíble.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-13T21:44:30.004858"
     }
   ],
   "used_english": [
-    "the secret? ask one follow-up",
-    "stop rehearsing, talk like you text",
-    "never freeze, ask for clarification",
-    "never panic, speak in short bursts",
-    "never quit, say it again",
     "the secret... lose your fear faster",
     "never skip practice, even tired",
     "stop deleting, keep going now",
@@ -21001,7 +20996,12 @@
     "your courage truly echoes.",
     "want pure joy? say 'felicidad'.",
     "one sound, profound peace.",
-    "your connection feels so real."
+    "your connection feels so real.",
+    "unburden your heart now.",
+    "this frees you, truly.",
+    "your true strength? forgive.",
+    "never too late to heal.",
+    "letting go feels amazing."
   ],
-  "last_updated": "2026-10-13T20:31:24.785131"
+  "last_updated": "2026-10-13T21:44:30.004860"
 }
