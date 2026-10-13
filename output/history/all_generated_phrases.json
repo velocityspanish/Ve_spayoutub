@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop fearing mistakes, use “todavía”",
-      "spanish": "No tengas miedo, usa “todavía”",
-      "category": "Strength",
-      "generated_at": "2026-06-12T22:17:33.288649"
-    },
-    {
-      "english": "Never go blank, use “¿Cómo se dice?”",
-      "spanish": "No te quedes en blanco, “¿Cómo se dice?”",
-      "category": "Strength",
-      "generated_at": "2026-06-12T22:17:33.288663"
-    },
-    {
-      "english": "Stop scrolling, practice with one person",
-      "spanish": "Deja el scroll, practica con alguien",
-      "category": "Strength",
-      "generated_at": "2026-06-12T22:17:33.288676"
-    },
-    {
-      "english": "Never hide, say “Necesito ayuda”",
-      "spanish": "No te escondas, di “Necesito ayuda”",
-      "category": "Strength",
-      "generated_at": "2026-06-12T22:17:33.288691"
-    },
-    {
-      "english": "Stop leaking English, think in Spanish",
-      "spanish": "Deja filtrar inglés, piensa en español",
-      "category": "Positive Life",
-      "generated_at": "2026-06-13T15:03:20.289439"
-    },
-    {
       "english": "Never say “I want”… just say “I’d like”",
       "spanish": "Nunca digas “Quiero”…, di “Me gustaría”",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu espíritu florece con amor.",
       "category": "Self Improvement",
       "generated_at": "2026-10-13T01:10:39.443628"
+    },
+    {
+      "english": "Why 'hoy'? Because today.",
+      "spanish": "¿Por qué 'hoy'? Porque hoy.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:18:22.233797"
+    },
+    {
+      "english": "Magic word: 'gracias' always.",
+      "spanish": "Palabra mágica: 'gracias' siempre.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:18:22.233832"
+    },
+    {
+      "english": "True connection? 'entiendes'.",
+      "spanish": "¿Conexión real? 'Entiendes'.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:18:22.233860"
+    },
+    {
+      "english": "Surprise! 'felicidad' means happy.",
+      "spanish": "¡Sorpresa! 'Felicidad' es feliz.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:18:22.233888"
+    },
+    {
+      "english": "Your small words, 'tesoros'.",
+      "spanish": "Tus pequeñas palabras, 'tesoros'.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:18:22.233915"
     }
   ],
   "used_english": [
-    "stop fearing mistakes, use “todavía”",
-    "never go blank, use “¿cómo se dice?”",
-    "stop scrolling, practice with one person",
-    "never hide, say “necesito ayuda”",
-    "stop leaking english, think in spanish",
     "never say “i want”… just say “i’d like”",
     "what nobody tells you, stop overreading",
     "stop replacing words, use simple ones",
@@ -21001,7 +20996,12 @@
     "this quiet moment, pure 'paz'.",
     "your patience wins, always.",
     "feel this progress, truly.",
-    "your spirit blooms with 'amor'."
+    "your spirit blooms with 'amor'.",
+    "why 'hoy'? because today.",
+    "magic word: 'gracias' always.",
+    "true connection? 'entiendes'.",
+    "surprise! 'felicidad' means happy.",
+    "your small words, 'tesoros'."
   ],
-  "last_updated": "2026-10-13T01:10:39.443631"
+  "last_updated": "2026-10-13T02:18:22.233917"
 }
