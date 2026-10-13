@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, learn from real talks",
-      "spanish": "Nunca memorices, aprende de charlas reales",
-      "category": "Purpose",
-      "generated_at": "2026-06-13T16:14:23.675155"
-    },
-    {
-      "english": "Stop scrolling, practice with your hands",
-      "spanish": "Deja el scroll, practica con tus manos",
-      "category": "Purpose",
-      "generated_at": "2026-06-13T16:14:23.675168"
-    },
-    {
-      "english": "Never fear accents, they open doors",
-      "spanish": "No temas el acento, abre puertas",
-      "category": "Purpose",
-      "generated_at": "2026-06-13T16:14:23.675182"
-    },
-    {
-      "english": "Stop translating, answer in one breath",
-      "spanish": "Deja de traducir, responde en una bocanada",
-      "category": "Purpose",
-      "generated_at": "2026-06-13T16:14:23.675195"
-    },
-    {
-      "english": "Never say 'what?' again, say this",
-      "spanish": "Nunca digas '¿qué?' de nuevo, di esto",
-      "category": "Success",
-      "generated_at": "2026-06-13T18:08:06.174391"
-    },
-    {
       "english": "The secret? Ask one follow-up",
       "spanish": "El secreto, pregunta una sola cosa",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Respira profundo, encuentra tu calma.",
       "category": "Inspiration",
       "generated_at": "2026-10-13T19:47:22.674604"
+    },
+    {
+      "english": "This small word unlocks calm.",
+      "spanish": "Esta palabra desbloquea calma.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T20:31:24.785003"
+    },
+    {
+      "english": "Your courage truly echoes.",
+      "spanish": "Tu coraje realmente resuena.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T20:31:24.785039"
+    },
+    {
+      "english": "Want pure joy? Say 'felicidad'.",
+      "spanish": "¿Quieres pura alegría? Di 'felicidad'.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T20:31:24.785082"
+    },
+    {
+      "english": "One sound, profound peace.",
+      "spanish": "Un sonido, paz profunda.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T20:31:24.785105"
+    },
+    {
+      "english": "Your connection feels so real.",
+      "spanish": "Tu conexión se siente real.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T20:31:24.785129"
     }
   ],
   "used_english": [
-    "never memorize, learn from real talks",
-    "stop scrolling, practice with your hands",
-    "never fear accents, they open doors",
-    "stop translating, answer in one breath",
-    "never say 'what?' again, say this",
     "the secret? ask one follow-up",
     "stop rehearsing, talk like you text",
     "never freeze, ask for clarification",
@@ -21001,7 +20996,12 @@
     "your words have power, use.",
     "small victories, huge rewards.",
     "the universe is listening now.",
-    "breathe deep, find your 'calma'."
+    "breathe deep, find your 'calma'.",
+    "this small word unlocks calm.",
+    "your courage truly echoes.",
+    "want pure joy? say 'felicidad'.",
+    "one sound, profound peace.",
+    "your connection feels so real."
   ],
-  "last_updated": "2026-10-13T19:47:22.674606"
+  "last_updated": "2026-10-13T20:31:24.785131"
 }
