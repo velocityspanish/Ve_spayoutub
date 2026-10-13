@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never panic, begin with “estoy”",
-      "spanish": "No entres en pánico, empieza con “estoy”",
-      "category": "Inspiration",
-      "generated_at": "2026-06-12T21:03:31.059563"
-    },
-    {
-      "english": "The secret to fluency, talk imperfectly",
-      "spanish": "El secreto de fluidez, habla imperfecto",
-      "category": "Inspiration",
-      "generated_at": "2026-06-12T21:03:31.059577"
-    },
-    {
-      "english": "Stop scrolling, ask a real question",
-      "spanish": "Deja de scrollear, pregunta algo real",
-      "category": "Inspiration",
-      "generated_at": "2026-06-12T21:03:31.059591"
-    },
-    {
-      "english": "Never over-explain, just add “ya”",
-      "spanish": "Nunca des demasiadas, solo “ya”",
-      "category": "Inspiration",
-      "generated_at": "2026-06-12T21:03:31.059604"
-    },
-    {
-      "english": "Stop translating, speak before you think",
-      "spanish": "Deja de traducir, habla antes",
-      "category": "Strength",
-      "generated_at": "2026-06-12T22:17:33.288624"
-    },
-    {
       "english": "Stop fearing mistakes, use “todavía”",
       "spanish": "No tengas miedo, usa “todavía”",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Abraza lo desconocido, encuentra coraje.",
       "category": "Positive Life",
       "generated_at": "2026-10-12T23:30:46.378178"
+    },
+    {
+      "english": "Unlock your inner voice, listen.",
+      "spanish": "Desbloquea tu voz interior, escucha.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-13T01:10:39.443516"
+    },
+    {
+      "english": "This quiet moment, pure 'paz'.",
+      "spanish": "Este momento tranquilo, pura paz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-13T01:10:39.443556"
+    },
+    {
+      "english": "Your patience wins, always.",
+      "spanish": "Tu paciencia gana, siempre.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-13T01:10:39.443580"
+    },
+    {
+      "english": "Feel this progress, truly.",
+      "spanish": "Siente este progreso, de verdad.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-13T01:10:39.443604"
+    },
+    {
+      "english": "Your spirit blooms with 'amor'.",
+      "spanish": "Tu espíritu florece con amor.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-13T01:10:39.443628"
     }
   ],
   "used_english": [
-    "never panic, begin with “estoy”",
-    "the secret to fluency, talk imperfectly",
-    "stop scrolling, ask a real question",
-    "never over-explain, just add “ya”",
-    "stop translating, speak before you think",
     "stop fearing mistakes, use “todavía”",
     "never go blank, use “¿cómo se dice?”",
     "stop scrolling, practice with one person",
@@ -21001,7 +20996,12 @@
     "the future smiles, say 'hola'.",
     "tiny steps, massive journeys.",
     "dare to simply exist, breathe.",
-    "embrace the unknown, find courage."
+    "embrace the unknown, find courage.",
+    "unlock your inner voice, listen.",
+    "this quiet moment, pure 'paz'.",
+    "your patience wins, always.",
+    "feel this progress, truly.",
+    "your spirit blooms with 'amor'."
   ],
-  "last_updated": "2026-10-12T23:30:46.378181"
+  "last_updated": "2026-10-13T01:10:39.443631"
 }
