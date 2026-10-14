@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting to sound native",
-      "spanish": "No esperes sonar nativo",
-      "category": "Inspiration",
-      "generated_at": "2026-06-14T16:22:38.333560"
-    },
-    {
-      "english": "The secret is asking, then answering",
-      "spanish": "La clave: pregunta, luego responde",
-      "category": "Inspiration",
-      "generated_at": "2026-06-14T16:22:38.333574"
-    },
-    {
-      "english": "Stop being perfect, be clear",
-      "spanish": "Deja la perfección, sé claro",
-      "category": "Inspiration",
-      "generated_at": "2026-06-14T16:22:38.333587"
-    },
-    {
-      "english": "Never quit when you feel stuck",
-      "spanish": "No pares cuando te atoras",
-      "category": "Inspiration",
-      "generated_at": "2026-06-14T16:22:38.333601"
-    },
-    {
-      "english": "Stop saying “maybe”, try “claro” now",
-      "spanish": "Deja “tal vez”, di “claro” ya",
-      "category": "Courage",
-      "generated_at": "2026-06-14T18:13:27.859084"
-    },
-    {
       "english": "The secret... ask names, then smile",
       "spanish": "El secreto... pregunta nombres, sonríe",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha: 'cuanto antes', ahora.",
       "category": "Kindness",
       "generated_at": "2026-10-14T17:50:22.060637"
+    },
+    {
+      "english": "Feel this instant calm.",
+      "spanish": "Siente esta calma instantánea.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T19:12:07.511741"
+    },
+    {
+      "english": "What if 'joy' is a choice?",
+      "spanish": "¿Y si la 'alegría' es elección?",
+      "category": "Joy",
+      "generated_at": "2026-10-14T19:12:07.511780"
+    },
+    {
+      "english": "Unlock courage, say 'valor'.",
+      "spanish": "Desbloquea coraje, di 'valor'.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T19:12:07.511809"
+    },
+    {
+      "english": "Your future is bright, believe.",
+      "spanish": "Tu futuro es brillante, cree.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T19:12:07.511838"
+    },
+    {
+      "english": "Listen: 'poco a poco' works.",
+      "spanish": "Escucha: 'poco a poco' funciona.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T19:12:07.511865"
     }
   ],
   "used_english": [
-    "stop waiting to sound native",
-    "the secret is asking, then answering",
-    "stop being perfect, be clear",
-    "never quit when you feel stuck",
-    "stop saying “maybe”, try “claro” now",
     "the secret... ask names, then smile",
     "never explain too much, pause first",
     "never quit mornings, say one line",
@@ -21001,7 +20996,12 @@
     "feel this warmth, 'cariño'.",
     "your spirit can fly.",
     "stop comparing, embrace you.",
-    "listen: 'cuanto antes', now."
+    "listen: 'cuanto antes', now.",
+    "feel this instant calm.",
+    "what if 'joy' is a choice?",
+    "unlock courage, say 'valor'.",
+    "your future is bright, believe.",
+    "listen: 'poco a poco' works."
   ],
-  "last_updated": "2026-10-14T17:50:22.060639"
+  "last_updated": "2026-10-14T19:12:07.511867"
 }
