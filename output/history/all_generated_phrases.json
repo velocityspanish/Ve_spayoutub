@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why gratitude builds confidence",
-      "spanish": "Por eso, la gratitud da confianza",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T20:21:34.634863"
-    },
-    {
-      "english": "The secret? Simple thanks, big energy",
-      "spanish": "El secreto, gracias simples, gran energía",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T20:21:34.634878"
-    },
-    {
-      "english": "Never say 'thanks later', do it now",
-      "spanish": "No digas 'gracias después', hazlo ya",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T20:21:34.634892"
-    },
-    {
-      "english": "Stop being formal, use 'te agradezco'",
-      "spanish": "Deja lo formal, usa 'te agradezco'",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T20:21:34.634907"
-    },
-    {
-      "english": "Stop learning, start bargaining",
-      "spanish": "No aprendas, empieza a negociar",
-      "category": "Motivation",
-      "generated_at": "2026-06-14T22:01:15.402148"
-    },
-    {
       "english": "Never memorize, use it today",
       "spanish": "Nunca memorices, úsalo hoy",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Cuál es tu motivación? Ganas.",
       "category": "Positive Life",
       "generated_at": "2026-10-14T20:28:38.083853"
+    },
+    {
+      "english": "You can do this, friend.",
+      "spanish": "Puedes hacer esto, amigo/a.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T22:08:13.495405"
+    },
+    {
+      "english": "Your journey has begun.",
+      "spanish": "Tu viaje ha comenzado.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T22:08:13.495442"
+    },
+    {
+      "english": "Why not try 'ahora'?",
+      "spanish": "¿Por qué no probar 'ahora'?",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T22:08:13.495468"
+    },
+    {
+      "english": "Stop doubting yourself.",
+      "spanish": "Deja de dudar de ti.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T22:08:13.495495"
+    },
+    {
+      "english": "This feels truly freeing.",
+      "spanish": "Esto se siente liberador.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T22:08:13.495521"
     }
   ],
   "used_english": [
-    "this is why gratitude builds confidence",
-    "the secret? simple thanks, big energy",
-    "never say 'thanks later', do it now",
-    "stop being formal, use 'te agradezco'",
-    "stop learning, start bargaining",
     "never memorize, use it today",
     "the secret, ask—then just answer",
     "stop avoiding questions, use this",
@@ -21001,7 +20996,12 @@
     "why the wait? start 'hoy'.",
     "unlock your power. 'libertad'.",
     "feel this peace. 'tranquilidad'.",
-    "what's your motivation? 'ganas'."
+    "what's your motivation? 'ganas'.",
+    "you can do this, friend.",
+    "your journey has begun.",
+    "why not try 'ahora'?",
+    "stop doubting yourself.",
+    "this feels truly freeing."
   ],
-  "last_updated": "2026-10-14T20:28:38.083855"
+  "last_updated": "2026-10-14T22:08:13.495523"
 }
