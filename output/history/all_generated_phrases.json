@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, use it today",
-      "spanish": "Nunca memorices, úsalo hoy",
-      "category": "Motivation",
-      "generated_at": "2026-06-14T22:01:15.402173"
-    },
-    {
-      "english": "The secret, ask—then just answer",
-      "spanish": "El truco, pregunta—y responde",
-      "category": "Motivation",
-      "generated_at": "2026-06-14T22:01:15.402189"
-    },
-    {
-      "english": "Stop avoiding questions, use this",
-      "spanish": "Deja de evitar preguntas, usa esto",
-      "category": "Motivation",
-      "generated_at": "2026-06-14T22:01:15.402204"
-    },
-    {
-      "english": "Never ghost practice, send audio",
-      "spanish": "No desaparezcas, envía audios",
-      "category": "Motivation",
-      "generated_at": "2026-06-14T22:01:15.402219"
-    },
-    {
-      "english": "Never wait, smile before speaking",
-      "spanish": "Nunca esperes, sonríe antes de hablar",
-      "category": "Happiness",
-      "generated_at": "2026-06-15T17:59:07.898245"
-    },
-    {
       "english": "This is why 'vale' calms everything",
       "spanish": "Por eso 'vale' calma todo",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Esto se siente liberador.",
       "category": "Confidence",
       "generated_at": "2026-10-14T22:08:13.495521"
+    },
+    {
+      "english": "Feel this moment, really.",
+      "spanish": "Siente este momento, de verdad.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T23:31:56.619529"
+    },
+    {
+      "english": "One breath, new perspective.",
+      "spanish": "Una bocanada, nueva perspectiva.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T23:31:56.619566"
+    },
+    {
+      "english": "Curious? 'Ojalá' means hope.",
+      "spanish": "¿Curioso? 'Ojalá' significa esperanza.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T23:31:56.619612"
+    },
+    {
+      "english": "Your future is listening, act.",
+      "spanish": "Tu futuro escucha, actúa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T23:31:56.619641"
+    },
+    {
+      "english": "Never too late, begin now.",
+      "spanish": "Nunca es tarde, empieza hoy.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T23:31:56.619668"
     }
   ],
   "used_english": [
-    "never memorize, use it today",
-    "the secret, ask—then just answer",
-    "stop avoiding questions, use this",
-    "never ghost practice, send audio",
-    "never wait, smile before speaking",
     "this is why 'vale' calms everything",
     "what nobody tells you, relax endings",
     "stop forcing, let your words land",
@@ -21001,7 +20996,12 @@
     "your journey has begun.",
     "why not try 'ahora'?",
     "stop doubting yourself.",
-    "this feels truly freeing."
+    "this feels truly freeing.",
+    "feel this moment, really.",
+    "one breath, new perspective.",
+    "curious? 'ojalá' means hope.",
+    "your future is listening, act.",
+    "never too late, begin now."
   ],
-  "last_updated": "2026-10-14T22:08:13.495523"
+  "last_updated": "2026-10-14T23:31:56.619670"
 }
