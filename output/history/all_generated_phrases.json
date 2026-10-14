@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why “me importas” hits",
-      "spanish": "Por eso “me importas” pega",
-      "category": "Love",
-      "generated_at": "2026-06-13T21:56:11.134834"
-    },
-    {
-      "english": "The secret: say “te necesito”",
-      "spanish": "El secreto, di “te necesito”",
-      "category": "Love",
-      "generated_at": "2026-06-13T21:56:11.134848"
-    },
-    {
-      "english": "Stop texting “I miss you”, do this",
-      "spanish": "Deja “te extraño”, haz esto",
-      "category": "Love",
-      "generated_at": "2026-06-13T21:56:11.134862"
-    },
-    {
-      "english": "Never say “good luck”, say “confío”",
-      "spanish": "Nunca digas “buena suerte”, di “confío”",
-      "category": "Love",
-      "generated_at": "2026-06-13T21:56:11.134876"
-    },
-    {
-      "english": "Never forget to thank, fast",
-      "spanish": "Nunca olvides agradecer, rápido",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T15:08:17.534520"
-    },
-    {
       "english": "Stop, gratitude is your superpower",
       "spanish": "Para, la gratitud es tu superpoder",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si la paz empieza adentro?",
       "category": "Mindfulness",
       "generated_at": "2026-10-13T23:13:34.788655"
+    },
+    {
+      "english": "Your whisper sparks courage.",
+      "spanish": "Tu susurro enciende coraje.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T00:00:41.653611"
+    },
+    {
+      "english": "Unlock potential, just listen.",
+      "spanish": "Desbloquea potencial, solo escucha.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T00:00:41.653648"
+    },
+    {
+      "english": "One word, huge comfort.",
+      "spanish": "Una palabra, gran consuelo.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T00:00:41.653674"
+    },
+    {
+      "english": "You have inner warmth.",
+      "spanish": "Tienes calidez interior.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T00:00:41.653700"
+    },
+    {
+      "english": "The future whispers hope.",
+      "spanish": "El futuro susurra esperanza.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T00:00:41.653726"
     }
   ],
   "used_english": [
-    "this is why “me importas” hits",
-    "the secret: say “te necesito”",
-    "stop texting “i miss you”, do this",
-    "never say “good luck”, say “confío”",
-    "never forget to thank, fast",
     "stop, gratitude is your superpower",
     "the secret? thank twice, breathe",
     "never wait, say 'te lo agradezco'",
@@ -21001,7 +20996,12 @@
     "this connection feels so deep.",
     "your moment is precious, savor.",
     "never doubt your quiet strength.",
-    "what if peace starts within?"
+    "what if peace starts within?",
+    "your whisper sparks courage.",
+    "unlock potential, just listen.",
+    "one word, huge comfort.",
+    "you have inner warmth.",
+    "the future whispers hope."
   ],
-  "last_updated": "2026-10-13T23:13:34.788657"
+  "last_updated": "2026-10-14T00:00:41.653729"
 }
