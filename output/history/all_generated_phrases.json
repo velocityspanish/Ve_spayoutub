@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop, gratitude is your superpower",
-      "spanish": "Para, la gratitud es tu superpoder",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T15:08:17.534542"
-    },
-    {
-      "english": "The secret? Thank twice, breathe",
-      "spanish": "El secreto, agradece dos veces",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T15:08:17.534557"
-    },
-    {
-      "english": "Never wait, say 'te lo agradezco'",
-      "spanish": "Nunca esperes, di 'te lo agradezco'",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T15:08:17.534571"
-    },
-    {
-      "english": "Stop rushing, appreciate the moment",
-      "spanish": "Para, aprecia el momento",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T15:08:17.534585"
-    },
-    {
-      "english": "Stop using English in secret",
-      "spanish": "Deja el inglés en secreto",
-      "category": "Inspiration",
-      "generated_at": "2026-06-14T16:22:38.333537"
-    },
-    {
       "english": "Stop waiting to sound native",
       "spanish": "No esperes sonar nativo",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "El futuro susurra esperanza.",
       "category": "Hope",
       "generated_at": "2026-10-14T00:00:41.653726"
+    },
+    {
+      "english": "This tiny word, a treasure.",
+      "spanish": "Esta palabra diminuta, un tesoro.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T17:50:22.060507"
+    },
+    {
+      "english": "Feel this warmth, 'cariño'.",
+      "spanish": "Siente este calor, 'cariño'.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T17:50:22.060549"
+    },
+    {
+      "english": "Your spirit can fly.",
+      "spanish": "Tu espíritu puede volar.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T17:50:22.060578"
+    },
+    {
+      "english": "Stop comparing, embrace you.",
+      "spanish": "Deja de comparar, abrázate.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T17:50:22.060608"
+    },
+    {
+      "english": "Listen: 'cuanto antes', now.",
+      "spanish": "Escucha: 'cuanto antes', ahora.",
+      "category": "Kindness",
+      "generated_at": "2026-10-14T17:50:22.060637"
     }
   ],
   "used_english": [
-    "stop, gratitude is your superpower",
-    "the secret? thank twice, breathe",
-    "never wait, say 'te lo agradezco'",
-    "stop rushing, appreciate the moment",
-    "stop using english in secret",
     "stop waiting to sound native",
     "the secret is asking, then answering",
     "stop being perfect, be clear",
@@ -21001,7 +20996,12 @@
     "unlock potential, just listen.",
     "one word, huge comfort.",
     "you have inner warmth.",
-    "the future whispers hope."
+    "the future whispers hope.",
+    "this tiny word, a treasure.",
+    "feel this warmth, 'cariño'.",
+    "your spirit can fly.",
+    "stop comparing, embrace you.",
+    "listen: 'cuanto antes', now."
   ],
-  "last_updated": "2026-10-14T00:00:41.653729"
+  "last_updated": "2026-10-14T17:50:22.060639"
 }
