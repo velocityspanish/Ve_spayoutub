@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret... ask names, then smile",
-      "spanish": "El secreto... pregunta nombres, sonríe",
-      "category": "Courage",
-      "generated_at": "2026-06-14T18:13:27.859110"
-    },
-    {
-      "english": "Never explain too much, pause first",
-      "spanish": "Nunca expliques de más, pausa primero",
-      "category": "Courage",
-      "generated_at": "2026-06-14T18:13:27.859124"
-    },
-    {
-      "english": "Never quit mornings, say one line",
-      "spanish": "No te rindas en la mañana, una línea",
-      "category": "Courage",
-      "generated_at": "2026-06-14T18:13:27.859138"
-    },
-    {
-      "english": "Never practice alone, answer out loud",
-      "spanish": "Nunca practiques solo, responde en voz alta",
-      "category": "Courage",
-      "generated_at": "2026-06-14T18:13:27.859152"
-    },
-    {
-      "english": "Never rush, thank first, breathe",
-      "spanish": "Nunca corras, agradece primero, respira",
-      "category": "Gratitude",
-      "generated_at": "2026-06-14T20:21:34.634838"
-    },
-    {
       "english": "This is why gratitude builds confidence",
       "spanish": "Por eso, la gratitud da confianza",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha: 'poco a poco' funciona.",
       "category": "Joy",
       "generated_at": "2026-10-14T19:12:07.511865"
+    },
+    {
+      "english": "Believe this feeling. Pure 'serenidad'.",
+      "spanish": "Cree en esta sensación. Pura serenidad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T20:28:38.083735"
+    },
+    {
+      "english": "Why the wait? Start 'hoy'.",
+      "spanish": "¿Por qué la espera? Empieza hoy.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T20:28:38.083769"
+    },
+    {
+      "english": "Unlock your power. 'Libertad'.",
+      "spanish": "Desbloquea tu poder. Libertad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T20:28:38.083797"
+    },
+    {
+      "english": "Feel this peace. 'Tranquilidad'.",
+      "spanish": "Siente esta paz. Tranquilidad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T20:28:38.083825"
+    },
+    {
+      "english": "What's your motivation? 'Ganas'.",
+      "spanish": "¿Cuál es tu motivación? Ganas.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T20:28:38.083853"
     }
   ],
   "used_english": [
-    "the secret... ask names, then smile",
-    "never explain too much, pause first",
-    "never quit mornings, say one line",
-    "never practice alone, answer out loud",
-    "never rush, thank first, breathe",
     "this is why gratitude builds confidence",
     "the secret? simple thanks, big energy",
     "never say 'thanks later', do it now",
@@ -21001,7 +20996,12 @@
     "what if 'joy' is a choice?",
     "unlock courage, say 'valor'.",
     "your future is bright, believe.",
-    "listen: 'poco a poco' works."
+    "listen: 'poco a poco' works.",
+    "believe this feeling. pure 'serenidad'.",
+    "why the wait? start 'hoy'.",
+    "unlock your power. 'libertad'.",
+    "feel this peace. 'tranquilidad'.",
+    "what's your motivation? 'ganas'."
   ],
-  "last_updated": "2026-10-14T19:12:07.511867"
+  "last_updated": "2026-10-14T20:28:38.083855"
 }
