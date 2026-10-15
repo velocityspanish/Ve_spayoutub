@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why 'vale' calms everything",
-      "spanish": "Por eso 'vale' calma todo",
-      "category": "Happiness",
-      "generated_at": "2026-06-15T17:59:07.898271"
-    },
-    {
-      "english": "What nobody tells you, relax endings",
-      "spanish": "Lo que nadie dice, relaja finales",
-      "category": "Happiness",
-      "generated_at": "2026-06-15T17:59:07.898285"
-    },
-    {
-      "english": "Stop forcing, let your words land",
-      "spanish": "No fuerces, deja que caigan tus palabras",
-      "category": "Happiness",
-      "generated_at": "2026-06-15T17:59:07.898299"
-    },
-    {
-      "english": "Never explain first, just share one feeling",
-      "spanish": "No expliques primero, solo comparte un sentimiento",
-      "category": "Happiness",
-      "generated_at": "2026-06-15T17:59:07.898312"
-    },
-    {
-      "english": "Stop studying, start reacting",
-      "spanish": "Deja de estudiar, empieza a reaccionar",
-      "category": "Motivation",
-      "generated_at": "2026-06-15T19:04:17.925940"
-    },
-    {
       "english": "Stop overthinking, answer fast",
       "spanish": "Deja de pensar, responde rápido",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca es tarde, empieza hoy.",
       "category": "Kindness",
       "generated_at": "2026-10-14T23:31:56.619668"
+    },
+    {
+      "english": "This word shifts perspective.",
+      "spanish": "Esta palabra cambia perspectiva.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-15T17:39:21.261484"
+    },
+    {
+      "english": "Your peace is a journey.",
+      "spanish": "Tu paz es un viaje.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-15T17:39:21.261511"
+    },
+    {
+      "english": "Try 'quizás' for hope.",
+      "spanish": "Prueba 'quizás' para esperanza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-15T17:39:21.261528"
+    },
+    {
+      "english": "This breath brings calm.",
+      "spanish": "Esta respiración trae calma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-15T17:39:21.261550"
+    },
+    {
+      "english": "Unlock wonder, say 'cómo'.",
+      "spanish": "Desbloquea maravilla, di 'cómo'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-15T17:39:21.261568"
     }
   ],
   "used_english": [
-    "this is why 'vale' calms everything",
-    "what nobody tells you, relax endings",
-    "stop forcing, let your words land",
-    "never explain first, just share one feeling",
-    "stop studying, start reacting",
     "stop overthinking, answer fast",
     "stop translating, use real examples",
     "the secret, shadow every day",
@@ -21001,7 +20996,12 @@
     "one breath, new perspective.",
     "curious? 'ojalá' means hope.",
     "your future is listening, act.",
-    "never too late, begin now."
+    "never too late, begin now.",
+    "this word shifts perspective.",
+    "your peace is a journey.",
+    "try 'quizás' for hope.",
+    "this breath brings calm.",
+    "unlock wonder, say 'cómo'."
   ],
-  "last_updated": "2026-10-14T23:31:56.619670"
+  "last_updated": "2026-10-15T17:39:21.261570"
 }
