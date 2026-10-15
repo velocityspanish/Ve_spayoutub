@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'maybe', use 'de una'",
-      "spanish": "Nunca digas 'tal vez', usa 'de una'",
-      "category": "Growth",
-      "generated_at": "2026-06-15T21:47:11.359979"
-    },
-    {
-      "english": "Stop perfecting, just make it clear",
-      "spanish": "Deja perfeccionar, hazlo claro",
-      "category": "Growth",
-      "generated_at": "2026-06-15T21:47:11.359995"
-    },
-    {
-      "english": "Never ask for words, ask why",
-      "spanish": "Nunca pidas palabras, pregunta 'por qué'",
-      "category": "Growth",
-      "generated_at": "2026-06-15T21:47:11.360008"
-    },
-    {
-      "english": "The secret? Repeat the same line",
-      "spanish": "El secreto, repite la misma frase",
-      "category": "Growth",
-      "generated_at": "2026-06-15T21:47:11.360022"
-    },
-    {
-      "english": "Stop aiming for native, aim clear",
-      "spanish": "Deja de buscar nativo, busca claro",
-      "category": "Growth",
-      "generated_at": "2026-06-15T22:53:56.255685"
-    },
-    {
       "english": "The secret? Speak with feeling first",
       "spanish": "El secreto, habla con sentimiento primero",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Pequeños pasos construyen mundos.",
       "category": "Purpose",
       "generated_at": "2026-10-15T20:11:16.608409"
+    },
+    {
+      "english": "Why rush? Slow down, understand.",
+      "spanish": "��Por qu��? Despacio, comprende.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T22:00:50.219039"
+    },
+    {
+      "english": "This word unlocks calm: 'tranquilo'.",
+      "spanish": "Esta palabra trae calma: 'tranquilo'.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T22:00:50.219065"
+    },
+    {
+      "english": "Your understanding will bloom.",
+      "spanish": "Tu entendimiento florecer��.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T22:00:50.219081"
+    },
+    {
+      "english": "Believe: it gets easier.",
+      "spanish": "Cree: se pone m��s f��cil.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T22:00:50.219096"
+    },
+    {
+      "english": "Your journey needs pause.",
+      "spanish": "Tu viaje necesita pausa.",
+      "category": "Patience",
+      "generated_at": "2026-10-15T22:00:50.219111"
     }
   ],
   "used_english": [
-    "never say 'maybe', use 'de una'",
-    "stop perfecting, just make it clear",
-    "never ask for words, ask why",
-    "the secret? repeat the same line",
-    "stop aiming for native, aim clear",
     "the secret? speak with feeling first",
     "never restart, continue the same sentence",
     "this tiny phrase unlocks confidence fast",
@@ -21001,7 +20996,12 @@
     "feel this energy: 'vida'.",
     "just listen, you'll get it.",
     "your patience blossoms.",
-    "tiny steps build worlds."
+    "tiny steps build worlds.",
+    "why rush? slow down, understand.",
+    "this word unlocks calm: 'tranquilo'.",
+    "your understanding will bloom.",
+    "believe: it gets easier.",
+    "your journey needs pause."
   ],
-  "last_updated": "2026-10-15T20:11:16.608411"
+  "last_updated": "2026-10-15T22:00:50.219112"
 }
