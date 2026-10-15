@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Use one shortcut phrase",
-      "spanish": "El secreto, usa una frase atajo",
-      "category": "Strength",
-      "generated_at": "2026-06-15T20:25:40.563777"
-    },
-    {
-      "english": "Stop chasing perfection, speak anyway",
-      "spanish": "Deja de buscar perfección, habla igual",
-      "category": "Strength",
-      "generated_at": "2026-06-15T20:25:40.563792"
-    },
-    {
-      "english": "This one word fixes your flow",
-      "spanish": "Esta palabra arregla tu fluidez",
-      "category": "Strength",
-      "generated_at": "2026-06-15T20:25:40.563807"
-    },
-    {
-      "english": "Never study silently, record your reply",
-      "spanish": "Nunca estudies en silencio, graba tu respuesta",
-      "category": "Strength",
-      "generated_at": "2026-06-15T20:25:40.563820"
-    },
-    {
-      "english": "Stop avoiding practice, do this today",
-      "spanish": "Deja evitar practicar, hazlo hoy",
-      "category": "Growth",
-      "generated_at": "2026-06-15T21:47:11.359951"
-    },
-    {
       "english": "Never say 'maybe', use 'de una'",
       "spanish": "Nunca digas 'tal vez', usa 'de una'",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué esperar? Empieza hoy.",
       "category": "Growth",
       "generated_at": "2026-10-15T18:54:20.411976"
+    },
+    {
+      "english": "Your quiet power: 'Poder'.",
+      "spanish": "Tu poder silencioso: 'Poder'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T20:11:16.608307"
+    },
+    {
+      "english": "Feel this energy: 'Vida'.",
+      "spanish": "Siente esta energía: 'Vida'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T20:11:16.608343"
+    },
+    {
+      "english": "Just listen, you'll get it.",
+      "spanish": "Solo escucha, lo entenderás.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T20:11:16.608366"
+    },
+    {
+      "english": "Your patience blossoms.",
+      "spanish": "Tu paciencia florece.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T20:11:16.608387"
+    },
+    {
+      "english": "Tiny steps build worlds.",
+      "spanish": "Pequeños pasos construyen mundos.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T20:11:16.608409"
     }
   ],
   "used_english": [
-    "the secret? use one shortcut phrase",
-    "stop chasing perfection, speak anyway",
-    "this one word fixes your flow",
-    "never study silently, record your reply",
-    "stop avoiding practice, do this today",
     "never say 'maybe', use 'de una'",
     "stop perfecting, just make it clear",
     "never ask for words, ask why",
@@ -21001,7 +20996,12 @@
     "your potential is limitless.",
     "feel the vibrant pulse of life.",
     "never underestimate tiny progress.",
-    "why wait? start speaking today."
+    "why wait? start speaking today.",
+    "your quiet power: 'poder'.",
+    "feel this energy: 'vida'.",
+    "just listen, you'll get it.",
+    "your patience blossoms.",
+    "tiny steps build worlds."
   ],
-  "last_updated": "2026-10-15T18:54:20.411978"
+  "last_updated": "2026-10-15T20:11:16.608411"
 }
