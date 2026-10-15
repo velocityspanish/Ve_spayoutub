@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overthinking, answer fast",
-      "spanish": "Deja de pensar, responde rápido",
-      "category": "Motivation",
-      "generated_at": "2026-06-15T19:04:17.925965"
-    },
-    {
-      "english": "Stop translating, use real examples",
-      "spanish": "Deja traducir, usa ejemplos reales",
-      "category": "Motivation",
-      "generated_at": "2026-06-15T19:04:17.925981"
-    },
-    {
-      "english": "The secret, shadow every day",
-      "spanish": "El secreto, repite en sombra",
-      "category": "Motivation",
-      "generated_at": "2026-06-15T19:04:17.925994"
-    },
-    {
-      "english": "Never explain, just give a vibe",
-      "spanish": "Nunca expliques, solo da vibra",
-      "category": "Motivation",
-      "generated_at": "2026-06-15T19:04:17.926008"
-    },
-    {
-      "english": "Stop saying “I’ll try”, start now",
-      "spanish": "Deja de decir “lo intentaré”, empieza ya",
-      "category": "Strength",
-      "generated_at": "2026-06-15T20:25:40.563750"
-    },
-    {
       "english": "The secret? Use one shortcut phrase",
       "spanish": "El secreto, usa una frase atajo",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Desbloquea maravilla, di 'cómo'.",
       "category": "Mindfulness",
       "generated_at": "2026-10-15T17:39:21.261568"
+    },
+    {
+      "english": "What's your favorite Spanish word?",
+      "spanish": "¿Tu palabra favorita en español?",
+      "category": "Growth",
+      "generated_at": "2026-10-15T18:54:20.411869"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "spanish": "Tu potencial no tiene límites.",
+      "category": "Growth",
+      "generated_at": "2026-10-15T18:54:20.411906"
+    },
+    {
+      "english": "Feel the vibrant pulse of life.",
+      "spanish": "Siente el pulso vibrante de la vida.",
+      "category": "Growth",
+      "generated_at": "2026-10-15T18:54:20.411929"
+    },
+    {
+      "english": "Never underestimate tiny progress.",
+      "spanish": "Nunca subestimes el progreso mínimo.",
+      "category": "Growth",
+      "generated_at": "2026-10-15T18:54:20.411953"
+    },
+    {
+      "english": "Why wait? Start speaking today.",
+      "spanish": "¿Por qué esperar? Empieza hoy.",
+      "category": "Growth",
+      "generated_at": "2026-10-15T18:54:20.411976"
     }
   ],
   "used_english": [
-    "stop overthinking, answer fast",
-    "stop translating, use real examples",
-    "the secret, shadow every day",
-    "never explain, just give a vibe",
-    "stop saying “i’ll try”, start now",
     "the secret? use one shortcut phrase",
     "stop chasing perfection, speak anyway",
     "this one word fixes your flow",
@@ -21001,7 +20996,12 @@
     "your peace is a journey.",
     "try 'quizás' for hope.",
     "this breath brings calm.",
-    "unlock wonder, say 'cómo'."
+    "unlock wonder, say 'cómo'.",
+    "what's your favorite spanish word?",
+    "your potential is limitless.",
+    "feel the vibrant pulse of life.",
+    "never underestimate tiny progress.",
+    "why wait? start speaking today."
   ],
-  "last_updated": "2026-10-15T17:39:21.261570"
+  "last_updated": "2026-10-15T18:54:20.411978"
 }
