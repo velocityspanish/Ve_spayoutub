@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Speak with feeling first",
-      "spanish": "El secreto, habla con sentimiento primero",
-      "category": "Growth",
-      "generated_at": "2026-06-15T22:53:56.255715"
-    },
-    {
-      "english": "Never restart, continue the same sentence",
-      "spanish": "Nunca reinicies, sigue la misma frase",
-      "category": "Growth",
-      "generated_at": "2026-06-15T22:53:56.255729"
-    },
-    {
-      "english": "This tiny phrase unlocks confidence fast",
-      "spanish": "Esta frase corta da confianza rápido",
-      "category": "Growth",
-      "generated_at": "2026-06-15T22:53:56.255742"
-    },
-    {
-      "english": "Stop waiting, answer before you think",
-      "spanish": "No esperes, responde antes de pensar",
-      "category": "Growth",
-      "generated_at": "2026-06-15T22:53:56.255756"
-    },
-    {
-      "english": "Stop stalling, use “ahora”",
-      "spanish": "Para, usa “ahora”",
-      "category": "Love",
-      "generated_at": "2026-06-16T18:05:52.787699"
-    },
-    {
       "english": "Stop begging for perfect words",
       "spanish": "Deja pedir palabras perfectas",
       "category": "Love",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu viaje necesita pausa.",
       "category": "Patience",
       "generated_at": "2026-10-15T22:00:50.219111"
+    },
+    {
+      "english": "Your heart knows, listen.",
+      "spanish": "Tu corazón sabe, escucha.",
+      "category": "Love",
+      "generated_at": "2026-10-15T23:23:03.755385"
+    },
+    {
+      "english": "What if love speaks Spanish?",
+      "spanish": "¿Qué si el amor habla español?",
+      "category": "Love",
+      "generated_at": "2026-10-15T23:23:03.755421"
+    },
+    {
+      "english": "One look, pure 'te amo'.",
+      "spanish": "Una mirada, puro 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-10-15T23:23:03.755448"
+    },
+    {
+      "english": "You spark this fire, 'fuego'.",
+      "spanish": "Tú enciendes este fuego.",
+      "category": "Love",
+      "generated_at": "2026-10-15T23:23:03.755498"
+    },
+    {
+      "english": "Love whispers, 'mi amor'.",
+      "spanish": "El amor susurra, 'mi amor'.",
+      "category": "Love",
+      "generated_at": "2026-10-15T23:23:03.755526"
     }
   ],
   "used_english": [
-    "the secret? speak with feeling first",
-    "never restart, continue the same sentence",
-    "this tiny phrase unlocks confidence fast",
-    "stop waiting, answer before you think",
-    "stop stalling, use “ahora”",
     "stop begging for perfect words",
     "never end with silence, add “todavía”",
     "stop hiding behind “maybe”",
@@ -21001,7 +20996,12 @@
     "this word unlocks calm: 'tranquilo'.",
     "your understanding will bloom.",
     "believe: it gets easier.",
-    "your journey needs pause."
+    "your journey needs pause.",
+    "your heart knows, listen.",
+    "what if love speaks spanish?",
+    "one look, pure 'te amo'.",
+    "you spark this fire, 'fuego'.",
+    "love whispers, 'mi amor'."
   ],
-  "last_updated": "2026-10-15T22:00:50.219112"
+  "last_updated": "2026-10-15T23:23:03.755529"
 }
