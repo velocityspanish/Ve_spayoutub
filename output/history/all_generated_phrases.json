@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear “por” and “para”",
-      "spanish": "Nunca temas “por” y “para”",
-      "category": "Wisdom",
-      "generated_at": "2026-06-16T22:46:25.405567"
-    },
-    {
-      "english": "Stop translating, answer with your story",
-      "spanish": "Deja de traducir, responde con tu historia",
-      "category": "Wisdom",
-      "generated_at": "2026-06-16T22:46:25.405581"
-    },
-    {
-      "english": "Never restart, keep the momentum",
-      "spanish": "Nunca reinicies, sigue el ritmo",
-      "category": "Wisdom",
-      "generated_at": "2026-06-16T22:46:25.405595"
-    },
-    {
-      "english": "This is why your accent improves fast",
-      "spanish": "Esto es por qué tu acento mejora rápido",
-      "category": "Wisdom",
-      "generated_at": "2026-06-16T22:46:25.405631"
-    },
-    {
-      "english": "Stop asking, start feeling it",
-      "spanish": "Deja de preguntar, ¡siente eso!",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-17T16:40:10.651011"
-    },
-    {
       "english": "Never perfect, just connect emotionally",
       "spanish": "Nunca perfecciones, conecta emocionalmente.",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "Baja el ritmo, siente la 'paz'.",
       "category": "Positive Life",
       "generated_at": "2026-10-16T21:58:08.465472"
+    },
+    {
+      "english": "Your heart's desire, 'cariño'?",
+      "spanish": "El anhelo de tu corazón, 'cariño'?",
+      "category": "Love",
+      "generated_at": "2026-10-16T23:05:38.619690"
+    },
+    {
+      "english": "Want lasting love? 'Siempre'!",
+      "spanish": "¿Amor duradero? ¡'Siempre'!",
+      "category": "Love",
+      "generated_at": "2026-10-16T23:05:38.619717"
+    },
+    {
+      "english": "This whispers 'forever', 'amor'.",
+      "spanish": "Esto susurra 'para siempre', 'amor'.",
+      "category": "Love",
+      "generated_at": "2026-10-16T23:05:38.619732"
+    },
+    {
+      "english": "One word: true 'afecto'.",
+      "spanish": "Una palabra: afecto real.",
+      "category": "Love",
+      "generated_at": "2026-10-16T23:05:38.619745"
+    },
+    {
+      "english": "Is this your love song?",
+      "spanish": "¿Es esta tu canción de amor?",
+      "category": "Love",
+      "generated_at": "2026-10-16T23:05:38.619758"
     }
   ],
   "used_english": [
-    "never fear “por” and “para”",
-    "stop translating, answer with your story",
-    "never restart, keep the momentum",
-    "this is why your accent improves fast",
-    "stop asking, start feeling it",
     "never perfect, just connect emotionally",
     "the secret? say it slowly, boldly",
     "this one sentence ends your stress",
@@ -21001,7 +20996,12 @@
     "this tiny word, 'quizás'.",
     "unlock your heart, 'corazón'.",
     "believe your own magic. now.",
-    "slow down, feel the 'paz'."
+    "slow down, feel the 'paz'.",
+    "your heart's desire, 'cariño'?",
+    "want lasting love? 'siempre'!",
+    "this whispers 'forever', 'amor'.",
+    "one word: true 'afecto'.",
+    "is this your love song?"
   ],
-  "last_updated": "2026-10-16T21:58:08.465475"
+  "last_updated": "2026-10-16T23:05:38.619759"
 }
