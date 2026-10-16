@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop searching, start using this",
-      "spanish": "Deja de buscar, usa esto ya",
-      "category": "Courage",
-      "generated_at": "2026-06-16T18:55:10.266100"
-    },
-    {
-      "english": "This is why natives pause less",
-      "spanish": "Por eso los nativos dudan menos",
-      "category": "Courage",
-      "generated_at": "2026-06-16T18:55:10.266115"
-    },
-    {
-      "english": "Stop repeating the same sentence",
-      "spanish": "Deja de repetir la misma frase",
-      "category": "Courage",
-      "generated_at": "2026-06-16T18:55:10.266130"
-    },
-    {
-      "english": "Never translate, summarize in Spanish",
-      "spanish": "No traduzcas, resume en español",
-      "category": "Courage",
-      "generated_at": "2026-06-16T18:55:10.266144"
-    },
-    {
-      "english": "Stop asking for grammar, speak",
-      "spanish": "Deja de pedir gramática, habla",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:12:41.831154"
-    },
-    {
       "english": "Never pause, keep it moving",
       "spanish": "Nunca te detengas, sigue",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Cree en tu progreso, amigo.",
       "category": "Courage",
       "generated_at": "2026-10-16T17:12:59.076246"
+    },
+    {
+      "english": "Stuck? Say 'Todavía no'.",
+      "spanish": "Atascado/a? Di 'Todavía no'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T18:39:05.575323"
+    },
+    {
+      "english": "This small win matters, amigo.",
+      "spanish": "Esta pequeña victoria importa, amigo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T18:39:05.575368"
+    },
+    {
+      "english": "Progress, not perfection. 'Vale'.",
+      "spanish": "Progreso, no perfección. 'Vale'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T18:39:05.575398"
+    },
+    {
+      "english": "Your persistence pays off. 'Sí'.",
+      "spanish": "Tu persistencia vale la pena. 'Sí'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T18:39:05.575428"
+    },
+    {
+      "english": "The joy is in trying.",
+      "spanish": "La alegría está en intentar.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T18:39:05.575454"
     }
   ],
   "used_english": [
-    "stop searching, start using this",
-    "this is why natives pause less",
-    "stop repeating the same sentence",
-    "never translate, summarize in spanish",
-    "stop asking for grammar, speak",
     "never pause, keep it moving",
     "never fear small verbs, use them",
     "what nobody tells you, copy intonation",
@@ -21001,7 +20996,12 @@
     "future you, thank you. ¡sí!",
     "what's stopping you? ¡atrévete!",
     "just one small step. ¡adelante!",
-    "believe in your progress, amigo."
+    "believe in your progress, amigo.",
+    "stuck? say 'todavía no'.",
+    "this small win matters, amigo.",
+    "progress, not perfection. 'vale'.",
+    "your persistence pays off. 'sí'.",
+    "the joy is in trying."
   ],
-  "last_updated": "2026-10-16T17:12:59.076248"
+  "last_updated": "2026-10-16T18:39:05.575456"
 }
