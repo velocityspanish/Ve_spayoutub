@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop begging for perfect words",
-      "spanish": "Deja pedir palabras perfectas",
-      "category": "Love",
-      "generated_at": "2026-06-16T18:05:52.787722"
-    },
-    {
-      "english": "Never end with silence, add “todavía”",
-      "spanish": "Nunca termines en silencio, “todavía”",
-      "category": "Love",
-      "generated_at": "2026-06-16T18:05:52.787737"
-    },
-    {
-      "english": "Stop hiding behind “maybe”",
-      "spanish": "Deja esconderte con “quizá”",
-      "category": "Love",
-      "generated_at": "2026-06-16T18:05:52.787750"
-    },
-    {
-      "english": "Never overthink, just start smiling",
-      "spanish": "No sobrepienses, sonríe ya",
-      "category": "Love",
-      "generated_at": "2026-06-16T18:05:52.787766"
-    },
-    {
-      "english": "Never fear, you’re learning out loud",
-      "spanish": "Nunca tengas miedo, aprende en voz alta",
-      "category": "Courage",
-      "generated_at": "2026-06-16T18:55:10.266074"
-    },
-    {
       "english": "Stop searching, start using this",
       "spanish": "Deja de buscar, usa esto ya",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "El amor susurra, 'mi amor'.",
       "category": "Love",
       "generated_at": "2026-10-15T23:23:03.755526"
+    },
+    {
+      "english": "This Spanish word unlocks joy: 'alegría'.",
+      "spanish": "Esta palabra desbloquea alegría: 'alegría'.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T17:12:59.076143"
+    },
+    {
+      "english": "Future you, thank you. ¡Sí!",
+      "spanish": "Tu futuro yo, gracias. ¡Sí!",
+      "category": "Courage",
+      "generated_at": "2026-10-16T17:12:59.076178"
+    },
+    {
+      "english": "What's stopping you? ¡Atrévete!",
+      "spanish": "¿Qué te detiene? ¡Atrévete!",
+      "category": "Courage",
+      "generated_at": "2026-10-16T17:12:59.076201"
+    },
+    {
+      "english": "Just one small step. ¡Adelante!",
+      "spanish": "Solo un pequeño paso. ¡Adelante!",
+      "category": "Courage",
+      "generated_at": "2026-10-16T17:12:59.076223"
+    },
+    {
+      "english": "Believe in your progress, amigo.",
+      "spanish": "Cree en tu progreso, amigo.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T17:12:59.076246"
     }
   ],
   "used_english": [
-    "stop begging for perfect words",
-    "never end with silence, add “todavía”",
-    "stop hiding behind “maybe”",
-    "never overthink, just start smiling",
-    "never fear, you’re learning out loud",
     "stop searching, start using this",
     "this is why natives pause less",
     "stop repeating the same sentence",
@@ -21001,7 +20996,12 @@
     "what if love speaks spanish?",
     "one look, pure 'te amo'.",
     "you spark this fire, 'fuego'.",
-    "love whispers, 'mi amor'."
+    "love whispers, 'mi amor'.",
+    "this spanish word unlocks joy: 'alegría'.",
+    "future you, thank you. ¡sí!",
+    "what's stopping you? ¡atrévete!",
+    "just one small step. ¡adelante!",
+    "believe in your progress, amigo."
   ],
-  "last_updated": "2026-10-15T23:23:03.755529"
+  "last_updated": "2026-10-16T17:12:59.076248"
 }
