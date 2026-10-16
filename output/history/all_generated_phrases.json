@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never chase perfect grammar—talk anyway",
-      "spanish": "Nunca persigas gramática perfecta—habla igual",
-      "category": "Hope",
-      "generated_at": "2026-06-16T21:43:17.662956"
-    },
-    {
-      "english": "The secret... swap questions for answers",
-      "spanish": "El secreto... cambia preguntas por respuestas",
-      "category": "Hope",
-      "generated_at": "2026-06-16T21:43:17.662971"
-    },
-    {
-      "english": "Stop translating, describe your day",
-      "spanish": "Deja de traducir, describe tu día",
-      "category": "Hope",
-      "generated_at": "2026-06-16T21:43:17.662985"
-    },
-    {
-      "english": "This one habit accelerates confidence",
-      "spanish": "Este hábito acelera tu confianza",
-      "category": "Hope",
-      "generated_at": "2026-06-16T21:43:17.662999"
-    },
-    {
-      "english": "Stop overexplaining, just name the feeling",
-      "spanish": "Deja de explicar, nombra el sentimiento",
-      "category": "Wisdom",
-      "generated_at": "2026-06-16T22:46:25.405543"
-    },
-    {
       "english": "Never fear “por” and “para”",
       "spanish": "Nunca temas “por” y “para”",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu corazón sabe el camino.",
       "category": "Inner Peace",
       "generated_at": "2026-10-16T19:48:56.367358"
+    },
+    {
+      "english": "Your true power? Listen.",
+      "spanish": "Tu poder real? Escucha.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-16T21:58:08.465346"
+    },
+    {
+      "english": "This tiny word, 'quizás'.",
+      "spanish": "Esta palabra pequeña, 'quizás'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-16T21:58:08.465384"
+    },
+    {
+      "english": "Unlock your heart, 'corazón'.",
+      "spanish": "Desbloquea tu corazón, 'corazón'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-16T21:58:08.465413"
+    },
+    {
+      "english": "Believe your own magic. Now.",
+      "spanish": "Cree tu propia magia. Ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-16T21:58:08.465445"
+    },
+    {
+      "english": "Slow down, feel the 'paz'.",
+      "spanish": "Baja el ritmo, siente la 'paz'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-16T21:58:08.465472"
     }
   ],
   "used_english": [
-    "never chase perfect grammar—talk anyway",
-    "the secret... swap questions for answers",
-    "stop translating, describe your day",
-    "this one habit accelerates confidence",
-    "stop overexplaining, just name the feeling",
     "never fear “por” and “para”",
     "stop translating, answer with your story",
     "never restart, keep the momentum",
@@ -21001,7 +20996,12 @@
     "feel the moment, alive.",
     "your soul needs rest.",
     "why rush? just be.",
-    "your heart knows the way."
+    "your heart knows the way.",
+    "your true power? listen.",
+    "this tiny word, 'quizás'.",
+    "unlock your heart, 'corazón'.",
+    "believe your own magic. now.",
+    "slow down, feel the 'paz'."
   ],
-  "last_updated": "2026-10-16T19:48:56.367359"
+  "last_updated": "2026-10-16T21:58:08.465475"
 }
