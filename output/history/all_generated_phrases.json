@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret is one question, always",
-      "spanish": "El secreto, una pregunta, siempre",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T22:58:13.889667"
-    },
-    {
-      "english": "Stop fearing 'ser', use it",
-      "spanish": "Deja el miedo a 'ser', úsalo",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T22:58:13.889681"
-    },
-    {
-      "english": "Never guess endings, hear them",
-      "spanish": "No adivines finales, escúchalos",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T22:58:13.889696"
-    },
-    {
-      "english": "The secret... reply before you translate",
-      "spanish": "El secreto... responde antes de traducir",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T22:58:13.889709"
-    },
-    {
-      "english": "Stop waiting, your joy speaks",
-      "spanish": "Deja esperar, tu alegría habla",
-      "category": "Happiness",
-      "generated_at": "2026-06-18T16:50:13.566165"
-    },
-    {
       "english": "Never shrink—say it proudly",
       "spanish": "Nunca te achiques, díselo orgulloso",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu esfuerzo resuena hondo, amigo.",
       "category": "Motivation",
       "generated_at": "2026-10-17T21:20:52.478454"
+    },
+    {
+      "english": "Never doubt this tiny power.",
+      "spanish": "Nunca dudes este pequeño poder.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T22:44:59.796069"
+    },
+    {
+      "english": "One word changes everything: 'Ojalá'.",
+      "spanish": "Una palabra cambia todo: 'Ojalá'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T22:44:59.796100"
+    },
+    {
+      "english": "You're doing great, believe it.",
+      "spanish": "Lo estás haciendo genial, créelo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T22:44:59.796123"
+    },
+    {
+      "english": "Stop comparing, embrace your unique.",
+      "spanish": "Deja de comparar, abraza tu único.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T22:44:59.796144"
+    },
+    {
+      "english": "Tiny progress builds amazing things.",
+      "spanish": "Progreso diminuto construye cosas geniales.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T22:44:59.796164"
     }
   ],
   "used_english": [
-    "the secret is one question, always",
-    "stop fearing 'ser', use it",
-    "never guess endings, hear them",
-    "the secret... reply before you translate",
-    "stop waiting, your joy speaks",
     "never shrink—say it proudly",
     "the secret? share small wins",
     "stop overthinking, breathe and say",
@@ -21001,7 +20996,12 @@
     "what if you're ready now?",
     "one new word, unlocks worlds.",
     "listen: 'con calma' makes it.",
-    "your effort resonates deeply, friend."
+    "your effort resonates deeply, friend.",
+    "never doubt this tiny power.",
+    "one word changes everything: 'ojalá'.",
+    "you're doing great, believe it.",
+    "stop comparing, embrace your unique.",
+    "tiny progress builds amazing things."
   ],
-  "last_updated": "2026-10-17T21:20:52.478456"
+  "last_updated": "2026-10-17T22:44:59.796166"
 }
