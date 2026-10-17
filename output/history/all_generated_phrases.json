@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting for motivation, do one",
-      "spanish": "Deja de esperar motivación, haz una",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-17T21:12:14.797518"
-    },
-    {
-      "english": "The secret... use your body pauses",
-      "spanish": "El secreto... usa pausas con tu cuerpo",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-17T21:12:14.797534"
-    },
-    {
-      "english": "Stop correcting yourself, keep flowing",
-      "spanish": "No te corrijas, sigue fluyendo",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-17T21:12:14.797548"
-    },
-    {
-      "english": "This one mistake kills confidence fast",
-      "spanish": "Este error mata la confianza rápido",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-17T21:12:14.797561"
-    },
-    {
-      "english": "Stop skipping articles, say them",
-      "spanish": "Deja los artículos, dilo completo",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T22:58:13.889644"
-    },
-    {
       "english": "The secret is one question, always",
       "spanish": "El secreto, una pregunta, siempre",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "Cree que tu próximo paso es enorme.",
       "category": "Positive Life",
       "generated_at": "2026-10-17T19:02:19.135952"
+    },
+    {
+      "english": "Your dream is closer, feel it.",
+      "spanish": "Tu sueño está más cerca, siéntelo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-17T21:20:52.478337"
+    },
+    {
+      "english": "What if you're ready now?",
+      "spanish": "¿Y si estás listo ahora?",
+      "category": "Motivation",
+      "generated_at": "2026-10-17T21:20:52.478371"
+    },
+    {
+      "english": "One new word, unlocks worlds.",
+      "spanish": "Una palabra nueva, abre mundos.",
+      "category": "Motivation",
+      "generated_at": "2026-10-17T21:20:52.478400"
+    },
+    {
+      "english": "Listen: 'con calma' makes it.",
+      "spanish": "Escucha: 'con calma' lo logra.",
+      "category": "Motivation",
+      "generated_at": "2026-10-17T21:20:52.478428"
+    },
+    {
+      "english": "Your effort resonates deeply, friend.",
+      "spanish": "Tu esfuerzo resuena hondo, amigo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-17T21:20:52.478454"
     }
   ],
   "used_english": [
-    "stop waiting for motivation, do one",
-    "the secret... use your body pauses",
-    "stop correcting yourself, keep flowing",
-    "this one mistake kills confidence fast",
-    "stop skipping articles, say them",
     "the secret is one question, always",
     "stop fearing 'ser', use it",
     "never guess endings, hear them",
@@ -21001,7 +20996,12 @@
     "your tiny victory matters, friend.",
     "stop the worry, embrace joy.",
     "this feeling is pure 'felicidad'.",
-    "believe your next step is huge."
+    "believe your next step is huge.",
+    "your dream is closer, feel it.",
+    "what if you're ready now?",
+    "one new word, unlocks worlds.",
+    "listen: 'con calma' makes it.",
+    "your effort resonates deeply, friend."
   ],
-  "last_updated": "2026-10-17T19:02:19.135954"
+  "last_updated": "2026-10-17T21:20:52.478456"
 }
