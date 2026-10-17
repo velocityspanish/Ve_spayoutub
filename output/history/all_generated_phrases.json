@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say 'I understand', prove it",
-      "spanish": "Nunca digas 'lo entiendo', demuéstralo",
-      "category": "Purpose",
-      "generated_at": "2026-06-17T17:49:35.126773"
-    },
-    {
-      "english": "Stop studying verbs, use them now",
-      "spanish": "Deja de estudiar verbos, úsalos ya",
-      "category": "Purpose",
-      "generated_at": "2026-06-17T17:49:35.126789"
-    },
-    {
-      "english": "Never fear mistakes, upgrade instantly",
-      "spanish": "No temas errores, mejora al instante",
-      "category": "Purpose",
-      "generated_at": "2026-06-17T17:49:35.126803"
-    },
-    {
-      "english": "This one question unlocks fluent replies",
-      "spanish": "Esta pregunta desbloquea respuestas fluidas",
-      "category": "Purpose",
-      "generated_at": "2026-06-17T17:49:35.126816"
-    },
-    {
-      "english": "Never memorize, memorize THIS response",
-      "spanish": "No memorices, aprende esta respuesta",
-      "category": "Creativity",
-      "generated_at": "2026-06-17T19:25:39.573988"
-    },
-    {
       "english": "Never overthink, say “sí, claro”",
       "spanish": "No pienses tanto, di “sí, claro”",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "Sigue adelante, vale la pena.",
       "category": "Perseverance",
       "generated_at": "2026-10-17T16:10:55.469242"
+    },
+    {
+      "english": "The secret? Little by little.",
+      "spanish": "El secreto? Poco a poco.",
+      "category": "Success",
+      "generated_at": "2026-10-17T17:46:47.259423"
+    },
+    {
+      "english": "Breathe. Progress will come.",
+      "spanish": "Respira. El progreso vendrá.",
+      "category": "Success",
+      "generated_at": "2026-10-17T17:46:47.259459"
+    },
+    {
+      "english": "Feel this progress: 'avance'.",
+      "spanish": "Siente este progreso: 'avance'.",
+      "category": "Success",
+      "generated_at": "2026-10-17T17:46:47.259487"
+    },
+    {
+      "english": "Tomorrow's success starts today.",
+      "spanish": "El éxito de mañana empieza hoy.",
+      "category": "Success",
+      "generated_at": "2026-10-17T17:46:47.259515"
+    },
+    {
+      "english": "Curious? 'Curioso' means curious.",
+      "spanish": "Curioso? 'Curioso' significa curioso.",
+      "category": "Success",
+      "generated_at": "2026-10-17T17:46:47.259542"
     }
   ],
   "used_english": [
-    "never say 'i understand', prove it",
-    "stop studying verbs, use them now",
-    "never fear mistakes, upgrade instantly",
-    "this one question unlocks fluent replies",
-    "never memorize, memorize this response",
     "never overthink, say “sí, claro”",
     "stop “learning,” start answering questions",
     "the secret is speed, with clarity",
@@ -21001,7 +20996,12 @@
     "stop saying 'i can't'.",
     "this single word feels like magic.",
     "why not try 'just a little'?",
-    "keep going, it's worth it."
+    "keep going, it's worth it.",
+    "the secret? little by little.",
+    "breathe. progress will come.",
+    "feel this progress: 'avance'.",
+    "tomorrow's success starts today.",
+    "curious? 'curioso' means curious."
   ],
-  "last_updated": "2026-10-17T16:10:55.469244"
+  "last_updated": "2026-10-17T17:46:47.259545"
 }
