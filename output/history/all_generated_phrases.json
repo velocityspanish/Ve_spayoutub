@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never shrink—say it proudly",
-      "spanish": "Nunca te achiques, díselo orgulloso",
-      "category": "Happiness",
-      "generated_at": "2026-06-18T16:50:13.566190"
-    },
-    {
-      "english": "The secret? Share small wins",
-      "spanish": "El secreto, celebra pequeñas victorias",
-      "category": "Happiness",
-      "generated_at": "2026-06-18T16:50:13.566205"
-    },
-    {
-      "english": "Stop overthinking, breathe and say",
-      "spanish": "Deja pensar de más, respira y di",
-      "category": "Happiness",
-      "generated_at": "2026-06-18T16:50:13.566221"
-    },
-    {
-      "english": "Never chase perfect, chase light",
-      "spanish": "Nunca persigas lo perfecto, persigue luz",
-      "category": "Happiness",
-      "generated_at": "2026-06-18T16:50:13.566236"
-    },
-    {
-      "english": "Stop chasing calm, breathe first",
-      "spanish": "Deja de perseguir la calma, respira",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T18:01:15.115759"
-    },
-    {
       "english": "Stop negotiating peace, just do it",
       "spanish": "Deja de negociar la paz, hazlo",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "Progreso diminuto construye cosas geniales.",
       "category": "Friendship",
       "generated_at": "2026-10-17T22:44:59.796164"
+    },
+    {
+      "english": "Your effort echoes, friend.",
+      "spanish": "Tu esfuerzo resuena, amigo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T16:24:57.507113"
+    },
+    {
+      "english": "Unlock patience, say 'calma'.",
+      "spanish": "Desbloquea paciencia, di 'calma'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T16:24:57.507142"
+    },
+    {
+      "english": "Never stop your learning.",
+      "spanish": "Nunca detengas tu aprendizaje.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T16:24:57.507163"
+    },
+    {
+      "english": "You are enough, truly.",
+      "spanish": "Tú eres suficiente, de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T16:24:57.507183"
+    },
+    {
+      "english": "One word sparks change: 'creer'.",
+      "spanish": "Una palabra enciende cambio: 'creer'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-18T16:24:57.507205"
     }
   ],
   "used_english": [
-    "never shrink—say it proudly",
-    "the secret? share small wins",
-    "stop overthinking, breathe and say",
-    "never chase perfect, chase light",
-    "stop chasing calm, breathe first",
     "stop negotiating peace, just do it",
     "never rush truth, pause then say",
     "the secret is soft, not perfect",
@@ -21001,7 +20996,12 @@
     "one word changes everything: 'ojalá'.",
     "you're doing great, believe it.",
     "stop comparing, embrace your unique.",
-    "tiny progress builds amazing things."
+    "tiny progress builds amazing things.",
+    "your effort echoes, friend.",
+    "unlock patience, say 'calma'.",
+    "never stop your learning.",
+    "you are enough, truly.",
+    "one word sparks change: 'creer'."
   ],
-  "last_updated": "2026-10-17T22:44:59.796166"
+  "last_updated": "2026-10-18T16:24:57.507207"
 }
