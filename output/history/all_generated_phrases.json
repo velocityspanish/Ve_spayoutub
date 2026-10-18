@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop negotiating peace, just do it",
-      "spanish": "Deja de negociar la paz, hazlo",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T18:01:15.115783"
-    },
-    {
-      "english": "Never rush truth, pause then say",
-      "spanish": "Nunca corras la verdad, pausa y di",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T18:01:15.115799"
-    },
-    {
-      "english": "The secret is soft, not perfect",
-      "spanish": "El secreto es suave, no perfecto",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T18:01:15.115814"
-    },
-    {
-      "english": "Never fight today, just flow",
-      "spanish": "No pelees con hoy, fluye",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T18:01:15.115828"
-    },
-    {
-      "english": "Stop memorizing, start surviving conversations",
-      "spanish": "Deja de memorizar, empieza a sobrevivir",
-      "category": "Perseverance",
-      "generated_at": "2026-06-18T19:46:28.478672"
-    },
-    {
       "english": "Never wait, speak imperfectly—today",
       "spanish": "Nunca esperes, habla imperfecto—hoy",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Una palabra enciende cambio: 'creer'.",
       "category": "Positive Life",
       "generated_at": "2026-10-18T16:24:57.507205"
+    },
+    {
+      "english": "Your future rewards listening.",
+      "spanish": "Tu futuro recompensa escuchar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:48.520990"
+    },
+    {
+      "english": "This single word sparks joy.",
+      "spanish": "Esta palabra suelta alegría.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:48.521023"
+    },
+    {
+      "english": "Never underestimate 'poco a poco'.",
+      "spanish": "Nunca subestimes 'poco a poco'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:48.521046"
+    },
+    {
+      "english": "You unlock courage, 'atreverse'.",
+      "spanish": "Desbloqueas valor, 'atreverse'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:48.521068"
+    },
+    {
+      "english": "Why stop at 'almost'?",
+      "spanish": "¿Por qué parar en 'casi'?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:48.521088"
     }
   ],
   "used_english": [
-    "stop negotiating peace, just do it",
-    "never rush truth, pause then say",
-    "the secret is soft, not perfect",
-    "never fight today, just flow",
-    "stop memorizing, start surviving conversations",
     "never wait, speak imperfectly—today",
     "the secret... answer, then improve",
     "never apologize, say it with confidence",
@@ -21001,7 +20996,12 @@
     "unlock patience, say 'calma'.",
     "never stop your learning.",
     "you are enough, truly.",
-    "one word sparks change: 'creer'."
+    "one word sparks change: 'creer'.",
+    "your future rewards listening.",
+    "this single word sparks joy.",
+    "never underestimate 'poco a poco'.",
+    "you unlock courage, 'atreverse'.",
+    "why stop at 'almost'?"
   ],
-  "last_updated": "2026-10-18T16:24:57.507207"
+  "last_updated": "2026-10-18T17:52:48.521090"
 }
