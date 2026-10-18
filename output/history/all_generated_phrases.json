@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, speak imperfectly—today",
-      "spanish": "Nunca esperes, habla imperfecto—hoy",
-      "category": "Perseverance",
-      "generated_at": "2026-06-18T19:46:28.478696"
-    },
-    {
-      "english": "The secret... answer, then improve",
-      "spanish": "El secreto... responde, luego mejora",
-      "category": "Perseverance",
-      "generated_at": "2026-06-18T19:46:28.478712"
-    },
-    {
-      "english": "Never apologize, say it with confidence",
-      "spanish": "No pidas perdón, d í lo seguro",
-      "category": "Perseverance",
-      "generated_at": "2026-06-18T19:46:28.478726"
-    },
-    {
-      "english": "Your progress is loud, keep going",
-      "spanish": "Tu progreso es fuerte, sigue",
-      "category": "Perseverance",
-      "generated_at": "2026-06-18T19:46:28.478741"
-    },
-    {
-      "english": "Never fear, use 'pues' for flow",
-      "spanish": "Nunca temas, usa 'pues' para fluir",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:26:26.473035"
-    },
-    {
       "english": "The secret? Answer with feelings, not facts",
       "spanish": "El secreto, responde con emoción",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Por qué parar en 'casi'?",
       "category": "Self Improvement",
       "generated_at": "2026-10-18T17:52:48.521088"
+    },
+    {
+      "english": "The real secret? Persistence.",
+      "spanish": "El secreto real: Persistencia.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:14:03.272109"
+    },
+    {
+      "english": "Small wins, huge growth.",
+      "spanish": "Pequeñas victorias, gran crecimiento.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:14:03.272144"
+    },
+    {
+      "english": "You're not alone, friend.",
+      "spanish": "No estás solo, amigo.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:14:03.272172"
+    },
+    {
+      "english": "One phrase changes your day.",
+      "spanish": "Una frase cambia tu día.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:14:03.272199"
+    },
+    {
+      "english": "Trust your effort. Keep going.",
+      "spanish": "Confía en tu esfuerzo. Continúa.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:14:03.272227"
     }
   ],
   "used_english": [
-    "never wait, speak imperfectly—today",
-    "the secret... answer, then improve",
-    "never apologize, say it with confidence",
-    "your progress is loud, keep going",
-    "never fear, use 'pues' for flow",
     "the secret? answer with feelings, not facts",
     "stop overthinking, name what you want",
     "this fixes your tense in seconds",
@@ -21001,7 +20996,12 @@
     "this single word sparks joy.",
     "never underestimate 'poco a poco'.",
     "you unlock courage, 'atreverse'.",
-    "why stop at 'almost'?"
+    "why stop at 'almost'?",
+    "the real secret? persistence.",
+    "small wins, huge growth.",
+    "you're not alone, friend.",
+    "one phrase changes your day.",
+    "trust your effort. keep going."
   ],
-  "last_updated": "2026-10-18T17:52:48.521090"
+  "last_updated": "2026-10-18T19:14:03.272230"
 }
