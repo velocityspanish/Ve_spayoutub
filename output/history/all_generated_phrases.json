@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never blame yourself, practice anyway",
-      "spanish": "Nunca te culpes, practica igual",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-18T22:51:24.387466"
-    },
-    {
-      "english": "This is why forgiveness unlocks Spanish",
-      "spanish": "Por eso, la perdón desbloquea español",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-18T22:51:24.387481"
-    },
-    {
-      "english": "The secret? Say “lo intenté”",
-      "spanish": "El secreto: “lo intenté”",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-18T22:51:24.387496"
-    },
-    {
-      "english": "Stop spiraling, use one kind phrase",
-      "spanish": "Deja el caos, usa una frase amable",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-18T22:51:24.387512"
-    },
-    {
-      "english": "Stop translating, just tell the truth",
-      "spanish": "Deja de traducir, di la verdad",
-      "category": "Wisdom",
-      "generated_at": "2026-06-19T16:07:16.608065"
-    },
-    {
       "english": "Never say “okay,” use “claro”",
       "spanish": "Nunca digas “okay”, di “claro”",
       "category": "Wisdom",
@@ -17999,14 +17969,39 @@
       "spanish": "El sonido de la fluidez.",
       "category": "Perseverance",
       "generated_at": "2026-10-18T21:20:11.373867"
+    },
+    {
+      "english": "Why is 'vale' so powerful?",
+      "spanish": "¿Por qué 'vale' es tan poderoso?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-18T22:39:42.294631"
+    },
+    {
+      "english": "Unlock your best self.",
+      "spanish": "Desbloquea tu mejor yo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-18T22:39:42.294666"
+    },
+    {
+      "english": "Don't delay 'mañana'.",
+      "spanish": "No demores el 'mañana'.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-18T22:39:42.294723"
+    },
+    {
+      "english": "This means 'I hear you'.",
+      "spanish": "Esto significa 'te oigo'.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-18T22:39:42.294760"
+    },
+    {
+      "english": "Your progress shines, trust it.",
+      "spanish": "Tu progreso brilla, confía.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-18T22:39:42.294789"
     }
   ],
   "used_english": [
-    "never blame yourself, practice anyway",
-    "this is why forgiveness unlocks spanish",
-    "the secret? say “lo intenté”",
-    "stop spiraling, use one kind phrase",
-    "stop translating, just tell the truth",
     "never say “okay,” use “claro”",
     "stop memorizing, steal these 3 verbs",
     "stop overexplaining, keep it simple",
@@ -21001,7 +20996,12 @@
     "stop holding yourself back.",
     "this moment is progress.",
     "believe your journey's unfolding.",
-    "the sound of fluency."
+    "the sound of fluency.",
+    "why is 'vale' so powerful?",
+    "unlock your best self.",
+    "don't delay 'mañana'.",
+    "this means 'i hear you'.",
+    "your progress shines, trust it."
   ],
-  "last_updated": "2026-10-18T21:20:11.373869"
+  "last_updated": "2026-10-18T22:39:42.294791"
 }
