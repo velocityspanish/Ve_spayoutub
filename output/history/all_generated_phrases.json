@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never sound stuck, keep it flowing",
-      "spanish": "Nunca suenes trabado, sigue fluyendo",
-      "category": "Friendship",
-      "generated_at": "2026-06-19T20:27:20.865055"
-    },
-    {
-      "english": "Stop overthinking, ask one thing",
-      "spanish": "Deja de pensar, pregunta una cosa",
-      "category": "Friendship",
-      "generated_at": "2026-06-19T20:27:20.865071"
-    },
-    {
-      "english": "Never study alone, duet with audio",
-      "spanish": "No estudies solo, haz dúo con audio",
-      "category": "Friendship",
-      "generated_at": "2026-06-19T20:27:20.865086"
-    },
-    {
-      "english": "Stop translating, act out your line",
-      "spanish": "Deja de traducir, actúa tu frase",
-      "category": "Friendship",
-      "generated_at": "2026-06-19T20:27:20.865101"
-    },
-    {
-      "english": "Stop practicing, say thanks—now",
-      "spanish": "Deja practicar, di gracias—ahora",
-      "category": "Gratitude",
-      "generated_at": "2026-06-19T21:57:04.454519"
-    },
-    {
       "english": "Never rush, say “te agradezco”",
       "spanish": "Nunca corras, di “te agradezco”",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca dejes de explorar.",
       "category": "Strength",
       "generated_at": "2026-10-19T21:20:35.216899"
+    },
+    {
+      "english": "Your voice echoes louder.",
+      "spanish": "Tu voz resuena más.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T22:50:21.569826"
+    },
+    {
+      "english": "This rhythm unlocks understanding.",
+      "spanish": "Este ritmo desbloquea entendimiento.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T22:50:21.569864"
+    },
+    {
+      "english": "Here's your superpower word.",
+      "spanish": "Aquí está tu palabra súper.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T22:50:21.569892"
+    },
+    {
+      "english": "The real secret: practice.",
+      "spanish": "El secreto real: práctica.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T22:50:21.569919"
+    },
+    {
+      "english": "Your patience has reward.",
+      "spanish": "Tu paciencia tiene recompensa.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T22:50:21.569959"
     }
   ],
   "used_english": [
-    "never sound stuck, keep it flowing",
-    "stop overthinking, ask one thing",
-    "never study alone, duet with audio",
-    "stop translating, act out your line",
-    "stop practicing, say thanks—now",
     "never rush, say “te agradezco”",
     "the secret... gratitude makes spanish stick",
     "this one habit, thank someone daily",
@@ -21001,7 +20996,12 @@
     "wisdom: every day counts.",
     "your progress will shock you.",
     "one tiny word: 'sí'.",
-    "never stop exploring."
+    "never stop exploring.",
+    "your voice echoes louder.",
+    "this rhythm unlocks understanding.",
+    "here's your superpower word.",
+    "the real secret: practice.",
+    "your patience has reward."
   ],
-  "last_updated": "2026-10-19T21:20:35.216901"
+  "last_updated": "2026-10-19T22:50:21.569963"
 }
