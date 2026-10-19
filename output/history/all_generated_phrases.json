@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overchecking, just send it",
-      "spanish": "Deja de sobrepensar, envíalo",
-      "category": "Patience",
-      "generated_at": "2026-06-19T18:54:32.517887"
-    },
-    {
-      "english": "Never study alone, do voice practice",
-      "spanish": "Nunca estudies solo, practica en voz",
-      "category": "Patience",
-      "generated_at": "2026-06-19T18:54:32.517899"
-    },
-    {
-      "english": "Stop waiting, narrate your next move",
-      "spanish": "Deja de esperar, narra tu próximo paso",
-      "category": "Patience",
-      "generated_at": "2026-06-19T18:54:32.517911"
-    },
-    {
-      "english": "Never fear imperfect, speak anyway",
-      "spanish": "Nunca tengas miedo, habla igual",
-      "category": "Patience",
-      "generated_at": "2026-06-19T18:54:32.517923"
-    },
-    {
-      "english": "Stop ghosting, send the Spanish",
-      "spanish": "Deja de desaparecer, manda español",
-      "category": "Friendship",
-      "generated_at": "2026-06-19T20:27:20.865032"
-    },
-    {
       "english": "Never sound stuck, keep it flowing",
       "spanish": "Nunca suenes trabado, sigue fluyendo",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "Sabiduría: 'poco a poco.'",
       "category": "Creativity",
       "generated_at": "2026-10-19T20:24:03.327026"
+    },
+    {
+      "english": "Feel this raw courage.",
+      "spanish": "Siente este coraje puro.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T21:20:35.216830"
+    },
+    {
+      "english": "Wisdom: Every day counts.",
+      "spanish": "Sabiduría: Cada día cuenta.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T21:20:35.216856"
+    },
+    {
+      "english": "Your progress will shock you.",
+      "spanish": "Tu progreso te asombrará.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T21:20:35.216872"
+    },
+    {
+      "english": "One tiny word: 'Sí'.",
+      "spanish": "Una palabra pequeña: 'Sí'.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T21:20:35.216886"
+    },
+    {
+      "english": "Never stop exploring.",
+      "spanish": "Nunca dejes de explorar.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T21:20:35.216899"
     }
   ],
   "used_english": [
-    "stop overchecking, just send it",
-    "never study alone, do voice practice",
-    "stop waiting, narrate your next move",
-    "never fear imperfect, speak anyway",
-    "stop ghosting, send the spanish",
     "never sound stuck, keep it flowing",
     "stop overthinking, ask one thing",
     "never study alone, duet with audio",
@@ -21001,7 +20996,12 @@
     "this one word: 'despacito.'",
     "is fluency your dream?",
     "your courage, unlocked. 'valiente.'",
-    "wisdom: 'poco a poco.'"
+    "wisdom: 'poco a poco.'",
+    "feel this raw courage.",
+    "wisdom: every day counts.",
+    "your progress will shock you.",
+    "one tiny word: 'sí'.",
+    "never stop exploring."
   ],
-  "last_updated": "2026-10-19T20:24:03.327028"
+  "last_updated": "2026-10-19T21:20:35.216901"
 }
