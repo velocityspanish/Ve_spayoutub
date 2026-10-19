@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret, answer in chunks",
-      "spanish": "El secreto, responde en trozos",
-      "category": "Purpose",
-      "generated_at": "2026-06-19T17:20:17.431050"
-    },
-    {
-      "english": "This one cue boosts fluency today",
-      "spanish": "Esta señal sube tu fluidez hoy",
-      "category": "Purpose",
-      "generated_at": "2026-06-19T17:20:17.431065"
-    },
-    {
-      "english": "Never study silently, talk anyway",
-      "spanish": "Nunca estudies en silencio, habla igual",
-      "category": "Purpose",
-      "generated_at": "2026-06-19T17:20:17.431080"
-    },
-    {
-      "english": "Stop translating, describe, then breathe",
-      "spanish": "Deja de traducir, describe y respira",
-      "category": "Purpose",
-      "generated_at": "2026-06-19T17:20:17.431093"
-    },
-    {
-      "english": "This is why your 'thinks' fail",
-      "spanish": "Esto es por qué fallan tus 'piensas'",
-      "category": "Patience",
-      "generated_at": "2026-06-19T18:54:32.517866"
-    },
-    {
       "english": "Stop overchecking, just send it",
       "spanish": "Deja de sobrepensar, envíalo",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "Escucha esta sabiduría: Poco a poco.",
       "category": "Strength",
       "generated_at": "2026-10-19T19:06:55.280412"
+    },
+    {
+      "english": "Future you whispers, 'gracias.'",
+      "spanish": "Tu yo futuro susurra, 'gracias.'",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T20:24:03.326905"
+    },
+    {
+      "english": "This one word: 'despacito.'",
+      "spanish": "Esta palabra sola: 'despacito.'",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T20:24:03.326943"
+    },
+    {
+      "english": "Is fluency your dream?",
+      "spanish": "¿Es la fluidez tu sueño?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T20:24:03.326971"
+    },
+    {
+      "english": "Your courage, unlocked. 'valiente.'",
+      "spanish": "Tu coraje, desbloqueado. 'valiente.'",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T20:24:03.326999"
+    },
+    {
+      "english": "Wisdom: 'poco a poco.'",
+      "spanish": "Sabiduría: 'poco a poco.'",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T20:24:03.327026"
     }
   ],
   "used_english": [
-    "the secret, answer in chunks",
-    "this one cue boosts fluency today",
-    "never study silently, talk anyway",
-    "stop translating, describe, then breathe",
-    "this is why your 'thinks' fail",
     "stop overchecking, just send it",
     "never study alone, do voice practice",
     "stop waiting, narrate your next move",
@@ -21001,7 +20996,12 @@
     "your voice, finally found. ¡sí!",
     "what if tomorrow's easy?",
     "unlock your confidence: 'soy'.",
-    "hear this wisdom: little by little."
+    "hear this wisdom: little by little.",
+    "future you whispers, 'gracias.'",
+    "this one word: 'despacito.'",
+    "is fluency your dream?",
+    "your courage, unlocked. 'valiente.'",
+    "wisdom: 'poco a poco.'"
   ],
-  "last_updated": "2026-10-19T19:06:55.280414"
+  "last_updated": "2026-10-19T20:24:03.327028"
 }
