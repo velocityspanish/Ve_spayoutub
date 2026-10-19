@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say “okay,” use “claro”",
-      "spanish": "Nunca digas “okay”, di “claro”",
-      "category": "Wisdom",
-      "generated_at": "2026-06-19T16:07:16.608087"
-    },
-    {
-      "english": "Stop memorizing, steal these 3 verbs",
-      "spanish": "Deja de memorizar, roba tres verbos",
-      "category": "Wisdom",
-      "generated_at": "2026-06-19T16:07:16.608103"
-    },
-    {
-      "english": "Stop overexplaining, keep it simple",
-      "spanish": "No expliques de más, simple",
-      "category": "Wisdom",
-      "generated_at": "2026-06-19T16:07:16.608118"
-    },
-    {
-      "english": "The secret? Start with “me gusta”",
-      "spanish": "El secreto, empieza con “me gusta”",
-      "category": "Wisdom",
-      "generated_at": "2026-06-19T16:07:16.608133"
-    },
-    {
-      "english": "Never freeze, just say 'bueno'",
-      "spanish": "Nunca te congeles, di 'bueno'",
-      "category": "Purpose",
-      "generated_at": "2026-06-19T17:20:17.431026"
-    },
-    {
       "english": "The secret, answer in chunks",
       "spanish": "El secreto, responde en trozos",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu progreso brilla, confía.",
       "category": "Inspiration",
       "generated_at": "2026-10-18T22:39:42.294789"
+    },
+    {
+      "english": "This single word shifts focus.",
+      "spanish": "Esta palabra cambia el enfoque.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T19:06:55.280287"
+    },
+    {
+      "english": "Your voice, finally found. ¡Sí!",
+      "spanish": "Tu voz, por fin encontrada. ¡Sí!",
+      "category": "Strength",
+      "generated_at": "2026-10-19T19:06:55.280326"
+    },
+    {
+      "english": "What if tomorrow's easy?",
+      "spanish": "¿Y si el mañana es fácil?",
+      "category": "Strength",
+      "generated_at": "2026-10-19T19:06:55.280355"
+    },
+    {
+      "english": "Unlock your confidence: 'Soy'.",
+      "spanish": "Desbloquea tu confianza: 'Soy'.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T19:06:55.280384"
+    },
+    {
+      "english": "Hear this wisdom: Little by little.",
+      "spanish": "Escucha esta sabiduría: Poco a poco.",
+      "category": "Strength",
+      "generated_at": "2026-10-19T19:06:55.280412"
     }
   ],
   "used_english": [
-    "never say “okay,” use “claro”",
-    "stop memorizing, steal these 3 verbs",
-    "stop overexplaining, keep it simple",
-    "the secret? start with “me gusta”",
-    "never freeze, just say 'bueno'",
     "the secret, answer in chunks",
     "this one cue boosts fluency today",
     "never study silently, talk anyway",
@@ -21001,7 +20996,12 @@
     "unlock your best self.",
     "don't delay 'mañana'.",
     "this means 'i hear you'.",
-    "your progress shines, trust it."
+    "your progress shines, trust it.",
+    "this single word shifts focus.",
+    "your voice, finally found. ¡sí!",
+    "what if tomorrow's easy?",
+    "unlock your confidence: 'soy'.",
+    "hear this wisdom: little by little."
   ],
-  "last_updated": "2026-10-18T22:39:42.294791"
+  "last_updated": "2026-10-19T19:06:55.280414"
 }
