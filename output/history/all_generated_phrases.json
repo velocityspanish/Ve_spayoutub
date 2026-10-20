@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never answer in silence, speak",
-      "spanish": "Nunca respondas en silencio, habla",
-      "category": "Balance",
-      "generated_at": "2026-06-20T18:11:15.449577"
-    },
-    {
-      "english": "The secret is your next sentence",
-      "spanish": "El secreto es tu próxima frase",
-      "category": "Balance",
-      "generated_at": "2026-06-20T18:11:15.449594"
-    },
-    {
-      "english": "Never explain—just respond with action",
-      "spanish": "Nunca expliques, responde con acción",
-      "category": "Balance",
-      "generated_at": "2026-06-20T18:11:15.449609"
-    },
-    {
-      "english": "This one question makes you unstoppable",
-      "spanish": "Esta pregunta te hace imparable",
-      "category": "Balance",
-      "generated_at": "2026-06-20T18:11:15.449623"
-    },
-    {
-      "english": "The secret... repeat, but differently",
-      "spanish": "El secreto... repite, pero distinto",
-      "category": "Patience",
-      "generated_at": "2026-06-20T20:18:50.947481"
-    },
-    {
       "english": "Stop buffering, start with 'voy'",
       "spanish": "Deja de cargar, empieza con 'voy'",
       "category": "Patience",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Curioso sobre 'por qué'?",
       "category": "Creativity",
       "generated_at": "2026-10-20T18:58:07.531606"
+    },
+    {
+      "english": "Your brain loves Spanish, feel it.",
+      "spanish": "Tu cerebro ama español, siéntelo.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T20:18:06.240279"
+    },
+    {
+      "english": "Curious? Say 'por qué'.",
+      "spanish": "¿Curioso? Di 'por qué'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T20:18:06.240314"
+    },
+    {
+      "english": "Never stop, you're close.",
+      "spanish": "Nunca pares, estás cerca.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T20:18:06.240339"
+    },
+    {
+      "english": "Feel this raw courage bloom.",
+      "spanish": "Siente esta valentía cruda florecer.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T20:18:06.240365"
+    },
+    {
+      "english": "Never stop exploring worlds.",
+      "spanish": "Nunca dejes de explorar mundos.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T20:18:06.240390"
     }
   ],
   "used_english": [
-    "never answer in silence, speak",
-    "the secret is your next sentence",
-    "never explain—just respond with action",
-    "this one question makes you unstoppable",
-    "the secret... repeat, but differently",
     "stop buffering, start with 'voy'",
     "this one habit boosts your speed",
     "stop replaying, answer in real time",
@@ -21001,7 +20996,12 @@
     "unlock your voice. say ¡sí!",
     "never forget this small win.",
     "stop overthinking. just speak.",
-    "curious about 'por qué'?"
+    "curious about 'por qué'?",
+    "your brain loves spanish, feel it.",
+    "curious? say 'por qué'.",
+    "never stop, you're close.",
+    "feel this raw courage bloom.",
+    "never stop exploring worlds."
   ],
-  "last_updated": "2026-10-20T18:58:07.531608"
+  "last_updated": "2026-10-20T20:18:06.240392"
 }
