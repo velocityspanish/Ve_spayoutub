@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop buffering, start with 'voy'",
-      "spanish": "Deja de cargar, empieza con 'voy'",
-      "category": "Patience",
-      "generated_at": "2026-06-20T20:18:50.947504"
-    },
-    {
-      "english": "This one habit boosts your speed",
-      "spanish": "Este hábito sube tu velocidad",
-      "category": "Patience",
-      "generated_at": "2026-06-20T20:18:50.947520"
-    },
-    {
-      "english": "Stop replaying, answer in real time",
-      "spanish": "Deja de repasar, responde en tiempo real",
-      "category": "Patience",
-      "generated_at": "2026-06-20T20:18:50.947536"
-    },
-    {
-      "english": "What if your 'accent' is rhythm?",
-      "spanish": "¿Y si tu acento es ritmo?",
-      "category": "Patience",
-      "generated_at": "2026-06-20T20:18:50.947550"
-    },
-    {
-      "english": "Stop freezing on “How are you?”",
-      "spanish": "Deja de congelarte con “¿Cómo estás?”",
-      "category": "Purpose",
-      "generated_at": "2026-06-20T21:58:29.174007"
-    },
-    {
       "english": "The secret: answer with a detail",
       "spanish": "El secreto, responde con un detalle",
       "category": "Purpose",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca dejes de explorar mundos.",
       "category": "Creativity",
       "generated_at": "2026-10-20T20:18:06.240390"
+    },
+    {
+      "english": "Hear this tiny secret, 'despacio'.",
+      "spanish": "Escucha este pequeño secreto, 'despacio'.",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:10:40.600063"
+    },
+    {
+      "english": "Your effort compounds, trust it.",
+      "spanish": "Tu esfuerzo se acumula, confía.",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:10:40.600101"
+    },
+    {
+      "english": "Never stop the quiet progress.",
+      "spanish": "Nunca detengas el progreso silencioso.",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:10:40.600126"
+    },
+    {
+      "english": "The real wisdom? Breathe easy.",
+      "spanish": "¿La verdadera sabiduría? Respira hondo.",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:10:40.600149"
+    },
+    {
+      "english": "This feeling means 'almost there'.",
+      "spanish": "Este sentimiento significa 'casi allí'.",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:10:40.600174"
     }
   ],
   "used_english": [
-    "stop buffering, start with 'voy'",
-    "this one habit boosts your speed",
-    "stop replaying, answer in real time",
-    "what if your 'accent' is rhythm?",
-    "stop freezing on “how are you?”",
     "the secret: answer with a detail",
     "this one habit kills your accent",
     "never “maybe,” say it with certainty",
@@ -21001,7 +20996,12 @@
     "curious? say 'por qué'.",
     "never stop, you're close.",
     "feel this raw courage bloom.",
-    "never stop exploring worlds."
+    "never stop exploring worlds.",
+    "hear this tiny secret, 'despacio'.",
+    "your effort compounds, trust it.",
+    "never stop the quiet progress.",
+    "the real wisdom? breathe easy.",
+    "this feeling means 'almost there'."
   ],
-  "last_updated": "2026-10-20T20:18:06.240392"
+  "last_updated": "2026-10-20T22:10:40.600177"
 }
