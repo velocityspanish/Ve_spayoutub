@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop trying to be perfect",
-      "spanish": "No intentes ser perfecto",
-      "category": "Confidence",
-      "generated_at": "2026-06-20T16:19:39.712783"
-    },
-    {
-      "english": "This changes your Spanish today",
-      "spanish": "Esto cambia tu español hoy",
-      "category": "Confidence",
-      "generated_at": "2026-06-20T16:19:39.712799"
-    },
-    {
-      "english": "Stop asking, just narrate now",
-      "spanish": "Deja preguntar, narra ahora",
-      "category": "Confidence",
-      "generated_at": "2026-06-20T16:19:39.712813"
-    },
-    {
-      "english": "Never lose pace, breathe mid-sentence",
-      "spanish": "No pierdas el ritmo, respira",
-      "category": "Confidence",
-      "generated_at": "2026-06-20T16:19:39.712828"
-    },
-    {
-      "english": "Stop naming words, start meaning",
-      "spanish": "Deja de nombrar, empieza a dar sentido",
-      "category": "Balance",
-      "generated_at": "2026-06-20T18:11:15.449552"
-    },
-    {
       "english": "Never answer in silence, speak",
       "spanish": "Nunca respondas en silencio, habla",
       "category": "Balance",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu esfuerzo resuena bellamente.",
       "category": "Motivation",
       "generated_at": "2026-10-20T17:49:31.205278"
+    },
+    {
+      "english": "Hear this language secret?",
+      "spanish": "¿Oyes este secreto idiomático?",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T18:58:07.531494"
+    },
+    {
+      "english": "Unlock your voice. Say ¡Sí!",
+      "spanish": "Desbloquea tu voz. ¡Di ¡Sí!",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T18:58:07.531529"
+    },
+    {
+      "english": "Never forget this small win.",
+      "spanish": "Nunca olvides esta pequeña victoria.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T18:58:07.531555"
+    },
+    {
+      "english": "Stop overthinking. Just speak.",
+      "spanish": "Deja de pensar demasiado. Habla.",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T18:58:07.531581"
+    },
+    {
+      "english": "Curious about 'por qué'?",
+      "spanish": "¿Curioso sobre 'por qué'?",
+      "category": "Creativity",
+      "generated_at": "2026-10-20T18:58:07.531606"
     }
   ],
   "used_english": [
-    "stop trying to be perfect",
-    "this changes your spanish today",
-    "stop asking, just narrate now",
-    "never lose pace, breathe mid-sentence",
-    "stop naming words, start meaning",
     "never answer in silence, speak",
     "the secret is your next sentence",
     "never explain—just respond with action",
@@ -21001,7 +20996,12 @@
     "feeling lost? say 'no entiendo'.",
     "wisdom: embrace 'poco a poco'.",
     "start speaking today, amigo.",
-    "your effort resonates beautifully."
+    "your effort resonates beautifully.",
+    "hear this language secret?",
+    "unlock your voice. say ¡sí!",
+    "never forget this small win.",
+    "stop overthinking. just speak.",
+    "curious about 'por qué'?"
   ],
-  "last_updated": "2026-10-20T17:49:31.205280"
+  "last_updated": "2026-10-20T18:58:07.531608"
 }
