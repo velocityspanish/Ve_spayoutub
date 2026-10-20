@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never rush, say “te agradezco”",
-      "spanish": "Nunca corras, di “te agradezco”",
-      "category": "Gratitude",
-      "generated_at": "2026-06-19T21:57:04.454543"
-    },
-    {
-      "english": "The secret... gratitude makes Spanish stick",
-      "spanish": "El secreto... la gratitud te pega",
-      "category": "Gratitude",
-      "generated_at": "2026-06-19T21:57:04.454557"
-    },
-    {
-      "english": "This one habit, thank someone daily",
-      "spanish": "Este hábito, agradece cada día",
-      "category": "Gratitude",
-      "generated_at": "2026-06-19T21:57:04.454572"
-    },
-    {
-      "english": "Stop scrolling, send “gracias” today",
-      "spanish": "Deja el celular, manda “gracias” hoy",
-      "category": "Gratitude",
-      "generated_at": "2026-06-19T21:57:04.454587"
-    },
-    {
-      "english": "Never say “perfect”—say “close enough”",
-      "spanish": "Nunca digas “perfecto”, di “vale”",
-      "category": "Growth",
-      "generated_at": "2026-06-20T15:04:38.469990"
-    },
-    {
       "english": "This is why you stall on verbs",
       "spanish": "Por eso te atoras con verbos",
       "category": "Growth",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu paciencia tiene recompensa.",
       "category": "Balance",
       "generated_at": "2026-10-19T22:50:21.569959"
+    },
+    {
+      "english": "Your past efforts matter.",
+      "spanish": "Tus esfuerzos pasados importan.",
+      "category": "Balance",
+      "generated_at": "2026-10-20T00:00:49.861434"
+    },
+    {
+      "english": "One word: pure joy.",
+      "spanish": "Una palabra: pura alegría.",
+      "category": "Balance",
+      "generated_at": "2026-10-20T00:00:49.861468"
+    },
+    {
+      "english": "Feel your progress today.",
+      "spanish": "Siente tu progreso hoy.",
+      "category": "Balance",
+      "generated_at": "2026-10-20T00:00:49.861490"
+    },
+    {
+      "english": "Never doubt this courage.",
+      "spanish": "Nunca dudes este valor.",
+      "category": "Balance",
+      "generated_at": "2026-10-20T00:00:49.861513"
+    },
+    {
+      "english": "This echo is success.",
+      "spanish": "Este eco es éxito.",
+      "category": "Balance",
+      "generated_at": "2026-10-20T00:00:49.861534"
     }
   ],
   "used_english": [
-    "never rush, say “te agradezco”",
-    "the secret... gratitude makes spanish stick",
-    "this one habit, thank someone daily",
-    "stop scrolling, send “gracias” today",
-    "never say “perfect”—say “close enough”",
     "this is why you stall on verbs",
     "the secret, use one anchor phrase",
     "never wait for “more vocab”",
@@ -21001,7 +20996,12 @@
     "this rhythm unlocks understanding.",
     "here's your superpower word.",
     "the real secret: practice.",
-    "your patience has reward."
+    "your patience has reward.",
+    "your past efforts matter.",
+    "one word: pure joy.",
+    "feel your progress today.",
+    "never doubt this courage.",
+    "this echo is success."
   ],
-  "last_updated": "2026-10-19T22:50:21.569963"
+  "last_updated": "2026-10-20T00:00:49.861536"
 }
