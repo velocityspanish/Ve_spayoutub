@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret: answer with a detail",
-      "spanish": "El secreto, responde con un detalle",
-      "category": "Purpose",
-      "generated_at": "2026-06-20T21:58:29.174030"
-    },
-    {
-      "english": "This one habit kills your accent",
-      "spanish": "Este hábito mata tu acento",
-      "category": "Purpose",
-      "generated_at": "2026-06-20T21:58:29.174045"
-    },
-    {
-      "english": "Never “maybe,” say it with certainty",
-      "spanish": "Nunca “tal vez”, dilo con seguridad",
-      "category": "Purpose",
-      "generated_at": "2026-06-20T21:58:29.174061"
-    },
-    {
-      "english": "What if you learn by replying?",
-      "spanish": "¿Y si aprendes respondiendo?",
-      "category": "Purpose",
-      "generated_at": "2026-06-20T21:58:29.174076"
-    },
-    {
-      "english": "Stop translating, start feeling meaning",
-      "spanish": "Deja de traducir, empieza a sentir",
-      "category": "Inspiration",
-      "generated_at": "2026-06-21T15:12:38.738289"
-    },
-    {
       "english": "Never study, just steal real lines",
       "spanish": "Nunca estudies, roba frases reales",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Este sentimiento significa 'casi allí'.",
       "category": "Patience",
       "generated_at": "2026-10-20T22:10:40.600174"
+    },
+    {
+      "english": "Did you hurt them?",
+      "spanish": "¿Les lastimaste?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T23:31:21.207830"
+    },
+    {
+      "english": "Forgive them, feel peace.",
+      "spanish": "Perdónalos, siente paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T23:31:21.207865"
+    },
+    {
+      "english": "Let go of burdens.",
+      "spanish": "Suelta las cargas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T23:31:21.207889"
+    },
+    {
+      "english": "The hardest part is done.",
+      "spanish": "Lo más duro ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T23:31:21.207913"
+    },
+    {
+      "english": "This word heals wounds.",
+      "spanish": "Esta palabra cura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T23:31:21.207937"
     }
   ],
   "used_english": [
-    "the secret: answer with a detail",
-    "this one habit kills your accent",
-    "never “maybe,” say it with certainty",
-    "what if you learn by replying?",
-    "stop translating, start feeling meaning",
     "never study, just steal real lines",
     "the secret, ask questions with feeling",
     "this one trick makes listening click",
@@ -21001,7 +20996,12 @@
     "your effort compounds, trust it.",
     "never stop the quiet progress.",
     "the real wisdom? breathe easy.",
-    "this feeling means 'almost there'."
+    "this feeling means 'almost there'.",
+    "did you hurt them?",
+    "forgive them, feel peace.",
+    "let go of burdens.",
+    "the hardest part is done.",
+    "this word heals wounds."
   ],
-  "last_updated": "2026-10-20T22:10:40.600177"
+  "last_updated": "2026-10-20T23:31:21.207939"
 }
