@@ -1,12 +1,7 @@
 name: Velocity Spanish - Daily 7x Upload
 
 on:
-  # Schedule 7 posts per day (American EST/EDT time)
   schedule:
-    - cron: '0 13 * * *'  # 8:00 AM EST
-    - cron: '0 15 * * *'  # 10:00 AM EST
-    - cron: '0 17 * * *'  # 12:00 PM EST
-    - cron: '0 19 * * *'  # 2:00 PM EST
     - cron: '0 21 * * *'  # 4:00 PM EST
 
 
