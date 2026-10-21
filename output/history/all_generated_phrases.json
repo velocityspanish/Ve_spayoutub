@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never study, just steal real lines",
-      "spanish": "Nunca estudies, roba frases reales",
-      "category": "Inspiration",
-      "generated_at": "2026-06-21T15:12:38.738316"
-    },
-    {
-      "english": "The secret, ask questions with feeling",
-      "spanish": "El secreto, pregunta con emoción",
-      "category": "Inspiration",
-      "generated_at": "2026-06-21T15:12:38.738331"
-    },
-    {
-      "english": "This one trick makes listening click",
-      "spanish": "Este truco hace clic al oír",
-      "category": "Inspiration",
-      "generated_at": "2026-06-21T15:12:38.738346"
-    },
-    {
-      "english": "Stop rereading, listen and repeat",
-      "spanish": "No releas, escucha y repite",
-      "category": "Inspiration",
-      "generated_at": "2026-06-21T15:12:38.738361"
-    },
-    {
-      "english": "The secret? Use verbs, not lists",
-      "spanish": "El secreto, usa verbos, no listas",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-21T16:46:13.320023"
-    },
-    {
       "english": "Never memorize sentences, steal patterns",
       "spanish": "Nunca memorices frases, roba patrones",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra cura.",
       "category": "Forgiveness",
       "generated_at": "2026-10-20T23:31:21.207937"
+    },
+    {
+      "english": "Hear this tiny word, 'ayuda'.",
+      "spanish": "Oye esta palabra pequeña, 'ayuda'.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-21T23:46:31.869498"
+    },
+    {
+      "english": "This phrase changes perspective.",
+      "spanish": "Esta frase cambia perspectiva.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-21T23:46:31.869525"
+    },
+    {
+      "english": "Unlock courage, simply 'vale'.",
+      "spanish": "Desbloquea coraje, simple 'vale'.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-21T23:46:31.869539"
+    },
+    {
+      "english": "Tomorrow, you'll thank yourself.",
+      "spanish": "Mañana, te agradecerás.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-21T23:46:31.869554"
+    },
+    {
+      "english": "Stop saying 'I don't know'.",
+      "spanish": "Deja de decir 'no sé'.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-21T23:46:31.869567"
     }
   ],
   "used_english": [
-    "never study, just steal real lines",
-    "the secret, ask questions with feeling",
-    "this one trick makes listening click",
-    "stop rereading, listen and repeat",
-    "the secret? use verbs, not lists",
     "never memorize sentences, steal patterns",
     "stop asking, just answer your day",
     "stop scrolling, speak for ten seconds",
@@ -21001,7 +20996,12 @@
     "forgive them, feel peace.",
     "let go of burdens.",
     "the hardest part is done.",
-    "this word heals wounds."
+    "this word heals wounds.",
+    "hear this tiny word, 'ayuda'.",
+    "this phrase changes perspective.",
+    "unlock courage, simply 'vale'.",
+    "tomorrow, you'll thank yourself.",
+    "stop saying 'i don't know'."
   ],
-  "last_updated": "2026-10-20T23:31:21.207939"
+  "last_updated": "2026-10-21T23:46:31.869569"
 }
