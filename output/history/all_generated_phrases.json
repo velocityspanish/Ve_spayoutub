@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize sentences, steal patterns",
-      "spanish": "Nunca memorices frases, roba patrones",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-21T16:46:13.320047"
-    },
-    {
-      "english": "Stop asking, just answer your day",
-      "spanish": "Deja de preguntar, responde tu día",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-21T16:46:13.320063"
-    },
-    {
-      "english": "Stop scrolling, speak for ten seconds",
-      "spanish": "Deja de scrollear, habla diez segundos",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-21T16:46:13.320078"
-    },
-    {
-      "english": "What if your goal is flow?",
-      "spanish": "¿Y si tu meta es fluidez?",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-21T16:46:13.320091"
-    },
-    {
-      "english": "Never say “maybe,” say “seguro”",
-      "spanish": "Nunca digas “quizás”, di “seguro”",
-      "category": "Strength",
-      "generated_at": "2026-06-21T18:20:01.788483"
-    },
-    {
       "english": "Stop dodging pronouns, say “yo”",
       "spanish": "Deja de evitar pronombres, di “yo”",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Deja de decir 'no sé'.",
       "category": "Inspiration",
       "generated_at": "2026-10-21T23:46:31.869567"
+    },
+    {
+      "english": "That pause? It's thinking.",
+      "spanish": "Esa pausa, es pensar.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T23:44:29.259138"
+    },
+    {
+      "english": "Surprise yourself daily.",
+      "spanish": "Sorpréndete a diario.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T23:44:29.259172"
+    },
+    {
+      "english": "Wisdom: 'Un poco' builds.",
+      "spanish": "Sabiduría: 'Un poco' construye.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T23:44:29.259197"
+    },
+    {
+      "english": "Stop fearing minor errors.",
+      "spanish": "Deja de temer errores menores.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T23:44:29.259222"
+    },
+    {
+      "english": "What if you're fluent?",
+      "spanish": "¿Y si eres fluido?",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T23:44:29.259245"
     }
   ],
   "used_english": [
-    "never memorize sentences, steal patterns",
-    "stop asking, just answer your day",
-    "stop scrolling, speak for ten seconds",
-    "what if your goal is flow?",
-    "never say “maybe,” say “seguro”",
     "stop dodging pronouns, say “yo”",
     "never fear “wrong,” just speak",
     "stop hunting grammar, start talking",
@@ -21001,7 +20996,12 @@
     "this phrase changes perspective.",
     "unlock courage, simply 'vale'.",
     "tomorrow, you'll thank yourself.",
-    "stop saying 'i don't know'."
+    "stop saying 'i don't know'.",
+    "that pause? it's thinking.",
+    "surprise yourself daily.",
+    "wisdom: 'un poco' builds.",
+    "stop fearing minor errors.",
+    "what if you're fluent?"
   ],
-  "last_updated": "2026-10-21T23:46:31.869569"
+  "last_updated": "2026-10-22T23:44:29.259247"
 }
