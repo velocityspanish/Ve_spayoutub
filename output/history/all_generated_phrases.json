@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop dodging pronouns, say “yo”",
-      "spanish": "Deja de evitar pronombres, di “yo”",
-      "category": "Strength",
-      "generated_at": "2026-06-21T18:20:01.788505"
-    },
-    {
-      "english": "Never fear “wrong,” just speak",
-      "spanish": "No temas “mal”, habla",
-      "category": "Strength",
-      "generated_at": "2026-06-21T18:20:01.788521"
-    },
-    {
-      "english": "Stop hunting grammar, start talking",
-      "spanish": "Deja de cazar gramática, habla",
-      "category": "Strength",
-      "generated_at": "2026-06-21T18:20:01.788537"
-    },
-    {
-      "english": "Never wait, narrate your morning",
-      "spanish": "Nunca esperes, narra tu mañana",
-      "category": "Strength",
-      "generated_at": "2026-06-21T18:20:01.788553"
-    },
-    {
-      "english": "The secret... use questions to lead",
-      "spanish": "El secreto... usa preguntas, guía",
-      "category": "Motivation",
-      "generated_at": "2026-06-21T20:27:25.892161"
-    },
-    {
       "english": "Stop translating, switch to reactions",
       "spanish": "Deja de traducir, cambia a reacciones",
       "category": "Motivation",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Y si eres fluido?",
       "category": "Confidence",
       "generated_at": "2026-10-22T23:44:29.259245"
+    },
+    {
+      "english": "Your true love is calling",
+      "spanish": "Tu amor verdadero llama",
+      "category": "Love",
+      "generated_at": "2026-10-23T23:37:20.638446"
+    },
+    {
+      "english": "Feel their heart with this word",
+      "spanish": "Siente su corazón con esto",
+      "category": "Love",
+      "generated_at": "2026-10-23T23:37:20.638482"
+    },
+    {
+      "english": "Wisdom: Love speaks silently",
+      "spanish": "Sabiduría: Amor habla en silencio",
+      "category": "Love",
+      "generated_at": "2026-10-23T23:37:20.638508"
+    },
+    {
+      "english": "You're amazing, they know it",
+      "spanish": "Eres increíble, lo saben",
+      "category": "Love",
+      "generated_at": "2026-10-23T23:37:20.638533"
+    },
+    {
+      "english": "This single word melts hearts",
+      "spanish": "Esta palabra derrite corazones",
+      "category": "Love",
+      "generated_at": "2026-10-23T23:37:20.638560"
     }
   ],
   "used_english": [
-    "stop dodging pronouns, say “yo”",
-    "never fear “wrong,” just speak",
-    "stop hunting grammar, start talking",
-    "never wait, narrate your morning",
-    "the secret... use questions to lead",
     "stop translating, switch to reactions",
     "the secret? faster replies, no fear",
     "what if your brain learns by replying?",
@@ -21001,7 +20996,12 @@
     "surprise yourself daily.",
     "wisdom: 'un poco' builds.",
     "stop fearing minor errors.",
-    "what if you're fluent?"
+    "what if you're fluent?",
+    "your true love is calling",
+    "feel their heart with this word",
+    "wisdom: love speaks silently",
+    "you're amazing, they know it",
+    "this single word melts hearts"
   ],
-  "last_updated": "2026-10-22T23:44:29.259247"
+  "last_updated": "2026-10-23T23:37:20.638562"
 }
