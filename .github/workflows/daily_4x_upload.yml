@@ -2,11 +2,15 @@ name: Velocity Spanish - Daily 7x Upload
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 4:00 PM EST
+    - cron: '0 21 * * *'   # 4:00 PM EDT / Spanish YouTube Feature
 
 
   # Allow manual trigger for testing
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -20,6 +24,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: 🎲 Anti-bot Execution Jitter
+        if: github.event_name == 'schedule'
+        run: |
+          JITTER=$(( RANDOM % 150 + 30 ))
+          echo "Applying ${JITTER}s random start jitter to avoid exact-clock bot fingerprint..."
+          sleep $JITTER
 
       - name: 📥 Download phrase history (if exists)
         uses: actions/download-artifact@v4

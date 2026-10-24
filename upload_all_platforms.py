@@ -2,7 +2,7 @@
 VELOCITY LANGUAGE - Unified Social Media Upload Script
 """
 
-import os, sys, json
+import os, sys, json, time, random
 from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
@@ -322,6 +322,11 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
                 if r:
                     results["uploads"][pname] = r
                     results["platforms_successful"].append(pname)
+                    # Natural anti-bot pacing between active platform uploads
+                    if pname != platforms[-1][0]:
+                        pace = random.randint(12, 25)
+                        print(f"[*] Anti-bot pacing: waiting {pace}s before next platform...")
+                        time.sleep(pace)
                 else: results["platforms_failed"].append(pname)
             except Exception as e:
                 results["uploads"][pname] = {"status": "failed", "error": str(e)}
