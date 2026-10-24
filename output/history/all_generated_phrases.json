@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop translating, switch to reactions",
-      "spanish": "Deja de traducir, cambia a reacciones",
-      "category": "Motivation",
-      "generated_at": "2026-06-21T20:27:25.892184"
-    },
-    {
-      "english": "The secret? Faster replies, no fear",
-      "spanish": "El secreto? Respuestas rápidas, sin miedo",
-      "category": "Motivation",
-      "generated_at": "2026-06-21T20:27:25.892200"
-    },
-    {
-      "english": "What if your brain learns by replying?",
-      "spanish": "¿Y si tu mente aprende respondiendo?",
-      "category": "Motivation",
-      "generated_at": "2026-06-21T20:27:25.892215"
-    },
-    {
-      "english": "Stop doom-scrolling, practice ten seconds",
-      "spanish": "Deja el doom-scroll, practica diez segundos",
-      "category": "Motivation",
-      "generated_at": "2026-06-21T20:27:25.892262"
-    },
-    {
-      "english": "Never study, teach the sentence",
-      "spanish": "No estudies, enseña esa frase",
-      "category": "Success",
-      "generated_at": "2026-06-21T22:07:38.593382"
-    },
-    {
       "english": "Stop overthinking, trust the moment",
       "spanish": "Deja pensar de más, confía en el momento",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra derrite corazones",
       "category": "Love",
       "generated_at": "2026-10-23T23:37:20.638560"
+    },
+    {
+      "english": "Hearts connect with this sound.",
+      "spanish": "Corazones conectan con este sonido.",
+      "category": "Love",
+      "generated_at": "2026-10-24T22:48:08.569092"
+    },
+    {
+      "english": "Their eyes say 'te amo' always.",
+      "spanish": "Sus ojos dicen 'te amo' siempre.",
+      "category": "Love",
+      "generated_at": "2026-10-24T22:48:08.569126"
+    },
+    {
+      "english": "This feeling? 'Enamorados' means it.",
+      "spanish": "Este sentimiento? 'Enamorados' lo significa.",
+      "category": "Love",
+      "generated_at": "2026-10-24T22:48:08.569149"
+    },
+    {
+      "english": "Whisper this: 'mi vida' to them.",
+      "spanish": "Susurra esto: 'mi vida' a ellos.",
+      "category": "Love",
+      "generated_at": "2026-10-24T22:48:08.569172"
+    },
+    {
+      "english": "Surprise them with 'te quiero'!",
+      "spanish": "Sorpréndelos con 'te quiero'!",
+      "category": "Love",
+      "generated_at": "2026-10-24T22:48:08.569193"
     }
   ],
   "used_english": [
-    "stop translating, switch to reactions",
-    "the secret? faster replies, no fear",
-    "what if your brain learns by replying?",
-    "stop doom-scrolling, practice ten seconds",
-    "never study, teach the sentence",
     "stop overthinking, trust the moment",
     "stop translating, choose one real reply",
     "never miss this, use “porque”",
@@ -21001,7 +20996,12 @@
     "feel their heart with this word",
     "wisdom: love speaks silently",
     "you're amazing, they know it",
-    "this single word melts hearts"
+    "this single word melts hearts",
+    "hearts connect with this sound.",
+    "their eyes say 'te amo' always.",
+    "this feeling? 'enamorados' means it.",
+    "whisper this: 'mi vida' to them.",
+    "surprise them with 'te quiero'!"
   ],
-  "last_updated": "2026-10-23T23:37:20.638562"
+  "last_updated": "2026-10-24T22:48:08.569195"
 }
