@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overthinking, trust the moment",
-      "spanish": "Deja pensar de más, confía en el momento",
-      "category": "Success",
-      "generated_at": "2026-06-21T22:07:38.593410"
-    },
-    {
-      "english": "Stop translating, choose one real reply",
-      "spanish": "Deja traducir, elige una respuesta real",
-      "category": "Success",
-      "generated_at": "2026-06-21T22:07:38.593426"
-    },
-    {
-      "english": "Never miss this, use “porque”",
-      "spanish": "No falles esto, usa “porque”",
-      "category": "Success",
-      "generated_at": "2026-06-21T22:07:38.593442"
-    },
-    {
-      "english": "Stop scrolling, speak your next line",
-      "spanish": "Deja el scroll, di tu próxima frase",
-      "category": "Success",
-      "generated_at": "2026-06-21T22:07:38.593459"
-    },
-    {
-      "english": "Stop freezing, use one sentence",
-      "spanish": "No te congeles, usa una frase",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T17:41:22.000345"
-    },
-    {
       "english": "Stop guessing, say what you know",
       "spanish": "Deja de adivinar, di lo que sabes",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "Sorpréndelos con 'te quiero'!",
       "category": "Love",
       "generated_at": "2026-10-24T22:48:08.569193"
+    },
+    {
+      "english": "Fear? Say 'con permiso'.",
+      "spanish": "Miedo? Di 'con permiso'.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T22:54:28.937901"
+    },
+    {
+      "english": "What if tomorrow is easier?",
+      "spanish": "¿Y si mañana es más fácil?",
+      "category": "Courage",
+      "generated_at": "2026-10-25T22:54:28.937924"
+    },
+    {
+      "english": "This word breaks silence: 'Hola'.",
+      "spanish": "Esta palabra rompe silencio: 'Hola'.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T22:54:28.937938"
+    },
+    {
+      "english": "Your journey's unique, own it.",
+      "spanish": "Tu viaje es único, acéptalo.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T22:54:28.937951"
+    },
+    {
+      "english": "Tiny steps lead everywhere.",
+      "spanish": "Pequeños pasos llevan a todas partes.",
+      "category": "Courage",
+      "generated_at": "2026-10-25T22:54:28.937964"
     }
   ],
   "used_english": [
-    "stop overthinking, trust the moment",
-    "stop translating, choose one real reply",
-    "never miss this, use “porque”",
-    "stop scrolling, speak your next line",
-    "stop freezing, use one sentence",
     "stop guessing, say what you know",
     "never rush grammar, say meaning",
     "what if your tongue learns faster?",
@@ -21001,7 +20996,12 @@
     "their eyes say 'te amo' always.",
     "this feeling? 'enamorados' means it.",
     "whisper this: 'mi vida' to them.",
-    "surprise them with 'te quiero'!"
+    "surprise them with 'te quiero'!",
+    "fear? say 'con permiso'.",
+    "what if tomorrow is easier?",
+    "this word breaks silence: 'hola'.",
+    "your journey's unique, own it.",
+    "tiny steps lead everywhere."
   ],
-  "last_updated": "2026-10-24T22:48:08.569195"
+  "last_updated": "2026-10-25T22:54:28.937965"
 }
