@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never start with English in your head",
-      "spanish": "Nunca empieces con inglés en tu mente",
-      "category": "Courage",
-      "generated_at": "2026-06-22T18:48:10.843191"
-    },
-    {
-      "english": "Never wait, use your first instinct",
-      "spanish": "No esperes, usa tu primera idea",
-      "category": "Courage",
-      "generated_at": "2026-06-22T18:48:10.843208"
-    },
-    {
-      "english": "This fixes your fear of speaking",
-      "spanish": "Esto cura tu miedo al hablar",
-      "category": "Courage",
-      "generated_at": "2026-06-22T18:48:10.843224"
-    },
-    {
-      "english": "Never freeze on small talk, ask back",
-      "spanish": "Nunca te quedes, pregunta de vuelta",
-      "category": "Courage",
-      "generated_at": "2026-06-22T18:48:10.843239"
-    },
-    {
-      "english": "Stop saying 'maybe', say 'claro'",
-      "spanish": "Deja de decir “quizás”, di “claro”.",
-      "category": "Strength",
-      "generated_at": "2026-06-22T20:08:43.979815"
-    },
-    {
       "english": "Never memorize, copy real phrases",
       "spanish": "No memorices, copia frases reales.",
       "category": "Strength",
@@ -17999,14 +17969,39 @@
       "spanish": "Nunca dudes tu progreso, amigo.",
       "category": "Purpose",
       "generated_at": "2026-10-27T00:10:14.796395"
+    },
+    {
+      "english": "This word saves conversations.",
+      "spanish": "Esta palabra salva conversaciones.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T00:09:21.172428"
+    },
+    {
+      "english": "Your brain loves this sound.",
+      "spanish": "Tu cerebro ama este sonido.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T00:09:21.172451"
+    },
+    {
+      "english": "Small steps unlock big dreams.",
+      "spanish": "Pequeños pasos desbloquean grandes sueños.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T00:09:21.172465"
+    },
+    {
+      "english": "Feel this progress within you.",
+      "spanish": "Siente este progreso en ti.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T00:09:21.172478"
+    },
+    {
+      "english": "Is this your hidden talent?",
+      "spanish": "¿Es este tu talento oculto?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T00:09:21.172490"
     }
   ],
   "used_english": [
-    "never start with english in your head",
-    "never wait, use your first instinct",
-    "this fixes your fear of speaking",
-    "never freeze on small talk, ask back",
-    "stop saying 'maybe', say 'claro'",
     "never memorize, copy real phrases",
     "stop swapping verbs mid-sentence",
     "this trick beats grammar anxiety",
@@ -21001,7 +20996,12 @@
     "this rhythm connects your soul.",
     "surprise yourself with fluency.",
     "curious? ask 'cómo se dice?'.",
-    "never doubt your progress, amigo."
+    "never doubt your progress, amigo.",
+    "this word saves conversations.",
+    "your brain loves this sound.",
+    "small steps unlock big dreams.",
+    "feel this progress within you.",
+    "is this your hidden talent?"
   ],
-  "last_updated": "2026-10-27T00:10:14.796397"
+  "last_updated": "2026-10-28T00:09:21.172492"
 }
