@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never memorize, copy real phrases",
-      "spanish": "No memorices, copia frases reales.",
-      "category": "Strength",
-      "generated_at": "2026-06-22T20:08:43.979843"
-    },
-    {
-      "english": "Stop swapping verbs mid-sentence",
-      "spanish": "Deja de cambiar verbos en medio.",
-      "category": "Strength",
-      "generated_at": "2026-06-22T20:08:43.979861"
-    },
-    {
-      "english": "This trick beats grammar anxiety",
-      "spanish": "Este truco gana ansiedad gramatical.",
-      "category": "Strength",
-      "generated_at": "2026-06-22T20:08:43.979876"
-    },
-    {
-      "english": "Stop studying alone, shadow answers",
-      "spanish": "No estudies solo, repite respuestas.",
-      "category": "Strength",
-      "generated_at": "2026-06-22T20:08:43.979892"
-    },
-    {
-      "english": "Never start with English again",
-      "spanish": "Nunca empieces con inglés",
-      "category": "Creativity",
-      "generated_at": "2026-06-22T21:32:53.538855"
-    },
-    {
       "english": "Stop hunting words, just react",
       "spanish": "Deja de buscar, solo reacciona",
       "category": "Creativity",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Es este tu talento oculto?",
       "category": "Perseverance",
       "generated_at": "2026-10-28T00:09:21.172490"
+    },
+    {
+      "english": "Feeling stuck? Say 'aún no'.",
+      "spanish": "Aún no lo sabes.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T00:31:15.178190"
+    },
+    {
+      "english": "Surprise yourself daily, trust it.",
+      "spanish": "Sorpréndete, confía en ti.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T00:31:15.178222"
+    },
+    {
+      "english": "The real secret? Tiny wins.",
+      "spanish": "El secreto: triunfos pequeños.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T00:31:15.178243"
+    },
+    {
+      "english": "This single word brings peace.",
+      "spanish": "Una palabra trae calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T00:31:15.178264"
+    },
+    {
+      "english": "Hear this wisdom: 'con calma'.",
+      "spanish": "Con calma, todo llega.",
+      "category": "Patience",
+      "generated_at": "2026-10-29T00:31:15.178283"
     }
   ],
   "used_english": [
-    "never memorize, copy real phrases",
-    "stop swapping verbs mid-sentence",
-    "this trick beats grammar anxiety",
-    "stop studying alone, shadow answers",
-    "never start with english again",
     "stop hunting words, just react",
     "this fixes your “i forgot” moment",
     "stop rewriting, speak your best",
@@ -21001,7 +20996,12 @@
     "your brain loves this sound.",
     "small steps unlock big dreams.",
     "feel this progress within you.",
-    "is this your hidden talent?"
+    "is this your hidden talent?",
+    "feeling stuck? say 'aún no'.",
+    "surprise yourself daily, trust it.",
+    "the real secret? tiny wins.",
+    "this single word brings peace.",
+    "hear this wisdom: 'con calma'."
   ],
-  "last_updated": "2026-10-28T00:09:21.172492"
+  "last_updated": "2026-10-29T00:31:15.178284"
 }
