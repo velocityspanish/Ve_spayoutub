@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop hunting words, just react",
-      "spanish": "Deja de buscar, solo reacciona",
-      "category": "Creativity",
-      "generated_at": "2026-06-22T21:32:53.538901"
-    },
-    {
-      "english": "This fixes your “I forgot” moment",
-      "spanish": "Esto arregla tu “se me olvidó”",
-      "category": "Creativity",
-      "generated_at": "2026-06-22T21:32:53.538918"
-    },
-    {
-      "english": "Stop rewriting, speak your best",
-      "spanish": "Deja de reescribir, di tu mejor",
-      "category": "Creativity",
-      "generated_at": "2026-06-22T21:32:53.538934"
-    },
-    {
-      "english": "The secret? Use “right now”",
-      "spanish": "El secreto, usa “ahora mismo”",
-      "category": "Creativity",
-      "generated_at": "2026-06-22T21:32:53.538949"
-    },
-    {
-      "english": "Stop saying \"I don't know\"",
-      "spanish": "Deja de decir \"no sé\"",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T22:30:23.977146"
-    },
-    {
       "english": "Never pause, keep talking now",
       "spanish": "No pares, sigue hablando",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "Con calma, todo llega.",
       "category": "Patience",
       "generated_at": "2026-10-29T00:31:15.178283"
+    },
+    {
+      "english": "Their heart beats for you.",
+      "spanish": "Su corazón late por ti.",
+      "category": "Love",
+      "generated_at": "2026-10-30T00:31:55.915817"
+    },
+    {
+      "english": "This word says 'I love you'.",
+      "spanish": "Esta palabra dice 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-10-30T00:31:55.915843"
+    },
+    {
+      "english": "Surprise them: 'Mi amor!'",
+      "spanish": "¡Sorpréndelos: 'Mi amor!'",
+      "category": "Love",
+      "generated_at": "2026-10-30T00:31:55.915856"
+    },
+    {
+      "english": "Is this your soulmate sound?",
+      "spanish": "¿Es este sonido tu alma gemela?",
+      "category": "Love",
+      "generated_at": "2026-10-30T00:31:55.915870"
+    },
+    {
+      "english": "Unlock their smile: 'Cariño'.",
+      "spanish": "Desbloquea su sonrisa: 'Cariño'.",
+      "category": "Love",
+      "generated_at": "2026-10-30T00:31:55.915885"
     }
   ],
   "used_english": [
-    "stop hunting words, just react",
-    "this fixes your “i forgot” moment",
-    "stop rewriting, speak your best",
-    "the secret? use “right now”",
-    "stop saying \"i don't know\"",
     "never pause, keep talking now",
     "stop deleting your spanish attempts",
     "never ask, just answer honestly",
@@ -21001,7 +20996,12 @@
     "surprise yourself daily, trust it.",
     "the real secret? tiny wins.",
     "this single word brings peace.",
-    "hear this wisdom: 'con calma'."
+    "hear this wisdom: 'con calma'.",
+    "their heart beats for you.",
+    "this word says 'i love you'.",
+    "surprise them: 'mi amor!'",
+    "is this your soulmate sound?",
+    "unlock their smile: 'cariño'."
   ],
-  "last_updated": "2026-10-29T00:31:15.178284"
+  "last_updated": "2026-10-30T00:31:55.915886"
 }
