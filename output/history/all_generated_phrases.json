@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop freezing, just add 'ya'",
-      "spanish": "Deja de congelarte, agrega 'ya'",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T15:51:10.130287"
-    },
-    {
-      "english": "This one phrase opens doors",
-      "spanish": "Esta frase abre puertas",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T15:51:10.130302"
-    },
-    {
-      "english": "Stop chasing perfection, thank them",
-      "spanish": "Deja la perfección, agradece",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T15:51:10.130318"
-    },
-    {
-      "english": "Never rehearse, speak with surprise",
-      "spanish": "Nunca ensayes, habla con sorpresa",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T15:51:10.130333"
-    },
-    {
-      "english": "The secret, steal their rhythm",
-      "spanish": "El secreto, roba su ritmo",
-      "category": "Success",
-      "generated_at": "2026-06-23T17:18:22.847776"
-    },
-    {
       "english": "Stop pausing, add a connector",
       "spanish": "No te detengas, agrega un conector",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "No apresures tu viaje de aprendizaje.",
       "category": "Patience",
       "generated_at": "2026-10-31T00:15:04.620871"
+    },
+    {
+      "english": "Feel their heart skip a beat.",
+      "spanish": "Siente su corazón dar un vuelco.",
+      "category": "Love",
+      "generated_at": "2026-10-31T23:50:49.441622"
+    },
+    {
+      "english": "What if they are your forever?",
+      "spanish": "¿Y si son tu para siempre?",
+      "category": "Love",
+      "generated_at": "2026-10-31T23:50:49.441644"
+    },
+    {
+      "english": "This sound melts their worries.",
+      "spanish": "Este sonido derrite sus preocupaciones.",
+      "category": "Love",
+      "generated_at": "2026-10-31T23:50:49.441658"
+    },
+    {
+      "english": "Surprise them with pure emotion.",
+      "spanish": "Sorpréndeles con pura emoción.",
+      "category": "Love",
+      "generated_at": "2026-10-31T23:50:49.441671"
+    },
+    {
+      "english": "Their eyes hold your future.",
+      "spanish": "Sus ojos tienen tu futuro.",
+      "category": "Love",
+      "generated_at": "2026-10-31T23:50:49.441684"
     }
   ],
   "used_english": [
-    "stop freezing, just add 'ya'",
-    "this one phrase opens doors",
-    "stop chasing perfection, thank them",
-    "never rehearse, speak with surprise",
-    "the secret, steal their rhythm",
     "stop pausing, add a connector",
     "this one tip sparks confidence",
     "stop overchecking, trust your ear",
@@ -21001,7 +20996,12 @@
     "your progress is building, see?",
     "this quiet effort counts.",
     "curious about 'un momento'?",
-    "don't rush your learning journey."
+    "don't rush your learning journey.",
+    "feel their heart skip a beat.",
+    "what if they are your forever?",
+    "this sound melts their worries.",
+    "surprise them with pure emotion.",
+    "their eyes hold your future."
   ],
-  "last_updated": "2026-10-31T00:15:04.620873"
+  "last_updated": "2026-10-31T23:50:49.441685"
 }
