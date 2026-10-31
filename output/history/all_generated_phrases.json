@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never pause, keep talking now",
-      "spanish": "No pares, sigue hablando",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T22:30:23.977170"
-    },
-    {
-      "english": "Stop deleting your Spanish attempts",
-      "spanish": "Deja de borrar tus intentos",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T22:30:23.977187"
-    },
-    {
-      "english": "Never ask, just answer honestly",
-      "spanish": "Nunca preguntes, responde honesto",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T22:30:23.977202"
-    },
-    {
-      "english": "Stop hiding behind perfect grammar",
-      "spanish": "No te escondas por la gramática",
-      "category": "Confidence",
-      "generated_at": "2026-06-22T22:30:23.977218"
-    },
-    {
-      "english": "Never wait, send the voice",
-      "spanish": "Nunca esperes, manda la voz",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T15:51:10.130264"
-    },
-    {
       "english": "Stop freezing, just add 'ya'",
       "spanish": "Deja de congelarte, agrega 'ya'",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Desbloquea su sonrisa: 'Cariño'.",
       "category": "Love",
       "generated_at": "2026-10-30T00:31:55.915885"
+    },
+    {
+      "english": "Slow down, hear this wisdom.",
+      "spanish": "Más despacio, escucha esto.",
+      "category": "Patience",
+      "generated_at": "2026-10-31T00:15:04.620789"
+    },
+    {
+      "english": "Your progress is building, see?",
+      "spanish": "Tu progreso se acumula, ¿ves?",
+      "category": "Patience",
+      "generated_at": "2026-10-31T00:15:04.620819"
+    },
+    {
+      "english": "This quiet effort counts.",
+      "spanish": "Este esfuerzo silencioso cuenta.",
+      "category": "Patience",
+      "generated_at": "2026-10-31T00:15:04.620836"
+    },
+    {
+      "english": "Curious about 'un momento'?",
+      "spanish": "¿Curioso por 'un momento'?",
+      "category": "Patience",
+      "generated_at": "2026-10-31T00:15:04.620853"
+    },
+    {
+      "english": "Don't rush your learning journey.",
+      "spanish": "No apresures tu viaje de aprendizaje.",
+      "category": "Patience",
+      "generated_at": "2026-10-31T00:15:04.620871"
     }
   ],
   "used_english": [
-    "never pause, keep talking now",
-    "stop deleting your spanish attempts",
-    "never ask, just answer honestly",
-    "stop hiding behind perfect grammar",
-    "never wait, send the voice",
     "stop freezing, just add 'ya'",
     "this one phrase opens doors",
     "stop chasing perfection, thank them",
@@ -21001,7 +20996,12 @@
     "this word says 'i love you'.",
     "surprise them: 'mi amor!'",
     "is this your soulmate sound?",
-    "unlock their smile: 'cariño'."
+    "unlock their smile: 'cariño'.",
+    "slow down, hear this wisdom.",
+    "your progress is building, see?",
+    "this quiet effort counts.",
+    "curious about 'un momento'?",
+    "don't rush your learning journey."
   ],
-  "last_updated": "2026-10-30T00:31:55.915886"
+  "last_updated": "2026-10-31T00:15:04.620873"
 }
