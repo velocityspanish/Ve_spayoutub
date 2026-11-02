@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop pausing, add a connector",
-      "spanish": "No te detengas, agrega un conector",
-      "category": "Success",
-      "generated_at": "2026-06-23T17:18:22.847808"
-    },
-    {
-      "english": "This one tip sparks confidence",
-      "spanish": "Este tip enciende la confianza",
-      "category": "Success",
-      "generated_at": "2026-06-23T17:18:22.847824"
-    },
-    {
-      "english": "Stop overchecking, trust your ear",
-      "spanish": "Deja de revisar, confía en tu oído",
-      "category": "Success",
-      "generated_at": "2026-06-23T17:18:22.847839"
-    },
-    {
-      "english": "Never freeze when they talk",
-      "spanish": "Nunca te congeles, cuando hablen",
-      "category": "Success",
-      "generated_at": "2026-06-23T17:18:22.847854"
-    },
-    {
-      "english": "Stop asking, feel the vibe",
-      "spanish": "No preguntes, siente la vibra",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-23T19:09:17.496156"
-    },
-    {
       "english": "Never fear silence, breathe first",
       "spanish": "Nunca temas el silencio, respira primero",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "Sus ojos tienen tu futuro.",
       "category": "Love",
       "generated_at": "2026-10-31T23:50:49.441684"
+    },
+    {
+      "english": "Curious? Ask 'qué'!",
+      "spanish": "¿Curioso? ¡Di 'qué'!",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-02T00:01:00.398223"
+    },
+    {
+      "english": "This whisper means 'yes'.",
+      "spanish": "Este susurro significa 'sí'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-02T00:01:00.398258"
+    },
+    {
+      "english": "Stop fearing simple sounds.",
+      "spanish": "Deja de temer sonidos simples.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-02T00:01:00.398285"
+    },
+    {
+      "english": "Surprise yourself today.",
+      "spanish": "Sorpréndete hoy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-02T00:01:00.398309"
+    },
+    {
+      "english": "Embrace the pauses.",
+      "spanish": "Abraza las pausas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-02T00:01:00.398332"
     }
   ],
   "used_english": [
-    "stop pausing, add a connector",
-    "this one tip sparks confidence",
-    "stop overchecking, trust your ear",
-    "never freeze when they talk",
-    "stop asking, feel the vibe",
     "never fear silence, breathe first",
     "what nobody tells you, learn chunks",
     "this is why your 'ser' slips",
@@ -21001,7 +20996,12 @@
     "what if they are your forever?",
     "this sound melts their worries.",
     "surprise them with pure emotion.",
-    "their eyes hold your future."
+    "their eyes hold your future.",
+    "curious? ask 'qué'!",
+    "this whisper means 'yes'.",
+    "stop fearing simple sounds.",
+    "surprise yourself today.",
+    "embrace the pauses."
   ],
-  "last_updated": "2026-10-31T23:50:49.441685"
+  "last_updated": "2026-11-02T00:01:00.398334"
 }
