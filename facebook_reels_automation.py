@@ -22,7 +22,7 @@ POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 AI_MODEL = os.getenv("AI_MODEL")
 if not AI_MODEL:
-    print("⚠️  AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file. ")
+    print("⚠️  AI_MODEL not set! Please add 'AI_MODEL=openai/gpt-5.4-nano' to your .env file. ")
     print("For GitHub Actions: Add AI_MODEL to repository secrets.")
     raise ValueError("AI_MODEL environment variable is required")
 
