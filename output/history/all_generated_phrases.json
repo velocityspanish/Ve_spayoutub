@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear silence, breathe first",
-      "spanish": "Nunca temas el silencio, respira primero",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-23T19:09:17.496185"
-    },
-    {
-      "english": "What nobody tells you, learn chunks",
-      "spanish": "Lo que nadie dice, aprende frases",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-23T19:09:17.496203"
-    },
-    {
-      "english": "This is why your 'ser' slips",
-      "spanish": "Por eso fallas con 'ser'",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-23T19:09:17.496218"
-    },
-    {
-      "english": "The secret is simple, use 'hoy'",
-      "spanish": "El secreto es simple, usa 'hoy'",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-23T19:09:17.496234"
-    },
-    {
-      "english": "Stop repeating, answer differently now",
-      "spanish": "Deja de repetir, responde distinto ahora",
-      "category": "Hope",
-      "generated_at": "2026-06-23T21:01:41.171588"
-    },
-    {
       "english": "Stop perfecting, just communicate",
       "spanish": "Deja de perfeccionar, solo comunica",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Abraza las pausas.",
       "category": "Self Improvement",
       "generated_at": "2026-11-02T00:01:00.398332"
+    },
+    {
+      "english": "Your Spanish will blossom.",
+      "spanish": "Tu español florecerá.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T02:43:31.660887"
+    },
+    {
+      "english": "Wonder how they learn fast?",
+      "spanish": "¿Te preguntas cómo aprenden?",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T02:43:31.660921"
+    },
+    {
+      "english": "Wisdom: patience fuels progress.",
+      "spanish": "Sabiduría: paciencia impulsa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T02:43:31.660948"
+    },
+    {
+      "english": "This tiny phrase connects.",
+      "spanish": "Esta pequeña frase conecta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T02:43:31.660988"
+    },
+    {
+      "english": "Tomorrow, you'll be grateful.",
+      "spanish": "Mañana, agradecerás.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T02:43:31.661015"
     }
   ],
   "used_english": [
-    "never fear silence, breathe first",
-    "what nobody tells you, learn chunks",
-    "this is why your 'ser' slips",
-    "the secret is simple, use 'hoy'",
-    "stop repeating, answer differently now",
     "stop perfecting, just communicate",
     "never wait, use “hoy” once",
     "this trick turns grammar into speech",
@@ -21001,7 +20996,12 @@
     "this whisper means 'yes'.",
     "stop fearing simple sounds.",
     "surprise yourself today.",
-    "embrace the pauses."
+    "embrace the pauses.",
+    "your spanish will blossom.",
+    "wonder how they learn fast?",
+    "wisdom: patience fuels progress.",
+    "this tiny phrase connects.",
+    "tomorrow, you'll be grateful."
   ],
-  "last_updated": "2026-11-02T00:01:00.398334"
+  "last_updated": "2026-11-03T02:43:31.661017"
 }
