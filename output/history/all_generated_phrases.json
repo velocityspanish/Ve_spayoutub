@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop perfecting, just communicate",
-      "spanish": "Deja de perfeccionar, solo comunica",
-      "category": "Hope",
-      "generated_at": "2026-06-23T21:01:41.171615"
-    },
-    {
-      "english": "Never wait, use “hoy” once",
-      "spanish": "No esperes, usa “hoy” una vez",
-      "category": "Hope",
-      "generated_at": "2026-06-23T21:01:41.171632"
-    },
-    {
-      "english": "This trick turns grammar into speech",
-      "spanish": "Este truco vuelve la gramática voz",
-      "category": "Hope",
-      "generated_at": "2026-06-23T21:01:41.171648"
-    },
-    {
-      "english": "Stop hunting words, grab feelings",
-      "spanish": "Deja de buscar palabras, toma emociones",
-      "category": "Hope",
-      "generated_at": "2026-06-23T21:01:41.171663"
-    },
-    {
-      "english": "Never say 'sorry'—say 'thank you'",
-      "spanish": "Nunca digas 'perdón', di 'gracias'",
-      "category": "Kindness",
-      "generated_at": "2026-06-23T22:07:15.167143"
-    },
-    {
       "english": "Never overthink, just describe now",
       "spanish": "No sobrepienses, solo describe ahora",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Mañana, agradecerás.",
       "category": "Confidence",
       "generated_at": "2026-11-03T02:43:31.661015"
+    },
+    {
+      "english": "Forgive, then speak lighter.",
+      "spanish": "Perdona, y habla más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:59:42.475938"
+    },
+    {
+      "english": "Why carry grudges, mi amigo?",
+      "spanish": "¿Por qué cargar rencores, mi amigo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:59:42.475973"
+    },
+    {
+      "english": "Let 'perdón' do the work.",
+      "spanish": "Que 'perdón' haga su trabajo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:59:42.476000"
+    },
+    {
+      "english": "One 'lo siento', breathe calm.",
+      "spanish": "Un 'lo siento', respira calma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:59:42.476025"
+    },
+    {
+      "english": "This tiny word frees you.",
+      "spanish": "Esta palabra te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-04T00:59:42.476050"
     }
   ],
   "used_english": [
-    "stop perfecting, just communicate",
-    "never wait, use “hoy” once",
-    "this trick turns grammar into speech",
-    "stop hunting words, grab feelings",
-    "never say 'sorry'—say 'thank you'",
     "never overthink, just describe now",
     "stop freezing, use 'estoy bien'",
     "the secret is tiny, '¿y tú?'",
@@ -21001,7 +20996,12 @@
     "wonder how they learn fast?",
     "wisdom: patience fuels progress.",
     "this tiny phrase connects.",
-    "tomorrow, you'll be grateful."
+    "tomorrow, you'll be grateful.",
+    "forgive, then speak lighter.",
+    "why carry grudges, mi amigo?",
+    "let 'perdón' do the work.",
+    "one 'lo siento', breathe calm.",
+    "this tiny word frees you."
   ],
-  "last_updated": "2026-11-03T02:43:31.661017"
+  "last_updated": "2026-11-04T00:59:42.476052"
 }
