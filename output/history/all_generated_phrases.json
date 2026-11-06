@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, use “ya mismo”",
-      "spanish": "Nunca esperes, usa “ya mismo”",
-      "category": "Purpose",
-      "generated_at": "2026-06-24T15:33:38.571867"
-    },
-    {
-      "english": "Stop overexplaining, answer with action",
-      "spanish": "Deja de explicar, responde con acción",
-      "category": "Purpose",
-      "generated_at": "2026-06-24T15:33:38.571883"
-    },
-    {
-      "english": "Never fear “está” questions, go",
-      "spanish": "No temas preguntas con “está”, ve",
-      "category": "Purpose",
-      "generated_at": "2026-06-24T15:33:38.571899"
-    },
-    {
-      "english": "This phrase makes natives respond fast",
-      "spanish": "Esta frase hace responder rápido",
-      "category": "Purpose",
-      "generated_at": "2026-06-24T15:33:38.571914"
-    },
-    {
-      "english": "Stop checking, just listen back",
-      "spanish": "Deja de revisar, escucha otra vez",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-24T17:06:41.780248"
-    },
-    {
       "english": "Never ask, say your real need",
       "spanish": "No preguntes, di tu necesidad",
       "category": "Inner Peace",
@@ -17999,14 +17969,39 @@
       "spanish": "Esta palabra te reinicia",
       "category": "Inner Peace",
       "generated_at": "2026-11-05T01:11:18.546726"
+    },
+    {
+      "english": "Forgiveness, say it—free yourself",
+      "spanish": "Perdón, dilo, libérate",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-06T01:17:11.903616"
+    },
+    {
+      "english": "Want peace? Whisper “lo siento”",
+      "spanish": "¿Quieres paz? Susurra “lo siento”",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-06T01:17:11.903654"
+    },
+    {
+      "english": "They’re hurting, you choose light",
+      "spanish": "Ellos duelen, tú eliges luz",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-06T01:17:11.903681"
+    },
+    {
+      "english": "That grudge? Unfollow it today",
+      "spanish": "¿Ese rencor? Despídelo hoy",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-06T01:17:11.903708"
+    },
+    {
+      "english": "Perdón first, pride last, always",
+      "spanish": "Perdón primero, orgullo al final",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-06T01:17:11.903736"
     }
   ],
   "used_english": [
-    "never wait, use “ya mismo”",
-    "stop overexplaining, answer with action",
-    "never fear “está” questions, go",
-    "this phrase makes natives respond fast",
-    "stop checking, just listen back",
     "never ask, say your real need",
     "stop pausing, use 'ahí' instead",
     "never translate, copy their emotion",
@@ -21001,7 +20996,12 @@
     "your mind needs kinder words",
     "the pause is part of peace",
     "say it, feel it, release",
-    "this one word resets you"
+    "this one word resets you",
+    "forgiveness, say it—free yourself",
+    "want peace? whisper “lo siento”",
+    "they’re hurting, you choose light",
+    "that grudge? unfollow it today",
+    "perdón first, pride last, always"
   ],
-  "last_updated": "2026-11-05T01:11:18.546729"
+  "last_updated": "2026-11-06T01:17:11.903738"
 }
