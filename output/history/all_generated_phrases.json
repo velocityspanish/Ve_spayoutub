@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never ask, say your real need",
-      "spanish": "No preguntes, di tu necesidad",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-24T17:06:41.780273"
-    },
-    {
-      "english": "Stop pausing, use 'ahí' instead",
-      "spanish": "Deja la pausa, usa 'ahí' ",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-24T17:06:41.780291"
-    },
-    {
-      "english": "Never translate, copy their emotion",
-      "spanish": "No traduzcas, copia su emoción",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-24T17:06:41.780307"
-    },
-    {
-      "english": "This is your inner peace in Spanish",
-      "spanish": "Este es tu paz interior en español",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-24T17:06:41.780323"
-    },
-    {
-      "english": "Stop rehearsing, just jump in",
-      "spanish": "Deja de ensayar, salta ya",
-      "category": "Hope",
-      "generated_at": "2026-06-24T18:51:46.971264"
-    },
-    {
       "english": "Never fear mistakes, they’re progress",
       "spanish": "Nunca temas errores, son progreso",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Perdón primero, orgullo al final",
       "category": "Forgiveness",
       "generated_at": "2026-11-06T01:17:11.903736"
+    },
+    {
+      "english": "Say this, and sound natural",
+      "spanish": "D i esta, y suena natural",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T00:52:09.797881"
+    },
+    {
+      "english": "Want confidence fast? Try 'vale'",
+      "spanish": "¿Quieres confianza rápido? Di 'vale'",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T00:52:09.797911"
+    },
+    {
+      "english": "Your mouth learns, not your fear",
+      "spanish": "Tu boca aprende, no tu miedo",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T00:52:09.797931"
+    },
+    {
+      "english": "Ready? Say it before judging",
+      "spanish": "¿Listo? Dilo antes de juzgar",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T00:52:09.797951"
+    },
+    {
+      "english": "Confidence grows in small repeats",
+      "spanish": "La confianza crece con repeticiones",
+      "category": "Confidence",
+      "generated_at": "2026-11-07T00:52:09.797972"
     }
   ],
   "used_english": [
-    "never ask, say your real need",
-    "stop pausing, use 'ahí' instead",
-    "never translate, copy their emotion",
-    "this is your inner peace in spanish",
-    "stop rehearsing, just jump in",
     "never fear mistakes, they’re progress",
     "stop hiding, speak your real thought",
     "this tip turns listening into replies",
@@ -21001,7 +20996,12 @@
     "want peace? whisper “lo siento”",
     "they’re hurting, you choose light",
     "that grudge? unfollow it today",
-    "perdón first, pride last, always"
+    "perdón first, pride last, always",
+    "say this, and sound natural",
+    "want confidence fast? try 'vale'",
+    "your mouth learns, not your fear",
+    "ready? say it before judging",
+    "confidence grows in small repeats"
   ],
-  "last_updated": "2026-11-06T01:17:11.903738"
+  "last_updated": "2026-11-07T00:52:09.797973"
 }
