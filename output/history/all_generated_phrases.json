@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear mistakes, they’re progress",
-      "spanish": "Nunca temas errores, son progreso",
-      "category": "Hope",
-      "generated_at": "2026-06-24T18:51:46.971299"
-    },
-    {
-      "english": "Stop hiding, speak your real thought",
-      "spanish": "Deja de esconderte, habla real",
-      "category": "Hope",
-      "generated_at": "2026-06-24T18:51:46.971316"
-    },
-    {
-      "english": "This tip turns listening into replies",
-      "spanish": "Este consejo convierte escucha en respuesta",
-      "category": "Hope",
-      "generated_at": "2026-06-24T18:51:46.971332"
-    },
-    {
-      "english": "What if you speak, then learn?",
-      "spanish": "¿Y si hablas, y luego aprendes?",
-      "category": "Hope",
-      "generated_at": "2026-06-24T18:51:46.971348"
-    },
-    {
-      "english": "Never memorize, learn endings first",
-      "spanish": "Nunca memorices, aprende primero finales",
-      "category": "Success",
-      "generated_at": "2026-06-24T20:50:20.947848"
-    },
-    {
       "english": "Stop “teacher mode”, talk like you",
       "spanish": "Deja el “modo profe”, habla como tú",
       "category": "Success",
@@ -17999,14 +17969,39 @@
       "spanish": "La confianza crece con repeticiones",
       "category": "Confidence",
       "generated_at": "2026-11-07T00:52:09.797972"
+    },
+    {
+      "english": "Gratitude, say it, then speak Spanish",
+      "spanish": "La gratitud, dilo, y habla español",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T00:04:48.344345"
+    },
+    {
+      "english": "What if 'gracias' unlocks confidence?",
+      "spanish": "¿Y si 'gracias' te da confianza?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T00:04:48.344383"
+    },
+    {
+      "english": "Say thanks first, sounds smoother",
+      "spanish": "Di gracias primero, suena más natural",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T00:04:48.344411"
+    },
+    {
+      "english": "Your heart leads, your Spanish follows",
+      "spanish": "Tu corazón guía, tu español sigue",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T00:04:48.344435"
+    },
+    {
+      "english": "Try this daily, feel instantly lighter",
+      "spanish": "Prueba esto hoy, te sientes más ligero",
+      "category": "Gratitude",
+      "generated_at": "2026-11-08T00:04:48.344458"
     }
   ],
   "used_english": [
-    "never fear mistakes, they’re progress",
-    "stop hiding, speak your real thought",
-    "this tip turns listening into replies",
-    "what if you speak, then learn?",
-    "never memorize, learn endings first",
     "stop “teacher mode”, talk like you",
     "stop pausing, breathe, then continue",
     "the secret... say it in one breath",
@@ -21001,7 +20996,12 @@
     "want confidence fast? try 'vale'",
     "your mouth learns, not your fear",
     "ready? say it before judging",
-    "confidence grows in small repeats"
+    "confidence grows in small repeats",
+    "gratitude, say it, then speak spanish",
+    "what if 'gracias' unlocks confidence?",
+    "say thanks first, sounds smoother",
+    "your heart leads, your spanish follows",
+    "try this daily, feel instantly lighter"
   ],
-  "last_updated": "2026-11-07T00:52:09.797973"
+  "last_updated": "2026-11-08T00:04:48.344460"
 }
