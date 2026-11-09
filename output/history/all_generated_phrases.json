@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop “teacher mode”, talk like you",
-      "spanish": "Deja el “modo profe”, habla como tú",
-      "category": "Success",
-      "generated_at": "2026-06-24T20:50:20.947871"
-    },
-    {
-      "english": "Stop pausing, breathe, then continue",
-      "spanish": "Deja de pausar, respira, sigue",
-      "category": "Success",
-      "generated_at": "2026-06-24T20:50:20.947888"
-    },
-    {
-      "english": "The secret... say it in one breath",
-      "spanish": "El secreto... dímelo en un aliento",
-      "category": "Success",
-      "generated_at": "2026-06-24T20:50:20.947904"
-    },
-    {
-      "english": "Never study alone, swap voice notes",
-      "spanish": "Nunca estudies solo, intercambia notas de voz",
-      "category": "Success",
-      "generated_at": "2026-06-24T20:50:20.947920"
-    },
-    {
-      "english": "Never translate feelings, say them",
-      "spanish": "Nunca traduzcas sentimientos, dilos",
-      "category": "Hope",
-      "generated_at": "2026-06-24T22:06:18.090845"
-    },
-    {
       "english": "The secret, use one tiny question",
       "spanish": "El secreto, usa una pregunta pequeña",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Prueba esto hoy, te sientes más ligero",
       "category": "Gratitude",
       "generated_at": "2026-11-08T00:04:48.344458"
+    },
+    {
+      "english": "Your friends get this, “amigo/a”",
+      "spanish": "Tus amigos entienden “amigo/a”",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T00:14:06.900705"
+    },
+    {
+      "english": "Send this, “¿Qué haces?”",
+      "spanish": "Envíales, “¿Qué haces?”",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T00:14:06.900740"
+    },
+    {
+      "english": "Quick bond, say “te acompaño”",
+      "spanish": "Atajo de unión, di “te acompaño”",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T00:14:06.900767"
+    },
+    {
+      "english": "Friendship tip, “con permiso” first",
+      "spanish": "Consejo de amistad, “con permiso” primero",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T00:14:06.900792"
+    },
+    {
+      "english": "Why it hits harder: “de verdad”",
+      "spanish": "¿Por qué pega más? “de verdad”",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T00:14:06.900817"
     }
   ],
   "used_english": [
-    "stop “teacher mode”, talk like you",
-    "stop pausing, breathe, then continue",
-    "the secret... say it in one breath",
-    "never study alone, swap voice notes",
-    "never translate feelings, say them",
     "the secret, use one tiny question",
     "never wait for words, start anyway",
     "your confidence grows with one voice",
@@ -21001,7 +20996,12 @@
     "what if 'gracias' unlocks confidence?",
     "say thanks first, sounds smoother",
     "your heart leads, your spanish follows",
-    "try this daily, feel instantly lighter"
+    "try this daily, feel instantly lighter",
+    "your friends get this, “amigo/a”",
+    "send this, “¿qué haces?”",
+    "quick bond, say “te acompaño”",
+    "friendship tip, “con permiso” first",
+    "why it hits harder: “de verdad”"
   ],
-  "last_updated": "2026-11-08T00:04:48.344460"
+  "last_updated": "2026-11-09T00:14:06.900820"
 }
