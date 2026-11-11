@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop searching, use one answer",
-      "spanish": "Deja buscar, usa una respuesta",
-      "category": "Confidence",
-      "generated_at": "2026-06-25T15:41:04.275603"
-    },
-    {
-      "english": "Never shrink, own your accent",
-      "spanish": "No te encogas, usa tu acento",
-      "category": "Confidence",
-      "generated_at": "2026-06-25T15:41:04.275619"
-    },
-    {
-      "english": "This fixes “I blanked” instantly",
-      "spanish": "Esto arregla tu “se me fue”",
-      "category": "Confidence",
-      "generated_at": "2026-06-25T15:41:04.275636"
-    },
-    {
-      "english": "Never fear “wrong”, speak now",
-      "spanish": "No tengas miedo, habla ya",
-      "category": "Confidence",
-      "generated_at": "2026-06-25T15:41:04.275651"
-    },
-    {
-      "english": "Stop asking, just choose one",
-      "spanish": "Deja de preguntar, elige una",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-25T17:12:59.379142"
-    },
-    {
       "english": "Never explain, show with actions",
       "spanish": "Nunca expliques, muestra acciones",
       "category": "Self Improvement",
@@ -17999,14 +17969,39 @@
       "spanish": "El valor ama otro intento",
       "category": "Courage",
       "generated_at": "2026-11-10T03:03:40.096083"
+    },
+    {
+      "english": "Breathe, then say it slowly",
+      "spanish": "Respira, y dilo despacio",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T00:58:01.889382"
+    },
+    {
+      "english": "Feel calm hiding in 'tranquilo'",
+      "spanish": "Busca calma en 'tranquilo'",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T00:58:01.889414"
+    },
+    {
+      "english": "What if you speak kinder?",
+      "spanish": "¿Y si hablas más amable?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T00:58:01.889434"
+    },
+    {
+      "english": "Your peace starts with 'gracias'",
+      "spanish": "Tu paz empieza con 'gracias'",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T00:58:01.889454"
+    },
+    {
+      "english": "Hold that pause, it heals",
+      "spanish": "Sostén la pausa, sana",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T00:58:01.889473"
     }
   ],
   "used_english": [
-    "stop searching, use one answer",
-    "never shrink, own your accent",
-    "this fixes “i blanked” instantly",
-    "never fear “wrong”, speak now",
-    "stop asking, just choose one",
     "never explain, show with actions",
     "never fear pauses, use 'bueno'",
     "stop rehearsing, start with one word",
@@ -21001,7 +20996,12 @@
     "ask kindly, watch doors open",
     "ready? start with “otra vez”",
     "your mistakes are spanish training",
-    "courage loves one more try"
+    "courage loves one more try",
+    "breathe, then say it slowly",
+    "feel calm hiding in 'tranquilo'",
+    "what if you speak kinder?",
+    "your peace starts with 'gracias'",
+    "hold that pause, it heals"
   ],
-  "last_updated": "2026-11-10T03:03:40.096085"
+  "last_updated": "2026-11-11T00:58:01.889475"
 }
