@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never explain, show with actions",
-      "spanish": "Nunca expliques, muestra acciones",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-25T17:12:59.379166"
-    },
-    {
-      "english": "Never fear pauses, use 'bueno'",
-      "spanish": "No temas pausas, usa 'bueno'",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-25T17:12:59.379176"
-    },
-    {
-      "english": "Stop rehearsing, start with one word",
-      "spanish": "Deja de ensayar, empieza con una",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-25T17:12:59.379186"
-    },
-    {
-      "english": "This fixes your 'I forgot' moment",
-      "spanish": "Esto arregla tu 'se me olvidó'",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-25T17:12:59.379196"
-    },
-    {
-      "english": "Never be polite, use gratitude",
-      "spanish": "Nunca seas solo educado, ¡di gracias!",
-      "category": "Kindness",
-      "generated_at": "2026-06-25T19:04:53.686648"
-    },
-    {
       "english": "Stop hesitating, bless their day",
       "spanish": "Deja la duda, bendice su día",
       "category": "Kindness",
@@ -17999,14 +17969,39 @@
       "spanish": "Sostén la pausa, sana",
       "category": "Inner Peace",
       "generated_at": "2026-11-11T00:58:01.889473"
+    },
+    {
+      "english": "Breathe, then say “¿cómo estás?”",
+      "spanish": "Respira, y di “¿cómo estás?”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T02:04:29.444104"
+    },
+    {
+      "english": "Want instant confidence, try “vale”",
+      "spanish": "¿Quieres confianza rápida?, prueba “vale”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T02:04:29.444143"
+    },
+    {
+      "english": "Mindful pause, smoother Spanish, always",
+      "spanish": "Pausa consciente, español más fluido",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T02:04:29.444169"
+    },
+    {
+      "english": "Say it slowly, feel safe",
+      "spanish": "Di despacio, te sientes a salvo",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T02:04:29.444194"
+    },
+    {
+      "english": "Your brain learns what you repeat",
+      "spanish": "Tu mente aprende lo que repites",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T02:04:29.444220"
     }
   ],
   "used_english": [
-    "never explain, show with actions",
-    "never fear pauses, use 'bueno'",
-    "stop rehearsing, start with one word",
-    "this fixes your 'i forgot' moment",
-    "never be polite, use gratitude",
     "stop hesitating, bless their day",
     "this is why kindness spreads fast",
     "stop rushing, slow your spanish",
@@ -21001,7 +20996,12 @@
     "feel calm hiding in 'tranquilo'",
     "what if you speak kinder?",
     "your peace starts with 'gracias'",
-    "hold that pause, it heals"
+    "hold that pause, it heals",
+    "breathe, then say “¿cómo estás?”",
+    "want instant confidence, try “vale”",
+    "mindful pause, smoother spanish, always",
+    "say it slowly, feel safe",
+    "your brain learns what you repeat"
   ],
-  "last_updated": "2026-11-11T00:58:01.889475"
+  "last_updated": "2026-11-12T02:04:29.444222"
 }
