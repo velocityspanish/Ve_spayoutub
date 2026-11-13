@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop hesitating, bless their day",
-      "spanish": "Deja la duda, bendice su día",
-      "category": "Kindness",
-      "generated_at": "2026-06-25T19:04:53.686671"
-    },
-    {
-      "english": "This is why kindness spreads fast",
-      "spanish": "Por eso, la bondad se contagia",
-      "category": "Kindness",
-      "generated_at": "2026-06-25T19:04:53.686684"
-    },
-    {
-      "english": "Stop rushing, slow your Spanish",
-      "spanish": "No corras, habla más despacio",
-      "category": "Kindness",
-      "generated_at": "2026-06-25T19:04:53.686697"
-    },
-    {
-      "english": "Never lock up, just smile",
-      "spanish": "Nunca te bloquees, sonríe",
-      "category": "Kindness",
-      "generated_at": "2026-06-25T19:04:53.686707"
-    },
-    {
-      "english": "Stop filtering, just speak naturally",
-      "spanish": "Deja de filtrar, habla natural",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T21:00:21.256941"
-    },
-    {
       "english": "The secret? Answer slower, clearly",
       "spanish": "El secreto? Responde más lento, claro",
       "category": "Positive Life",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu mente aprende lo que repites",
       "category": "Mindfulness",
       "generated_at": "2026-11-12T02:04:29.444220"
+    },
+    {
+      "english": "Say this, sound instantly smoother",
+      "spanish": "Di esto, suena más natural",
+      "category": "Success",
+      "generated_at": "2026-11-13T01:35:08.874055"
+    },
+    {
+      "english": "Want faster Spanish? Use this daily",
+      "spanish": "¿Quieres español más rápido? Úsalo diario",
+      "category": "Success",
+      "generated_at": "2026-11-13T01:35:08.874086"
+    },
+    {
+      "english": "Confidence starts the moment you try",
+      "spanish": "La confianza empieza cuando lo intentas",
+      "category": "Success",
+      "generated_at": "2026-11-13T01:35:08.874106"
+    },
+    {
+      "english": "This one question opens conversations",
+      "spanish": "Esta pregunta abre conversaciones",
+      "category": "Success",
+      "generated_at": "2026-11-13T01:35:08.874125"
+    },
+    {
+      "english": "Don’t study longer, practice smarter",
+      "spanish": "No estudies más, practica mejor",
+      "category": "Success",
+      "generated_at": "2026-11-13T01:35:08.874146"
     }
   ],
   "used_english": [
-    "stop hesitating, bless their day",
-    "this is why kindness spreads fast",
-    "stop rushing, slow your spanish",
-    "never lock up, just smile",
-    "stop filtering, just speak naturally",
     "the secret? answer slower, clearly",
     "stop overplanning, just start small",
     "never fear questions, ask one now",
@@ -21001,7 +20996,12 @@
     "want instant confidence, try “vale”",
     "mindful pause, smoother spanish, always",
     "say it slowly, feel safe",
-    "your brain learns what you repeat"
+    "your brain learns what you repeat",
+    "say this, sound instantly smoother",
+    "want faster spanish? use this daily",
+    "confidence starts the moment you try",
+    "this one question opens conversations",
+    "don’t study longer, practice smarter"
   ],
-  "last_updated": "2026-11-12T02:04:29.444222"
+  "last_updated": "2026-11-13T01:35:08.874148"
 }
