@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Answer slower, clearly",
-      "spanish": "El secreto? Responde más lento, claro",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T21:00:21.256965"
-    },
-    {
-      "english": "Stop overplanning, just start small",
-      "spanish": "Deja de planear, empieza con poco",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T21:00:21.256982"
-    },
-    {
-      "english": "Never fear questions, ask one now",
-      "spanish": "No temas preguntas, pregunta una vez",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T21:00:21.256998"
-    },
-    {
-      "english": "The secret is practice with people",
-      "spanish": "El secreto es practicar con gente",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T21:00:21.257014"
-    },
-    {
-      "english": "The secret? Smiles earn easy replies",
-      "spanish": "El secreto, las sonrisas traen respuestas",
-      "category": "Happiness",
-      "generated_at": "2026-06-25T22:15:10.602556"
-    },
-    {
       "english": "Stop whispering fear, speak softly",
       "spanish": "Deja el miedo en voz baja",
       "category": "Happiness",
@@ -17999,14 +17969,39 @@
       "spanish": "No estudies más, practica mejor",
       "category": "Success",
       "generated_at": "2026-11-13T01:35:08.874146"
+    },
+    {
+      "english": "Breathe first, then speak Spanish calmly",
+      "spanish": "Respira primero, habla español con calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T01:08:19.505928"
+    },
+    {
+      "english": "Want peace? Say it softly, slow",
+      "spanish": "¿Quieres paz? Dilo suave, despacio",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T01:08:19.505958"
+    },
+    {
+      "english": "This tiny pause protects your mind",
+      "spanish": "Esa pausa protege tu mente",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T01:08:19.505979"
+    },
+    {
+      "english": "Your tongue, your breath, your peace",
+      "spanish": "Tu lengua, tu respiración, tu paz",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T01:08:19.505999"
+    },
+    {
+      "english": "Here’s the reset, right now",
+      "spanish": "Aquí va el reinicio, ahora",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T01:08:19.506018"
     }
   ],
   "used_english": [
-    "the secret? answer slower, clearly",
-    "stop overplanning, just start small",
-    "never fear questions, ask one now",
-    "the secret is practice with people",
-    "the secret? smiles earn easy replies",
     "stop whispering fear, speak softly",
     "never wait, share your little joy",
     "this is your happiness shortcut",
@@ -21001,7 +20996,12 @@
     "want faster spanish? use this daily",
     "confidence starts the moment you try",
     "this one question opens conversations",
-    "don’t study longer, practice smarter"
+    "don’t study longer, practice smarter",
+    "breathe first, then speak spanish calmly",
+    "want peace? say it softly, slow",
+    "this tiny pause protects your mind",
+    "your tongue, your breath, your peace",
+    "here’s the reset, right now"
   ],
-  "last_updated": "2026-11-13T01:35:08.874148"
+  "last_updated": "2026-11-14T01:08:19.506020"
 }
