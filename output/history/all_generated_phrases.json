@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop hunting, trust your first word",
-      "spanish": "Deja de buscar, confía tu primera palabra",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T15:25:08.688410"
-    },
-    {
-      "english": "Never fear small errors, continue",
-      "spanish": "Nunca tengas miedo, sigue igual",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T15:25:08.688427"
-    },
-    {
-      "english": "Stop translating, trust the context",
-      "spanish": "Deja de traducir, confía el contexto",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T15:25:08.688442"
-    },
-    {
-      "english": "Never shrink, speak at full speed",
-      "spanish": "No te achiques, habla a velocidad",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T15:25:08.688458"
-    },
-    {
-      "english": "Stop dreading verbs, use feelings",
-      "spanish": "Deja el miedo a verbos, usa sentimientos",
-      "category": "Joy",
-      "generated_at": "2026-06-26T17:01:23.522202"
-    },
-    {
       "english": "Never overthink, name what you see",
       "spanish": "No pienses tanto, nombra lo que ves",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "No estás atrasado, respira",
       "category": "Mindfulness",
       "generated_at": "2026-11-15T00:28:54.235554"
+    },
+    {
+      "english": "Your breath guides every word",
+      "spanish": "Tu respiración guía cada palabra",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T00:32:46.997956"
+    },
+    {
+      "english": "Want calm Spanish? Try this",
+      "spanish": "¿Quieres español calmado? Prueba esto",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T00:32:46.997987"
+    },
+    {
+      "english": "Here’s your reset, say “ok”",
+      "spanish": "Aquí está tu reset, di “vale”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T00:32:46.998006"
+    },
+    {
+      "english": "Consistency beats motivation, every time",
+      "spanish": "La constancia gana, siempre",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T00:32:46.998022"
+    },
+    {
+      "english": "Before speaking, listen inside",
+      "spanish": "Antes de hablar, escucha adentro",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T00:32:46.998041"
     }
   ],
   "used_english": [
-    "stop hunting, trust your first word",
-    "never fear small errors, continue",
-    "stop translating, trust the context",
-    "never shrink, speak at full speed",
-    "stop dreading verbs, use feelings",
     "never overthink, name what you see",
     "stop guessing, say the obvious",
     "the secret is joy, not perfection",
@@ -21001,7 +20996,12 @@
     "what if stress slows learning?",
     "your breath is your teacher",
     "say it, pause, then continue",
-    "you’re not behind, breathe"
+    "you’re not behind, breathe",
+    "your breath guides every word",
+    "want calm spanish? try this",
+    "here’s your reset, say “ok”",
+    "consistency beats motivation, every time",
+    "before speaking, listen inside"
   ],
-  "last_updated": "2026-11-15T00:28:54.235557"
+  "last_updated": "2026-11-16T00:32:46.998042"
 }
