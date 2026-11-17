@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never overthink, name what you see",
-      "spanish": "No pienses tanto, nombra lo que ves",
-      "category": "Joy",
-      "generated_at": "2026-06-26T17:01:23.522227"
-    },
-    {
-      "english": "Stop guessing, say the obvious",
-      "spanish": "No adivines, di lo obvio",
-      "category": "Joy",
-      "generated_at": "2026-06-26T17:01:23.522243"
-    },
-    {
-      "english": "The secret is joy, not perfection",
-      "spanish": "El secreto es alegría, no perfección",
-      "category": "Joy",
-      "generated_at": "2026-06-26T17:01:23.522259"
-    },
-    {
-      "english": "Never mute yourself, add a 'porque'",
-      "spanish": "No te calles, añade un 'porque'",
-      "category": "Joy",
-      "generated_at": "2026-06-26T17:01:23.522275"
-    },
-    {
-      "english": "Never fear sounding imperfect, go",
-      "spanish": "No tengas miedo, suena imperfecto",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T18:51:05.902036"
-    },
-    {
       "english": "Stop overthinking, choose a simple verb",
       "spanish": "Deja de pensar, elige un verbo simple",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "Antes de hablar, escucha adentro",
       "category": "Mindfulness",
       "generated_at": "2026-11-16T00:32:46.998041"
+    },
+    {
+      "english": "This phrase boosts real confidence",
+      "spanish": "Esta frase sube tu confianza",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T03:19:00.916597"
+    },
+    {
+      "english": "What if Spanish starts today?",
+      "spanish": "¿Y si el español empieza hoy?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T03:19:00.916628"
+    },
+    {
+      "english": "Say it, then smile—go",
+      "spanish": "Dilo, sonríe, y sigue",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T03:19:00.916647"
+    },
+    {
+      "english": "Your mouth learns by trying",
+      "spanish": "Tu boca aprende probando",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T03:19:00.916667"
+    },
+    {
+      "english": "One tiny habit, huge payoff",
+      "spanish": "Un hábito pequeño, gran premio",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T03:19:00.916685"
     }
   ],
   "used_english": [
-    "never overthink, name what you see",
-    "stop guessing, say the obvious",
-    "the secret is joy, not perfection",
-    "never mute yourself, add a 'porque'",
-    "never fear sounding imperfect, go",
     "stop overthinking, choose a simple verb",
     "your accent is proof, not failure",
     "this confidence hits when you respond",
@@ -21001,7 +20996,12 @@
     "want calm spanish? try this",
     "here’s your reset, say “ok”",
     "consistency beats motivation, every time",
-    "before speaking, listen inside"
+    "before speaking, listen inside",
+    "this phrase boosts real confidence",
+    "what if spanish starts today?",
+    "say it, then smile—go",
+    "your mouth learns by trying",
+    "one tiny habit, huge payoff"
   ],
-  "last_updated": "2026-11-16T00:32:46.998042"
+  "last_updated": "2026-11-17T03:19:00.916687"
 }
