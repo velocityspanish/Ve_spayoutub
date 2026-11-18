@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overthinking, choose a simple verb",
-      "spanish": "Deja de pensar, elige un verbo simple",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T18:51:05.902059"
-    },
-    {
-      "english": "Your accent is proof, not failure",
-      "spanish": "Tu acento es prueba, no falla",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T18:51:05.902076"
-    },
-    {
-      "english": "This confidence hits when you respond",
-      "spanish": "La confianza llega cuando respondes",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T18:51:05.902092"
-    },
-    {
-      "english": "Never freeze, point and describe",
-      "spanish": "No te quedes, señala y describe",
-      "category": "Confidence",
-      "generated_at": "2026-06-26T18:51:05.902108"
-    },
-    {
-      "english": "Stop translating, follow their vibe",
-      "spanish": "Deja de traducir, sigue su vibra",
-      "category": "Joy",
-      "generated_at": "2026-06-26T20:49:30.958866"
-    },
-    {
       "english": "Never wait, reply with one chunk",
       "spanish": "Nunca esperes, responde con un chunk",
       "category": "Joy",
@@ -17999,14 +17969,39 @@
       "spanish": "Un hábito pequeño, gran premio",
       "category": "Inspiration",
       "generated_at": "2026-11-17T03:19:00.916685"
+    },
+    {
+      "english": "Quick check, what do you need?",
+      "spanish": "Pregunta rápida, ¿qué necesitas?",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:02.245392"
+    },
+    {
+      "english": "This tiny word opens doors",
+      "spanish": "Esta palabra abre puertas",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:02.245417"
+    },
+    {
+      "english": "You’re learning faster than you think",
+      "spanish": "Aprendes más rápido de lo que crees",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:02.245431"
+    },
+    {
+      "english": "Don’t translate, just speak one line",
+      "spanish": "No traduzcas, di una frase",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:02.245444"
+    },
+    {
+      "english": "Want Spanish, like right now?",
+      "spanish": "¿Quieres español, ahora mismo?",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T02:42:02.245458"
     }
   ],
   "used_english": [
-    "stop overthinking, choose a simple verb",
-    "your accent is proof, not failure",
-    "this confidence hits when you respond",
-    "never freeze, point and describe",
-    "stop translating, follow their vibe",
     "never wait, reply with one chunk",
     "this fixes your “i’ll try” habit",
     "never memorize, steal natural phrases",
@@ -21001,7 +20996,12 @@
     "what if spanish starts today?",
     "say it, then smile—go",
     "your mouth learns by trying",
-    "one tiny habit, huge payoff"
+    "one tiny habit, huge payoff",
+    "quick check, what do you need?",
+    "this tiny word opens doors",
+    "you’re learning faster than you think",
+    "don’t translate, just speak one line",
+    "want spanish, like right now?"
   ],
-  "last_updated": "2026-11-17T03:19:00.916687"
+  "last_updated": "2026-11-18T02:42:02.245459"
 }
