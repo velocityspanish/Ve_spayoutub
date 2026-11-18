@@ -2,192 +2,140 @@ name: Velocity Spanish - Daily 7x Upload
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 4:00 PM EDT / Spanish YouTube Feature
-
-
-  # Allow manual trigger for testing
+    - cron: '0 21 * * *'
   workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}
-  cancel-in-progress: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: velocity-spanish-youtube
+  cancel-in-progress: false
+
 jobs:
   generate-and-upload:
     runs-on: ubuntu-latest
+    timeout-minutes: 75
 
     steps:
-      - name: ⬇️ Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: 🎲 Anti-bot Execution Jitter
-        if: github.event_name == 'schedule'
-        run: |
-          JITTER=$(( RANDOM % 150 + 30 ))
-          echo "Applying ${JITTER}s random start jitter to avoid exact-clock bot fingerprint..."
-          sleep $JITTER
-
-      - name: 📥 Download phrase history (if exists)
-        uses: actions/download-artifact@v4
-        id: download-history
-        continue-on-error: true
-        with:
-          name: phrase-history
-          path: output/history/
-
-      - name: 📝 Debug - Show downloaded files
-        run: |
-          echo "🔍 Checking downloaded files..."
-          echo "Contents of output/history/:"
-          ls -la output/history/ 2>/dev/null || echo "Directory doesn't exist yet"
-          echo ""
-          echo "Contents of output/:"
-          ls -la output/ 2>/dev/null || echo "Output directory doesn't exist yet"
-
-      - name: 📝 Initialize history if not found
+      - name: Initialize history if not found
         run: |
           mkdir -p output/history
-
-          # Check if downloaded history exists
-          if [ -f "output/history/all_generated_phrases.json" ]; then
-            echo "✅ Loaded existing phrase history"
-            phrase_count=$(python -c "import json; data=json.load(open('output/history/all_generated_phrases.json')); print(len(data.get('used_english', data.get('phrases', []))))")
-            echo "📊 History contains $phrase_count unique phrases - NO REPEATS WILL OCCUR"
+          if [ ! -f "output/history/all_generated_phrases.json" ]; then
+            echo '{"phrases": [], "last_updated": null}' > output/history/all_generated_phrases.json
+            echo "Created new phrase history file"
           else
-            # Create new history with proper structure (first run)
-            echo '{"phrases": [], "used_english": [], "last_updated": null}' > output/history/all_generated_phrases.json
-            echo "📝 Created NEW phrase history file (first run - no previous history)"
-            echo "💡 Note: 'Artifact not found' warning above is NORMAL for first run"
+            python -c "import json; print('History phrases:', len(json.load(open('output/history/all_generated_phrases.json'))['phrases']))"
           fi
-
           if [ ! -f "output/history/recent_categories.json" ]; then
-            echo '{"date": null, "last_3_days": []}' > output/history/recent_categories.json
-            echo "📝 Created recent categories file"
-          else
-            echo "✅ Loaded recent categories file"
+            echo '{"recent_categories": [], "last_updated": null}' > output/history/recent_categories.json
+            echo "Created recent categories file"
           fi
 
-      - name: 🐍 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📦 Install system dependencies
+      - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
-          echo "✅ System dependencies installed"
+          sudo apt-get install -y ffmpeg fonts-noto-core
 
-      - name: 📦 Install Python dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          if [ -f "upload/requirements.txt" ]; then
-            pip install -r upload/requirements.txt
-          fi
-          echo "✅ All dependencies installed"
+          pip install -r upload/requirements.txt
 
-      - name: 🔐 Create .env file from secrets
+      - name: Install Chromium for rendering
+        run: python -m playwright install --with-deps chromium
+
+      - name: Create .env from secrets
+        env:
+          AI_MODEL_SECRET: ${{ secrets.AI_MODEL }}
+          POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          VK_ACCESS_TOKEN: ${{ secrets.VK_ACCESS_TOKEN }}
+          VK_GROUP_ID: ${{ secrets.VK_GROUP_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: |
-          echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
-          echo "AI_MODEL=openai/gpt-5.4-nano" >> .env
-          echo "" >> .env
-          echo "# YouTube" >> .env
-          echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
-          echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
-          echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
-          echo "" >> .env
-          echo "# Instagram" >> .env
-          echo "INSTAGRAM_ACCESS_TOKEN=${{ secrets.INSTAGRAM_ACCESS_TOKEN }}" >> .env
-          echo "INSTAGRAM_ACCOUNT_ID=${{ secrets.INSTAGRAM_ACCOUNT_ID }}" >> .env
-          echo "" >> .env
-          echo "# Facebook" >> .env
-          echo "FACEBOOK_ACCESS_TOKEN=${{ secrets.FACEBOOK_ACCESS_TOKEN }}" >> .env
-          echo "FACEBOOK_PAGE_ID=${{ secrets.FACEBOOK_PAGE_ID }}" >> .env
-          echo "" >> .env
-          echo "# Twitter/X" >> .env
-          echo "TWITTER_API_KEY=${{ secrets.TWITTER_API_KEY }}" >> .env
-          echo "TWITTER_API_SECRET=${{ secrets.TWITTER_API_SECRET }}" >> .env
-          echo "TWITTER_ACCESS_TOKEN=${{ secrets.TWITTER_ACCESS_TOKEN }}" >> .env
-          echo "TWITTER_ACCESS_SECRET=${{ secrets.TWITTER_ACCESS_SECRET }}" >> .env
-          echo "" >> .env
-          echo "# VK" >> .env
-          echo "VK_ACCESS_TOKEN=${{ secrets.VK_ACCESS_TOKEN }}" >> .env
-          echo "VK_GROUP_ID=${{ secrets.VK_GROUP_ID }}" >> .env
-          echo "" >> .env
-          echo "# Telegram" >> .env
-          echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" >> .env
-          echo "TELEGRAM_CHANNEL_ID=${{ secrets.TELEGRAM_CHANNEL_ID }}" >> .env
-          echo "" >> .env
-          echo "# Threads" >> .env
-          echo "THREADS_ACCESS_TOKEN=${{ secrets.THREADS_ACCESS_TOKEN }}" >> .env
-          echo "THREADS_USER_ID=${{ secrets.THREADS_USER_ID }}" >> .env
-          echo "" >> .env
-          echo "# TikTok" >> .env
-          echo "TIKTOK_ACCESS_TOKEN=${{ secrets.TIKTOK_ACCESS_TOKEN }}" >> .env
-          echo "" >> .env
-          echo "# Timezone" >> .env
-          echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
-          echo "✅ .env file created"
+          : > .env
+          echo "AI_MODEL=${AI_MODEL_SECRET:-gemini-fast}" >> .env
+          for key in POLLINATIONS_API_KEY YT_CLIENT_ID YT_CLIENT_SECRET YT_REFRESH_TOKEN \
+            YOUTUBE_CLIENT_ID YOUTUBE_CLIENT_SECRET YOUTUBE_REFRESH_TOKEN \
+            INSTAGRAM_ACCESS_TOKEN INSTAGRAM_ACCOUNT_ID IG_ACCESS_TOKEN \
+            FACEBOOK_ACCESS_TOKEN FACEBOOK_PAGE_ID FB_PAGE_ACCESS_TOKEN FB_PAGE_ID META_ACCESS_TOKEN \
+            THREADS_ACCESS_TOKEN THREADS_USER_ID TIKTOK_ACCESS_TOKEN TWITTER_API_KEY \
+            TWITTER_API_SECRET TWITTER_ACCESS_TOKEN TWITTER_ACCESS_SECRET VK_ACCESS_TOKEN \
+            VK_GROUP_ID TELEGRAM_BOT_TOKEN TELEGRAM_CHANNEL_ID TELEGRAM_CHAT_ID CHAT_ID; do
+            value="$(printenv "$key" || true)"
+            echo "$key=$value" >> .env
+          done
+          echo ".env written ($(wc -l < .env) lines)"
 
-      - name: 🎬 Generate Spanish Learning Reel
+      - name: Build lesson reel
         run: |
-          echo "🚀 Starting Velocity Spanish content generation..."
+          python build.py
           echo ""
-          echo "📋 PRE-GENERATION HISTORY CHECK:"
-          echo "================================"
-          if [ -f "output/history/all_generated_phrases.json" ]; then
-            echo "✅ History file found"
-            python3 -c "import json; d=json.load(open('output/history/all_generated_phrases.json')); print('Total phrases tracked:', len(d.get('used_english', []))); print('Last updated:', d.get('last_updated', 'Unknown'))"
-          else
-            echo "⚠️ No history file found - will create new one"
-          fi
-          echo "================================"
-          echo ""
-          python facebook_reels_automation.py
-          echo ""
-          echo "📋 POST-GENERATION HISTORY CHECK:"
-          echo "=================================="
-          python3 -c "import json; d=json.load(open('output/history/all_generated_phrases.json')); print('Total phrases tracked:', len(d.get('used_english', []))); print('Last updated:', d.get('last_updated', 'Unknown'))"
-          echo "=================================="
-          echo "✅ If phrase count increased, history is working correctly!"
+          ls -la output/lessons/*/ | tail -20
 
-      - name: 📤 Upload to All Social Media Platforms
-        run: |
-          echo "🚀 Starting multi-platform upload..."
-          export PYTHONPATH="${{ github.workspace }}:${{ github.workspace }}/upload:$PYTHONPATH"
-          python upload_all_platforms.py
-          echo "✅ Upload complete!"
+      - name: Publish to all platforms
+        run: python upload_all_platforms.py
 
-      - name: 📊 Upload video artifact
+      - name: Upload video artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: velocity-spanish-reel-${{ github.run_number }}
+          name: velocity-spanish-youtube-reel-${{ github.run_number }}
           path: |
-            output/video/*/final_reel.mp4
-            output/video/*/metadata.json
+            output/lessons/*/final_reel.mp4
+            output/lessons/*/thumbnail.jpg
+            output/lessons/*/metadata.json
+            output/lessons/*/timeline.json
           retention-days: 7
 
-      - name: 📝 Upload logs
+      - name: Upload logs
         uses: actions/upload-artifact@v4
         if: always()
         with:
           name: logs-${{ github.run_number }}
           path: |
             output/history/*.json
-            output/daily_summary_*.json
             output/upload_results_*.json
-          retention-days: 7
+          retention-days: 14
 
-      - name: 💾 Upload phrase history (for persistence)
+      - name: Persist phrase history
         uses: actions/upload-artifact@v4
-        if: success()
+        if: always() && hashFiles('output/history/all_generated_phrases.json') != ''
         with:
           name: phrase-history
           path: |
@@ -196,17 +144,17 @@ jobs:
           retention-days: 90
           overwrite: true
 
-      - name: 💾 Commit phrase history to repository
-        if: success()
-        continue-on-error: true
+      - name: Commit phrase history
+        if: always() && hashFiles('output/history/all_generated_phrases.json') != ''
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -f output/history/all_generated_phrases.json output/history/recent_categories.json || echo "⚠️  Git add failed (file may be in .gitignore)"
+          git add -f output/history/all_generated_phrases.json output/history/recent_categories.json
           if ! git diff --staged --quiet; then
-            git commit -m "📊 Update phrase history - Run #${{ github.run_number }}" || echo "⚠️  Git commit failed"
-            git push || echo "⚠️  Git push failed"
-            echo "✅ Phrase history committed - NO repeats across runs!"
+            git commit -m "Update phrase history - Run #${{ github.run_number }}"
+            git pull --rebase
+            git push
+            echo "History committed - no repeated phrases across runs"
           else
-            echo "ℹ️  No changes to commit"
+            echo "No history changes"
           fi

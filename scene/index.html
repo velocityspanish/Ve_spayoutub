@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080, height=1920">
+<title>Velocity Vietnamese · Lesson</title>
+<link rel="stylesheet" href="scene.css">
+</head>
+<body>
+<div id="stage">
+
+  <div id="bg">
+    <div class="blob blob-a"></div>
+    <div class="blob blob-b"></div>
+    <div class="blob blob-c"></div>
+    <div class="blob blob-d"></div>
+    <canvas id="fx" width="1080" height="1920"></canvas>
+    <div id="grid"></div>
+  </div>
+
+  <header id="hud">
+    <div class="hud-row">
+      <div class="pill streak" id="streakPill">
+        <span class="ico" data-icon="flame"></span>
+        <span id="streakVal">7</span>
+      </div>
+      <div class="hud-spacer"></div>
+      <div class="pill xp" id="xpPill">
+        <span class="ico" data-icon="bolt"></span>
+        <span id="xpVal">0 XP</span>
+      </div>
+    </div>
+    <div class="progress" id="progress">
+      <div class="progress-fill" id="progressFill"><div class="progress-shine"></div></div>
+      <div class="progress-knob" id="progressKnob"></div>
+    </div>
+  </header>
+
+  <section class="scene" id="sceneIntro">
+    <div class="intro-wrap">
+      <div class="logo-badge" id="logoBadge"><span class="ico" data-icon="bolt"></span></div>
+      <div class="logo-word" id="logoWord">VELOCITY</div>
+      <div class="logo-lang" id="logoLang">VIETNAMESE</div>
+      <div class="tagline" id="tagline">Learn Vietnamese <b>in 60 seconds</b> a day</div>
+    </div>
+    <div class="mascot big" id="introMascot"></div>
+    <div class="lesson-card" id="lessonCard">
+      <div class="lesson-icon" id="lessonIcon"><span class="ico" data-icon="plane"></span></div>
+      <div class="lesson-copy">
+        <div class="eyebrow">TODAY'S LESSON</div>
+        <div class="lesson-title" id="lessonTitle">Travel</div>
+        <div class="lesson-sub" id="lessonSub">Du Lịch · 5 phrases</div>
+      </div>
+      <div class="lesson-go"><span class="ico" data-icon="chevron"></span></div>
+    </div>
+  </section>
+
+  <section class="scene" id="scenePhrase">
+    <div class="phrase-top">
+      <div class="cat-chip" id="catChip">
+        <span class="cat-ico" id="catIco"><span class="ico" data-icon="plane"></span></span>
+        <span id="catText">Travel · Du Lịch</span>
+      </div>
+      <div class="counter-row">
+        <span class="counter" id="phraseCounter">PHRASE 1 OF 5</span>
+        <div class="dots" id="dots"></div>
+      </div>
+    </div>
+
+    <div class="phrase-stack" id="phraseStack">
+      <div class="card en-card" id="enCard">
+        <div class="card-label" id="enLabel">
+          <span class="ico speaker" data-icon="speaker"></span>
+          <span>ENGLISH</span>
+          <span class="eq" id="enEq"><i></i><i></i><i></i><i></i></span>
+        </div>
+        <div class="en-text" id="enText"></div>
+      </div>
+
+      <div class="connector" id="connector"><span class="ico" data-icon="arrowDown"></span></div>
+
+      <div class="card nat-card" id="natCard">
+        <div class="card-label light" id="natLabel">
+          <span class="ico speaker" data-icon="speaker"></span>
+          <span id="natLabelText">TIẾNG VIỆT</span>
+          <span class="eq light" id="natEq"><i></i><i></i><i></i><i></i></span>
+        </div>
+        <div class="nat-text" id="natText"></div>
+      </div>
+
+      <div class="translit" id="translit">
+        <span class="translit-label" id="translitLabel">SAY IT LIKE</span>
+        <span class="translit-text" id="translitText"></span>
+      </div>
+
+      <div class="repeat-pill" id="repeatPill">
+        <span class="ico" data-icon="mic"></span>
+        <span>REPEAT AFTER ME</span>
+      </div>
+    </div>
+    <div class="mascot peek" id="peekMascot"></div>
+  </section>
+
+  <section class="scene" id="sceneOutro">
+    <div class="outro-card" id="outroCard">
+      <div class="outro-badge" id="outroBadge"><span class="ico" data-icon="check"></span></div>
+      <div class="outro-title" id="outroTitle">Lesson complete!</div>
+      <div class="outro-sub" id="outroSub">5 new Vietnamese phrases</div>
+      <div class="outro-phrases" id="outroPhrases"></div>
+      <div class="outro-stats" id="outroStats">
+        <div class="stat xp"><span class="ico" data-icon="bolt"></span><b id="outroXp">+50 XP</b></div>
+        <div class="stat streak"><span class="ico" data-icon="flame"></span><b id="outroStreak">7 day streak</b></div>
+      </div>
+      <div class="cta" id="cta">Follow for a new lesson every day</div>
+    </div>
+    <div class="mascot big outro-mascot" id="outroMascot"></div>
+  </section>
+
+  <footer id="foot">
+    <span class="foot-bolt"><span class="ico" data-icon="bolt"></span></span>
+    <span id="footBrand">VELOCITY VIETNAMESE</span>
+    <span class="foot-dot"></span>
+    <span id="footHandle">@velocityvietnamese</span>
+  </footer>
+
+  <canvas id="fxTop" width="1080" height="1920"></canvas>
+</div>
+<script src="icons.js"></script>
+<script src="scene.js"></script>
+</body>
+</html>
