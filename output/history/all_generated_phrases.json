@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never wait, reply with one chunk",
-      "spanish": "Nunca esperes, responde con un chunk",
-      "category": "Joy",
-      "generated_at": "2026-06-26T20:49:30.958893"
-    },
-    {
-      "english": "This fixes your “I’ll try” habit",
-      "spanish": "Esto arregla tu hábito de “lo intentaré”",
-      "category": "Joy",
-      "generated_at": "2026-06-26T20:49:30.958912"
-    },
-    {
-      "english": "Never memorize, steal natural phrases",
-      "spanish": "Nunca memorices, roba frases naturales",
-      "category": "Joy",
-      "generated_at": "2026-06-26T20:49:30.958928"
-    },
-    {
-      "english": "Stop searching, reuse your last sentence",
-      "spanish": "Deja de buscar, reutiliza tu última frase",
-      "category": "Joy",
-      "generated_at": "2026-06-26T20:49:30.958944"
-    },
-    {
-      "english": "Never over-explain, just ask back",
-      "spanish": "Nunca expliques de más, pregunta",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T22:00:28.209804"
-    },
-    {
       "english": "This is why your friends pause",
       "spanish": "Esto es por qué titubeas",
       "category": "Friendship",
@@ -17999,14 +17969,39 @@
       "spanish": "¿Quieres español, ahora mismo?",
       "category": "Purpose",
       "generated_at": "2026-11-18T02:42:02.245458"
+    },
+    {
+      "english": "Steal this, say it today",
+      "spanish": "Robas esto, ¡dilo hoy!",
+      "category": "Growth",
+      "generated_at": "2026-11-19T02:08:28.126103"
+    },
+    {
+      "english": "Confused? Try one simple question",
+      "spanish": "¿Confundido? Prueba una pregunta simple",
+      "category": "Growth",
+      "generated_at": "2026-11-19T02:08:28.126131"
+    },
+    {
+      "english": "Your tongue needs reps, not fear",
+      "spanish": "Tu lengua necesita práctica, no miedo",
+      "category": "Growth",
+      "generated_at": "2026-11-19T02:08:28.126148"
+    },
+    {
+      "english": "Say less, sound more natural",
+      "spanish": "Di menos, suena más natural",
+      "category": "Growth",
+      "generated_at": "2026-11-19T02:08:28.126164"
+    },
+    {
+      "english": "This tiny verb makes you fluent",
+      "spanish": "Este verbo pequeño te hace fluido",
+      "category": "Growth",
+      "generated_at": "2026-11-19T02:08:28.126179"
     }
   ],
   "used_english": [
-    "never wait, reply with one chunk",
-    "this fixes your “i’ll try” habit",
-    "never memorize, steal natural phrases",
-    "stop searching, reuse your last sentence",
-    "never over-explain, just ask back",
     "this is why your friends pause",
     "never wait, text one compliment",
     "stop word-hunting, use “está bien”",
@@ -21001,7 +20996,12 @@
     "this tiny word opens doors",
     "you’re learning faster than you think",
     "don’t translate, just speak one line",
-    "want spanish, like right now?"
+    "want spanish, like right now?",
+    "steal this, say it today",
+    "confused? try one simple question",
+    "your tongue needs reps, not fear",
+    "say less, sound more natural",
+    "this tiny verb makes you fluent"
   ],
-  "last_updated": "2026-11-18T02:42:02.245459"
+  "last_updated": "2026-11-19T02:08:28.126181"
 }
