@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why your friends pause",
-      "spanish": "Esto es por qué titubeas",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T22:00:28.209829"
-    },
-    {
-      "english": "Never wait, text one compliment",
-      "spanish": "No esperes, manda un cumplido",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T22:00:28.209846"
-    },
-    {
-      "english": "Stop word-hunting, use “está bien”",
-      "spanish": "Deja de buscar, usa “está bien”",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T22:00:28.209863"
-    },
-    {
-      "english": "This one phrase keeps friendships alive",
-      "spanish": "Esta frase mantiene amistades",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T22:00:28.209878"
-    },
-    {
-      "english": "Stop “starting over”, keep going",
-      "spanish": "Deja “empezar de cero”, sigue",
-      "category": "Perseverance",
-      "generated_at": "2026-06-27T14:45:18.993010"
-    },
-    {
       "english": "Stop waiting for “motivation”, train anyway",
       "spanish": "No esperes motivación, entrena igual",
       "category": "Perseverance",
@@ -17999,14 +17969,39 @@
       "spanish": "Este verbo pequeño te hace fluido",
       "category": "Growth",
       "generated_at": "2026-11-19T02:08:28.126179"
+    },
+    {
+      "english": "Say it, even shaky, today",
+      "spanish": "Dilo, aunque tiemble, hoy",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:58:12.457306"
+    },
+    {
+      "english": "What if fear mispronounces you?",
+      "spanish": "¿Y si el miedo te cambia?",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:58:12.457344"
+    },
+    {
+      "english": "Your courage sounds like trying",
+      "spanish": "Tu valentía suena a intentar",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:58:12.457370"
+    },
+    {
+      "english": "Confidence grows in brave seconds",
+      "spanish": "La confianza crece en segundos valientes",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:58:12.457396"
+    },
+    {
+      "english": "Don’t wait for perfect words",
+      "spanish": "No esperes palabras perfectas",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:58:12.457423"
     }
   ],
   "used_english": [
-    "this is why your friends pause",
-    "never wait, text one compliment",
-    "stop word-hunting, use “está bien”",
-    "this one phrase keeps friendships alive",
-    "stop “starting over”, keep going",
     "stop waiting for “motivation”, train anyway",
     "never miss the second time",
     "this one habit upgrades your courage",
@@ -21001,7 +20996,12 @@
     "confused? try one simple question",
     "your tongue needs reps, not fear",
     "say less, sound more natural",
-    "this tiny verb makes you fluent"
+    "this tiny verb makes you fluent",
+    "say it, even shaky, today",
+    "what if fear mispronounces you?",
+    "your courage sounds like trying",
+    "confidence grows in brave seconds",
+    "don’t wait for perfect words"
   ],
-  "last_updated": "2026-11-19T02:08:28.126181"
+  "last_updated": "2026-11-20T01:58:12.457425"
 }
