@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop waiting for “motivation”, train anyway",
-      "spanish": "No esperes motivación, entrena igual",
-      "category": "Perseverance",
-      "generated_at": "2026-06-27T14:45:18.993028"
-    },
-    {
-      "english": "Never miss the second time",
-      "spanish": "Nunca pierdas la segunda vez",
-      "category": "Perseverance",
-      "generated_at": "2026-06-27T14:45:18.993036"
-    },
-    {
-      "english": "This one habit upgrades your courage",
-      "spanish": "Este hábito sube tu valentía",
-      "category": "Perseverance",
-      "generated_at": "2026-06-27T14:45:18.993046"
-    },
-    {
-      "english": "The secret? Do it scared",
-      "spanish": "El secreto: hazlo con miedo",
-      "category": "Perseverance",
-      "generated_at": "2026-06-27T14:45:18.993053"
-    },
-    {
-      "english": "Stop ignoring them, say gracias",
-      "spanish": "Deja de ignorarlos, di gracias",
-      "category": "Gratitude",
-      "generated_at": "2026-06-27T16:05:32.726283"
-    },
-    {
       "english": "Never say nothing, send thanks",
       "spanish": "Nunca digas nada, manda gracias",
       "category": "Gratitude",
@@ -17999,14 +17969,39 @@
       "spanish": "No esperes palabras perfectas",
       "category": "Courage",
       "generated_at": "2026-11-20T01:58:12.457423"
+    },
+    {
+      "english": "Say this before every sentence",
+      "spanish": "Di esto antes de cada frase",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:52:53.217750"
+    },
+    {
+      "english": "Quick win, learn greetings first",
+      "spanish": "Victoria rápida, aprende saludos primero",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:52:53.217782"
+    },
+    {
+      "english": "Confident? Try 'de verdad' today",
+      "spanish": "¿Confiado? Prueba 'de verdad' hoy",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:52:53.217801"
+    },
+    {
+      "english": "Want smoother Spanish? Shorten it",
+      "spanish": "¿Quieres español más suave? Acórtalo",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:52:53.217822"
+    },
+    {
+      "english": "Your brain loves simple patterns",
+      "spanish": "Tu cerebro ama patrones simples",
+      "category": "Success",
+      "generated_at": "2026-11-21T01:52:53.217840"
     }
   ],
   "used_english": [
-    "stop waiting for “motivation”, train anyway",
-    "never miss the second time",
-    "this one habit upgrades your courage",
-    "the secret? do it scared",
-    "stop ignoring them, say gracias",
     "never say nothing, send thanks",
     "this is why people open up",
     "the secret? thank you, truly",
@@ -21001,7 +20996,12 @@
     "what if fear mispronounces you?",
     "your courage sounds like trying",
     "confidence grows in brave seconds",
-    "don’t wait for perfect words"
+    "don’t wait for perfect words",
+    "say this before every sentence",
+    "quick win, learn greetings first",
+    "confident? try 'de verdad' today",
+    "want smoother spanish? shorten it",
+    "your brain loves simple patterns"
   ],
-  "last_updated": "2026-11-20T01:58:12.457425"
+  "last_updated": "2026-11-21T01:52:53.217842"
 }
