@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never say nothing, send thanks",
-      "spanish": "Nunca digas nada, manda gracias",
-      "category": "Gratitude",
-      "generated_at": "2026-06-27T16:05:32.726310"
-    },
-    {
-      "english": "This is why people open up",
-      "spanish": "Por eso la gente se abre",
-      "category": "Gratitude",
-      "generated_at": "2026-06-27T16:05:32.726326"
-    },
-    {
-      "english": "The secret? Thank you, truly",
-      "spanish": "El secreto, gracias de verdad",
-      "category": "Gratitude",
-      "generated_at": "2026-06-27T16:05:32.726341"
-    },
-    {
-      "english": "Stop awkwardness, use 'muchas gracias'",
-      "spanish": "Para la incomodidad, 'muchas gracias'",
-      "category": "Gratitude",
-      "generated_at": "2026-06-27T16:05:32.726356"
-    },
-    {
-      "english": "The secret? Say one honest sentence",
-      "spanish": "El secreto, di una frase honesta",
-      "category": "Hope",
-      "generated_at": "2026-06-27T18:02:48.490332"
-    },
-    {
       "english": "Your confidence grows, speak again today",
       "spanish": "Tu confianza crece, habla hoy",
       "category": "Hope",
@@ -17999,14 +17969,39 @@
       "spanish": "Tu cerebro ama patrones simples",
       "category": "Success",
       "generated_at": "2026-11-21T01:52:53.217840"
+    },
+    {
+      "english": "Gratitude makes Spanish stick, faster",
+      "spanish": "La gratitud hace que el español se pegue",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T00:48:31.048359"
+    },
+    {
+      "english": "Say gracias, then feel safe",
+      "spanish": "Di gracias, y siéntete en calma",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T00:48:31.048389"
+    },
+    {
+      "english": "What if 'thanks' powers practice?",
+      "spanish": "¿Y si los agradecimientos impulsan practicar?",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T00:48:31.048408"
+    },
+    {
+      "english": "You’re building joy, one word",
+      "spanish": "Estás construyendo alegría, palabra a palabra",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T00:48:31.048428"
+    },
+    {
+      "english": "This gratitude ritual, changes your tone",
+      "spanish": "Este ritual de gratitud cambia tu tono",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T00:48:31.048445"
     }
   ],
   "used_english": [
-    "never say nothing, send thanks",
-    "this is why people open up",
-    "the secret? thank you, truly",
-    "stop awkwardness, use 'muchas gracias'",
-    "the secret? say one honest sentence",
     "your confidence grows, speak again today",
     "never fear silent practice, repeat",
     "what if your accent helps you?",
@@ -21001,7 +20996,12 @@
     "quick win, learn greetings first",
     "confident? try 'de verdad' today",
     "want smoother spanish? shorten it",
-    "your brain loves simple patterns"
+    "your brain loves simple patterns",
+    "gratitude makes spanish stick, faster",
+    "say gracias, then feel safe",
+    "what if 'thanks' powers practice?",
+    "you’re building joy, one word",
+    "this gratitude ritual, changes your tone"
   ],
-  "last_updated": "2026-11-21T01:52:53.217842"
+  "last_updated": "2026-11-22T00:48:31.048446"
 }
