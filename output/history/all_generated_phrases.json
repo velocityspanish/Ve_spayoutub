@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your confidence grows, speak again today",
-      "spanish": "Tu confianza crece, habla hoy",
-      "category": "Hope",
-      "generated_at": "2026-06-27T18:02:48.490357"
-    },
-    {
-      "english": "Never fear silent practice, repeat",
-      "spanish": "No temas practicar en silencio, repite",
-      "category": "Hope",
-      "generated_at": "2026-06-27T18:02:48.490374"
-    },
-    {
-      "english": "What if your accent helps you?",
-      "spanish": "¿Y si tu acento te ayuda?",
-      "category": "Hope",
-      "generated_at": "2026-06-27T18:02:48.490390"
-    },
-    {
-      "english": "The fastest hope, talk with strangers",
-      "spanish": "La esperanza rápida, habla con extraños",
-      "category": "Hope",
-      "generated_at": "2026-06-27T18:02:48.490406"
-    },
-    {
-      "english": "Stop apologizing in Spanish, choose action",
-      "spanish": "Deja de disculparte, elige acción",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T20:11:11.291495"
-    },
-    {
       "english": "Never explain, just ask: ¿Mejor?",
       "spanish": "Nunca expliques, solo pregunta: ¿Mejor?",
       "category": "Forgiveness",
@@ -17999,14 +17969,39 @@
       "spanish": "Este ritual de gratitud cambia tu tono",
       "category": "Gratitude",
       "generated_at": "2026-11-22T00:48:31.048445"
+    },
+    {
+      "english": "Patience, then you’ll sound native",
+      "spanish": "Paciencia, y sonas natural",
+      "category": "Patience",
+      "generated_at": "2026-11-23T01:15:37.789497"
+    },
+    {
+      "english": "Quick question, why rush?",
+      "spanish": "Pregunta rápida, ¿por qué apuras?",
+      "category": "Patience",
+      "generated_at": "2026-11-23T01:15:37.789516"
+    },
+    {
+      "english": "You learn more, when calm",
+      "spanish": "Aprendes más, con calma",
+      "category": "Patience",
+      "generated_at": "2026-11-23T01:15:37.789528"
+    },
+    {
+      "english": "This is practice, not punishment",
+      "spanish": "Esto es práctica, no castigo",
+      "category": "Patience",
+      "generated_at": "2026-11-23T01:15:37.789542"
+    },
+    {
+      "english": "Trust the slow progress, please",
+      "spanish": "Confía en lo lento, por favor",
+      "category": "Patience",
+      "generated_at": "2026-11-23T01:15:37.789555"
     }
   ],
   "used_english": [
-    "your confidence grows, speak again today",
-    "never fear silent practice, repeat",
-    "what if your accent helps you?",
-    "the fastest hope, talk with strangers",
-    "stop apologizing in spanish, choose action",
     "never explain, just ask: ¿mejor?",
     "stop hunting tenses, use today",
     "never lose hope, say it anyway",
@@ -21001,7 +20996,12 @@
     "say gracias, then feel safe",
     "what if 'thanks' powers practice?",
     "you’re building joy, one word",
-    "this gratitude ritual, changes your tone"
+    "this gratitude ritual, changes your tone",
+    "patience, then you’ll sound native",
+    "quick question, why rush?",
+    "you learn more, when calm",
+    "this is practice, not punishment",
+    "trust the slow progress, please"
   ],
-  "last_updated": "2026-11-22T00:48:31.048446"
+  "last_updated": "2026-11-23T01:15:37.789556"
 }
