@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never explain, just ask: ¿Mejor?",
-      "spanish": "Nunca expliques, solo pregunta: ¿Mejor?",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T20:11:11.291521"
-    },
-    {
-      "english": "Stop hunting tenses, use today",
-      "spanish": "Deja de buscar tiempos, usa hoy",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T20:11:11.291538"
-    },
-    {
-      "english": "Never lose hope, say it anyway",
-      "spanish": "Nunca pierdas la fe, dila igual",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T20:11:11.291553"
-    },
-    {
-      "english": "The secret is listening, not studying",
-      "spanish": "El secreto es escuchar, no estudiar",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T20:11:11.291569"
-    },
-    {
-      "english": "Never learn alone, do this nightly",
-      "spanish": "Nunca aprendas solo, haz esto cada noche",
-      "category": "Inspiration",
-      "generated_at": "2026-06-27T21:52:28.742501"
-    },
-    {
       "english": "Stop thinking in English, breathe first",
       "spanish": "Deja de pensar en inglés, respira primero",
       "category": "Inspiration",
@@ -17999,14 +17969,39 @@
       "spanish": "Confía en lo lento, por favor",
       "category": "Patience",
       "generated_at": "2026-11-23T01:15:37.789555"
+    },
+    {
+      "english": "Say it first, learn faster",
+      "spanish": "Di primero, aprende más rápido",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T05:04:13.728560"
+    },
+    {
+      "english": "Ready to sound instantly natural?",
+      "spanish": "¿Listo para sonar natural ya?",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T05:04:13.728594"
+    },
+    {
+      "english": "Tiny reps, huge progress—watch this",
+      "spanish": "Repeticiones pequeñas, gran progreso—míralo",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T05:04:13.728621"
+    },
+    {
+      "english": "Your accent improves with brave tries",
+      "spanish": "Tu acento mejora con intentos valientes",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T05:04:13.728656"
+    },
+    {
+      "english": "Practice beats perfect, every day",
+      "spanish": "Practicar gana a la perfección, cada día",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T05:04:13.728681"
     }
   ],
   "used_english": [
-    "never explain, just ask: ¿mejor?",
-    "stop hunting tenses, use today",
-    "never lose hope, say it anyway",
-    "the secret is listening, not studying",
-    "never learn alone, do this nightly",
     "stop thinking in english, breathe first",
     "stop overthinking, say the next word",
     "this phrase buys you instant time",
@@ -21001,7 +20996,12 @@
     "quick question, why rush?",
     "you learn more, when calm",
     "this is practice, not punishment",
-    "trust the slow progress, please"
+    "trust the slow progress, please",
+    "say it first, learn faster",
+    "ready to sound instantly natural?",
+    "tiny reps, huge progress—watch this",
+    "your accent improves with brave tries",
+    "practice beats perfect, every day"
   ],
-  "last_updated": "2026-11-23T01:15:37.789556"
+  "last_updated": "2026-11-24T05:04:13.728683"
 }
