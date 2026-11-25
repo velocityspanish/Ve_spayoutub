@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop thinking in English, breathe first",
-      "spanish": "Deja de pensar en inglés, respira primero",
-      "category": "Inspiration",
-      "generated_at": "2026-06-27T21:52:28.742525"
-    },
-    {
-      "english": "Stop overthinking, say the next word",
-      "spanish": "Para de sobrepensar, di la próxima palabra",
-      "category": "Inspiration",
-      "generated_at": "2026-06-27T21:52:28.742542"
-    },
-    {
-      "english": "This phrase buys you instant time",
-      "spanish": "Esta frase te da tiempo al instante",
-      "category": "Inspiration",
-      "generated_at": "2026-06-27T21:52:28.742558"
-    },
-    {
-      "english": "Never wait for “perfect”, start messy",
-      "spanish": "Nunca esperes “perfecto”, empieza imperfecto",
-      "category": "Inspiration",
-      "generated_at": "2026-06-27T21:52:28.742574"
-    },
-    {
-      "english": "Stop deleting your sentences",
-      "spanish": "Deja de borrar tus frases",
-      "category": "Confidence",
-      "generated_at": "2026-06-28T14:50:24.899038"
-    },
-    {
       "english": "Never fear short answers",
       "spanish": "No tengas miedo a respuestas cortas",
       "category": "Confidence",
@@ -17999,14 +17969,39 @@
       "spanish": "Practicar gana a la perfección, cada día",
       "category": "Motivation",
       "generated_at": "2026-11-24T05:04:13.728681"
+    },
+    {
+      "english": "Say it, then breathe—new confidence",
+      "spanish": "Dilo, respira, nueva confianza",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T03:53:25.574721"
+    },
+    {
+      "english": "Fluent starts with one brave question",
+      "spanish": "La fluidez empieza con una pregunta",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T03:53:25.574752"
+    },
+    {
+      "english": "Want fast Spanish? Use this pause",
+      "spanish": "¿Quieres español rápido? Usa esta pausa",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T03:53:25.574773"
+    },
+    {
+      "english": "Your rhythm beats your stress",
+      "spanish": "Tu ritmo vence el estrés",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T03:53:25.574794"
+    },
+    {
+      "english": "Today, practice one tiny sentence",
+      "spanish": "Hoy practica una frase pequeña",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T03:53:25.574814"
     }
   ],
   "used_english": [
-    "stop thinking in english, breathe first",
-    "stop overthinking, say the next word",
-    "this phrase buys you instant time",
-    "never wait for “perfect”, start messy",
-    "stop deleting your sentences",
     "never fear short answers",
     "the secret is one brave sentence",
     "never overthink, copy their rhythm",
@@ -21001,7 +20996,12 @@
     "ready to sound instantly natural?",
     "tiny reps, huge progress—watch this",
     "your accent improves with brave tries",
-    "practice beats perfect, every day"
+    "practice beats perfect, every day",
+    "say it, then breathe—new confidence",
+    "fluent starts with one brave question",
+    "want fast spanish? use this pause",
+    "your rhythm beats your stress",
+    "today, practice one tiny sentence"
   ],
-  "last_updated": "2026-11-24T05:04:13.728683"
+  "last_updated": "2026-11-25T03:53:25.574815"
 }
