@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never fear short answers",
-      "spanish": "No tengas miedo a respuestas cortas",
-      "category": "Confidence",
-      "generated_at": "2026-06-28T14:50:24.899060"
-    },
-    {
-      "english": "The secret is one brave sentence",
-      "spanish": "El secreto es una frase valiente",
-      "category": "Confidence",
-      "generated_at": "2026-06-28T14:50:24.899075"
-    },
-    {
-      "english": "Never overthink, copy their rhythm",
-      "spanish": "No pienses tanto, copia su ritmo",
-      "category": "Confidence",
-      "generated_at": "2026-06-28T14:50:24.899088"
-    },
-    {
-      "english": "This habit makes replies faster",
-      "spanish": "Este hábito acelera tus respuestas",
-      "category": "Confidence",
-      "generated_at": "2026-06-28T14:50:24.899101"
-    },
-    {
-      "english": "Stop chasing perfect, say the next",
-      "spanish": "Deja de buscar perfecto, di el siguiente",
-      "category": "Courage",
-      "generated_at": "2026-06-28T16:11:40.984422"
-    },
-    {
       "english": "Never overthink, just name it",
       "spanish": "Nunca sobrepienses, solo nómbralo",
       "category": "Courage",
@@ -17999,14 +17969,39 @@
       "spanish": "Hoy practica una frase pequeña",
       "category": "Motivation",
       "generated_at": "2026-11-25T03:53:25.574814"
+    },
+    {
+      "english": "Say it, then laugh—flow starts",
+      "spanish": "Dilo, y ríe—empieza el flujo",
+      "category": "Growth",
+      "generated_at": "2026-11-26T03:22:03.146922"
+    },
+    {
+      "english": "Quick secret, speak one chunk",
+      "spanish": "Secreto rápido, habla una parte",
+      "category": "Growth",
+      "generated_at": "2026-11-26T03:22:03.146948"
+    },
+    {
+      "english": "Confidence grows when you risk",
+      "spanish": "La confianza crece al arriesgar",
+      "category": "Growth",
+      "generated_at": "2026-11-26T03:22:03.146963"
+    },
+    {
+      "english": "Don’t fix it, speak it",
+      "spanish": "No lo corrijas, dilo",
+      "category": "Growth",
+      "generated_at": "2026-11-26T03:22:03.146976"
+    },
+    {
+      "english": "Start with one yes, always",
+      "spanish": "Empieza con un sí, siempre",
+      "category": "Growth",
+      "generated_at": "2026-11-26T03:22:03.146989"
     }
   ],
   "used_english": [
-    "never fear short answers",
-    "the secret is one brave sentence",
-    "never overthink, copy their rhythm",
-    "this habit makes replies faster",
-    "stop chasing perfect, say the next",
     "never overthink, just name it",
     "stop waiting, answer without planning",
     "never fear the awkward second",
@@ -21001,7 +20996,12 @@
     "fluent starts with one brave question",
     "want fast spanish? use this pause",
     "your rhythm beats your stress",
-    "today, practice one tiny sentence"
+    "today, practice one tiny sentence",
+    "say it, then laugh—flow starts",
+    "quick secret, speak one chunk",
+    "confidence grows when you risk",
+    "don’t fix it, speak it",
+    "start with one yes, always"
   ],
-  "last_updated": "2026-11-25T03:53:25.574815"
+  "last_updated": "2026-11-26T03:22:03.146991"
 }
