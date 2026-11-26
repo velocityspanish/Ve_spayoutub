@@ -14,15 +14,21 @@ from PIL import Image
 import config
 
 
-def _scene_uri() -> str:
-    return (config.SCENE_DIR / "index.html").resolve().as_uri()
+def _scene_uri(scene_dir: Path | None = None) -> str:
+    return ((scene_dir or config.SCENE_DIR) / "index.html").resolve().as_uri()
 
 
-def _open_page(browser, timeline: dict, width: int = config.VIDEO_WIDTH, height: int = config.VIDEO_HEIGHT):
+def _open_page(
+    browser,
+    timeline: dict,
+    width: int = config.VIDEO_WIDTH,
+    height: int = config.VIDEO_HEIGHT,
+    scene_dir: Path | None = None,
+):
     page = browser.new_page(viewport={"width": width, "height": height}, device_scale_factor=1)
     script = "window.__TIMELINE__ = " + json.dumps(timeline, ensure_ascii=False) + ";"
     page.add_init_script(script)
-    page.goto(_scene_uri(), wait_until="load")
+    page.goto(_scene_uri(scene_dir), wait_until="load")
     page.wait_for_function("window.sceneReady === true", timeout=90000)
     page.evaluate("() => document.fonts.ready")
     return page
@@ -32,7 +38,14 @@ def _launch(pw):
     return pw.chromium.launch(args=["--force-color-profile=srgb", "--font-render-hinting=none"])
 
 
-def render_video(timeline: dict, mix_path: Path, out_mp4: Path, work_dir: Path, fps: int = None) -> dict:
+def render_video(
+    timeline: dict,
+    mix_path: Path,
+    out_mp4: Path,
+    work_dir: Path,
+    fps: int = None,
+    scene_dir: Path | None = None,
+) -> dict:
     fps = fps or config.FPS
     duration = float(timeline["duration"])
     total = max(1, int(round(duration * fps)))
@@ -49,7 +62,7 @@ def render_video(timeline: dict, mix_path: Path, out_mp4: Path, work_dir: Path, 
     try:
         with sync_playwright() as pw:
             browser = _launch(pw)
-            page = _open_page(browser, timeline)
+            page = _open_page(browser, timeline, scene_dir=scene_dir)
 
             page.evaluate("t => window.seek(t)", timeline.get("thumb_t", 0))
             page.screenshot(path=str(thumb_png), type="png")
@@ -111,12 +124,12 @@ def render_video(timeline: dict, mix_path: Path, out_mp4: Path, work_dir: Path, 
             thumb_png.unlink()
 
 
-def capture_stills(timeline: dict, times: list, out_dir: Path) -> list:
+def capture_stills(timeline: dict, times: list, out_dir: Path, scene_dir: Path | None = None) -> list:
     out_dir.mkdir(parents=True, exist_ok=True)
     saved = []
     with sync_playwright() as pw:
         browser = _launch(pw)
-        page = _open_page(browser, timeline)
+        page = _open_page(browser, timeline, scene_dir=scene_dir)
         for i, t in enumerate(times):
             page.evaluate("t => window.seek(t)", float(t))
             path = out_dir / f"still_{i:02d}_{float(t):06.2f}.png"
@@ -126,9 +139,10 @@ def capture_stills(timeline: dict, times: list, out_dir: Path) -> list:
     return saved
 
 
-def write_preview(timeline: dict, mix_path: Path) -> Path:
-    html = (config.SCENE_DIR / "index.html").read_text(encoding="utf-8")
-    rel_audio = Path(os.path.relpath(mix_path.resolve(), config.SCENE_DIR.resolve())).as_posix()
+def write_preview(timeline: dict, mix_path: Path, scene_dir: Path | None = None) -> Path:
+    scene_dir = scene_dir or config.SCENE_DIR
+    html = (scene_dir / "index.html").read_text(encoding="utf-8")
+    rel_audio = Path(os.path.relpath(mix_path.resolve(), scene_dir.resolve())).as_posix()
     inject = (
         "<script>window.__TIMELINE__ = "
         + json.dumps(timeline, ensure_ascii=False)
@@ -137,6 +151,6 @@ def write_preview(timeline: dict, mix_path: Path) -> Path:
         + ";</script>\n<script src=\"scene.js\"></script>"
     )
     html = html.replace('<script src="scene.js"></script>', inject)
-    preview = config.SCENE_DIR / "preview.html"
+    preview = scene_dir / "preview.html"
     preview.write_text(html, encoding="utf-8")
     return preview

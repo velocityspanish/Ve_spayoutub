@@ -58,3 +58,5 @@ background.png
 
 # Artifact files (stored in GitHub Actions)
 output/history/
+scene_storybook/preview.html
+*.pyc

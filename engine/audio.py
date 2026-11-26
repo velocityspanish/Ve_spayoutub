@@ -9,6 +9,8 @@ from pathlib import Path
 
 import numpy as np
 
+import config
+
 SR = 48000
 
 
@@ -72,19 +74,32 @@ def _add(out: np.ndarray, sig: np.ndarray, t0: float, gain: float = 1.0, pan: fl
         out[i0:i1] += seg
 
 
-def synth_music(duration: float) -> np.ndarray:
+def synth_music(duration: float, style: str = "bright") -> np.ndarray:
     n = int(duration * SR)
     out = np.zeros((n, 2), dtype=np.float64)
-    bpm = 92.0
+    if style == "chill":
+        bpm = 88.0
+        progression = [
+            [48, 55, 59, 64],  # Cmaj7
+            [45, 52, 55, 60],  # Am7
+            [41, 48, 52, 57],  # Fmaj7
+            [43, 50, 53, 59],  # G7
+        ]
+        pluck_gain = 0.105
+        kick_gain = 0.34
+    else:
+        bpm = 104.0
+        progression = [
+            [48, 55, 59, 62],  # Cmaj9 colour
+            [43, 50, 55, 59],  # G7
+            [45, 52, 57, 60],  # Am7
+            [41, 48, 53, 57],  # Fmaj7
+        ]
+        pluck_gain = 0.125
+        kick_gain = 0.42
     beat = 60.0 / bpm
     bar = beat * 4
     eighth = beat / 2
-    progression = [
-        [48, 55, 59, 64],  # Cmaj7
-        [45, 52, 55, 60],  # Am7
-        [41, 48, 52, 57],  # Fmaj7
-        [43, 50, 53, 59],  # G7
-    ]
     pattern = [0, 2, 1, 3, 2, 1, 0, 1]
     rng = np.random.default_rng(7)
     bars = int(math.ceil(duration / bar)) + 1
@@ -97,13 +112,13 @@ def synth_music(duration: float) -> np.ndarray:
             if t0 >= duration:
                 continue
             note = chord[idx] + (12 if k in (2, 5) else 0)
-            _add(out, _pluck(note, 0.85), t0, 0.115, pan=(-0.35 if k % 2 == 0 else 0.35))
+            _add(out, _pluck(note, 0.85), t0, pluck_gain, pan=(-0.35 if k % 2 == 0 else 0.35))
         for k in (0, 2):
             t0 = base + k * beat
             if t0 >= duration:
                 continue
-            _add(out, _bass(chord[0] - 12, 0.75), t0, 0.32)
-            _add(out, _kick(), t0, 0.42)
+            _add(out, _bass(chord[0] - 12, 0.75), t0, 0.30)
+            _add(out, _kick(), t0, kick_gain)
         for k in (1, 3):
             t0 = base + k * beat + eighth
             if t0 >= duration:
@@ -118,63 +133,69 @@ def _sfx_pop() -> np.ndarray:
     dur = 0.18
     n = int(SR * dur)
     t = np.arange(n) / SR
-    f = 980 * np.exp(-t * 16) + 280
+    f = 700 * np.exp(-t * 14) + 240
     phase = 2 * np.pi * np.cumsum(f) / SR
-    sig = np.sin(phase) * np.exp(-t * 24) + 0.35 * np.sin(2 * phase) * np.exp(-t * 40)
-    return sig
+    sig = np.sin(phase) * np.exp(-t * 22) + 0.18 * np.sin(2 * phase) * np.exp(-t * 34)
+    return sig * 0.85
 
 
 def _sfx_ding() -> np.ndarray:
-    dur = 0.9
+    """Soft marimba tap. Replaces the old 880/1320/1760 Hz bell.
+
+    Low notes, slow mallet attack, no piercing harmonics. This is the sound
+    that lands at the end of every phrase, so it has to be gentle on earphones.
+    """
+    dur = 0.55
     n = int(SR * dur)
     t = np.arange(n) / SR
     sig = (
-        np.sin(2 * np.pi * 880 * t) * np.exp(-t * 5.5)
-        + 0.55 * np.sin(2 * np.pi * 1320 * t) * np.exp(-t * 7)
-        + 0.22 * np.sin(2 * np.pi * 1760 * t) * np.exp(-t * 9)
+        0.55 * np.sin(2 * np.pi * 392.00 * t)   # G4
+        + 0.30 * np.sin(2 * np.pi * 523.25 * t)  # C5
+        + 0.12 * np.sin(2 * np.pi * 659.25 * t)  # E5
     )
-    return sig * np.clip(t / 0.004, 0, 1)
+    env = np.exp(-t * 7.5) * (1 - np.exp(-t * 90))
+    return sig * env * 0.52
 
 
 def _sfx_chime() -> np.ndarray:
-    dur = 1.5
+    dur = 1.35
     n = int(SR * dur)
     out = np.zeros(n)
-    for i, note in enumerate([72, 76, 79, 84]):
-        start = int(i * 0.1 * SR)
+    for i, note in enumerate([60, 64, 67, 72]):  # C4 E4 G4 C5
+        start = int(i * 0.11 * SR)
         f = _midi(note)
         ln = n - start
         t = np.arange(ln) / SR
-        bell = (np.sin(2 * np.pi * f * t) + 0.3 * np.sin(4 * np.pi * f * t)) * np.exp(-t * 3.6)
-        out[start:] += bell * 0.45
+        bell = (np.sin(2 * np.pi * f * t) + 0.22 * np.sin(4 * np.pi * f * t)) * np.exp(-t * 3.8)
+        out[start:] += bell * 0.32
     return out
 
 
 def _sfx_success() -> np.ndarray:
-    dur = 1.6
+    dur = 1.5
     n = int(SR * dur)
     out = np.zeros(n)
-    for i, note in enumerate([72, 76, 79, 84, 88]):
-        start = int(i * 0.085 * SR)
+    for i, note in enumerate([60, 64, 67, 72, 76]):  # C4 E4 G4 C5 E5
+        start = int(i * 0.10 * SR)
         f = _midi(note)
         ln = n - start
         t = np.arange(ln) / SR
-        env = np.exp(-t * 4.2) * np.clip(t / 0.003, 0, 1)
-        out[start:] += (np.sin(2 * np.pi * f * t) + 0.25 * np.sin(4 * np.pi * f * t)) * env * 0.35
+        env = np.exp(-t * 4.6) * (1 - np.exp(-t * 60))
+        out[start:] += (np.sin(2 * np.pi * f * t) + 0.18 * np.sin(4 * np.pi * f * t)) * env * 0.26
     return out
 
 
 def _sfx_sparkle() -> np.ndarray:
-    dur = 1.1
+    dur = 1.0
     n = int(SR * dur)
     out = np.zeros(n)
     rng = np.random.default_rng(99)
     for i in range(7):
-        start = int(rng.uniform(0, 0.7) * SR)
-        f = rng.uniform(1700, 3300)
+        start = int(rng.uniform(0, 0.65) * SR)
+        f = rng.uniform(1300, 2400)
         ln = min(n - start, int(0.25 * SR))
         t = np.arange(ln) / SR
-        out[start:start + ln] += np.sin(2 * np.pi * f * t) * np.exp(-t * 22) * 0.22
+        out[start:start + ln] += np.sin(2 * np.pi * f * t) * np.exp(-t * 24) * 0.11
     return out
 
 
@@ -245,6 +266,42 @@ def _write_wav(path: Path, audio: np.ndarray) -> None:
         handle.writeframes(pcm.tobytes())
 
 
+def _soften_sfx(sfx: np.ndarray, cutoff: float) -> np.ndarray:
+    """Zero-phase gentle low-pass so the SFX bus is earphone-friendly."""
+    n = sfx.shape[0]
+    if n == 0:
+        return sfx
+    spec = np.fft.rfft(sfx, axis=0)
+    freqs = np.fft.rfftfreq(n, 1.0 / SR)
+    gain = 1.0 / (1.0 + np.power(freqs / max(cutoff, 100.0), 4.0))
+    spec *= gain[:, None]
+    return np.fft.irfft(spec, n=n, axis=0).astype(np.float32)
+
+
+def _normalize_loudness(path: Path, target_lufs: float = -13.0, true_peak: float = -1.5) -> None:
+    """Normalize the finished mix so the validator gate is stable run-to-run."""
+    tmp = path.with_name(path.stem + "_norm.wav")
+    try:
+        result = subprocess.run(
+            [
+                "ffmpeg", "-y", "-loglevel", "error", "-i", str(path),
+                "-af", f"loudnorm=I={target_lufs}:TP={true_peak}:LRA=11",
+                "-ar", str(SR), "-ac", "2", "-c:a", "pcm_s16le", str(tmp),
+            ],
+            capture_output=True, text=True, timeout=180,
+        )
+        if result.returncode == 0 and tmp.exists() and tmp.stat().st_size > 1000:
+            tmp.replace(path)
+            print(f"[audio] Loudness normalized to {target_lufs:.1f} LUFS / {true_peak:.1f} dBTP")
+        else:
+            print(f"[audio] Loudness normalization skipped: {result.stderr[:160]}")
+    except Exception as exc:  # noqa: BLE001 - keep the original mix if ffmpeg fails
+        print(f"[audio] Loudness normalization failed: {exc}")
+    finally:
+        if tmp.exists():
+            tmp.unlink()
+
+
 def build_mix(clips: list, timeline: dict, out_path: Path) -> dict:
     duration = float(timeline["duration"])
     n = int((duration + 0.15) * SR)
@@ -260,7 +317,7 @@ def build_mix(clips: list, timeline: dict, out_path: Path) -> dict:
     peak = float(np.max(np.abs(narration))) or 1.0
     narration *= 0.92 / peak
 
-    music = synth_music(duration + 0.15)
+    music = synth_music(duration + 0.15, timeline.get("music", "bright"))
     if len(music) < n:
         music = np.pad(music, ((0, n - len(music)), (0, 0)))
     music = music[:n]
@@ -275,6 +332,7 @@ def build_mix(clips: list, timeline: dict, out_path: Path) -> dict:
     sfx = np.zeros((n, 2), dtype=np.float32)
     for event in timeline.get("sfx", []):
         _place(sfx, make_sfx(event["kind"]), event["t"], event.get("gain", 0.5))
+    sfx = _soften_sfx(sfx, config.SFX_LOWPASS_HZ) * config.SFX_MASTER
 
     master = narration + music.astype(np.float32) + sfx
 
@@ -287,8 +345,10 @@ def build_mix(clips: list, timeline: dict, out_path: Path) -> dict:
     if peak > 0.95:
         master *= 0.95 / peak
     master = np.tanh(master * 1.08) / np.tanh(1.08)
+    master *= config.MASTER_GAIN
 
     _write_wav(out_path, master)
+    _normalize_loudness(out_path)
     size_mb = out_path.stat().st_size / (1024 * 1024)
     print(f"[audio] Mix: {out_path.name} ({duration:.1f}s, {size_mb:.1f} MB)")
     return {"duration": duration, "path": str(out_path), "peak": round(peak, 3)}

@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080, height=1920">
+<title>Velocity Japanese · Storybook</title>
+<link rel="stylesheet" href="scene.css">
+<link rel="stylesheet" href="worlds.css">
+</head>
+<body>
+<div id="stage">
+
+  <div id="world"></div>
+  <div id="worldPrev"></div>
+  <div id="sun"><div class="sun-rays"></div><div class="sun-core"></div></div>
+
+  <div class="cloud cloud-a" id="cloud1"></div>
+  <div class="cloud cloud-b" id="cloud2"></div>
+  <div class="cloud cloud-c" id="cloud3"></div>
+
+  <div class="balloon" data-animal="balloon" id="balloon"></div>
+
+  <div id="birds">
+    <div class="sky-bird b1" data-animal="bird" id="skyBird1"></div>
+    <div class="sky-bird b2" data-animal="bird" id="skyBird2"></div>
+    <div class="sky-bird b3" data-animal="bird" id="skyBird3"></div>
+  </div>
+
+  <div id="hills">
+    <div class="hill hill-back"></div>
+    <div class="hill hill-mid"></div>
+    <div class="hill hill-front"></div>
+  </div>
+  <div id="ground"></div>
+
+  <div id="worldDecor" aria-hidden="true"></div>
+
+  <div id="market" aria-hidden="true">
+    <div class="market-glow"></div>
+    <svg class="market-lights" viewBox="0 0 1080 180" preserveAspectRatio="none">
+      <path class="wire" d="M-40 18 C 220 150, 860 150, 1120 18" fill="none" stroke="#3A2A1A" stroke-width="5"/>
+      <g class="bulbs">
+        <circle class="bulb" cx="11" cy="40" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="89" cy="66" r="11" fill="var(--accent2)"/>
+        <circle class="bulb" cx="179" cy="86" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="276" cy="101" r="11" fill="var(--accent2)"/>
+        <circle class="bulb" cx="379" cy="111" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="486" cy="116" r="11" fill="var(--accent2)"/>
+        <circle class="bulb" cx="594" cy="116" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="701" cy="111" r="11" fill="var(--accent2)"/>
+        <circle class="bulb" cx="804" cy="101" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="901" cy="86" r="11" fill="var(--accent2)"/>
+        <circle class="bulb" cx="991" cy="66" r="11" fill="var(--accent)"/>
+        <circle class="bulb" cx="1069" cy="40" r="11" fill="var(--accent2)"/>
+      </g>
+    </svg>
+
+    <div class="lantern lan-l"><span></span></div>
+    <div class="lantern lan-r"><span></span></div>
+
+    <div class="stall stall-l">
+      <div class="awning"></div>
+      <div class="stall-body"></div>
+      <div class="stall-shelf"></div>
+      <div class="produce">
+        <i class="fruit p1"></i><i class="fruit p2"></i><i class="fruit p3"></i>
+        <i class="fruit p4"></i><i class="fruit p5"></i>
+      </div>
+      <div class="stall-sign" data-icon="bag"></div>
+    </div>
+
+    <div class="stall stall-r">
+      <div class="awning"></div>
+      <div class="stall-body"></div>
+      <div class="stall-shelf"></div>
+      <div class="produce">
+        <i class="fruit p2"></i><i class="fruit p3"></i><i class="fruit p1"></i>
+        <i class="fruit p5"></i><i class="fruit p4"></i>
+      </div>
+      <div class="stall-sign" data-icon="star"></div>
+    </div>
+  </div>
+
+  <canvas id="dust" width="1080" height="1920"></canvas>
+
+  <div id="meadow">
+    <div class="grass g1" data-animal="grass"></div>
+    <div class="grass g2" data-animal="grass"></div>
+    <div class="grass g3" data-animal="grass"></div>
+    <div class="grass g4" data-animal="grass"></div>
+    <div class="grass g5" data-animal="grass"></div>
+
+    <div class="flower f1" data-animal="flower" id="flower1"></div>
+    <div class="flower f2" data-animal="flower" id="flower2"></div>
+    <div class="flower f3" data-animal="flower" id="flower3"></div>
+    <div class="flower f4" data-animal="flower" id="flower4"></div>
+
+    <div class="butterfly bf1" data-animal="butterfly" id="bfly1"></div>
+    <div class="butterfly bf2" data-animal="butterfly" id="bfly2"></div>
+    <div class="butterfly bf3" data-animal="butterfly" id="bfly3"></div>
+
+    <div id="pond"></div>
+    <div id="lilyPad"></div>
+    <div class="animal critter slot-pond" data-slot="pond" id="critterPond"></div>
+    <div class="animal critter slot-mid" data-slot="mid" id="critterMid"></div>
+    <div class="animal critter slot-left" data-slot="left" id="critterLeft"></div>
+    <div class="animal critter slot-right" data-slot="right" id="critterRight"></div>
+  </div>
+
+  <div id="scenes">
+  <section class="scene" id="sceneIntro">
+    <div class="intro-card" id="introCard">
+      <div class="intro-kicker" id="introKicker">A TINY SPANISH STORY</div>
+      <div class="intro-title" id="introTitle">3 PHRASES</div>
+      <div class="intro-ribbon" id="introRibbon">UNDER 50 SECONDS</div>
+      <div class="intro-category" id="introCategory">
+        <span class="cat-icon" id="introCatIcon" data-icon="plane"></span>
+        <span id="introCatText">Travel · Du Lịch</span>
+      </div>
+      <div class="intro-note" id="introNote">LISTEN · REPEAT · OWN IT</div>
+    </div>
+    <div class="animal intro-velo" id="introVelo"></div>
+  </section>
+
+  <section class="scene" id="scenePhrase">
+    <div class="book" id="book">
+      <div class="book-spine"></div>
+      <div class="book-ribbon" id="bookRibbon"></div>
+      <div class="page">
+        <div class="page-inner" id="pageInner">
+        <div id="pageWatermark"></div>
+        <div class="book-meta">
+          <span class="chapter" id="chapterLabel">PAGE 1 / 3</span>
+        </div>
+
+        <div class="en-block">
+          <div class="card-label"><span class="flag">EN</span><span>ENGLISH</span><span class="eq" id="enEq"><i></i><i></i><i></i><i></i></span></div>
+          <div class="en-text" id="enText"></div>
+        </div>
+
+        <div class="page-divider"><span data-icon="star"></span></div>
+
+        <div class="nat-block" id="natBlock">
+          <div class="card-label"><span class="flag ja">ES</span><span id="natLabelText">ESPAÑOL</span><span class="eq light" id="natEq"><i></i><i></i><i></i><i></i></span></div>
+          <div class="nat-text" id="natText"></div>
+        </div>
+
+        <div class="listen-panel" id="listenPanel">
+          <div class="listen-ring"><span class="ico" data-icon="speaker"></span></div>
+          <div class="listen-bars" id="listenBars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="listen-text">LISTEN</div>
+          <div class="listen-bird" data-animal="bird" id="listenBird"></div>
+          <div class="listen-notes" id="listenNotes"><i>♪</i><i>♫</i><i>♪</i></div>
+        </div>
+
+        <div class="translit-box" id="translit">
+          <div class="translit-label"><span class="ico" data-icon="speaker"></span><span id="translitLabel">SAY IT LIKE</span></div>
+          <div class="translit-text" id="translitText"></div>
+        </div>
+
+        <div class="echo-row" id="echoRow">
+          <div class="echo-bird" data-animal="bird" id="echoBird"></div>
+          <div class="echo-sign" id="echoPill">
+            <span class="ico" data-icon="mic"></span>
+            <span>SAY IT WITH ME</span>
+          </div>
+          <div class="echo-ring-wrap">
+            <svg id="echoRing" viewBox="0 0 64 64">
+              <circle class="ring-bg" cx="32" cy="32" r="26"></circle>
+              <circle class="ring-fill" id="ringFill" cx="32" cy="32" r="26"></circle>
+            </svg>
+          </div>
+        </div>
+
+        <div class="page-butterfly" data-animal="butterfly" id="pageButterfly"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bubble" id="bubble">LISTEN...</div>
+    <div class="velo-perch" id="phraseVelo"></div>
+    <div class="nice-sticker" id="niceSticker"></div>
+  </section>
+
+  <section class="scene" id="sceneOutro">
+    <div class="outro-card" id="outroCard">
+      <div class="outro-kicker" id="outroKicker">THE END · FOR NOW</div>
+      <div class="outro-title" id="outroTitle">GREAT JOB!</div>
+      <div class="outro-sub" id="outroSub">3 new Spanish phrases</div>
+      <div class="outro-list" id="outroList"></div>
+      <div class="outro-stats" id="outroStats">
+        <div class="stat"><span class="ico" data-icon="bolt"></span><b id="outroXp">+30 XP</b></div>
+        <div class="stat"><span class="ico" data-icon="flame"></span><b id="outroStreak">7 day streak</b></div>
+      </div>
+      <div class="outro-cta" id="outroCta">FOLLOW FOR A NEW STORY</div>
+    </div>
+    <div class="animal outro-velo" id="outroVelo"></div>
+    <div class="bubble outro-bubble" id="outroBubble">SEE YOU SOON!</div>
+  </section>
+  </div>
+
+  <div id="topMeta">
+    <div class="learn-kicker">
+      <span class="ico" data-icon="sparkles"></span>
+      <span>LEARN</span>
+    </div>
+    <div class="top-language" id="topLang">SPANISH</div>
+    <div class="top-category">
+      <span id="topCatEn">Greetings</span>
+      <span class="top-sep">·</span>
+      <span class="top-vi" id="topCatVi">Saludos</span>
+    </div>
+  </div>
+
+  <footer id="foot">
+    <span id="footBrand">VELOCITY SPANISH</span>
+  </footer>
+
+  <div id="galleryTag"></div>
+  <canvas id="fxTop" width="1080" height="1920"></canvas>
+</div>
+<script src="icons.js"></script>
+<script src="animals.js"></script>
+<script src="worlds.js"></script>
+<script src="scene.js"></script>
+</body>
+</html>

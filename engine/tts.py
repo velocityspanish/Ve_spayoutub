@@ -15,6 +15,212 @@ import config
 
 SR = 48000
 _PUNCT = re.compile(r"[^\w\s]", re.UNICODE)
+_JP_KKS = None
+_JP_JANOME = None
+_JP_PUNCT_POS = "記号"
+_JP_PREFIX_POS = "接頭詞"
+_JP_NOUN_POS = "名詞"
+_JP_VERB_POS = "動詞"
+_JP_ADJ_POS = "形容詞"
+_JP_AUX_POS = "助動詞"
+_JP_PARTICLE_POS = "助詞"
+_JP_DEMONSTRATIVE_POS = "連体詞"
+_JP_SURU = ("し", "する", "され", "さ")
+_JP_ADVERB_MERGE = ("よろしく", "どうぞ")
+_JP_SMALL_KANA = "ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮ"
+_JP_NOUN_NO_MERGE = {
+    "今日", "明日", "昨日", "今年", "来年", "去年", "今週", "来週", "先週",
+    "今月", "来月", "先月", "毎日", "毎週", "毎朝", "毎晩", "今", "私", "僕",
+    "君", "人", "物", "事", "時", "前", "後", "上", "下", "中", "外", "間",
+}
+_JP_PARTICLE_SUFFIXES = (
+    "から", "まで", "より", "だけ", "しか", "でも", "など", "くらい", "ほど",
+    "ばかり", "ながら", "ので", "のに", "けど", "けれど", "し", "て", "は",
+    "が", "を", "に", "で", "と", "も", "の", "へ", "や", "か", "ね", "よ",
+    "な", "さ",
+)
+
+
+def _is_punct(token: str) -> bool:
+    return bool(_PUNCT.fullmatch(token))
+
+
+def _is_kanji_or_katakana(ch: str) -> bool:
+    return (
+        "\u3400" <= ch <= "\u4dbf"
+        or "\u4e00" <= ch <= "\u9fff"
+        or "\u30a0" <= ch <= "\u30ff"
+    )
+
+
+def _ends_with_particle(text: str) -> bool:
+    return text.endswith(_JP_PARTICLE_SUFFIXES)
+
+
+def _jp_tiles_pykakasi(text: str) -> list:
+    """Fallback segmentation when Janome is unavailable."""
+    global _JP_KKS
+    if _JP_KKS is None:
+        try:
+            from pykakasi import kakasi
+        except Exception:
+            return []
+        _JP_KKS = kakasi()
+    tokens = [t["orig"] for t in _JP_KKS.convert(text) if t["orig"].strip()]
+    if not tokens:
+        return [text.strip()] if text.strip() else []
+
+    words = []
+    i = 0
+    while i < len(tokens):
+        tok = tokens[i]
+        if _is_punct(tok):
+            if words:
+                words[-1] += tok
+            else:
+                words.append(tok)
+            i += 1
+            continue
+        if tok in ("お", "ご") and i + 1 < len(tokens) and not _is_punct(tokens[i + 1]):
+            words.append(tok + tokens[i + 1])
+            i += 2
+            continue
+        if words and tok.endswith(("ましょう", "ください", "します", "いたします")):
+            words[-1] += tok
+            i += 1
+            continue
+        words.append(tok)
+        i += 1
+    return words
+
+
+def _jp_tiles(text: str) -> list:
+    """Segment Japanese into readable word/phrase tiles with Janome POS hints.
+
+    Particles and auxiliaries attach to the word they belong to, so a phrase
+    never renders as a row of single-character boxes. If Janome is missing we
+    fall back to pykakasi; if both are missing the scene uses one phrase tile.
+    """
+    global _JP_JANOME
+    if _JP_JANOME is None:
+        try:
+            from janome.tokenizer import Tokenizer
+
+            _JP_JANOME = Tokenizer()
+        except Exception:
+            return _jp_tiles_pykakasi(text)
+
+    try:
+        raw = [
+            (token.surface, token.part_of_speech.split(",")[0])
+            for token in _JP_JANOME.tokenize(text)
+            if token.surface.strip()
+        ]
+    except Exception:
+        return _jp_tiles_pykakasi(text)
+    if not raw:
+        return [text.strip()] if text.strip() else []
+
+    # Pass 1: attach punctuation, and bind prefixes to the following word.
+    chunks = []
+    i = 0
+    while i < len(raw):
+        surface, pos = raw[i]
+        if pos == _JP_PUNCT_POS:
+            if chunks:
+                chunks[-1]["text"] += surface
+            else:
+                chunks.append({"text": surface, "pos": pos})
+            i += 1
+            continue
+        if pos == _JP_PREFIX_POS and i + 1 < len(raw) and raw[i + 1][1] != _JP_PUNCT_POS:
+            chunks.append({"text": surface + raw[i + 1][0], "pos": raw[i + 1][1]})
+            i += 2
+            continue
+        chunks.append({"text": surface, "pos": pos})
+        i += 1
+
+    # Pass 2: particles, auxiliaries, te-form verbs and suru-verbs stay together.
+    merged = []
+    for chunk in chunks:
+        surface, pos = chunk["text"], chunk["pos"]
+        if merged:
+            prev = merged[-1]
+            merge = pos in (_JP_PARTICLE_POS, _JP_AUX_POS)
+            if pos == _JP_VERB_POS and prev["text"].endswith(("て", "で")):
+                merge = True
+            if prev["text"].endswith("っ") and not _is_punct(surface):
+                merge = True
+            if pos == _JP_VERB_POS and surface in _JP_SURU and prev["pos"] == _JP_NOUN_POS:
+                merge = True
+            if pos == _JP_NOUN_POS and prev["pos"] == _JP_DEMONSTRATIVE_POS:
+                merge = True
+            if pos == _JP_NOUN_POS and prev["pos"] == _JP_NOUN_POS:
+                if (
+                    prev["text"]
+                    and surface
+                    and _is_kanji_or_katakana(surface[0])
+                    and prev["text"] not in _JP_NOUN_NO_MERGE
+                    and not _ends_with_particle(prev["text"])
+                ):
+                    merge = True
+            if prev["text"] in _JP_ADVERB_MERGE:
+                merge = True
+            if surface.startswith("ござ") and prev["text"] in ("ありがとう", "おめでとう"):
+                merge = True
+            if prev["text"].endswith("かも") and surface.startswith("しれ"):
+                merge = True
+            if prev["text"].endswith("なければ") and surface.startswith("なり"):
+                merge = True
+            if prev["text"].endswith("お待ち") and surface.startswith("ください"):
+                merge = True
+            if merge and prev["text"] and not _is_punct(prev["text"][-1]):
+                prev["text"] += surface
+                if pos in (_JP_NOUN_POS, _JP_VERB_POS, _JP_ADJ_POS):
+                    prev["pos"] = pos
+                continue
+        merged.append({"text": surface, "pos": pos})
+
+    # Pass 3: a trailing の binds to the noun after it.
+    bound = []
+    i = 0
+    while i < len(merged):
+        chunk = merged[i]
+        if chunk["text"].endswith("の") and i + 1 < len(merged) and merged[i + 1]["pos"] == _JP_NOUN_POS:
+            bound.append({"text": chunk["text"] + merged[i + 1]["text"], "pos": _JP_NOUN_POS})
+            i += 2
+            continue
+        bound.append(chunk)
+        i += 1
+
+    # Pass 4: never leave a one-character tile if it can join a neighbour.
+    out = []
+    i = 0
+    while i < len(bound):
+        surface = bound[i]["text"]
+        if len(surface) == 1 and not _is_punct(surface):
+            if i + 1 < len(bound):
+                out.append(surface + bound[i + 1]["text"])
+                i += 2
+                continue
+            if out and not _is_punct(out[-1][-1]):
+                out[-1] += surface
+                i += 1
+                continue
+        out.append(surface)
+        i += 1
+
+    # Pass 5: repair rare tokenizer splits inside a single word.
+    repaired = []
+    for tile in out:
+        if repaired and tile and (tile[0] in _JP_SMALL_KANA or tile[0] == "ー"):
+            repaired[-1] += tile
+            continue
+        if repaired and repaired[-1].endswith("っ") and not _is_punct(tile[0]):
+            repaired[-1] += tile
+            continue
+        repaired.append(tile)
+    return [tile for tile in repaired if tile.strip()]
 
 
 def _norm(text: str) -> str:
@@ -99,18 +305,21 @@ async def _synth_with_retry(text: str, voices: list[str], out_path: Path, rate: 
     raise RuntimeError(f"All voices failed for text: {text[:60]!r} ({last_error})")
 
 
-def map_word_timings(text: str, boundaries: list, duration: float, split_chars: bool = False) -> list:
-    if split_chars:
-        words = []
-        for ch in text:
-            if ch.isspace():
-                continue
-            if unicodedata.category(ch).startswith(("P", "S")) and words:
-                words[-1] += ch
-            else:
-                words.append(ch)
+def map_word_timings(text: str, boundaries: list, duration: float, split_chars: bool = False, words: list | None = None) -> list:
+    if words is None:
+        if split_chars:
+            words = []
+            for ch in text:
+                if ch.isspace():
+                    continue
+                if unicodedata.category(ch).startswith(("P", "S")) and words:
+                    words[-1] += ch
+                else:
+                    words.append(ch)
+        else:
+            words = text.split()
     else:
-        words = text.split()
+        words = list(words)
     if not words:
         return []
 
@@ -120,8 +329,9 @@ def map_word_timings(text: str, boundaries: list, duration: float, split_chars: 
             {
                 "start": round(max(0.0, b["start"]), 3),
                 "end": round(min(duration, b["start"] + b["duration"]), 3),
+                "text": w,
             }
-            for b in clean
+            for b, w in zip(clean, words)
         ]
 
     speech_start = clean[0]["start"] if clean else 0.06
@@ -132,9 +342,9 @@ def map_word_timings(text: str, boundaries: list, duration: float, split_chars: 
     total = sum(weights)
     out = []
     cursor = speech_start
-    for weight in weights:
+    for w, weight in zip(words, weights):
         share = (weight / total) * span
-        out.append({"start": round(cursor, 3), "end": round(min(speech_end, cursor + share), 3)})
+        out.append({"start": round(cursor, 3), "end": round(min(speech_end, cursor + share), 3), "text": w})
         cursor += share
     return out
 
@@ -203,6 +413,9 @@ async def _synth_phrase(index: int, phrase: dict, audio_dir: Path, semaphore):
     )
 
     vi_bounds, vi_dur = await _synth_native(phrase["native"], vi_path, semaphore)
+    tiles = phrase.get("tiles")
+    if not tiles and lang["code"] == "ja":
+        tiles = _jp_tiles(phrase["native"])
 
     return {
         "index": index,
@@ -215,7 +428,8 @@ async def _synth_phrase(index: int, phrase: dict, audio_dir: Path, semaphore):
         "vi_duration": vi_dur,
         "en_words": map_word_timings(phrase["english"], en_bounds, en_dur),
         "vi_words": map_word_timings(phrase["native"], vi_bounds, vi_dur,
-                                     split_chars=bool(lang.get("char_tiles"))),
+                                     split_chars=bool(lang.get("char_tiles")),
+                                     words=tiles),
     }
 
 
@@ -231,5 +445,5 @@ def synthesize_all(phrases: list, audio_dir: Path) -> list:
 
     results = asyncio.run(run())
     for r in results:
-        print(f"  {r['index'] + 1}. EN {r['en_duration']:.2f}s | VI {r['vi_duration']:.2f}s | {r['english']}")
+        print(f"  {r['index'] + 1}. EN {r['en_duration']:.2f}s | NATIVE {r['vi_duration']:.2f}s | {r['english']}")
     return results

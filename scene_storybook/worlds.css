@@ -1,0 +1,486 @@
+/* ---------------------------------------------------------------- world sets */
+/* The book, lesson UI, Velo and animals are shared. These rules only replace
+   the world behind them. Each set has its own sky, ground, water and props. */
+
+#worldDecor {
+  display: none;
+  position: absolute;
+  inset: 0;
+  z-index: 8;
+  pointer-events: none;
+}
+
+#stage.set-forest #worldDecor,
+#stage.set-beach #worldDecor,
+#stage.set-desert #worldDecor,
+#stage.set-snow #worldDecor,
+#stage.set-jungle #worldDecor,
+#stage.set-savanna #worldDecor,
+#stage.set-autumn #worldDecor,
+#stage.set-cherry #worldDecor,
+#stage.set-lavender #worldDecor,
+#stage.set-bamboo #worldDecor { display: block; }
+
+#stage:not(.set-garden) #hills,
+#stage:not(.set-garden) .grass,
+#stage:not(.set-garden) .flower,
+#stage:not(.set-garden) .butterfly,
+#stage:not(.set-garden) .balloon { display: none; }
+
+#stage:not(.set-garden) #ground { height: 760px; }
+
+.world-art {
+  position: absolute;
+  inset: 0;
+  width: 1080px;
+  height: 1920px;
+}
+
+.world-particles { position: absolute; inset: 0; overflow: hidden; }
+.world-particles i { position: absolute; display: block; }
+.world-particles .fall-particle { top: -44px; will-change: transform; }
+.world-particles .glow-particle { border-radius: 50%; background: #FFF3A0; box-shadow: 0 0 16px #FFD93B; }
+
+.snow-field .snow {
+  border-radius: 50%;
+  background: #FFFDF6;
+  box-shadow: 0 0 10px rgba(255, 255, 255, .85);
+}
+.leaf-field .leaf {
+  border-radius: 62% 0 62% 0;
+  background: var(--leaf-particle);
+  border: 2px solid rgba(58, 42, 26, .45);
+}
+.petal-field .petal {
+  border-radius: 60% 40% 60% 40%;
+  background: #FFC2D1;
+  border: 2px solid rgba(58, 42, 26, .22);
+}
+
+/* ------------------------------------------------------------------- garden */
+/* The default garden gets a softer botanical palette so it sits with the
+   remastered worlds instead of the old neon-green meadow. */
+#stage.set-garden #world {
+  background:
+    radial-gradient(900px 700px at 78% 6%, rgba(255, 250, 225, .50), transparent 62%),
+    linear-gradient(180deg, #DDEFC4 0%, #B9D99A 55%, #A8C88A 100%);
+}
+#stage.set-garden .hill-back { background: #B9D99A; }
+#stage.set-garden .hill-mid { background: #9FC47E; }
+#stage.set-garden .hill-front { background: #7FA860; }
+#stage.set-garden #ground {
+  background: linear-gradient(180deg, #8FB06A 0%, #6F9455 100%);
+}
+#stage.set-garden .balloon { display: none; }
+#stage.set-garden .butterfly { opacity: .55; filter: saturate(.7); }
+#stage.set-garden .flower { filter: saturate(.85); }
+
+/* ------------------------------------------------------------------- forest */
+
+#stage.set-forest {
+  --trunk: #5A3A24;
+  --leaf-a: #3F8A4A;
+  --leaf-b: #58A85A;
+  --leaf-c: #2A6B3A;
+  --fern: #5FB04B;
+  --rock: #6B6B5A;
+  --grass: #6E9E4A;
+  --forest-ground: #5A7E46;
+  --forest-ground-2: #466636;
+  --forest-ground-3: #35502C;
+}
+#stage.set-forest #world {
+  background:
+    radial-gradient(760px 560px at 56% 0%, rgba(220, 255, 180, .38), transparent 65%),
+    linear-gradient(180deg, #1E4436 0%, #3C7054 48%, #8AB86B 100%);
+}
+#stage.set-forest #ground { display: none; }
+#stage.set-forest #pond {
+  border: 9px solid #556B3F;
+  background: radial-gradient(ellipse at 50% 30%, #C8E8D8 0%, #4E8A72 48%, #2E5E4E 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .22), 0 8px 0 rgba(20, 40, 20, .25);
+}
+
+/* -------------------------------------------------------------------- beach */
+
+#stage.set-beach {
+  --trunk: #8A5A3B;
+  --palm-a: #2F9E62;
+  --rock: #D9C7A7;
+  --umbrella-a: var(--accent);
+  --umbrella-b: var(--card);
+  --sea: #2E9EBC;
+  --sea-deep: #156E92;
+  --sea-foam: #CFF7F0;
+}
+#stage.set-beach #world {
+  background:
+    radial-gradient(760px 520px at 76% 4%, rgba(255, 248, 200, .55), transparent 62%),
+    linear-gradient(180deg, #37A7D8 0%, #A6E4E4 55%, #FFE7B8 100%);
+}
+#stage.set-beach #ground {
+  background-color: #E8C98F;
+  background-image:
+    radial-gradient(700px 230px at 50% 0%, rgba(255, 255, 255, .25), transparent 70%),
+    repeating-radial-gradient(ellipse at 50% 0%, rgba(120, 80, 40, .10) 0 3px, transparent 4px 26px),
+    linear-gradient(180deg, #F2D39B 0%, #D9AE6C 100%);
+  background-size: auto, 110px 42px, auto;
+}
+#stage.set-beach #pond {
+  border: 10px solid #C9A46A;
+  background: radial-gradient(ellipse at 50% 30%, #C8F0E8 0%, #5AA8A8 48%, #2E6E72 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .30), 0 9px 0 rgba(0, 0, 0, .18);
+}
+
+/* ------------------------------------------------------------------- desert */
+
+#stage.set-desert {
+  --trunk: #8A5A3B;
+  --cactus: #3F8A4A;
+  --flower: #FF6B9A;
+  --rock: #C47A4A;
+  --dune-a: #F2B56B;
+  --dune-b: #E89A52;
+  --dune-c: #D9853F;
+  --grass: #B08A2E;
+}
+#stage.set-desert #world {
+  background:
+    radial-gradient(760px 560px at 76% 5%, rgba(255, 238, 170, .65), transparent 60%),
+    linear-gradient(180deg, #F7A45B 0%, #FFD59A 56%, #F2A65A 100%);
+}
+#stage.set-desert #ground {
+  background-color: #D98A45;
+  background-image:
+    radial-gradient(700px 230px at 50% 0%, rgba(255, 230, 170, .22), transparent 70%),
+    repeating-linear-gradient(170deg, rgba(255, 255, 255, .08) 0 3px, transparent 3px 38px),
+    linear-gradient(180deg, #E9A65C 0%, #C97A37 100%);
+}
+#stage.set-desert #pond {
+  border: 10px solid #B58A5A;
+  background: radial-gradient(ellipse at 50% 30%, #B8F0FF 0%, #42B8D8 48%, #1F7A8A 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .24), 0 9px 0 rgba(0, 0, 0, .18);
+}
+
+/* --------------------------------------------------------------------- snow */
+
+#stage.set-snow {
+  --trunk: #5A4A3A;
+  --leaf-a: #2F6B5A;
+  --leaf-b: #3F8A70;
+  --leaf-c: #1F4F45;
+  --rock: #9FB8C8;
+  --snow-mountain: #6F96C2;
+  --snow-ground: #C9DEF2;
+}
+#stage.set-snow #world {
+  background:
+    radial-gradient(720px 480px at 70% 0%, rgba(198, 230, 255, .55), transparent 62%),
+    linear-gradient(180deg, #4F7FBF 0%, #A6CFF0 55%, #E8F4FF 100%);
+}
+#stage.set-snow #world::before {
+  content: '';
+  position: absolute;
+  inset: 0 0 48% 0;
+  background:
+    radial-gradient(ellipse 900px 300px at 70% 8%, rgba(120, 255, 210, .28), transparent 65%),
+    linear-gradient(115deg, transparent 15%, rgba(120, 255, 210, .18) 30%, transparent 44%, rgba(180, 140, 255, .16) 58%, transparent 75%);
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+#stage.set-snow #ground {
+  background-color: #C9DEF2;
+  background-image:
+    radial-gradient(700px 240px at 50% 0%, rgba(255, 255, 255, .55), transparent 70%),
+    repeating-linear-gradient(160deg, rgba(120, 160, 210, .12) 0 4px, transparent 4px 34px),
+    linear-gradient(180deg, #E4F1FF 0%, #B4D2EE 100%);
+}
+#stage.set-snow #pond {
+  border: 10px solid #F7FBFF;
+  background: radial-gradient(ellipse at 50% 30%, #E6FAFF 0%, #9BDFFF 48%, #4AA6D8 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .55), 0 9px 0 rgba(70, 110, 150, .20);
+}
+#stage.set-snow #lilyPad {
+  background: #E8F6FF;
+  border-color: #B8D8E8;
+  box-shadow: inset 0 6px 0 rgba(255, 255, 255, .50), 0 6px 0 rgba(70, 110, 150, .12);
+}
+#stage.set-snow #pond::after {
+  content: '';
+  position: absolute;
+  inset: 18% 14%;
+  border-radius: 50%;
+  background:
+    linear-gradient(27deg, transparent 48.5%, rgba(255, 255, 255, .82) 49.2%, transparent 50%),
+    linear-gradient(-39deg, transparent 48.5%, rgba(255, 255, 255, .55) 49.2%, transparent 50%),
+    linear-gradient(78deg, transparent 48.5%, rgba(255, 255, 255, .45) 49.2%, transparent 50%);
+  opacity: .78;
+}
+
+/* ------------------------------------------------------------------- jungle */
+
+#stage.set-jungle {
+  --trunk: #4A3A24;
+  --leaf-a: #1F7A3E;
+  --leaf-b: #2F9E4F;
+  --leaf-c: #0F5A2E;
+  --fern: #3F9A45;
+  --rock: #5A6B4A;
+  --waterfall: #5BC8F0;
+  --waterfall-foam: #BFF4FF;
+  --jungle-bank: #234A2A;
+  --grass: #3F9A45;
+}
+#stage.set-jungle #world {
+  background:
+    radial-gradient(680px 520px at 56% 0%, rgba(180, 255, 190, .22), transparent 64%),
+    linear-gradient(180deg, #0A2A22 0%, #13543E 50%, #2E7A4A 100%);
+}
+#stage.set-jungle #ground {
+  background-color: #234A2A;
+  background-image:
+    radial-gradient(700px 260px at 50% 0%, rgba(90, 190, 120, .22), transparent 70%),
+    repeating-linear-gradient(30deg, rgba(255, 255, 255, .03) 0 3px, transparent 3px 18px),
+    linear-gradient(180deg, #2E6338 0%, #173B22 100%);
+}
+#stage.set-jungle #pond {
+  border: 10px solid #4A6B43;
+  background: radial-gradient(ellipse at 50% 30%, #C8FBFF 0%, #52C8E8 48%, #1F6E8A 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .28), 0 9px 0 rgba(0, 0, 0, .25);
+}
+
+/* ------------------------------------------------------------------ savanna */
+
+#stage.set-savanna {
+  --trunk: #6A4A2C;
+  --leaf-a: #87963E;
+  --leaf-b: #A2AF4E;
+  --leaf-c: #68782E;
+  --grass: #D2A94E;
+  --rock: #9A6A3A;
+  --savanna-ground: #C8954A;
+  --savanna-ground-2: #B47E3A;
+}
+#stage.set-savanna #world {
+  background:
+    radial-gradient(760px 560px at 76% 4%, rgba(255, 240, 170, .60), transparent 62%),
+    linear-gradient(180deg, #F19A44 0%, #FFC96E 52%, #EDB15E 100%);
+}
+#stage.set-savanna #ground { display: none; }
+#stage.set-savanna .cloud,
+#stage.set-savanna .cloud::before,
+#stage.set-savanna .cloud::after { background: #FFEBC4; }
+#stage.set-savanna .cloud { opacity: .5; }
+#stage.set-savanna .cloud-b { display: none; }
+#stage.set-savanna .sky-bird { --bird-body: #5A3A22; --bird-wing: #3B2A1E; opacity: .55; }
+#stage.set-savanna #pond {
+  border: 8px solid #A5773E;
+  background: radial-gradient(ellipse at 50% 30%, #82C3C0 0%, #468F92 52%, #2A626B 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .18), 0 8px 0 rgba(80, 50, 20, .18);
+}
+#stage.set-savanna #lilyPad {
+  background: #5F7A2E;
+  border-color: #3C5222;
+}
+#stage.set-savanna .slot-left { left: 54px; bottom: 150px; }
+#stage.set-savanna .slot-pond { left: 470px; bottom: 96px; }
+#stage.set-savanna .slot-mid { right: 300px; bottom: 158px; }
+#stage.set-savanna .slot-right { right: 34px; bottom: 146px; }
+#stage.set-savanna .slot-left .giraffe-svg { transform: scaleX(-1); }
+#stage.set-savanna .slot-left .zebra-svg { transform: scaleX(-1); }
+
+/* ------------------------------------------------------------------- autumn */
+
+#stage.set-autumn {
+  --trunk: #5A3A24;
+  --leaf-a: #D75A2B;
+  --leaf-b: #F08A24;
+  --leaf-c: #B83A2A;
+  --rock: #8A6B4A;
+  --pumpkin: #F08A24;
+  --leaf-particle: #F08A24;
+  --grass: #C98A3E;
+  --autumn-ground: #C98A4A;
+  --autumn-ground-2: #B0703A;
+}
+#stage.set-autumn #world {
+  background:
+    radial-gradient(760px 560px at 72% 5%, rgba(255, 224, 150, .55), transparent 62%),
+    linear-gradient(180deg, #C25A32 0%, #F0A24E 52%, #F6CE86 100%);
+}
+#stage.set-autumn #ground { display: none; }
+#stage.set-autumn .cloud,
+#stage.set-autumn .cloud::before,
+#stage.set-autumn .cloud::after { background: #FFE9C8; }
+#stage.set-autumn .cloud { opacity: .38; }
+#stage.set-autumn .cloud-b { display: none; }
+#stage.set-autumn .sky-bird { --bird-body: #5A3420; --bird-wing: #3A2216; opacity: .55; }
+#stage.set-autumn #pond {
+  border: 8px solid #8A5A32;
+  background: radial-gradient(ellipse at 50% 30%, #9ACAB6 0%, #4E8A7E 52%, #2A5C54 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 236, 200, .18), 0 8px 0 rgba(70, 42, 22, .18);
+}
+#stage.set-autumn #lilyPad {
+  background: #6E7A2E;
+  border-color: #4A5622;
+}
+#stage.set-autumn .slot-left { left: 54px; bottom: 150px; }
+#stage.set-autumn .slot-pond { left: 470px; bottom: 96px; }
+#stage.set-autumn .slot-mid { right: 300px; bottom: 158px; }
+#stage.set-autumn .slot-right { right: 34px; bottom: 146px; }
+
+/* ------------------------------------------------------------------- cherry */
+
+#stage.set-cherry {
+  --trunk: #6B4A3A;
+  --leaf-a: #FFC9D8;
+  --leaf-b: #F4A6BC;
+  --leaf-c: #E58CA8;
+  --rock: #A89A88;
+  --grass: #6E8A4E;
+  --cherry-ground: #A8C88A;
+  --cherry-ground-2: #8FB074;
+  --cherry-ground-3: #789A5E;
+}
+#stage.set-cherry #world {
+  background:
+    radial-gradient(760px 540px at 74% 5%, rgba(255, 245, 225, .65), transparent 62%),
+    linear-gradient(180deg, #F1A6BE 0%, #FFD7DF 52%, #FFF3EA 100%);
+}
+#stage.set-cherry #ground { display: none; }
+#stage.set-cherry .cloud,
+#stage.set-cherry .cloud::before,
+#stage.set-cherry .cloud::after { background: #FFF1E8; }
+#stage.set-cherry .cloud { opacity: .4; }
+#stage.set-cherry .cloud-b { display: none; }
+#stage.set-cherry .sky-bird { --bird-body: #8A4A5A; --bird-wing: #6A3444; opacity: .5; }
+#stage.set-cherry #pond {
+  border: 8px solid #A89A88;
+  background: radial-gradient(ellipse at 50% 30%, #C8E8D8 0%, #5A9A8A 50%, #2E5E56 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .22), 0 8px 0 rgba(70, 52, 42, .18);
+}
+#stage.set-cherry #lilyPad {
+  background: #6E8A3E;
+  border-color: #4A5E28;
+}
+#stage.set-cherry .slot-left { left: 54px; bottom: 150px; }
+#stage.set-cherry .slot-pond { left: 470px; bottom: 96px; }
+#stage.set-cherry .slot-mid { right: 300px; bottom: 158px; }
+#stage.set-cherry .slot-right { right: 34px; bottom: 146px; }
+
+/* ----------------------------------------------------------------- lavender */
+
+#stage.set-lavender {
+  --trunk: #6B4A3A;
+  --leaf-a: #9A6AC8;
+  --leaf-b: #B58AE0;
+  --leaf-c: #7A4FA8;
+  --lavender: #8A5AC8;
+  --lavender-2: #B58AE0;
+  --lavender-hill: #B99AD8;
+  --lavender-hill-2: #A487C8;
+  --rock: #A89A88;
+  --grass: #7FA85A;
+}
+#stage.set-lavender #world {
+  background:
+    radial-gradient(760px 540px at 74% 5%, rgba(255, 240, 190, .48), transparent 62%),
+    linear-gradient(180deg, #C9A6E8 0%, #E7D4F6 55%, #F7ECFF 100%);
+}
+#stage.set-lavender #ground { display: none; }
+#stage.set-lavender .cloud,
+#stage.set-lavender .cloud::before,
+#stage.set-lavender .cloud::after { background: #F4E8FF; }
+#stage.set-lavender .cloud { opacity: .4; }
+#stage.set-lavender .cloud-b { display: none; }
+#stage.set-lavender .sky-bird { --bird-body: #6A4A8A; --bird-wing: #4A3268; opacity: .5; }
+#stage.set-lavender #pond {
+  border: 8px solid #A89A88;
+  background: radial-gradient(ellipse at 50% 30%, #D8E8F2 0%, #7A9AB8 50%, #3E5A78 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .22), 0 8px 0 rgba(60, 42, 82, .18);
+}
+#stage.set-lavender #lilyPad {
+  background: #6E8A3E;
+  border-color: #4A5E28;
+}
+#stage.set-lavender .slot-left { left: 54px; bottom: 150px; }
+#stage.set-lavender .slot-pond { left: 470px; bottom: 96px; }
+#stage.set-lavender .slot-mid { right: 300px; bottom: 158px; }
+#stage.set-lavender .slot-right { right: 34px; bottom: 146px; }
+
+/* ------------------------------------------------------------------- bamboo */
+
+#stage.set-bamboo {
+  --trunk: #6B8A4A;
+  --leaf-a: #3F8A4A;
+  --leaf-b: #5AA85A;
+  --leaf-c: #2F6B3A;
+  --bamboo: #6FA85A;
+  --rock: #8A8A8A;
+  --grass: #4E8A45;
+  --bamboo-ground: #5A7A4A;
+  --leaf-particle: #5AA85A;
+}
+#stage.set-bamboo #world {
+  background:
+    radial-gradient(760px 540px at 70% 0%, rgba(235, 255, 225, .45), transparent 64%),
+    linear-gradient(180deg, #7AA48A 0%, #CFE2C8 55%, #F3F8EC 100%);
+}
+#stage.set-bamboo #ground { display: none; }
+#stage.set-bamboo .cloud,
+#stage.set-bamboo .cloud::before,
+#stage.set-bamboo .cloud::after { background: #F4F8EC; }
+#stage.set-bamboo .cloud { opacity: .4; }
+#stage.set-bamboo .cloud-b { display: none; }
+#stage.set-bamboo .sky-bird { --bird-body: #3E5A3A; --bird-wing: #2E462A; opacity: .5; }
+#stage.set-bamboo #pond {
+  border: 8px solid #8A8A7A;
+  background: radial-gradient(ellipse at 50% 30%, #C8E8D8 0%, #4E8A72 52%, #2E5E4E 100%);
+  box-shadow: inset 0 9px 0 rgba(255, 255, 255, .22), 0 8px 0 rgba(40, 60, 36, .18);
+}
+#stage.set-bamboo #lilyPad {
+  background: #6E8A3E;
+  border-color: #4A5E28;
+}
+#stage.set-bamboo .slot-left { left: 54px; bottom: 150px; }
+#stage.set-bamboo .slot-pond { left: 470px; bottom: 96px; }
+#stage.set-bamboo .slot-mid { right: 300px; bottom: 158px; }
+#stage.set-bamboo .slot-right { right: 34px; bottom: 146px; }
+
+#stage.set-beach #foot,
+#stage.set-desert #foot,
+#stage.set-snow #foot,
+#stage.set-savanna #foot,
+#stage.set-cherry #foot,
+#stage.set-lavender #foot,
+#stage.set-bamboo #foot {
+  color: var(--ink);
+  text-shadow:
+    -2px -2px 0 var(--card), 2px -2px 0 var(--card),
+    -2px 2px 0 var(--card), 2px 2px 0 var(--card),
+    0 4px 0 rgba(0, 0, 0, .18);
+}
+
+/* Light worlds need the dark top text instead of cream-on-cream. */
+#stage.set-beach .top-language,
+#stage.set-desert .top-language,
+#stage.set-snow .top-language,
+#stage.set-savanna .top-language,
+#stage.set-autumn .top-language,
+#stage.set-cherry .top-language,
+#stage.set-lavender .top-language,
+#stage.set-bamboo .top-language,
+#stage.set-beach .top-category,
+#stage.set-desert .top-category,
+#stage.set-snow .top-category,
+#stage.set-savanna .top-category,
+#stage.set-autumn .top-category,
+#stage.set-cherry .top-category,
+#stage.set-lavender .top-category,
+#stage.set-bamboo .top-category {
+  color: var(--ink);
+  text-shadow:
+    -3px -3px 0 var(--card), 3px -3px 0 var(--card),
+    -3px 3px 0 var(--card), 3px 3px 0 var(--card),
+    0 6px 0 rgba(0, 0, 0, .18);
+}
