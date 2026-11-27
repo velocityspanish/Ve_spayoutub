@@ -241,7 +241,7 @@ def upload_to_all(lesson: dict, dry_run: bool = False) -> dict:
                         lesson["category"], len(lesson["phrases"]), lesson["phrases"]
                     )
                 result = func(video_path=str(lesson["video"]), title=yt_title,
-                              description=yt_description, tags=yt_tags, category_id="22")
+                              description=yt_description, tags=yt_tags, category_id="27")
             elif platform == "vk":
                 result = func(video_path=str(lesson["video"]), description=caption,
                               title=f"{LANG_NAME}: {lesson['category']}")

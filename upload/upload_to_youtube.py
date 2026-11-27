@@ -58,16 +58,24 @@ def generate_video_metadata(category: str, num_phrases: int, phrases: list = Non
     import config
 
     lang = config.LANGUAGE["name"]
+    label = "Mandarin" if lang == "Chinese" else lang
     brand = config.BRAND
-    title = f"{lang} Learning: {num_phrases} Essential {category} Phrases"
+    handle = config.HANDLE
+
+    title_variants = [
+        f"{num_phrases} {label} Phrases for {category} (Sound Natural)",
+        f"Can You Say These {num_phrases} {label} Phrases?",
+        f"{num_phrases} {label} Phrases Locals Actually Use",
+    ]
+    title = title_variants[(len(category) + num_phrases) % len(title_variants)]
 
     description_lines = [
-        f"Learn {lang} with {brand}!",
-        f"",
-        f"Category: {category}",
-        f"",
-        f"Master {lang} one phrase at a time! Today's {category} lesson:",
-        f""
+        f"Can you say these {num_phrases} {label} phrases?",
+        "",
+        f"Today's topic: {category}",
+        "",
+        f"Listen, repeat, and use one today. {brand}",
+        "",
     ]
 
     if phrases:
@@ -80,39 +88,42 @@ def generate_video_metadata(category: str, num_phrases: int, phrases: list = Non
             description_lines.append("")
 
     description_lines.extend([
-        f"Tip: Repeat each phrase out loud 3 times!",
-        f"Like this video if you learned something new!",
-        f"Comment your favorite phrase below!",
-        f"Subscribe for daily {lang} lessons!",
-        f"",
-        f"Pronunciation Guide:",
-        f"   The phonetic spelling in brackets helps you say it correctly!",
-        f"",
-        " ".join(config.HASHTAGS[:6]),
-        f"#Education #Tutorial #{category.replace(' ', '')}",
+        "Which phrase are you trying first? Comment below.",
+        f"Follow {handle} for daily {label} lessons.",
+        "",
+        " ".join(config.HASHTAGS[:8]),
+        f"#Shorts #Learn{label.replace(' ', '')} #{category.replace(' ', '')}",
     ])
-
     description = "\n".join(description_lines)
 
+    extra = {
+        "Chinese": ["mandarin", "hsk", "chinese phrases", "learn mandarin", "mandarin chinese"],
+        "Japanese": ["japanese phrases", "jlpt", "learn japanese", "japanese shorts"],
+        "Korean": ["korean phrases", "topik", "learn korean", "korean shorts"],
+        "German": ["german phrases", "learn german", "german shorts", "deutsch lernen"],
+        "Russian": ["russian phrases", "learn russian", "russian shorts"],
+        "Spanish": ["spanish phrases", "learn spanish", "spanish shorts"],
+    }.get(lang, [])
+
     tags = [
-        f"learn {lang.lower()}",
-        f"{lang.lower()} lessons",
-        f"{lang.lower()} for beginners",
-        f"{lang.lower()} phrases",
+        f"learn {label.lower()}",
+        f"{label.lower()} lessons",
+        f"{label.lower()} for beginners",
+        f"{label.lower()} phrases",
+        f"{label.lower()} shorts",
         "language learning",
-        f"{lang.lower()} tutorial",
-        f"speak {lang.lower()}",
+        "language shorts",
+        f"speak {label.lower()}",
         category.lower(),
         "education",
-        f"daily {lang.lower()}",
+        f"daily {label.lower()}",
         brand.lower(),
-        f"{lang.lower()} learning",
-    ]
-
+    ] + extra
+    tags = list(dict.fromkeys(tags))
     return title, description, tags
 
 
-def upload_to_youtube(video_path, title, description, tags=None, category_id='22'):
+def upload_to_youtube(video_path, title, description, tags=None, category_id='27'):
     if tags is None:
         tags = ['education', 'language learning']
     youtube = get_authenticated_service()
