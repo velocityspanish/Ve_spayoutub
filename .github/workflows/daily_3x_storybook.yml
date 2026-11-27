@@ -2,9 +2,9 @@ name: Velocity Spanish - Storybook Publish
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 3 * * *'
-    - cron: '0 10 * * *'
+    - cron: '23:20 * * *'
+    - cron: '04:25 * * *'
+    - cron: '10:30 * * *'
   workflow_dispatch:
     inputs:
       category:
