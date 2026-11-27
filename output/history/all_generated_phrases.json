@@ -17999,6 +17999,27 @@
       "spanish": "Empieza con un sí, siempre",
       "category": "Growth",
       "generated_at": "2026-11-26T03:22:03.146989"
+    },
+    {
+      "english": "The sky is blue today.",
+      "spanish": "El cielo está azul hoy.",
+      "transliteration": "El CIE-lo es-TÁ a-ZUL hoy",
+      "category": "Colors",
+      "generated_at": "2026-11-27T11:34:24.501020"
+    },
+    {
+      "english": "I love this red jacket.",
+      "spanish": "Me encanta esta chaqueta roja.",
+      "transliteration": "Me en-KAN-ta es-ta cha-KE-ta RO-ha",
+      "category": "Colors",
+      "generated_at": "2026-11-27T11:34:24.501034"
+    },
+    {
+      "english": "Her lipstick is pink, so cute.",
+      "spanish": "Su labial es rosa, qué tierno.",
+      "transliteration": "Su la-BYAL es RO-sa, keh TYEHR-no",
+      "category": "Colors",
+      "generated_at": "2026-11-27T11:34:24.501035"
     }
   ],
   "used_english": [
@@ -21003,5 +21024,5 @@
     "don’t fix it, speak it",
     "start with one yes, always"
   ],
-  "last_updated": "2026-11-26T03:22:03.146991"
+  "last_updated": "2026-11-27T11:34:24.501036"
 }
