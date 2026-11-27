@@ -18020,6 +18020,27 @@
       "transliteration": "Su la-BYAL es RO-sa, keh TYEHR-no",
       "category": "Colors",
       "generated_at": "2026-11-27T11:34:24.501035"
+    },
+    {
+      "english": "Say it, I’m all in.",
+      "spanish": "Dímelo, yo estoy contigo.",
+      "transliteration": "Dime-lo, yo estoy con-ti-go.",
+      "category": "Love",
+      "generated_at": "2026-11-27T19:24:17.456630"
+    },
+    {
+      "english": "Come closer, I miss you.",
+      "spanish": "Ven acá, te extraño.",
+      "transliteration": "Ven acá, te ex-tra-ño.",
+      "category": "Love",
+      "generated_at": "2026-11-27T19:24:17.456645"
+    },
+    {
+      "english": "I choose you, every day.",
+      "spanish": "Te elijo, cada día.",
+      "transliteration": "Te e-lí-jo, ca-da dí-a.",
+      "category": "Love",
+      "generated_at": "2026-11-27T19:24:17.456647"
     }
   ],
   "used_english": [
@@ -21024,5 +21045,5 @@
     "don’t fix it, speak it",
     "start with one yes, always"
   ],
-  "last_updated": "2026-11-27T11:34:24.501036"
+  "last_updated": "2026-11-27T19:24:17.456648"
 }
