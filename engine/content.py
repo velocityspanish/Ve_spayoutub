@@ -19,6 +19,7 @@ RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
 PHRASE_KEY = config.LANGUAGE["history_key"]
 LANGUAGE_NAME = config.LANGUAGE["name"]
 NATIVE_NAME = config.LANGUAGE["native_name"]
+PRIORITY_CATEGORIES = set(CATEGORIES[:30])
 
 _JP_RANGES = (
     ("\u3040", "\u30ff"),  # hiragana + katakana
@@ -151,7 +152,8 @@ def get_available_category():
         recent = recent[-5:]
         available = [c for c in CATEGORIES if c not in recent]
         print("[rotation] Reset recent categories")
-    selected = random.choice(available)
+    priority = [c for c in available if c in PRIORITY_CATEGORIES]
+    selected = random.choice(priority or available)
     recent.append(selected)
     data["recent_categories"] = recent[-MAX_RECENT_CATEGORIES:]
     data["last_updated"] = datetime.now().isoformat()
