@@ -18062,6 +18062,27 @@
       "transliteration": "Re-PÍ-te-lo O-tra ves, sin MIE-do",
       "category": "Success",
       "generated_at": "2026-11-28T04:47:31.596956"
+    },
+    {
+      "english": "Say it slowly, you're doing fine.",
+      "spanish": "Di despacio, vas bien.",
+      "transliteration": "Di despah-sio, vas bien",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:21:09.240473"
+    },
+    {
+      "english": "Breathe, then start again with calm.",
+      "spanish": "Respira y empieza de nuevo, con calma.",
+      "transliteration": "Res-pee-ra e em-pe-sa de nue-bo, con kal-ma",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:21:09.240485"
+    },
+    {
+      "english": "Even mistakes are part of progress.",
+      "spanish": "Los errores también cuentan como progreso.",
+      "transliteration": "Los er-ro-res tam-bién kuen-tan kom pro-gre-so",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T13:21:09.240487"
     }
   ],
   "used_english": [
@@ -21066,5 +21087,5 @@
     "don’t fix it, speak it",
     "start with one yes, always"
   ],
-  "last_updated": "2026-11-28T04:47:31.596958"
+  "last_updated": "2026-11-28T13:21:09.240489"
 }
