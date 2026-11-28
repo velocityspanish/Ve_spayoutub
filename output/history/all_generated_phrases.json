@@ -18083,6 +18083,27 @@
       "transliteration": "Los er-ro-res tam-bién kuen-tan kom pro-gre-so",
       "category": "Confidence",
       "generated_at": "2026-11-28T13:21:09.240487"
+    },
+    {
+      "english": "Say it, and keep going.",
+      "spanish": "Dilo y sigue adelante.",
+      "transliteration": "Di-loi si-gye a-de-lan-te",
+      "category": "Strength",
+      "generated_at": "2026-11-28T18:22:36.124592"
+    },
+    {
+      "english": "Breathe, then choose your next step.",
+      "spanish": "Respira y elige tu siguiente paso.",
+      "transliteration": "Res-pi-rai e-lye-he tu si-gwien-te pa-so",
+      "category": "Strength",
+      "generated_at": "2026-11-28T18:22:36.124605"
+    },
+    {
+      "english": "You’ve got this, no pressure.",
+      "spanish": "Tú puedes, sin presión.",
+      "transliteration": "Tu pue-des, sin pre-sión",
+      "category": "Strength",
+      "generated_at": "2026-11-28T18:22:36.124607"
     }
   ],
   "used_english": [
@@ -21087,5 +21108,5 @@
     "don’t fix it, speak it",
     "start with one yes, always"
   ],
-  "last_updated": "2026-11-28T13:21:09.240489"
+  "last_updated": "2026-11-28T18:22:36.124609"
 }
