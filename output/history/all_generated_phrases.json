@@ -18041,6 +18041,27 @@
       "transliteration": "Te e-lí-jo, ca-da dí-a.",
       "category": "Love",
       "generated_at": "2026-11-27T19:24:17.456647"
+    },
+    {
+      "english": "Start small, and keep going.",
+      "spanish": "Empieza poco a poco, y sigue.",
+      "transliteration": "Em-PYE-sa po-KO a PO-ko, i SI-ge",
+      "category": "Success",
+      "generated_at": "2026-11-28T04:47:31.596942"
+    },
+    {
+      "english": "You’re improving, even if slow.",
+      "spanish": "Estás mejorando, aunque sea despacio.",
+      "transliteration": "Es-TÁ-es me-jo-RAN-do, aun-KE sea des-PASio",
+      "category": "Success",
+      "generated_at": "2026-11-28T04:47:31.596954"
+    },
+    {
+      "english": "Say it again, without fear.",
+      "spanish": "Repítelo otra vez, sin miedo.",
+      "transliteration": "Re-PÍ-te-lo O-tra ves, sin MIE-do",
+      "category": "Success",
+      "generated_at": "2026-11-28T04:47:31.596956"
     }
   ],
   "used_english": [
@@ -21045,5 +21066,5 @@
     "don’t fix it, speak it",
     "start with one yes, always"
   ],
-  "last_updated": "2026-11-27T19:24:17.456648"
+  "last_updated": "2026-11-28T04:47:31.596958"
 }
